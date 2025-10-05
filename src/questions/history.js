@@ -1,0 +1,4853 @@
+export default [
+  {
+    text: "Which European nation was the first to make contact with the Nigerian coast in the 15th century?",
+    options: [
+      "Britain",
+      "Portugal",
+      "France",
+      "Spain"
+    ],
+    answer: "Portugal",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The Portuguese arrived in the Nigerian coast around 1472."
+  },
+  {
+    text: "The Sokoto Caliphate was founded by:",
+    options: [
+      "Usman dan Fodio",
+      "Muhammad Bello",
+      "Ahmadu Bello",
+      "Abdullahi dan Fodio"
+    ],
+    answer: "Usman dan Fodio",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Usman dan Fodio led the 1804 Jihad that established the Sokoto Caliphate."
+  },
+  {
+    text: "Which empire was famous for its bronze artworks?",
+    options: [
+      "Kanem-Borno Empire",
+      "Oyo Empire",
+      "Benin Empire",
+      "Nri Kingdom"
+    ],
+    answer: "Benin Empire",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The Benin Empire is renowned for its sophisticated bronze sculptures."
+  },
+  {
+    text: "The capital of the Kanem-Borno Empire at its height was:",
+    options: [
+      "Kano",
+      "Ngazargamu",
+      "Zaria",
+      "Idah"
+    ],
+    answer: "Ngazargamu",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Ngazargamu was the capital of the Kanem-Borno Empire."
+  },
+  {
+    text: "Which of the following was the primary occupation of the Hausa states before colonial rule?",
+    options: [
+      "Farming and trade",
+      "Fishing",
+      "Blacksmithing",
+      "Pottery"
+    ],
+    answer: "Farming and trade",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The Hausa city-states thrived on agriculture and long-distance trade."
+  },
+  {
+    text: "The trans-Saharan trade mainly linked Nigeria with:",
+    options: [
+      "North Africa",
+      "Europe",
+      "South Africa",
+      "East Africa"
+    ],
+    answer: "North Africa",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The trade connected West Africa with North Africa across the Sahara desert."
+  },
+  {
+    text: "Which kingdom was famous for its military cavalry?",
+    options: [
+      "Nri Kingdom",
+      "Oyo Empire",
+      "Benin Empire",
+      "Kanem-Borno Empire"
+    ],
+    answer: "Oyo Empire",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The Oyo Empire’s strength lay in its organized cavalry force."
+  },
+  {
+    text: "Which Nigerian city was an important center for Islamic learning during the 19th century?",
+    options: [
+      "Ibadan",
+      "Zaria",
+      "Sokoto",
+      "Calabar"
+    ],
+    answer: "Sokoto",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Sokoto became a hub of Islamic scholarship under the Caliphate."
+  },
+  {
+    text: "Who was the founder of the Kanem-Borno dynasty?",
+    options: [
+      "Mai Idris Alooma",
+      "Mai Dunama Dabbalemi",
+      "Sayfawa dynasty",
+      "Usman dan Fodio"
+    ],
+    answer: "Sayfawa dynasty",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The Sayfawa dynasty established the Kanem-Borno Empire."
+  },
+  {
+    text: "Which of the following was NOT a product of trans-Saharan trade?",
+    options: [
+      "Salt",
+      "Gold",
+      "Slaves",
+      "Palm oil"
+    ],
+    answer: "Palm oil",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Palm oil became a major export later during the trans-Atlantic trade."
+  },
+  {
+    text: "The Oyo Empire was weakened in the 19th century mainly due to:",
+    options: [
+      "Internal conflicts and rebellion",
+      "European colonization",
+      "Natural disasters",
+      "Decline in farming"
+    ],
+    answer: "Internal conflicts and rebellion",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Civil wars and rebellions weakened the central authority of Oyo."
+  },
+  {
+    text: "The Igbo-Ukwu culture is best known for:",
+    options: [
+      "Terracotta sculptures",
+      "Bronze artifacts",
+      "Stone tools",
+      "Wood carvings"
+    ],
+    answer: "Bronze artifacts",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Igbo-Ukwu is famous for its intricate bronze works dating to the 9th century."
+  },
+  {
+    text: "Which Nigerian kingdom was described as the 'cradle of Igbo civilization'?",
+    options: [
+      "Arochukwu",
+      "Nri Kingdom",
+      "Nsukka",
+      "Onitsha"
+    ],
+    answer: "Nri Kingdom",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The Nri Kingdom is considered the spiritual and cultural origin of the Igbo."
+  },
+  {
+    text: "Which European power colonized Nigeria?",
+    options: [
+      "France",
+      "Britain",
+      "Germany",
+      "Portugal"
+    ],
+    answer: "Britain",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Nigeria became a British colony after the Berlin Conference decisions."
+  },
+  {
+    text: "The Berlin Conference of 1884–1885 was significant to Nigeria because:",
+    options: [
+      "It created the Nigerian flag",
+      "It divided Africa among European powers",
+      "It ended the slave trade",
+      "It introduced Christianity to Nigeria"
+    ],
+    answer: "It divided Africa among European powers",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The conference formalized European colonization of Africa, including Nigeria."
+  },
+  {
+    text: "The Royal Niger Company played a major role in:",
+    options: [
+      "Expanding Christianity",
+      "Promoting traditional rulers",
+      "Administering trade and territory",
+      "Ending the trans-Atlantic slave trade"
+    ],
+    answer: "Administering trade and territory",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The Royal Niger Company controlled trade and laid foundations for British rule."
+  },
+  {
+    text: "Which Nigerian nationalist is often called the 'Zik of Africa'?",
+    options: [
+      "Obafemi Awolowo",
+      "Nnamdi Azikiwe",
+      "Ahmadu Bello",
+      "Herbert Macaulay"
+    ],
+    answer: "Nnamdi Azikiwe",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Azikiwe was a leading nationalist nicknamed 'Zik of Africa'."
+  },
+  {
+    text: "The Aba Women’s Riot of 1929 was a protest against:",
+    options: [
+      "Forced labor",
+      "Introduction of taxation",
+      "Removal of a traditional ruler",
+      "Lack of education for women"
+    ],
+    answer: "Introduction of taxation",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Women revolted against the colonial plan to tax them."
+  },
+  {
+    text: "The Clifford Constitution of 1922 introduced:",
+    options: [
+      "Regional assemblies",
+      "Indirect rule",
+      "Elective principle",
+      "Self-government"
+    ],
+    answer: "Elective principle",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "It introduced elections into the Legislative Council in Lagos and Calabar."
+  },
+  {
+    text: "The first Governor-General of independent Nigeria was:",
+    options: [
+      "Nnamdi Azikiwe",
+      "Obafemi Awolowo",
+      "Ahmadu Bello",
+      "Tafawa Balewa"
+    ],
+    answer: "Nnamdi Azikiwe",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Azikiwe became Governor-General in 1960 before Nigeria became a Republic."
+  },
+  {
+    text: "Nigeria officially became independent on:",
+    options: [
+      "1st October 1960",
+      "4th July 1960",
+      "15th January 1960",
+      "1st October 1963"
+    ],
+    answer: "1st October 1960",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Nigeria gained independence from Britain on 1st October 1960."
+  },
+  {
+    text: "Which region of Nigeria was the first to introduce free primary education in 1955?",
+    options: [
+      "Eastern Region",
+      "Western Region",
+      "Northern Region",
+      "Mid-Western Region"
+    ],
+    answer: "Western Region",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The Western Region under Awolowo introduced free primary education in 1955."
+  },
+  {
+    text: "The Nigerian Civil War ended in:",
+    options: [
+      "1969",
+      "1970",
+      "1972",
+      "1975"
+    ],
+    answer: "1970",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The civil war ended in January 1970 with Biafra’s surrender."
+  },
+  {
+    text: "Who was the military Head of State when Nigeria adopted the Naira and Kobo in 1973?",
+    options: [
+      "Yakubu Gowon",
+      "Murtala Mohammed",
+      "Olusegun Obasanjo",
+      "Muhammadu Buhari"
+    ],
+    answer: "Yakubu Gowon",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Under Gowon’s rule, Nigeria replaced the pound with the Naira and Kobo in 1973."
+  },
+  {
+    text: "The 1914 amalgamation of Nigeria was carried out under the authority of:",
+    options: [
+      "Lord Lugard",
+      "Sir Hugh Clifford",
+      "Sir Arthur Richards",
+      "Herbert Macaulay"
+    ],
+    answer: "Lord Lugard",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Lord Frederick Lugard merged the Northern and Southern protectorates in 1914."
+  },
+  {
+    text: "The main reason for the amalgamation of Northern and Southern Nigeria in 1914 was:",
+    options: [
+      "Promotion of national unity",
+      "Reduction of administrative costs",
+      "Encouragement of Christianity",
+      "Expansion of railway lines"
+    ],
+    answer: "Reduction of administrative costs",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The British sought to reduce expenses by merging the financially weak North with the South."
+  },
+  {
+    text: "Which Nigerian nationalist is known as the 'Father of Nigerian Nationalism'?",
+    options: [
+      "Nnamdi Azikiwe",
+      "Herbert Macaulay",
+      "Obafemi Awolowo",
+      "Ahmadu Bello"
+    ],
+    answer: "Herbert Macaulay",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Macaulay pioneered early nationalist struggles against colonial policies in Lagos."
+  },
+  {
+    text: "The first political party in Nigeria was:",
+    options: [
+      "Nigerian National Democratic Party (NNDP)",
+      "Action Group (AG)",
+      "National Council of Nigeria and the Cameroons (NCNC)",
+      "Northern People's Congress (NPC)"
+    ],
+    answer: "Nigerian National Democratic Party (NNDP)",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The NNDP was founded in 1923 by Herbert Macaulay to contest elections in Lagos."
+  },
+  {
+    text: "The Richards Constitution of 1946 was criticized mainly because:",
+    options: [
+      "It created regional assemblies",
+      "It was imposed without adequate consultation",
+      "It granted self-government",
+      "It introduced bicameral legislature"
+    ],
+    answer: "It was imposed without adequate consultation",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Nationalists opposed it as undemocratic since Nigerians were not properly consulted."
+  },
+  {
+    text: "The Macpherson Constitution of 1951 was more acceptable than the Richards Constitution because:",
+    options: [
+      "It introduced universal suffrage",
+      "It allowed wider Nigerian participation in its making",
+      "It granted full independence",
+      "It abolished regional governments"
+    ],
+    answer: "It allowed wider Nigerian participation in its making",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Consultations at village, district, and regional levels made Nigerians more involved."
+  },
+  {
+    text: "Who was Nigeria’s first Prime Minister in 1960?",
+    options: [
+      "Dr. Nnamdi Azikiwe",
+      "Sir Abubakar Tafawa Balewa",
+      "Chief Obafemi Awolowo",
+      "Sir Ahmadu Bello"
+    ],
+    answer: "Sir Abubakar Tafawa Balewa",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Tafawa Balewa of NPC became the first Prime Minister, while Azikiwe was Governor-General."
+  },
+  {
+    text: "Which political party dominated the Western Region in the First Republic?",
+    options: [
+      "NCNC",
+      "NPC",
+      "Action Group (AG)",
+      "NNDP"
+    ],
+    answer: "Action Group (AG)",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Led by Obafemi Awolowo, the AG controlled the Western Region."
+  },
+  {
+    text: "Nigeria became a Republic in:",
+    options: [
+      "1954",
+      "1960",
+      "1963",
+      "1966"
+    ],
+    answer: "1963",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Nigeria changed from a constitutional monarchy to a republic in 1963."
+  },
+  {
+    text: "The 1966 military coup in Nigeria was largely caused by:",
+    options: [
+      "Religious intolerance",
+      "Widespread corruption and political instability",
+      "Foreign interference",
+      "Poor agricultural policies"
+    ],
+    answer: "Widespread corruption and political instability",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The coup was staged to address corruption, rigged elections, and unrest."
+  },
+  {
+    text: "The Nigerian Civil War lasted between:",
+    options: [
+      "1960–1963",
+      "1966–1967",
+      "1967–1970",
+      "1970–1975"
+    ],
+    answer: "1967–1970",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The war, also known as the Biafran War, lasted from July 1967 to January 1970."
+  },
+  {
+    text: "The main reason for the outbreak of the Nigerian Civil War was:",
+    options: [
+      "Religious intolerance",
+      "Desire of Eastern Region to secede as Biafra",
+      "Introduction of unitary government",
+      "Military corruption"
+    ],
+    answer: "Desire of Eastern Region to secede as Biafra",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The Eastern Region under Ojukwu declared independence as Biafra, leading to war."
+  },
+  {
+    text: "The policy of 'Africanization' in Nigeria after independence focused on:",
+    options: [
+      "Reducing the role of traditional rulers",
+      "Replacing expatriates with Nigerians in public service",
+      "Promoting African religions",
+      "Reducing imports from Europe"
+    ],
+    answer: "Replacing expatriates with Nigerians in public service",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Africanization aimed to fill civil service positions with qualified Nigerians."
+  },
+  {
+    text: "The second military coup in Nigeria took place in:",
+    options: [
+      "January 1966",
+      "July 1966",
+      "1967",
+      "1975"
+    ],
+    answer: "July 1966",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "It was staged to counter the January coup and brought Yakubu Gowon to power."
+  },
+  {
+    text: "General Murtala Mohammed’s regime (1975–1976) is remembered for:",
+    options: [
+      "Authoritarian rule and press censorship",
+      "Indiscipline and corruption",
+      "Civil service reforms and a dynamic foreign policy",
+      "Prolonging civil war"
+    ],
+    answer: "Civil service reforms and a dynamic foreign policy",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Murtala Mohammed introduced reforms and championed Africa’s liberation causes."
+  },
+  {
+    text: "Nigeria became a member of the United Nations in:",
+    options: [
+      "1954",
+      "1960",
+      "1963",
+      "1975"
+    ],
+    answer: "1960",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Nigeria joined the UN on October 7, 1960, shortly after independence."
+  },
+  {
+    text: "The capital of Nigeria was moved from Lagos to Abuja in:",
+    options: [
+      "1976",
+      "1987",
+      "1991",
+      "1999"
+    ],
+    answer: "1991",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The capital officially moved to Abuja in December 1991 under General Babangida."
+  },
+  {
+    text: "Who was the first Executive President of Nigeria?",
+    options: [
+      "Olusegun Obasanjo",
+      "Shehu Shagari",
+      "Yakubu Gowon",
+      "Nnamdi Azikiwe"
+    ],
+    answer: "Shehu Shagari",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Shehu Shagari became the first Executive President in 1979 under the Second Republic."
+  },
+  {
+    text: "The Nigerian currency, the Naira, was introduced in:",
+    options: [
+      "1960",
+      "1963",
+      "1973",
+      "1980"
+    ],
+    answer: "1973",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The Naira replaced the Nigerian pound in 1973 during General Gowon’s regime."
+  },
+  {
+    text: "Which Nigerian leader introduced the Structural Adjustment Programme (SAP) in 1986?",
+    options: [
+      "Olusegun Obasanjo",
+      "Ibrahim Babangida",
+      "Yakubu Gowon",
+      "Sani Abacha"
+    ],
+    answer: "Ibrahim Babangida",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "General Babangida introduced SAP to reform Nigeria’s economy through IMF/World Bank support."
+  },
+  {
+    text: "The annulled June 12, 1993, presidential election was widely believed to have been won by:",
+    options: [
+      "Olusegun Obasanjo",
+      "MKO Abiola",
+      "Shehu Shagari",
+      "Goodluck Jonathan"
+    ],
+    answer: "MKO Abiola",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "MKO Abiola of SDP was presumed winner before the election was annulled by Babangida."
+  },
+  {
+    text: "Nigeria returned to democratic rule in 1999 under the leadership of:",
+    options: [
+      "Goodluck Jonathan",
+      "MKO Abiola",
+      "Olusegun Obasanjo",
+      "Umaru Musa Yar’Adua"
+    ],
+    answer: "Olusegun Obasanjo",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Obasanjo was sworn in as civilian president on May 29, 1999, after years of military rule."
+  },
+  {
+    text: "Nigeria celebrated her Golden Jubilee (50 years of independence) in:",
+    options: [
+      "2000",
+      "2005",
+      "2010",
+      "2015"
+    ],
+    answer: "2010",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Nigeria celebrated 50 years of independence on October 1, 2010."
+  },
+  {
+    text: "Goodluck Jonathan became President of Nigeria in:",
+    options: [
+      "2007",
+      "2010",
+      "2011",
+      "2015"
+    ],
+    answer: "2010",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Jonathan assumed the presidency in 2010 after the death of President Yar’Adua."
+  },
+  {
+    text: "The amalgamation of Northern and Southern protectorates marked the foundation of modern Nigeria in:",
+    options: [
+      "1900",
+      "1914",
+      "1923",
+      "1960"
+    ],
+    answer: "1914",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The 1914 amalgamation is regarded as the birth of modern Nigeria."
+  },
+  {
+    text: "Which Nigerian Head of State launched the Universal Primary Education (UPE) scheme in 1976?",
+    options: [
+      "Yakubu Gowon",
+      "Olusegun Obasanjo",
+      "Murtala Mohammed",
+      "Shehu Shagari"
+    ],
+    answer: "Olusegun Obasanjo",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "General Olusegun Obasanjo launched the UPE scheme to expand access to education."
+  },
+  {
+    text: "Nigeria adopted the Presidential System of Government in:",
+    options: [
+      "1963",
+      "1979",
+      "1983",
+      "1999"
+    ],
+    answer: "1979",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The 1979 Constitution introduced the U.S.-style presidential system in Nigeria."
+  },
+  {
+    text: "Who was Nigeria’s first executive president?",
+    options: [
+      "Nnamdi Azikiwe",
+      "Olusegun Obasanjo",
+      "Shehu Shagari",
+      "Yakubu Gowon"
+    ],
+    answer: "Shehu Shagari",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Shehu Shagari of the NPN was elected in 1979 as Nigeria’s first executive president."
+  },
+  {
+    text: "The overthrow of Shehu Shagari’s civilian government in 1983 was due mainly to:",
+    options: [
+      "Foreign aggression",
+      "Economic mismanagement and corruption",
+      "Religious conflict",
+      "Civil service reforms"
+    ],
+    answer: "Economic mismanagement and corruption",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The military justified the coup on grounds of corruption and economic collapse."
+  },
+  {
+    text: "Which Nigerian military ruler introduced the Structural Adjustment Programme (SAP) in 1986?",
+    options: [
+      "Muhammadu Buhari",
+      "Ibrahim Babangida",
+      "Sani Abacha",
+      "Abdulsalami Abubakar"
+    ],
+    answer: "Ibrahim Babangida",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "General Ibrahim Babangida introduced SAP to reform Nigeria’s struggling economy."
+  },
+  {
+    text: "The annulment of the June 12, 1993 presidential election was announced by:",
+    options: [
+      "Ibrahim Babangida",
+      "Sani Abacha",
+      "Olusegun Obasanjo",
+      "Abdulsalami Abubakar"
+    ],
+    answer: "Ibrahim Babangida",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "General Babangida annulled the election widely believed to have been won by M.K.O. Abiola."
+  },
+  {
+    text: "The main winner of the June 12, 1993 election was:",
+    options: [
+      "Obafemi Awolowo",
+      "Nnamdi Azikiwe",
+      "Moshood Abiola",
+      "Goodluck Jonathan"
+    ],
+    answer: "Moshood Abiola",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "M.K.O. Abiola of the SDP was declared winner before the annulment."
+  },
+  {
+    text: "Who took over power after the annulment of the June 12 election?",
+    options: [
+      "Sani Abacha",
+      "Ernest Shonekan",
+      "Olusegun Obasanjo",
+      "Yakubu Gowon"
+    ],
+    answer: "Ernest Shonekan",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Ernest Shonekan headed the Interim National Government after IBB stepped aside."
+  },
+  {
+    text: "General Sani Abacha became Head of State in:",
+    options: [
+      "1990",
+      "1991",
+      "1993",
+      "1995"
+    ],
+    answer: "1993",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Abacha seized power in November 1993 after removing Ernest Shonekan."
+  },
+  {
+    text: "Which of the following best describes General Abacha’s regime?",
+    options: [
+      "Democratic and tolerant",
+      "Marked by widespread human rights abuses",
+      "Liberal economic reforms",
+      "Peaceful power transition"
+    ],
+    answer: "Marked by widespread human rights abuses",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Abacha’s rule was authoritarian, with political repression and human rights violations."
+  },
+  {
+    text: "Who succeeded General Abacha as Nigeria’s Head of State in 1998?",
+    options: [
+      "Olusegun Obasanjo",
+      "Abdulsalami Abubakar",
+      "Yakubu Gowon",
+      "Goodluck Jonathan"
+    ],
+    answer: "Abdulsalami Abubakar",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "After Abacha’s sudden death in 1998, General Abdulsalami Abubakar became Head of State."
+  },
+  {
+    text: "Which Nigerian constitution ushered in the Fourth Republic?",
+    options: [
+      "1979 Constitution",
+      "1989 Constitution",
+      "1999 Constitution",
+      "1963 Constitution"
+    ],
+    answer: "1999 Constitution",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The 1999 Constitution marked the beginning of Nigeria’s Fourth Republic."
+  },
+  {
+    text: "Who was elected president at the start of the Fourth Republic in 1999?",
+    options: [
+      "Goodluck Jonathan",
+      "Olusegun Obasanjo",
+      "Umaru Musa Yar’Adua",
+      "Atiku Abubakar"
+    ],
+    answer: "Olusegun Obasanjo",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Olusegun Obasanjo of the PDP won the 1999 election, returning Nigeria to civilian rule."
+  },
+  {
+    text: "The Niger Delta crisis was mainly caused by:",
+    options: [
+      "Ethnic rivalries",
+      "Oil exploitation and environmental degradation",
+      "Military dictatorship",
+      "Population explosion"
+    ],
+    answer: "Oil exploitation and environmental degradation",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Oil exploration without adequate compensation fueled agitation in the Niger Delta."
+  },
+  {
+    text: "Which Nigerian president established the Economic and Financial Crimes Commission (EFCC) in 2003?",
+    options: [
+      "Olusegun Obasanjo",
+      "Goodluck Jonathan",
+      "Umaru Musa Yar’Adua",
+      "Buhari Muhammadu"
+    ],
+    answer: "Olusegun Obasanjo",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Obasanjo created the EFCC to combat corruption and financial crimes."
+  },
+  {
+    text: "The 2007 Nigerian presidential election brought which leader to power?",
+    options: [
+      "Olusegun Obasanjo",
+      "Umaru Musa Yar’Adua",
+      "Goodluck Jonathan",
+      "Buhari Muhammadu"
+    ],
+    answer: "Umaru Musa Yar’Adua",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Yar’Adua of the PDP won the 2007 presidential election."
+  },
+  {
+    text: "Goodluck Jonathan first became president of Nigeria in:",
+    options: [
+      "2007",
+      "2009",
+      "2010",
+      "2011"
+    ],
+    answer: "2010",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Jonathan assumed office in 2010 after the death of President Yar’Adua."
+  },
+  {
+    text: "Which of the following was a major policy of President Goodluck Jonathan?",
+    options: [
+      "Operation Feed the Nation",
+      "Seven-Point Agenda",
+      "Transformation Agenda",
+      "Green Revolution"
+    ],
+    answer: "Transformation Agenda",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Jonathan’s government introduced the Transformation Agenda to drive reforms."
+  },
+  {
+    text: "Muhammadu Buhari returned as Nigeria’s democratically elected president in:",
+    options: [
+      "2007",
+      "2011",
+      "2015",
+      "2019"
+    ],
+    answer: "2015",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Buhari of the APC defeated Jonathan in the 2015 elections."
+  },
+  {
+    text: "The 'Not Too Young To Run' bill signed in 2018 aimed to:",
+    options: [
+      "Lower the minimum age for political office",
+      "Ban youth political participation",
+      "Introduce compulsory youth service",
+      "Establish free education for youths"
+    ],
+    answer: "Lower the minimum age for political office",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The bill reduced age limits for elective offices, encouraging youth participation."
+  },
+  {
+    text: "Which Nigerian city was declared the Federal Capital in 1991?",
+    options: [
+      "Lagos",
+      "Kaduna",
+      "Enugu",
+      "Abuja"
+    ],
+    answer: "Abuja",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Abuja officially became Nigeria’s capital in December 1991."
+  },
+  {
+    text: "The Boko Haram insurgency began in Nigeria in the:",
+    options: [
+      "1990s",
+      "Early 2000s",
+      "Late 2000s",
+      "2015"
+    ],
+    answer: "Early 2000s",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Boko Haram, founded in 2002, escalated into violent insurgency from 2009 onward."
+  },
+  {
+    text: "Which Nigerian president launched the 'War Against Indiscipline' (WAI) in 1984?",
+    options: [
+      "Ibrahim Babangida",
+      "Olusegun Obasanjo",
+      "Muhammadu Buhari",
+      "Goodluck Jonathan"
+    ],
+    answer: "Muhammadu Buhari",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "General Buhari launched WAI to instill discipline and curb corruption."
+  },
+  {
+    text: "The currency 'Naira' was introduced in Nigeria in:",
+    options: [
+      "1963",
+      "1971",
+      "1973",
+      "1979"
+    ],
+    answer: "1973",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The Naira replaced the Nigerian pound in 1973 as the country’s official currency."
+  },
+  {
+    text: "Nigeria joined the Organization of Petroleum Exporting Countries (OPEC) in:",
+    options: [
+      "1960",
+      "1971",
+      "1980",
+      "1990"
+    ],
+    answer: "1971",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Nigeria became a member of OPEC in 1971, strengthening its oil industry influence."
+  },
+  {
+    text: "Which Nigerian Head of State moved the capital from Lagos to Abuja?",
+    options: [
+      "Yakubu Gowon",
+      "Ibrahim Babangida",
+      "Olusegun Obasanjo",
+      "Sani Abacha"
+    ],
+    answer: "Ibrahim Babangida",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Babangida relocated the capital to Abuja in 1991 for centrality and security reasons."
+  },
+  {
+    text: "Nigeria’s return to civilian rule in 1999 is popularly known as:",
+    options: [
+      "Democracy Day",
+      "Unity Day",
+      "Independence Day",
+      "Civil Rule Day"
+    ],
+    answer: "Democracy Day",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "May 29, 1999, is remembered as Democracy Day marking Nigeria’s return to civilian rule."
+  },
+   {
+    text: "Which Nigerian leader launched the Operation Feed the Nation programme in 1976?",
+    options: [
+      "General Olusegun Obasanjo",
+      "General Yakubu Gowon",
+      "General Murtala Mohammed",
+      "Alhaji Shehu Shagari"
+    ],
+    answer: "General Olusegun Obasanjo",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Obasanjo introduced the programme to boost agricultural production."
+  },
+  {
+    text: "The Green Revolution policy was introduced by:",
+    options: [
+      "Ibrahim Babangida",
+      "Shehu Shagari",
+      "Olusegun Obasanjo",
+      "Yakubu Gowon"
+    ],
+    answer: "Shehu Shagari",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "President Shagari introduced the Green Revolution in 1980 to enhance food self-sufficiency."
+  },
+  {
+    text: "The War Against Indiscipline (WAI) was launched in 1984 under:",
+    options: [
+      "General Abdulsalami Abubakar",
+      "General Olusegun Obasanjo",
+      "General Muhammadu Buhari",
+      "General Ibrahim Babangida"
+    ],
+    answer: "General Muhammadu Buhari",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Buhari’s regime launched WAI to instill discipline and fight corruption."
+  },
+  {
+    text: "Which Nigerian military ruler introduced the Structural Adjustment Programme (SAP)?",
+    options: [
+      "Yakubu Gowon",
+      "Sani Abacha",
+      "Ibrahim Babangida",
+      "Murtala Mohammed"
+    ],
+    answer: "Ibrahim Babangida",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "SAP was introduced by Babangida in 1986 to address economic crises."
+  },
+  {
+    text: "The annulment of the June 12, 1993 presidential election was carried out under:",
+    options: [
+      "Sani Abacha",
+      "Ibrahim Babangida",
+      "Olusegun Obasanjo",
+      "Ernest Shonekan"
+    ],
+    answer: "Ibrahim Babangida",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "IBB annulled the June 12 election, widely believed to have been won by MKO Abiola."
+  },
+  {
+    text: "The Interim National Government (ING) was headed by:",
+    options: [
+      "Ernest Shonekan",
+      "Goodluck Jonathan",
+      "Olusegun Obasanjo",
+      "Ken Saro-Wiwa"
+    ],
+    answer: "Ernest Shonekan",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "IBB installed Shonekan as head of the Interim National Government in 1993."
+  },
+  {
+    text: "The execution of Ken Saro-Wiwa and other Ogoni activists occurred under the regime of:",
+    options: [
+      "Ibrahim Babangida",
+      "Sani Abacha",
+      "Olusegun Obasanjo",
+      "Abdulsalami Abubakar"
+    ],
+    answer: "Sani Abacha",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Abacha’s regime executed Saro-Wiwa and others in 1995, sparking international outrage."
+  },
+  {
+    text: "Nigeria returned to civilian rule in 1999 under which leader?",
+    options: [
+      "Olusegun Obasanjo",
+      "Goodluck Jonathan",
+      "Abdulsalami Abubakar",
+      "Umaru Musa Yar’Adua"
+    ],
+    answer: "Olusegun Obasanjo",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Obasanjo was sworn in as civilian president on May 29, 1999."
+  },
+  {
+    text: "The first female Speaker of Nigeria’s House of Representatives was:",
+    options: [
+      "Patricia Etteh",
+      "Ngozi Okonjo-Iweala",
+      "Stella Oduah",
+      "Diezani Alison-Madueke"
+    ],
+    answer: "Patricia Etteh",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Patricia Etteh became Speaker in 2007."
+  },
+  {
+    text: "Nigeria’s capital was officially moved from Lagos to Abuja in:",
+    options: [
+      "1986",
+      "1991",
+      "1999",
+      "2003"
+    ],
+    answer: "1991",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The relocation to Abuja was completed in 1991 under Babangida."
+  },
+  {
+    text: "Which Nigerian leader established the Economic and Financial Crimes Commission (EFCC)?",
+    options: [
+      "Olusegun Obasanjo",
+      "Goodluck Jonathan",
+      "Umaru Musa Yar’Adua",
+      "Muhammadu Buhari"
+    ],
+    answer: "Olusegun Obasanjo",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Obasanjo set up the EFCC in 2003 to fight corruption."
+  },
+  {
+    text: "The Niger Delta Amnesty Programme was introduced by:",
+    options: [
+      "Olusegun Obasanjo",
+      "Goodluck Jonathan",
+      "Umaru Musa Yar’Adua",
+      "Sani Abacha"
+    ],
+    answer: "Umaru Musa Yar’Adua",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Yar’Adua launched the programme in 2009 to address militancy in the Niger Delta."
+  },
+  {
+    text: "Who became Nigeria’s first female Minister of Finance?",
+    options: [
+      "Patricia Etteh",
+      "Ngozi Okonjo-Iweala",
+      "Stella Oduah",
+      "Dora Akunyili"
+    ],
+    answer: "Ngozi Okonjo-Iweala",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Okonjo-Iweala first served as Minister of Finance in 2003 under Obasanjo."
+  },
+  {
+    text: "Goodluck Jonathan assumed the presidency in 2010 after the death of:",
+    options: [
+      "Olusegun Obasanjo",
+      "Musa Yar’Adua",
+      "Sani Abacha",
+      "Abdulsalami Abubakar"
+    ],
+    answer: "Musa Yar’Adua",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Jonathan, then Vice President, became president after Yar’Adua’s death in May 2010."
+  },
+  {
+    text: "Nigeria celebrated her centenary (100 years) of amalgamation in:",
+    options: [
+      "2000",
+      "2010",
+      "2014",
+      "2016"
+    ],
+    answer: "2014",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Nigeria marked 100 years of amalgamation in 2014."
+  },
+  {
+    text: "The 'Bring Back Our Girls' campaign began in 2014 after the abduction of schoolgirls from:",
+    options: [
+      "Enugu",
+      "Chibok",
+      "Kaduna",
+      "Maiduguri"
+    ],
+    answer: "Chibok",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Over 200 schoolgirls were abducted by Boko Haram in Chibok, Borno State."
+  },
+  {
+    text: "Which Nigerian president launched the 'Change Agenda' slogan in 2015?",
+    options: [
+      "Goodluck Jonathan",
+      "Muhammadu Buhari",
+      "Olusegun Obasanjo",
+      "Yar’Adua"
+    ],
+    answer: "Muhammadu Buhari",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Buhari used 'Change' as his campaign theme and governance slogan in 2015."
+  },
+  {
+    text: "The EndSARS protests of 2020 were primarily against:",
+    options: [
+      "High fuel prices",
+      "Police brutality",
+      "Election rigging",
+      "Military rule"
+    ],
+    answer: "Police brutality",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "EndSARS protests demanded the disbandment of the Special Anti-Robbery Squad (SARS)."
+  },
+  {
+    text: "Nigeria’s current national anthem, 'Arise, O Compatriots', was adopted in:",
+    options: [
+      "1960",
+      "1978",
+      "1991",
+      "2000"
+    ],
+    answer: "1978",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "The anthem was adopted in 1978 to replace 'Nigeria We Hail Thee'."
+  },
+  {
+    text: "The official handover of Bakassi Peninsula to Cameroon occurred in:",
+    options: [
+      "1999",
+      "2002",
+      "2006",
+      "2008"
+    ],
+    answer: "2006",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Following the ICJ ruling, Bakassi was formally handed over in 2006."
+  },
+  {
+    text: "Which Nigerian state was created last in 1996?",
+    options: [
+      "Bayelsa",
+      "Ekiti",
+      "Zamfara",
+      "Ebonyi"
+    ],
+    answer: "Bayelsa",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Bayelsa State was created in 1996 during Abacha’s regime."
+  },
+  {
+    text: "Which Nigerian president signed the Not-Too-Young-To-Run Bill into law?",
+    options: [
+      "Olusegun Obasanjo",
+      "Goodluck Jonathan",
+      "Muhammadu Buhari",
+      "Umaru Musa Yar’Adua"
+    ],
+    answer: "Muhammadu Buhari",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Buhari signed the bill in 2018 to reduce the age limit for political offices."
+  },
+  {
+    text: "The first indigenous Governor-General of Nigeria was:",
+    options: [
+      "Ahmadu Bello",
+      "Obafemi Awolowo",
+      "Nnamdi Azikiwe",
+      "Tafawa Balewa"
+    ],
+    answer: "Nnamdi Azikiwe",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Azikiwe became the first Nigerian Governor-General in 1960."
+  },
+  {
+    text: "The first military coup in Nigeria took place in:",
+    options: [
+      "1959",
+      "1963",
+      "1966",
+      "1967"
+    ],
+    answer: "1966",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Nigeria’s first coup occurred in January 1966."
+  },
+  {
+    text: "Nigeria became independent from Britain in:",
+    options: [
+      "1957",
+      "1960",
+      "1963",
+      "1970"
+    ],
+    answer: "1960",
+    image: "",
+    subtopic: "History of Nigeria",
+    explanation: "Nigeria gained independence on October 1, 1960."
+  },
+   {
+    text: "Which event marked the beginning of the Egyptian state?",
+    options: ["Unification of Upper and Lower Egypt", "Invention of papyrus", "Construction of the Sphinx", "Persian conquest"],
+    answer: "Unification of Upper and Lower Egypt",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "King Narmer’s unification of Upper and Lower Egypt around 3100 BCE marks the birth of the state."
+  },
+  {
+    text: "Who is traditionally credited as the first pharaoh of unified Egypt?",
+    options: ["Khufu", "Narmer (Menes)", "Ramses II", "Cleopatra VII"],
+    answer: "Narmer (Menes)",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Narmer (Menes) is shown on the Narmer Palette as the unifier of Egypt."
+  },
+  {
+    text: "What was the capital city of Egypt during the Early Dynastic Period?",
+    options: ["Thebes", "Memphis", "Alexandria", "Amarna"],
+    answer: "Memphis",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Memphis was the capital due to its strategic location between Upper and Lower Egypt."
+  },
+  {
+    text: "Which natural feature was most vital to Egypt’s agriculture?",
+    options: ["The Sahara Desert", "The Nile River", "The Red Sea", "The Mediterranean Sea"],
+    answer: "The Nile River",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The Nile’s annual flooding provided fertile soil, essential for Egyptian farming."
+  },
+  {
+    text: "What writing system emerged in early Egypt?",
+    options: ["Cuneiform", "Hieroglyphics", "Linear B", "Alphabetic script"],
+    answer: "Hieroglyphics",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Hieroglyphics were the complex pictorial writing system of ancient Egypt."
+  },
+  {
+    text: "Which Old Kingdom monument reflects centralized royal power?",
+    options: ["Temple of Karnak", "Pyramids of Giza", "Valley of the Kings", "Rosetta Stone"],
+    answer: "Pyramids of Giza",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The Pyramids required massive resources and centralized control."
+  },
+  {
+    text: "Which pharaoh built the Great Pyramid at Giza?",
+    options: ["Djoser", "Khufu", "Tutankhamun", "Ramses II"],
+    answer: "Khufu",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Khufu (Cheops) constructed the Great Pyramid around 2560 BCE."
+  },
+  {
+    text: "Which title was used for Egyptian rulers?",
+    options: ["Sultan", "Pharaoh", "Caesar", "Shah"],
+    answer: "Pharaoh",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The term 'Pharaoh' became common in the New Kingdom but is applied broadly."
+  },
+  {
+    text: "What was the main function of pyramids?",
+    options: ["Military forts", "Tombs for pharaohs", "Centers of trade", "Administrative offices"],
+    answer: "Tombs for pharaohs",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "They were designed as burial tombs for pharaohs, linked to afterlife beliefs."
+  },
+  {
+    text: "Which god symbolized the afterlife in Egyptian religion?",
+    options: ["Ra", "Osiris", "Horus", "Thoth"],
+    answer: "Osiris",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Osiris, once a mortal king, became the god of the underworld."
+  },
+  {
+    text: "What factor led to the collapse of the Old Kingdom?",
+    options: ["Roman invasion", "Political fragmentation and famine", "Persian rule", "Greek conquest"],
+    answer: "Political fragmentation and famine",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Drought and weak rulers caused instability, ushering in the First Intermediate Period."
+  },
+  {
+    text: "The First Intermediate Period is best described as a time of:",
+    options: ["Centralized stability", "Political instability", "Massive pyramid building", "Foreign conquest"],
+    answer: "Political instability",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "It was marked by weakened central rule and local governors competing for power."
+  },
+  {
+    text: "Which era restored centralized authority after the First Intermediate Period?",
+    options: ["New Kingdom", "Middle Kingdom", "Late Period", "Third Intermediate Period"],
+    answer: "Middle Kingdom",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The Middle Kingdom saw reunification and economic prosperity."
+  },
+  {
+    text: "Who reunited Egypt at the start of the Middle Kingdom?",
+    options: ["Mentuhotep II", "Ahmose I", "Akhenaten", "Cleopatra"],
+    answer: "Mentuhotep II",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Mentuhotep II of Thebes reunified Egypt, ending the First Intermediate Period."
+  },
+  {
+    text: "Which capital was established during the Middle Kingdom?",
+    options: ["Thebes", "Amarna", "Memphis", "Alexandria"],
+    answer: "Thebes",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Thebes became the new capital under Middle Kingdom rulers."
+  },
+  {
+    text: "Which development characterized the Middle Kingdom?",
+    options: ["Imperial expansion into Nubia", "Greek influence", "Rise of Christianity", "Persian control"],
+    answer: "Imperial expansion into Nubia",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Egyptian rulers expanded southward into Nubia during the Middle Kingdom."
+  },
+  {
+    text: "The Second Intermediate Period is associated with which foreign rulers?",
+    options: ["Hittites", "Hyksos", "Persians", "Greeks"],
+    answer: "Hyksos",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The Hyksos, Asiatic rulers, controlled parts of Egypt during this era."
+  },
+  {
+    text: "Which innovation did the Hyksos introduce to Egypt?",
+    options: ["Horse-drawn chariot", "Pyramid construction", "Iron smelting", "Alphabetic writing"],
+    answer: "Horse-drawn chariot",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The Hyksos introduced new military technologies like the horse-drawn chariot."
+  },
+  {
+    text: "Who expelled the Hyksos and founded the New Kingdom?",
+    options: ["Ahmose I", "Tutankhamun", "Ramses III", "Cleopatra VII"],
+    answer: "Ahmose I",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Ahmose I drove out the Hyksos and established the New Kingdom around 1550 BCE."
+  },
+  {
+    text: "Which period is considered Egypt’s imperial age?",
+    options: ["Middle Kingdom", "New Kingdom", "Old Kingdom", "Late Period"],
+    answer: "New Kingdom",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The New Kingdom was Egypt’s most powerful period, marked by territorial expansion."
+  },
+  {
+    text: "Which female pharaoh expanded trade networks and built magnificent temples?",
+    options: ["Hatshepsut", "Cleopatra", "Nefertiti", "Sobekneferu"],
+    answer: "Hatshepsut",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Hatshepsut ruled as pharaoh and promoted trade with Punt."
+  },
+  {
+    text: "Akhenaten is remembered for introducing worship of which god?",
+    options: ["Osiris", "Aten", "Ra", "Anubis"],
+    answer: "Aten",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Akhenaten elevated Aten, the sun disk, above all other deities."
+  },
+  {
+    text: "Which capital city did Akhenaten build for Aten worship?",
+    options: ["Thebes", "Memphis", "Amarna", "Alexandria"],
+    answer: "Amarna",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Akhenaten founded Akhetaten (Amarna) as a new royal and religious center."
+  },
+  {
+    text: "Which pharaoh restored traditional religion after Akhenaten’s reign?",
+    options: ["Akhenaten", "Ramses II", "Ahmose I", "Tutankhamun"],
+    answer: "Tutankhamun",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Tutankhamun reinstated worship of the traditional pantheon."
+  },
+  {
+    text: "The discovery of Tutankhamun’s tomb was significant because:",
+    options: ["It was nearly intact", "It contained no treasures", "It revealed Greek influence", "It was looted in antiquity"],
+    answer: "It was nearly intact",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Howard Carter’s 1922 find preserved a wealth of grave goods."
+  },
+  {
+    text: "Which pharaoh is often called 'the Great' for his military conquests?",
+    options: ["Thutmose III", "Ramses II", "Seti I", "Narmer"],
+    answer: "Ramses II",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Ramses II expanded Egypt’s influence and left extensive monuments."
+  },
+  {
+    text: "Which battle between Egypt and the Hittites ended in a peace treaty?",
+    options: ["Megiddo", "Actium", "Kadesh", "Pelusium"],
+    answer: "Kadesh",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The Battle of Kadesh (1274 BCE) led to the first recorded peace treaty."
+  },
+  {
+    text: "Which temple is closely associated with Ramses II?",
+    options: ["Luxor Temple", "Step Pyramid", "Valley Temple", "Abu Simbel"],
+    answer: "Abu Simbel",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Ramses II carved the monumental rock temples at Abu Simbel."
+  },
+  {
+    text: "Thutmose III is often called:",
+    options: ["Napoleon of Egypt", "Savior of Egypt", "Builder of Pyramids", "Son of Aten"],
+    answer: "Napoleon of Egypt",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "His numerous campaigns earned him this nickname."
+  },
+  {
+    text: "Which Roman leader allied with Cleopatra VII?",
+    options: ["Octavian", "Julius Caesar", "Alexander the Great", "Darius III"],
+    answer: "Julius Caesar",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Cleopatra allied with Caesar and later with Mark Antony."
+  },
+  {
+    text: "Cleopatra and Mark Antony were defeated by Octavian at which battle?",
+    options: ["Kadesh", "Megiddo", "Actium", "Thermopylae"],
+    answer: "Actium",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The 31 BCE naval battle ended Ptolemaic independence."
+  },
+  {
+    text: "Which dynasty ruled Egypt after Alexander the Great’s conquest?",
+    options: ["Persian Dynasty", "Roman Dynasty", "Hyksos Dynasty", "Ptolemaic Dynasty"],
+    answer: "Ptolemaic Dynasty",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The Macedonian Ptolemies ruled from 305–30 BCE."
+  },
+  {
+    text: "Who was the last active ruler of the Ptolemaic Dynasty?",
+    options: ["Cleopatra VII", "Arsinoe II", "Nefertiti", "Hatshepsut"],
+    answer: "Cleopatra VII",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Her defeat led to Egypt’s annexation by Rome."
+  },
+  {
+    text: "What became of Egypt after Cleopatra’s death?",
+    options: ["It became a Roman province", "It regained independence", "It was ruled by Persians", "It split into two kingdoms"],
+    answer: "It became a Roman province",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Octavian (Augustus) annexed Egypt in 30 BCE."
+  },
+  {
+    text: "Which material did Egyptians invent for writing?",
+    options: ["Parchment", "Papyrus", "Clay tablets", "Paper"],
+    answer: "Papyrus",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Made from Nile reeds, it became a standard writing medium."
+  },
+  {
+    text: "What structure served as tombs for New Kingdom pharaohs instead of pyramids?",
+    options: ["Step Pyramid", "Bent Pyramid", "Sphinx Temple", "Valley of the Kings"],
+    answer: "Valley of the Kings",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Rock-cut tombs offered more concealment than pyramids."
+  },
+  {
+    text: "Which language on the Rosetta Stone enabled scholars to decode hieroglyphs?",
+    options: ["Latin", "Greek", "Arabic", "Hebrew"],
+    answer: "Greek",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The Greek inscription provided the key for comparison."
+  },
+  {
+    text: "Which scholar deciphered the Rosetta Stone in 1822?",
+    options: ["Napoleon Bonaparte", "Jean-François Champollion", "Herodotus", "Flinders Petrie"],
+    answer: "Jean-François Champollion",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Champollion cracked the hieroglyphic system."
+  },
+  {
+    text: "Which deity was the principal sun god in Egypt?",
+    options: ["Osiris", "Ptah", "Ra", "Horus"],
+    answer: "Ra",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Ra was central to Egyptian cosmology and kingship."
+  },
+  {
+    text: "What was the primary purpose of mummification?",
+    options: ["Honor the gods", "Prevent disease", "Display in temples", "Preserve the body for the afterlife"],
+    answer: "Preserve the body for the afterlife",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Preservation ensured the ka and ba could recognize the body."
+  },
+  {
+    text: "Which god was depicted with the head of a falcon and symbolized kingship?",
+    options: ["Horus", "Osiris", "Anubis", "Thoth"],
+    answer: "Horus",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Horus represented divine kingship and protection of the ruler."
+  },
+  {
+    text: "Which goddess was considered the protector of motherhood and magic?",
+    options: ["Isis", "Nephthys", "Sekhmet", "Bastet"],
+    answer: "Isis",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Isis was revered as the mother goddess and wife of Osiris."
+  },
+  {
+    text: "Who weighed the hearts of the dead against the feather of Ma’at?",
+    options: ["Horus", "Osiris", "Anubis", "Ra"],
+    answer: "Anubis",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Anubis was the jackal-headed god of embalming and judgment."
+  },
+  {
+    text: "Which goddess symbolized truth, justice, and cosmic order?",
+    options: ["Sekhmet", "Isis", "Hathor", "Ma’at"],
+    answer: "Ma’at",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The concept of Ma’at was central to Egyptian law and religion."
+  },
+  {
+    text: "The Egyptian god of the afterlife and resurrection was:",
+    options: ["Osiris", "Ra", "Sobek", "Ptah"],
+    answer: "Osiris",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Osiris judged the dead and symbolized eternal life."
+  },
+  {
+    text: "Which structure was the main cult center of Amun at Thebes?",
+    options: ["Abu Simbel", "Karnak Temple", "Luxor Temple", "Dendera Temple"],
+    answer: "Karnak Temple",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Karnak was expanded by many pharaohs over centuries."
+  },
+  {
+    text: "Which city became the capital of Egypt under Alexander the Great’s successors?",
+    options: ["Alexandria", "Thebes", "Memphis", "Heliopolis"],
+    answer: "Alexandria",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Founded by Alexander, it became the cultural hub of the Mediterranean."
+  },
+  {
+    text: "Which pharaoh built the Bent Pyramid?",
+    options: ["Djoser", "Snefru", "Khafre", "Pepi II"],
+    answer: "Snefru",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Snefru experimented with pyramid angles, producing the Bent Pyramid."
+  },
+  {
+    text: "Which king is associated with the first pyramid at Saqqara?",
+    options: ["Zoser (Djoser)", "Menkaure", "Thutmose I", "Ramses III"],
+    answer: "Zoser (Djoser)",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Djoser’s Step Pyramid was built by his architect Imhotep."
+  },
+  {
+    text: "What was the main role of viziers in ancient Egypt?",
+    options: ["Military generals", "High priests", "Chief administrators", "Foreign envoys"],
+    answer: "Chief administrators",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Viziers managed government, taxation, and justice under the pharaoh."
+  },
+  {
+    text: "What natural resource was crucial for Egypt’s agriculture?",
+    options: ["Nile River", "Gold mines", "Oases", "Desert winds"],
+    answer: "Nile River",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The Nile’s annual floods fertilized farmlands, sustaining civilization."
+  },
+  {
+    text: "The double crown of Egypt symbolized:",
+    options: ["Life and death", "Heaven and earth", "Upper and Lower Egypt", "Pharaoh and priests"],
+    answer: "Upper and Lower Egypt",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The Pschent combined the Red and White Crowns of Egypt."
+  },
+  {
+    text: "Which animal was sacred to the goddess Bastet?",
+    options: ["Cat", "Falcon", "Crocodile", "Ibis"],
+    answer: "Cat",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Bastet was worshiped as the cat goddess of home and protection."
+  },
+  {
+    text: "Which pharaoh is remembered for defeating the Sea Peoples?",
+    options: ["Ramses III", "Thutmose II", "Akhenaten", "Ahmose I"],
+    answer: "Ramses III",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Ramses III defended Egypt against invasions in the late New Kingdom."
+  },
+  {
+    text: "Which period followed the Old Kingdom in Egypt?",
+    options: ["Middle Kingdom", "New Kingdom", "Late Period", "Predynastic Period"],
+    answer: "Middle Kingdom",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The Middle Kingdom was a time of reunification after instability."
+  },
+  {
+    text: "Which Pharaoh had the longest reign in Egyptian history?",
+    options: ["Tutankhamun", "Pepi II", "Ramses II", "Thutmose III"],
+    answer: "Pepi II",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Pepi II of the Old Kingdom may have ruled over 90 years."
+  },
+  {
+    text: "Which Egyptian monument was saved from flooding by relocating it in the 1960s?",
+    options: ["Luxor Temple", "Abu Simbel", "Karnak Temple", "Medinet Habu"],
+    answer: "Abu Simbel",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "UNESCO moved Abu Simbel during the Aswan High Dam project."
+  },
+  {
+    text: "Who was the architect of the Step Pyramid?",
+    options: ["Imhotep", "Amenhotep III", "Senusret I", "Horemheb"],
+    answer: "Imhotep",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Imhotep designed Djoser’s Step Pyramid at Saqqara."
+  },
+  {
+    text: "What writing tool did ancient Egyptians use on papyrus?",
+    options: ["Ink brush", "Chisel", "Reed pen", "Stylus"],
+    answer: "Reed pen",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Scribes used sharpened reeds dipped in ink for writing."
+  },
+  {
+    text: "Which foreign rulers invaded and introduced the horse-drawn chariot to Egypt?",
+    options: ["Persians", "Hyksos", "Romans", "Nubians"],
+    answer: "Hyksos",
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The Hyksos controlled parts of Egypt during the Second Intermediate Period."
+  },
+   {
+    text: "Which dynasty inaugurated the New Kingdom era in Egypt?",
+    options: ["18th Dynasty", "19th Dynasty", "20th Dynasty", "21st Dynasty"],
+    answer: "18th Dynasty", // A
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The 18th Dynasty began the New Kingdom, starting with Ahmose I."
+  },
+  {
+    text: "Which Pharaoh expanded Egypt’s empire to its greatest extent through military campaigns?",
+    options: ["Akhenaten", "Thutmose III", "Tutankhamun", "Amenhotep III"],
+    answer: "Thutmose III", // B
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Thutmose III, known as the ‘Napoleon of Egypt,’ expanded the empire through conquests."
+  },
+  {
+    text: "Which female Pharaoh is remembered for her peaceful reign and extensive trade expeditions?",
+    options: ["Cleopatra VII", "Hatshepsut", "Nefertiti", "Merneith"],
+    answer: "Hatshepsut", // C
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Hatshepsut promoted trade, notably with Punt, rather than warfare."
+  },
+  {
+    text: "Which foreign power conquered Egypt, establishing the 27th Dynasty?",
+    options: ["Persians", "Greeks", "Romans", "Assyrians"],
+    answer: "Persians", // D
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The Persian invasion in 525 BCE established the 27th Dynasty."
+  },
+  {
+    text: "Which Pharaoh is known for restoring traditional religion after Akhenaten’s reforms?",
+    options: ["Tutankhamun", "Ramses II", "Psamtik I", "Ahmose I"],
+    answer: "Tutankhamun", // A
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Tutankhamun abandoned Aten worship and restored Amun and traditional deities."
+  },
+  {
+    text: "Which Ptolemaic queen allied with Julius Caesar and Mark Antony?",
+    options: ["Arsinoe II", "Cleopatra VII", "Berenice IV", "Cleopatra II"],
+    answer: "Cleopatra VII", // B
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Cleopatra VII sought Roman alliances to preserve Egypt’s independence."
+  },
+  {
+    text: "Which Pharaoh is most associated with the Battle of Kadesh against the Hittites?",
+    options: ["Thutmose I", "Ramses II", "Amenhotep II", "Snefru"],
+    answer: "Ramses II", // C
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Ramses II fought the Hittites at Kadesh, one of the earliest recorded battles."
+  },
+  {
+    text: "The purpose of canopic jars in Egyptian burials was to:",
+    options: [
+      "Store jewelry",
+      "Hold perfumes",
+      "Contain sacred texts",
+      "Preserve internal organs"
+    ],
+    answer: "Preserve internal organs", // D
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Canopic jars stored the liver, stomach, intestines, and lungs for use in the afterlife."
+  },
+  {
+    text: "Which leader’s conquest brought Egypt under Macedonian rule?",
+    options: ["Ahmose I", "Alexander the Great", "Cyrus the Great", "Hammurabi"],
+    answer: "Alexander the Great", // A
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Alexander the Great conquered Egypt in 332 BCE, founding Alexandria."
+  },
+  {
+    text: "Which style of tomb became prominent during the Middle Kingdom?",
+    options: ["Mastabas", "Pyramids", "Rock-cut tombs", "Mud-brick houses"],
+    answer: "Rock-cut tombs", // B
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Rock-cut tombs in cliffs replaced pyramids as the dominant burial type in the Middle Kingdom."
+  },
+  {
+    text: "Which scarab-headed deity represented rebirth and the rising sun?",
+    options: ["Osiris", "Ra", "Khepri", "Ptah"],
+    answer: "Khepri", // C
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Khepri, depicted with a scarab beetle head, symbolized creation and renewal."
+  },
+  {
+    text: "Which ancient Egyptian writing system used pictorial symbols?",
+    options: ["Cuneiform", "Hieroglyphics", "Linear B", "Demotic"],
+    answer: "Hieroglyphics", // D
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Hieroglyphics were the sacred writing system carved on temples and monuments."
+  },
+  {
+    text: "Which artifact, discovered in 1799, allowed scholars to decipher hieroglyphics?",
+    options: ["Narmer Palette", "Rosetta Stone", "Pyramid Texts", "Amarna Letters"],
+    answer: "Rosetta Stone", // A
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The Rosetta Stone contained the same text in Greek, Demotic, and hieroglyphics."
+  },
+  {
+    text: "Which Pharaoh is remembered for attempting a monotheistic religion centered on Aten?",
+    options: ["Ramses II", "Akhenaten", "Snefru", "Pepi II"],
+    answer: "Akhenaten", // B
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Akhenaten promoted Aten worship, suppressing the traditional pantheon."
+  },
+  {
+    text: "Which queen is often depicted alongside Akhenaten during the Amarna Period?",
+    options: ["Cleopatra VII", "Nefertiti", "Hatshepsut", "Meritamun"],
+    answer: "Nefertiti", // C
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Nefertiti shared prominence in Amarna art and was a powerful queen."
+  },
+  {
+    text: "Which Pharaoh signed the first known peace treaty in history?",
+    options: ["Ramses II", "Thutmose III", "Amenemhat I", "Mentuhotep II"],
+    answer: "Ramses II", // D
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Ramses II signed a peace treaty with the Hittites after the Battle of Kadesh."
+  },
+  {
+    text: "Which plant, used for writing material, symbolized Lower Egypt?",
+    options: ["Lotus", "Papyrus", "Acacia", "Olive"],
+    answer: "Papyrus", // A
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Papyrus plants grew in the Nile Delta and symbolized Lower Egypt."
+  },
+  {
+    text: "What natural feature provided Egypt with protection from foreign invasion?",
+    options: ["Nile River", "Mountains", "Deserts", "Mediterranean Sea"],
+    answer: "Deserts", // B
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "The Sahara and Eastern deserts shielded Egypt from most invasions."
+  },
+  {
+    text: "Which Pharaoh founded the 19th Dynasty of Egypt?",
+    options: ["Ahmose I", "Ramses I", "Seti I", "Amenhotep I"],
+    answer: "Ramses I", // C
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Ramses I established the 19th Dynasty, succeeded by Seti I and Ramses II."
+  },
+  {
+    text: "Which lion-headed goddess represented war and healing?",
+    options: ["Isis", "Hathor", "Bastet", "Sekhmet"],
+    answer: "Sekhmet", // D
+    image: "",
+    subtopic: "History of Egypt",
+    explanation: "Sekhmet, depicted with a lion’s head, embodied both destruction and protection."
+  },
+   {
+    text: "Which date traditionally marks the founding of Rome?",
+    options: ["753 BCE", "509 BCE", "31 BCE", "476 CE"],
+    answer: "753 BCE",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Ancient tradition dates Rome’s founding by Romulus to 753 BCE."
+  },
+  // Q2 (B)
+  {
+    text: "Which Roman king is credited with organizing Rome’s priesthoods and religious calendar?",
+    options: ["Romulus", "Numa Pompilius", "Tarquinius Superbus", "Tullus Hostilius"],
+    answer: "Numa Pompilius",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Numa Pompilius, the second king, was associated with religious institutions."
+  },
+  // Q3 (C)
+  {
+    text: "In which year was the Roman Republic traditionally established?",
+    options: ["753 BCE", "31 BCE", "509 BCE", "390 BCE"],
+    answer: "509 BCE",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The Republic followed the expulsion of the last king in 509 BCE."
+  },
+  // Q4 (D)
+  {
+    text: "Which Carthaginian general famously crossed the Alps during the Second Punic War?",
+    options: ["Hamilcar", "Mago", "Hasdrubal", "Hannibal"],
+    answer: "Hannibal",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Hannibal’s Alpine crossing brought the war onto Italian soil."
+  },
+  // Q5 (A)
+  {
+    text: "Which tribune sought land reforms that led to his assassination in 133 BCE?",
+    options: ["Tiberius Gracchus", "Caius Marius", "Lucullus", "Cato the Elder"],
+    answer: "Tiberius Gracchus",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "His agrarian proposals challenged senatorial interests."
+  },
+  // Q6 (B)
+  {
+    text: "Who crushed the slave revolt led by Spartacus in 71 BCE?",
+    options: ["Julius Caesar", "Crassus", "Pompey", "Sulla"],
+    answer: "Crassus",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Crassus defeated Spartacus; Pompey claimed credit for mopping up survivors."
+  },
+  // Q7 (C)
+  {
+    text: "Which Roman crossed the Rubicon in 49 BCE, igniting civil war?",
+    options: ["Pompey", "Sulla", "Julius Caesar", "Brutus"],
+    answer: "Julius Caesar",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "“Alea iacta est” — the die is cast — signaled open defiance of the Senate."
+  },
+  // Q8 (D)
+  {
+    text: "On what date was Julius Caesar assassinated (Ides of March)?",
+    options: ["15 February 44 BCE", "1 March 44 BCE", "31 March 44 BCE", "15 March 44 BCE"],
+    answer: "15 March 44 BCE",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The Ides of March corresponds to 15 March in the Roman calendar."
+  },
+  // Q9 (A)
+  {
+    text: "Which naval battle in 31 BCE gave Octavian supremacy over the Roman world?",
+    options: ["Actium", "Zama", "Naulochus", "Mylae"],
+    answer: "Actium",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Octavian defeated Antony and Cleopatra off the coast of Greece."
+  },
+  // Q10 (B)
+  {
+    text: "Which honorific did the Senate grant Octavian in 27 BCE?",
+    options: ["Princeps", "Augustus", "Imperator", "Pontifex"],
+    answer: "Augustus",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The grant of 'Augustus' symbolizes the start of the Principate."
+  },
+  // Q11 (C)
+  {
+    text: "Which emperor is most associated with the Great Fire of Rome (64 CE)?",
+    options: ["Claudius", "Tiberius", "Nero", "Caligula"],
+    answer: "Nero",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Ancient sources report Nero blamed Christians after the fire."
+  },
+  // Q12 (D)
+  {
+    text: "Which emperor ordered the construction of a defensive wall in northern Britain?",
+    options: ["Trajan", "Antoninus Pius", "Marcus Aurelius", "Hadrian"],
+    answer: "Hadrian",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Hadrian’s Wall marked a northern frontier and control line."
+  },
+  // Q13 (A)
+  {
+    text: "Under which emperor did Rome reach its greatest territorial extent?",
+    options: ["Trajan", "Domitian", "Augustus", "Nerva"],
+    answer: "Trajan",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Trajan’s Dacian and eastern campaigns expanded Rome to its maximum size."
+  },
+  // Q14 (B)
+  {
+    text: "Who restructured imperial administration by creating the Tetrarchy?",
+    options: ["Constantine", "Diocletian", "Valentinian I", "Aurelian"],
+    answer: "Diocletian",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The Tetrarchy split power among two Augusti and two Caesares."
+  },
+  // Q15 (C)
+  {
+    text: "Which decree legalized Christian worship in 313 CE?",
+    options: ["Edict of Thessalonica", "Edict of Caracalla", "Edict of Milan", "Edict of Sardica"],
+    answer: "Edict of Milan",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Issued by Constantine and Licinius, it granted religious toleration."
+  },
+  // Q16 (D)
+  {
+    text: "Which emperor made Nicene Christianity the state religion in 380 CE?",
+    options: ["Constantius II", "Gratian", "Valens", "Theodosius I"],
+    answer: "Theodosius I",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The Edict of Thessalonica established Nicene Christianity as official."
+  },
+  // Q17 (A)
+  {
+    text: "Which city became the capital of the Eastern Roman Empire under Constantine?",
+    options: ["Constantinople", "Antioch", "Alexandria", "Ravenna"],
+    answer: "Constantinople",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Byzantium was refounded as Constantinople and became the eastern capital."
+  },
+  // Q18 (B)
+  {
+    text: "Which Germanic leader deposed Romulus Augustulus in 476 CE?",
+    options: ["Attila", "Odoacer", "Alaric", "Theodoric"],
+    answer: "Odoacer",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Odoacer’s deposition of the last western emperor marks a traditional end date."
+  },
+  // Q19 (C)
+  {
+    text: "Which Roman commander destroyed Carthage in the Third Punic War (146 BCE)?",
+    options: ["Scipio Africanus", "Lucullus", "Scipio Aemilianus", "Marius"],
+    answer: "Scipio Aemilianus",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "He razed Carthage, ending the Punic threat permanently."
+  },
+  // Q20 (D)
+  {
+    text: "Which statesman delivered the Philippics against Mark Antony?",
+    options: ["Seneca", "Pliny the Elder", "Cato the Younger", "Cicero"],
+    answer: "Cicero",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Cicero’s speeches condemned Antony and cost him his life."
+  },
+   {
+    text: "What was Rome’s earliest formal codification of law?",
+    options: ["The Twelve Tables", "Lex Hortensia", "Edict of Milan", "Corpus Juris Civilis"],
+    answer: "The Twelve Tables",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The Twelve Tables (c. 450 BCE) publicly codified early Roman law."
+  },
+  // Q22 (B)
+  {
+    text: "Which law made plebiscites binding on all Roman citizens?",
+    options: ["Lex Canuleia", "Lex Hortensia", "Lex Julia", "Lex Claudia"],
+    answer: "Lex Hortensia",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The Lex Hortensia (287 BCE) ended the Conflict of the Orders by granting plebiscites full legal force."
+  },
+  // Q23 (C)
+  {
+    text: "The Social War (91–88 BCE) was primarily about:",
+    options: ["Grain distributions", "Religious toleration", "Italian allies’ demand for Roman citizenship", "Provincial tax farming"],
+    answer: "Italian allies’ demand for Roman citizenship",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Rome’s Italian allies fought to gain citizenship and political rights."
+  },
+  // Q24 (D)
+  {
+    text: "Whose reforms created a professional army by recruiting landless citizens?",
+    options: ["Sulla", "Pompey", "Cato the Elder", "Gaius Marius"],
+    answer: "Gaius Marius",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Marius opened enlistment to the capite censi, professionalizing the legions."
+  },
+  // Q25 (A)
+  {
+    text: "Who marched on Rome and instituted proscriptions during his dictatorship?",
+    options: ["Lucius Cornelius Sulla", "Gnaeus Pompeius Magnus", "Lucullus", "Catiline"],
+    answer: "Lucius Cornelius Sulla",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Sulla’s proscriptions targeted political enemies after civil war."
+  },
+  // Q26 (B)
+  {
+    text: "The Second Triumvirate (43 BCE) consisted of Octavian, Mark Antony, and:",
+    options: ["Crassus", "Lepidus", "Cicero", "Brutus"],
+    answer: "Lepidus",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Lepidus was the third member alongside Octavian and Antony."
+  },
+  // Q27 (C)
+  {
+    text: "At which battle (42 BCE) were Brutus and Cassius defeated?",
+    options: ["Pharsalus", "Actium", "Philippi", "Mutina"],
+    answer: "Philippi",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Antony and Octavian defeated Caesar’s assassins at Philippi."
+  },
+  // Q28 (D)
+  {
+    text: "The Ara Pacis Augustae was built primarily to commemorate:",
+    options: ["The founding of Rome", "The defeat of Antony and Cleopatra", "The deification of Julius Caesar", "Augustus’s restoration of peace after returning from the provinces"],
+    answer: "Augustus’s restoration of peace after returning from the provinces",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Dedicated in 9 BCE, it celebrated peace following Augustus’s campaigns in Hispania and Gaul."
+  },
+  // Q29 (A)
+  {
+    text: "What name is given to the long period of relative stability beginning with Augustus?",
+    options: ["Pax Romana", "Crisis of the Third Century", "Late Antiquity", "Principate"],
+    answer: "Pax Romana",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The ‘Roman Peace’ spanned roughly two centuries from Augustus onward."
+  },
+  // Q30 (B)
+  {
+    text: "Which emperor opened the Colosseum with inaugural games in 80 CE?",
+    options: ["Vespasian", "Titus", "Domitian", "Nero"],
+    answer: "Titus",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Vespasian began it, but Titus dedicated the Flavian Amphitheatre."
+  },
+  // Q31 (C)
+  {
+    text: "What disaster buried Pompeii and Herculaneum in 79 CE?",
+    options: ["A major earthquake", "A tsunami", "The eruption of Mount Vesuvius", "Flooding of the Tiber"],
+    answer: "The eruption of Mount Vesuvius",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Vesuvius’s eruption preserved the towns under volcanic ash."
+  },
+  // Q32 (D)
+  {
+    text: "Which dynasty followed the Year of the Four Emperors (69 CE)?",
+    options: ["Julio-Claudian", "Severan", "Antonine", "Flavian"],
+    answer: "Flavian",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Vespasian founded the Flavian dynasty after 69 CE."
+  },
+  // Q33 (A)
+  {
+    text: "Trajan’s Column commemorates victories in the:",
+    options: ["Dacian Wars", "Punic Wars", "Macedonian Wars", "Samnite Wars"],
+    answer: "Dacian Wars",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The spiral reliefs depict Trajan’s campaigns in Dacia."
+  },
+  // Q34 (B)
+  {
+    text: "Which emperor ordered the construction of the Antonine Wall in Britain?",
+    options: ["Hadrian", "Antoninus Pius", "Trajan", "Claudius"],
+    answer: "Antoninus Pius",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "It ran north of Hadrian’s Wall as a more advanced frontier."
+  },
+  // Q35 (C)
+  {
+    text: "Which philosopher-emperor authored the work known as “Meditations”?",
+    options: ["Hadrian", "Nero", "Marcus Aurelius", "Commodus"],
+    answer: "Marcus Aurelius",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Written in Greek, it reflects Stoic philosophy."
+  },
+  // Q36 (D)
+  {
+    text: "Which emperor led Rome during the Marcomannic Wars?",
+    options: ["Trajan", "Hadrian", "Antoninus Pius", "Marcus Aurelius"],
+    answer: "Marcus Aurelius",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "He spent much of his reign on the Danubian frontier."
+  },
+  // Q37 (A)
+  {
+    text: "Who founded the Severan dynasty after the civil wars of 193 CE?",
+    options: ["Septimius Severus", "Caracalla", "Elagabalus", "Severus Alexander"],
+    answer: "Septimius Severus",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "He emerged victorious in the Year of the Five Emperors (193 CE)."
+  },
+  // Q38 (B)
+  {
+    text: "What 212 CE decree granted citizenship to most free inhabitants of the empire?",
+    options: ["Edict of Milan", "Constitutio Antoniniana", "Lex Hortensia", "Rescript of Caracalla"],
+    answer: "Constitutio Antoniniana",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Caracalla’s edict expanded citizenship across the empire."
+  },
+  // Q39 (C)
+  {
+    text: "Which emperor built the Aurelian Walls and briefly re-unified the empire (270–275 CE)?",
+    options: ["Gallienus", "Claudius II Gothicus", "Aurelian", "Probus"],
+    answer: "Aurelian",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Aurelian fortified Rome and defeated breakaway regimes."
+  },
+  // Q40 (D)
+  {
+    text: "Which 301 CE decree attempted to curb inflation by fixing prices?",
+    options: ["Lex Frumentaria", "Edict of Milan", "Res Gestae", "Edict on Maximum Prices"],
+    answer: "Edict on Maximum Prices",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Diocletian’s Edictum de Pretiis set maximum prices for goods and services."
+  },
+  {
+    text: "Which institution was the principal deliberative body of the Roman Republic?",
+    options: ["Senate", "Centuriate Assembly", "Tribal Assembly", "Comitia Curiata"],
+    answer: "Senate",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The Senate—composed of Rome’s elder statesmen—guided policy, foreign affairs, and finances during the Republic."
+  },
+  // Q42 (B)
+  {
+    text: "In Roman usage, what did the title 'Imperator' originally indicate?",
+    options: ["A civic magistrate", "A commander acclaimed by his troops", "A religious high priest", "A provincial governor"],
+    answer: "A commander acclaimed by his troops",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "'Imperator' was an honorific shouted by troops to acclaim a successful general; it later became an imperial title."
+  },
+  // Q43 (C)
+  {
+    text: "Which social class in early Rome was the hereditary aristocracy?",
+    options: ["Plebeians", "Equites", "Patricians", "Freedmen"],
+    answer: "Patricians",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Patricians were the elite, landowning families who dominated early Roman political life."
+  },
+  // Q44 (D)
+  {
+    text: "What was the principal duty of a Roman praetor?",
+    options: ["Collect taxes", "Command the navy", "Oversee public games", "Administer justice and law courts"],
+    answer: "Administer justice and law courts",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Praetors were magistrates primarily responsible for the administration of civil and criminal justice."
+  },
+  // Q45 (A)
+  {
+    text: "Which commission was empowered to draft Rome’s first written laws, the Twelve Tables?",
+    options: ["Decemviri", "Consuls", "Tribunes", "Censors"],
+    answer: "Decemviri",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The decemviri (ten-man commission) produced the Twelve Tables around 450 BCE as Rome’s first legal code."
+  },
+  // Q46 (B)
+  {
+    text: "What did Augustus mean by calling his regime a 'principate' (princeps)?",
+    options: ["A divine kingship", "Rule by the 'first citizen' as leader of the state", "A military dictatorship under a general", "A senatorial oligarchy without a monarch"],
+    answer: "Rule by the 'first citizen' as leader of the state",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Augustus styled himself 'princeps'—first among equals—maintaining republican forms while holding ultimate power."
+  },
+  // Q47 (C)
+  {
+    text: "The term 'Pyrrhic victory' refers to costly success by which Hellenistic king who fought Rome?",
+    options: ["Hannibal", "Mithridates", "Pyrrhus of Epirus", "Perseus"],
+    answer: "Pyrrhus of Epirus",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Pyrrhus defeated Romans in battles that inflicted such heavy losses that victory was nearly meaningless."
+  },
+  // Q48 (D)
+  {
+    text: "Which Roman general defeated Hannibal at the Battle of Zama in 202 BCE?",
+    options: ["Scipio Aemilianus", "Marius", "Fabius Maximus", "Scipio Africanus"],
+    answer: "Scipio Africanus",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Scipio Africanus outmaneuvered Hannibal in North Africa, securing Roman victory in the Second Punic War."
+  },
+  // Q49 (A)
+  {
+    text: "Large agricultural estates that expanded in the late Republic and relied heavily on slave labor were called:",
+    options: ["Latifundia", "Villae", "Domus", "Pagus"],
+    answer: "Latifundia",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Latifundia concentrated land and used slave labor, undermining smallholder farmers."
+  },
+  // Q50 (B)
+  {
+    text: "What was the main tactical and organizational unit of the Roman army in the Imperial period?",
+    options: ["Cohort", "Legion", "Century", "Maniple"],
+    answer: "Legion",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The legion (roughly 4,000–6,000 men in the early Empire) was Rome’s principal heavy infantry unit."
+  },
+  {
+    text: "What was the Roman practice of interpreting the will of the gods by observing the flight of birds called?",
+    options: [
+      "Augury",
+      "Haruspicy",
+      "Divination",
+      "Vaticination"
+    ],
+    answer: "Augury",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Augurs read bird behavior to determine divine approval for public decisions and ceremonies."
+  },
+  {
+    text: "Which Roman practice examined the entrails of sacrificed animals to divine the gods’ intentions?",
+    options: [
+      "Augury",
+      "Haruspicy",
+      "Oracular consultation",
+      "Sibylline reading"
+    ],
+    answer: "Haruspicy",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Haruspices inspected livers and other organs to interpret omens before important actions."
+  },
+  {
+    text: "Which official held the title and ultimate religious authority of the Roman state religion?",
+    options: [
+      "Pontifex Minor",
+      "Auspice Maximus",
+      "Pontifex Maximus",
+      "Flamen Dialis"
+    ],
+    answer: "Pontifex Maximus",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The Pontifex Maximus was chief priest overseeing state rituals, calendars, and religious law."
+  },
+  {
+    text: "Which February festival included the Luperci running naked (or lightly clothed) around Rome to promote fertility?",
+    options: [
+      "Saturnalia",
+      "Parentalia",
+      "Lemuria",
+      "Lupercalia"
+    ],
+    answer: "Lupercalia",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Lupercalia (mid-February) was an ancient Roman fertility rite conducted by the Luperci."
+  },
+  {
+    text: "What was the primary duty of the Vestal Virgins in Rome?",
+    options: [
+      "Keep the sacred hearth fire of Vesta burning",
+      "Lead the Roman armies into battle",
+      "Collect taxes for the emperor",
+      "Administer public games"
+    ],
+    answer: "Keep the sacred hearth fire of Vesta burning",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Vestal Virgins maintained Vesta’s sacred flame—its extinction was considered a grave omen."
+  },
+  {
+    text: "What name describes the official practice of worshiping emperors as divine in towns and provinces?",
+    options: [
+      "Imperial Mysteries",
+      "Imperial cult",
+      "Mystery cults",
+      "Lares worship"
+    ],
+    answer: "Imperial cult",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The imperial cult honored the emperor’s genius or divinity, especially in the provinces as a unifying ritual."
+  },
+  {
+    text: "Which mystery religion, popular among Roman soldiers, involved rites of initiation and celebrated a deity associated with light and bull-slaying?",
+    options: [
+      "Isis cult",
+      "Mithraic Mysteries",
+      "Dionysian rites",
+      "Cult of Cybele"
+    ],
+    answer: "Mithraic Mysteries",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Mithraism (Mithraic Mysteries) was a male, soldier-popular cult centered on Mithras and secret initiations."
+  },
+  {
+    text: "Which Egyptian goddess’s cult became widespread in Roman cities, associated with motherhood, healing, and personal salvation?",
+    options: [
+      "Ishtar",
+      "Ceres",
+      "Vesta",
+      "Isis"
+    ],
+    answer: "Isis",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The cult of Isis spread through the Mediterranean, offering rituals promising personal devotion and rebirth."
+  },
+  {
+    text: "What were the Lares and Penates in Roman religion?",
+    options: [
+      "Household gods protecting the family and pantry",
+      "Public priests of Jupiter",
+      "State-run oracles",
+      "Military standards"
+    ],
+    answer: "Household gods protecting the family and pantry",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Lares and Penates were domestic deities honored in household shrines for family prosperity and safety."
+  },
+  {
+    text: "What was the process called by which a slave was formally freed in ancient Rome?",
+    options: [
+      "Emancipatio",
+      "Manumission",
+      "Patentia",
+      "Libertas grant"
+    ],
+    answer: "Manumission",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Manumission was the legal act (often ritualized) by which a slave gained freedom and sometimes citizenship."
+  },
+  {
+    text: "What public spectacles and religiously sanctioned entertainments were collectively known as 'ludi'?",
+    options: [
+      "Private banquets only", 
+      "Religious sacrifices only",
+      "Public games and festivals honoring gods",
+      "Military parades exclusively"
+    ],
+    answer: "Public games and festivals honoring gods",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Ludi (games) combined entertainment—chariot races, theatrical performances, gladiatorial contests—with religious observance."
+  },
+  {
+    text: "What social and economic organizations in Roman cities, sometimes religiously affiliated, acted as guilds for tradespeople and funeral collegia?",
+    options: [
+      "Senatorial houses",
+      "Patrician clans",
+      "Collegia (guilds or associations)",
+      "Legions"
+    ],
+    answer: "Collegia (guilds or associations)",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Collegia were voluntary associations—trade guilds, burial societies, or religious fraternities—important in urban life."
+  },
+  {
+    text: "What reclining posture at dinner (triclinium) symbolized among elite Romans?",
+    options: [
+      "Subservience to the host",
+      "Religious penance",
+      "Leisure, status, and social interaction at banquets",
+      "Military readiness"
+    ],
+    answer: "Leisure, status, and social interaction at banquets",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Reclining at table signified elite status and encouraged easeful conversation during the convivium."
+  },
+  {
+    text: "Which famous Roman condiment—made from fermented fish—was a ubiquitous seasoning in Roman cooking?",
+    options: [
+      "Garum",
+      "Olea",
+      "Pistacia sauce",
+      "Moretum"
+    ],
+    answer: "Garum",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Garum, a fermented fish sauce, flavored many Roman dishes across social classes."
+  },
+  {
+    text: "Which engineering feature heated rooms and baths by circulating hot air beneath floors and through hollow walls?",
+    options: [
+      "Hypocaust",
+      "Aqueduct",
+      "Cistern",
+      "Thermae"
+    ],
+    answer: "Hypocaust",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The hypocaust under-floor heating system warmed baths and affluent homes using a furnace and flues."
+  },
+  {
+    text: "Which public college or board was charged with guarding the Sibylline Books and advising on religious rites during crises?",
+    options: [
+      "Pontifices", 
+      "Augurs", 
+      "Vestal college", 
+      "Quindecimviri (or decemviri sacris faciundis)"
+    ],
+    answer: "Quindecimviri (or decemviri sacris faciundis)",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The quindecimviri sacris faciundis (originally decemviri) safeguarded the Sibylline books and recommended ritual remedies in emergencies."
+  },
+  {
+    text: "Which winter festival, characterized by gift-giving and role reversal, was widely celebrated across Roman society?",
+    options: [
+      "Lupercalia",
+      "Floralia",
+      "Lemuria",
+      "Saturnalia"
+    ],
+    answer: "Saturnalia",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Saturnalia (December) featured feasting, gifts, temporary social relaxation, and symbolic role reversals."
+  },
+  {
+    text: "Which municipal priestly college (often linked to freedmen) commonly administered the imperial cult in Italian towns?",
+    options: [
+      "Flamines", 
+      "Augures", 
+      "Pontifices", 
+      "Augustales"
+    ],
+    answer: "Augustales",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Augustales were local devotionary associations that promoted and maintained the imperial cult in cities."
+  },
+  {
+    text: "What was the ritual procession and public display of the corpse, masks, and honors called that accompanied elite Roman funerals?",
+    options: [
+      "Ludi",
+      "Triumphus",
+      "Munus",
+      "Pompa (pompa funebris)"
+    ],
+    answer: "Pompa (pompa funebris)",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The pompa funebris was the formal funeral procession showcasing the deceased’s masks, ancestry, and honors."
+  },
+  {
+    text: "Which public amenity—an essential social center—offered bathing, exercise, libraries, and socializing in Roman towns?",
+    options: [
+      "Forum",
+      "Amphitheater",
+      "Thermae (public baths)",
+      "Temple precinct"
+    ],
+    answer: "Thermae (public baths)",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Thermae combined hygiene, leisure, and civic life; they were hubs for conversation, business, and relaxation."
+  },
+  {
+    text: "Which February rite, part of ancestor commemoration, concluded the Parentalia and involved public offerings to the dead?",
+    options: [
+      "Saturnalia",
+      "Lupercalia",
+      "Floralia",
+      "Feralia"
+    ],
+    answer: "Feralia",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Feralia (Feb. 21) was the day of solemn offerings and rites to honor the dead, closing the Parentalia period."
+  },
+  // Q51 (C)
+  {
+    text: "Roman aqueducts were primarily constructed to:",
+    options: ["Mark territorial boundaries", "Provide defensive ramparts", "Bring fresh water into cities", "Serve as ceremonial processional ways"],
+    answer: "Bring fresh water into cities",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Aqueducts supplied public baths, fountains, and private houses with a steady flow of water."
+  },
+  // Q52 (D)
+  {
+    text: "Which assembly of Roman citizens elected the consuls during the Republic?",
+    options: ["Senate", "Tribal Assembly", "Plebeian Council", "Centuriate Assembly"],
+    answer: "Centuriate Assembly",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The Centuriate Assembly (comitia centuriata) elected senior magistrates, including consuls."
+  },
+  // Q53 (A)
+  {
+    text: "Which magistrate normally possessed imperium and led Roman armies in the field?",
+    options: ["Consul", "Tribune of the Plebs", "Quaestor", "Aedile"],
+    answer: "Consul",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Consuls were the chief magistrates with imperium—the legal authority to command armies."
+  },
+  // Q54 (B)
+  {
+    text: "What was the primary responsibility of the Roman censor?",
+    options: ["Command legions", "Maintain the census and public morality", "Preside over criminal trials", "Conduct state religious rites"],
+    answer: "Maintain the census and public morality",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Censors registered citizens, assessed property, and supervised moral conduct and public contracts."
+  },
+  // Q55 (C)
+  {
+    text: "Which Roman historian is the author of the 'Annals' and 'Histories' and a major source for early Imperial Rome?",
+    options: ["Livy", "Suetonius", "Tacitus", "Pliny the Elder"],
+    answer: "Tacitus",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Tacitus’ works are key sources for the Principate and the early emperors."
+  },
+  // Q56 (D)
+  {
+    text: "In the Roman frontier system, what did the term 'limes' refer to?",
+    options: ["A legal code", "A tax district", "A military rank", "A fortified boundary and its roads"],
+    answer: "A fortified boundary and its roads",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "'Limes' designated frontier zones made up of forts, watchtowers, roads, and defensive works."
+  },
+  // Q57 (A)
+  {
+    text: "Which famous Roman road, called the 'Queen of Roads', linked Rome to southeastern Italy (Brindisi)?",
+    options: ["Via Appia (Appian Way)", "Via Sacra", "Via Flaminia", "Via Aurelia"],
+    answer: "Via Appia (Appian Way)",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The Via Appia connected Rome with southern Italy and was vital for military and commercial traffic."
+  },
+  // Q58 (B)
+  {
+    text: "What was the primary role of the Praetorian Prefect in the Imperial period?",
+    options: ["Provincial tax collector", "Commander of the emperor’s guard and influential adviser", "Chief of municipal grain distribution", "Head of the Senate"],
+    answer: "Commander of the emperor’s guard and influential adviser",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The Praetorian Prefect commanded the Praetorian Guard and often wielded major political influence."
+  },
+  // Q59 (C)
+  {
+    text: "Which Latin poet composed the epic 'Aeneid', linking Rome’s origins to Troy?",
+    options: ["Ovid", "Horace", "Virgil", "Catullus"],
+    answer: "Virgil",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Virgil’s 'Aeneid' became Rome’s national epic under Augustus."
+  },
+  // Q60 (D)
+  {
+    text: "Which general led the Roman invasion of Britain in 43 CE under Emperor Claudius?",
+    options: ["Gnaeus Julius Agricola", "Publius Cornelius Scipio", "Vespasian", "Aulus Plautius"],
+    answer: "Aulus Plautius",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Aulus Plautius commanded the initial successful Roman expedition into Britain in 43 CE."
+  },
+  {
+    text: "Which general emerged as emperor after the Year of the Four Emperors in 69 CE?",
+    options: ["Vespasian", "Galba", "Otho", "Vitellius"],
+    answer: "Vespasian",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Vespasian consolidated power after the chaos of 69 CE and founded the Flavian dynasty."
+  },
+  {
+    text: "Which emperor succeeded Caligula and completed the official Roman conquest of Britain in 43 CE?",
+    options: ["Nero", "Claudius", "Tiberius", "Caligula"],
+    answer: "Claudius",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Claudius was declared emperor in 41 CE and launched the successful invasion of Britain in 43 CE."
+  },
+  {
+    text: "Which Byzantine emperor compiled the Corpus Juris Civilis, the great codification of Roman law?",
+    options: ["Heraclius", "Leo III", "Justinian I", "Maurice"],
+    answer: "Justinian I",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Justinian I (6th century) ordered the Digest, Institutes, and Codex that formed the Corpus Juris Civilis."
+  },
+  {
+    text: "Which city became the administrative capital of the Western Roman Empire in the early 5th century?",
+    options: ["Rome", "Milan", "Naples", "Ravenna"],
+    answer: "Ravenna",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Ravenna served as the Western imperial capital from the early 400s because of its defensible position and waterways."
+  },
+  {
+    text: "Who is considered Rome’s first emperor and the founder of the principate?",
+    options: ["Augustus", "Julius Caesar", "Nero", "Tiberius"],
+    answer: "Augustus",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Octavian took the title Augustus in 27 BCE and established the institutions of the principate."
+  },
+  {
+    text: "The suicide of which emperor in 68 CE precipitated the Year of the Four Emperors?",
+    options: ["Galba", "Nero", "Otho", "Vitellius"],
+    answer: "Nero",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Nero’s suicide in 68 CE left a power vacuum that led to rapid imperial succession and civil war."
+  },
+  {
+    text: "Which emperor defeated the Dacians and commemorated those victories with a monumental column in Rome?",
+    options: ["Hadrian", "Domitian", "Trajan", "Nerva"],
+    answer: "Trajan",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Trajan’s Column celebrates his Dacian campaigns and is a key source for the wars' depiction."
+  },
+  {
+    text: "Which emperor attempted to revive pagan institutions and is known as 'the Apostate'?",
+    options: ["Valens", "Constantius II", "Theodosius I", "Julian"],
+    answer: "Julian",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Julian (r. 361–363) rejected Christianity and promoted a traditional pagan revival during his brief reign."
+  },
+  {
+    text: "Which emperor rebuilt the Pantheon in Rome in its present architectural form?",
+    options: ["Hadrian", "Agrippa", "Trajan", "Domitian"],
+    answer: "Hadrian",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The present Pantheon dates to Hadrian’s rebuilding (early 2nd century CE), though the inscription credits Agrippa."
+  },
+  {
+    text: "Which emperor issued the Constitutio Antoniniana in 212 CE, extending citizenship widely in the empire?",
+    options: ["Septimius Severus", "Caracalla", "Macrinus", "Elagabalus"],
+    answer: "Caracalla",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Caracalla’s edict granted Roman citizenship to most free inhabitants of the empire."
+  },
+  {
+    text: "Which Roman emperor authored the philosophical work 'Meditations'?",
+    options: ["Hadrian", "Trajan", "Marcus Aurelius", "Antoninus Pius"],
+    answer: "Marcus Aurelius",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Marcus Aurelius wrote 'Meditations' as a Stoic reflection during his military campaigns."
+  },
+  {
+    text: "Who wrote the biographical collection 'The Twelve Caesars', an important source for early imperial history?",
+    options: ["Tacitus", "Livy", "Pliny the Elder", "Suetonius"],
+    answer: "Suetonius",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Suetonius’ Lives of the Twelve Caesars (early 2nd century) provides lively—if sometimes gossipy—accounts of emperors."
+  },
+  {
+    text: "Which magistracy was responsible for conducting the Roman census and supervising public morals?",
+    options: ["Censor", "Consul", "Praetor", "Quaestor"],
+    answer: "Censor",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Censors registered citizens, assessed property, and could remove senators for moral failings."
+  },
+  {
+    text: "Which commander led the Roman forces that destroyed the Second Temple in Jerusalem in 70 CE?",
+    options: ["Vespasian", "Titus", "Pompey", "Scipio Africanus"],
+    answer: "Titus",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Titus, son of Vespasian, led the siege of Jerusalem and oversaw the temple’s destruction."
+  },
+  {
+    text: "Which unit was the primary large-scale field formation of the Roman army in the early Empire?",
+    options: ["Century", "Cohort", "Legion", "Maniple"],
+    answer: "Legion",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The legion (roughly 5,000–6,000 men at full strength) was the principal heavy infantry formation."
+  },
+  {
+    text: "Which emperor reorganized the imperial structures and formalized the Tetrarchy to stabilize the late empire?",
+    options: ["Constantine", "Maximinus", "Galerius", "Diocletian"],
+    answer: "Diocletian",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Diocletian divided authority among multiple rulers (Augusti and Caesares) and reformed administration and taxation."
+  },
+  {
+    text: "What is the name of Rome’s earliest surviving written law code, dating from the mid-5th century BCE?",
+    options: ["Twelve Tables", "Lex Canuleia", "Lex Hortensia", "Lex Claudia"],
+    answer: "Twelve Tables",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The Twelve Tables formed the foundation of Roman private and public law."
+  },
+  {
+    text: "Which goddess was worshipped as the guardian of the hearth and domestic life in Rome?",
+    options: ["Isis", "Vesta", "Juno", "Ceres"],
+    answer: "Vesta",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Vesta’s cult and the Vestal Virgins maintained the sacred hearth of Rome."
+  },
+  {
+    text: "What term described Rome’s grain supply program that helped feed urban citizens?",
+    options: ["Fiscus", "Aerarium", "Annona", "Cura Annonae"],
+    answer: "Annona",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "The annona referred to the grain dole and the administrative arrangements for provisioning Rome."
+  },
+  {
+    text: "Which third-century emperor strengthened the empire, reconquered breakaway provinces, and built defensive walls around Rome?",
+    options: ["Gallienus", "Claudius Gothicus", "Probus", "Aurelian"],
+    answer: "Aurelian",
+    image: "",
+    subtopic: "History of the Roman Empire",
+    explanation: "Aurelian (270–275 CE) restored imperial authority and ordered the construction of Rome’s Aurelian Walls."
+  },
+  {
+    text: "Who led the early 19th-century jihad that founded the Sokoto Caliphate?",
+    options: ["Samori Touré", "Seku Amadu", "El Hadj Umar Tall", "Usman dan Fodio"],
+    answer: "Usman dan Fodio",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Usman (Uthman) dan Fodio launched the Fulani jihad (c. 1804) and established the Sokoto Caliphate."
+  },
+  {
+    text: "Which medieval West African state controlled Timbuktu and much of the Sahara trade under Askia Muhammad?",
+    options: ["Mali Empire", "Ghana Empire", "Songhai Empire", "Kanem-Bornu"],
+    answer: "Songhai Empire",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Under Askia Muhammad (late 15th–early 16th c.), Songhai dominated the central Sahara trade and Timbuktu."
+  },
+  {
+    text: "Which pair of commodities dominated trans-Saharan trade that enriched West African empires?",
+    options: ["Spices and silk", "Timber and salt", "Gold and salt", "Grain and fish"],
+    answer: "Gold and salt",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Gold from the south and salt from the north were the two staples of trans-Saharan commerce."
+  },
+  {
+    text: "Who founded the Massina (Macina) Fulani state in the Inner Niger Delta after a jihad?",
+    options: ["Samori Touré", "Usman dan Fodio", "El Hadj Umar Tall", "Seku Amadu"],
+    answer: "Seku Amadu",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Seku Amadu (Shehu Seku) led the Massina jihad and created a theocratic Fulani state in the 19th century."
+  },
+  {
+    text: "Which West African city became a major center of Islamic learning and housed the Sankore madrasah?",
+    options: ["Timbuktu", "Kano", "Kumasi", "Gao"],
+    answer: "Timbuktu",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Timbuktu’s Sankore and other madrasahs were renowned centers of Islamic scholarship."
+  },
+  {
+    text: "Which kingdom is best known for sophisticated bronze casting and the famous Benin Bronzes?",
+    options: ["Oyo", "Benin", "Asante", "Kanem-Bornu"],
+    answer: "Benin",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Benin City (Edo) produced elaborate bronze plaques and sculptures famous across the world."
+  },
+  {
+    text: "Who led the late-19th-century resistance to French expansion and created the Wassoulou state?",
+    options: ["Bai Bureh", "Samori Toure", "Almamy Samake", "Mansa Musa"],
+    answer: "Samori Toure",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Samori Toure resisted French conquest in West Africa and established a state centered in Wassoulou."
+  },
+  {
+    text: "Which West African polity rose under Osei Tutu and honored the Golden Stool as a symbol of unity?",
+    options: ["Denkyira", "Akan Confederacy", "Mali", "Asante (Ashanti)"],
+    answer: "Asante (Ashanti)",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Osei Tutu and his adviser Okomfo Anokye instituted the Golden Stool as a unifying symbol of Asante identity."
+  },
+  {
+    text: "Which European power first established trading forts along much of the West African Gold Coast in the 15th century?",
+    options: ["Portuguese", "Dutch", "British", "French"],
+    answer: "Portuguese",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Portuguese navigators established early coastal forts and trading posts on West Africa’s Gold Coast."
+  },
+  {
+    text: "The comprehensive series of Fulani jihads in the 18th–19th centuries that reshaped the Sahel and savannah is often called the:",
+    options: ["Scramble for Africa", "Fulani Jihads / Sokoto Jihad", "Mfecane", "Pax Africana"],
+    answer: "Fulani Jihads / Sokoto Jihad",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "A wave of Islamic reformist jihads—most famously by Usman dan Fodio—reorganized political authority across the region."
+  },
+  {
+    text: "Which colonial-era settlement was founded by the British as a home for freed slaves and became a key West African port?",
+    options: ["Freetown (Sierra Leone)", "Monrovia (Liberia)", "Accra (Gold Coast)", "Dakar (Senegal)"],
+    answer: "Freetown (Sierra Leone)",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Freetown was established to resettle freed African slaves and became a major British base and port."
+  },
+  {
+    text: "Which nation was chiefly responsible for founding Liberia as a resettlement colony for freed African-Americans?",
+    options: ["Britain", "France", "United States", "Portugal"],
+    answer: "United States",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "The American Colonization Society and U.S. settlers established Liberia; its capital is Monrovia."
+  },
+  {
+    text: "Which medieval West African empire was ruled by Mansa Musa and famed for spectacular pilgrimage wealth?",
+    options: ["Songhai", "Ghana", "Mali", "Kanem-Bornu"],
+    answer: "Mali",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Mansa Musa (c. 1312–1337) of Mali made a famous pilgrimage to Mecca, demonstrating Mali’s wealth."
+  },
+  {
+    text: "Which early medieval state was often described in Arab sources as the 'land of gold'?",
+    options: ["Mali", "Ghana", "Songhai", "Benin"],
+    answer: "Ghana",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "The Ghana Empire (ancient Wagadu) controlled gold routes and was known for its gold wealth."
+  },
+  {
+    text: "Which European nation formally abolished the slave trade in 1807, affecting trans-Atlantic trafficking from West Africa?",
+    options: ["Spain", "Portugal", "Britain", "France"],
+    answer: "Britain",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Britain outlawed the trans-Atlantic slave trade in 1807 and later enforced abolition by naval patrols."
+  },
+  {
+    text: "What was a major demographic and social consequence of the trans-Atlantic slave trade for many West African societies?",
+    options: ["Rapid industrialization", "Complete cultural homogenization", "Population loss and social disruption", "Immediate political unification"],
+    answer: "Population loss and social disruption",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "The slave trade depopulated some areas, intensified warfare and political instability, and disrupted social structures."
+  },
+  {
+    text: "Which center of Islamic learning in Timbuktu is famous for its library and scholarly networks?",
+    options: ["Sankore", "Qur'an House", "Kano Madrasa", "Gao School"],
+    answer: "Sankore",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "The Sankore mosque and its scholarly community made Timbuktu a renowned center of Islamic learning."
+  },
+  {
+    text: "Which 19th-century Tijaniyya leader from the upper Niger launched a jihad and created the Toucouleur Empire?",
+    options: ["Usman dan Fodio", "Samori Toure", "El Hadj Umar Tall", "Seku Amadu"],
+    answer: "El Hadj Umar Tall",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "El Hadj Umar (Omar) Tall led a widespread Tijaniyya-inspired jihad, establishing the Toucouleur state."
+  },
+  {
+    text: "What role did Christian missionaries commonly play in 19th-century West Africa?",
+    options: ["Exclusively trade brokers", "Military commanders", "Founding schools and hospitals", "Overseeing mining operations"],
+    answer: "Founding schools and hospitals",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Missionaries often established schools, clinics, and converted communities while influencing local elites."
+  },
+  {
+    text: "What was a typical economic effect of colonial cash-crop policies in West Africa?",
+    options: ["Diversified local food production", "Universal land ownership by peasants", "Rapid urban manufacturing", "Monoculture, land loss, and export dependence"],
+    answer: "Monoculture, land loss, and export dependence",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Colonial emphasis on single cash crops (e.g., cocoa, groundnuts) created export dependency and altered land use."
+  },
+  {
+    text: "Which 1884–85 conference among European powers formalized rules for the Scramble for Africa?",
+    options: ["Congress of Vienna", "Berlin Conference", "Treaty of Versailles", "Cairo Conference"],
+    answer: "Berlin Conference",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "The Berlin Conference regulated European colonization and partition of Africa without African participation."
+  },
+  {
+    text: "Which powerful kingdom in the Niger Delta was violently attacked in a British punitive expedition in 1897, resulting in looting of bronzes?",
+    options: ["Oyo", "Asante", "Benin", "Yoruba"],
+    answer: "Benin",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "The 1897 British expedition sacked Benin City and removed many bronze works now in museums."
+  },
+  {
+    text: "What was the main route linking West African goldfields with markets in North Africa and beyond?",
+    options: ["Indian Ocean trade", "Coastal trade with Europeans", "Mediterranean coastal route", "Trans-Saharan trade routes"],
+    answer: "Trans-Saharan trade routes",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Camel caravan networks crossed the Sahara carrying gold, salt, and other goods between West Africa and North Africa."
+  },
+  {
+    text: "Which Akan leader is credited with consolidating the Asante state and inventing the Golden Stool myth?",
+    options: ["Osei Tutu", "Kwame Nkrumah", "Yaa Asantewaa", "Kofi Anokye"],
+    answer: "Osei Tutu",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Osei Tutu and his priest Okomfo Anokye centralized authority and instituted the Golden Stool as symbol of Asante unity."
+  },
+  {
+    text: "Which Hausa city became a major center of commerce, craft production, and Islam in northern Nigeria?",
+    options: ["Borno", "Kano", "Accra", "Lagos"],
+    answer: "Kano",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Kano was historically a hub for trans-Saharan trade, crafts, and Islamic scholarship."
+  },
+  {
+    text: "Which Roman-style term describes the British practice of ruling colonies through existing traditional authorities?",
+    options: ["Assimilation", "Indirect rule", "Direct rule", "Paternalism"],
+    answer: "Indirect rule",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Indirect rule used local rulers (chiefs, emirs) to administer colonial policies, especially in British West Africa."
+  },
+  {
+    text: "Around which lake did the medieval Kanem-Bornu state flourish as a Sahelian power?",
+    options: ["Lake Victoria", "Lake Chad", "Lake Tanganyika", "Lake Volta"],
+    answer: "Lake Chad",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Kanem-Bornu centered on the Lake Chad basin and controlled trans-Saharan routes for centuries."
+  },
+  {
+    text: "Which commodity, mined in the Sahel, was often traded north as a luxury and called 'white gold'?",
+    options: ["Timber", "Ivory", "Salt", "Cocoa"],
+    answer: "Salt",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Salt from Saharan deposits was vital for preservation and prized in southern markets—hence its nickname."
+  },
+  {
+    text: "Caravan cities such as Timbuktu and Gao primarily served as centers of:",
+    options: ["Shipbuilding and naval power", "Agricultural production", "Learning, scholarship, and trade", "Textile manufacturing"],
+    answer: "Learning, scholarship, and trade",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "These cities combined religious schools with commercial hubs linking West Africa to the wider Islamic world."
+  },
+  {
+    text: "Mansa Musa is best known for what dramatic event that displayed Mali’s wealth to the wider world?",
+    options: ["Founding Timbuktu", "Conquering Songhai", "Pilgrimage to Mecca (Hajj)", "Signing with Portugal"],
+    answer: "Pilgrimage to Mecca (Hajj)",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Mansa Musa’s pilgrimage in 1324–25 showcased Mali’s gold wealth across North Africa and the Mediterranean."
+  },
+  {
+    text: "Which European power established colonial rule over the Gold Coast (modern Ghana)?",
+    options: ["France", "Germany", "Britain", "Portugal"],
+    answer: "Britain",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Britain gradually took control of the coastal forts and interior, creating the Gold Coast colony."
+  },
+  {
+    text: "Which late 19th-century leader resisted the French and was defeated after prolonged guerrilla warfare?",
+    options: ["Samori Toure", "Usman dan Fodio", "Mansa Musa", "Osei Tutu"],
+    answer: "Samori Toure",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Samori Toure led a protracted resistance against French conquest before his capture and exile."
+  },
+  {
+    text: "The Fulani jihads contributed to the spread of which religious tradition across the Sahel?",
+    options: ["Christianity", "Hinduism", "Islam", "Buddhism"],
+    answer: "Islam",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Reformist jihads promoted Islamic law, scholarship, and political structures in many Sahelian states."
+  },
+  {
+    text: "Which female leader famously led the Asante resistance against the British in 1900 (War of the Golden Stool)?",
+    options: ["Queen Nzinga", "Yaa Asantewaa", "Nana Konadu", "Idia"],
+    answer: "Yaa Asantewaa",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Yaa Asantewaa commanded Asante forces in the 1900 uprising against British attempts to annex the Golden Stool."
+  },
+  {
+    text: "Missionary schools in West Africa often had which long-term effect on society?",
+    options: ["Mass return to traditional religions", "Growing local literacy and formation of western-educated elites", "Immediate industrialization", "Decline in agriculture"],
+    answer: "Growing local literacy and formation of western-educated elites",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Mission education created new literate elites who later led nationalist and professional movements."
+  },
+  {
+    text: "Which precious metal was most associated with the wealth of the Akan and Mali regions?",
+    options: ["Iron", "Copper", "Gold", "Silver"],
+    answer: "Gold",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Gold mining and trade were central to the economies and prestige of Akan states and Mali."
+  },
+  {
+    text: "Which city served as the capital of the Songhai Empire at its height?",
+    options: ["Timbuktu", "Kano", "Gao", "Jenne (Djenne)"],
+    answer: "Gao",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Gao was Songhai’s political center while Timbuktu and Jenne were scholarly and commercial hubs."
+  },
+  {
+    text: "What external development contributed to the decline of the Ghana Empire in the medieval period?",
+    options: ["European colonization", "Almoravid incursions and changing trade routes", "Atlantic slave trade", "Mongol invasions"],
+    answer: "Almoravid incursions and changing trade routes",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Sahelian political change and Almoravid pressures, along with shifting trade, undermined Ghana’s dominance."
+  },
+  {
+    text: "In early modern centuries, many coastal West African states became deeply involved in which activity through European contact?",
+    options: ["Iron smelting for locals only", "Island colonization of Europe", "The trans-Atlantic slave trade", "Textile exports to Asia"],
+    answer: "The trans-Atlantic slave trade",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Coastal polities engaged with Europeans in the exchange of slaves, gold, and other goods across the Atlantic."
+  },
+  {
+    text: "Which Sahelian state is best known for long dynastic rule and control of caravan routes around Lake Chad?",
+    options: ["Asante", "Ghana", "Kanem-Bornu", "Mali"],
+    answer: "Kanem-Bornu",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Kanem-Bornu maintained dynastic continuity and controlled key trans-Saharan routes in the Lake Chad region."
+  },
+  {
+    text: "Who is traditionally credited with founding the Mali Empire and winning the battle of Kirina?",
+    options: ["Mansa Musa", "Sundiata’s son", "Sundiata Keita", "Askia Muhammad"],
+    answer: "Sundiata Keita",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Sundiata Keita consolidated Mandinka polities after victory at Kirina and is credited with Mali’s foundation."
+  },
+  {
+    text: "Which wealthy Mali ruler’s pilgrimage to Mecca in 1324 demonstrated West African wealth to the Mediterranean world?",
+    options: ["Sunni Ali", "Maqr al-Din", "Askia Muhammad", "Mansa Musa"],
+    answer: "Mansa Musa",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Mansa Musa’s extravagant hajj drew attention to Mali’s prosperity and stimulated scholarship in Timbuktu."
+  },
+  {
+    text: "By the 14th century, what religion had become dominant in many Sahelian empires like Mali and Songhai?",
+    options: ["Christianity", "Islam", "Hinduism", "Animism"],
+    answer: "Islam",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Islam—introduced via trans-Saharan links—became the principal religion of ruling elites and urban scholars."
+  },
+  {
+    text: "What was a primary cultural consequence of trans-Saharan contacts for West Africa?",
+    options: ["Complete rejection of foreign ideas", "Spread of Islam and Arabic literacy", "Adoption of Christianity", "Replacement of local languages by Latin"],
+    answer: "Spread of Islam and Arabic literacy",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Scholars, clerics, and merchants adopted Arabic script and Islamic learning through Sahara trade networks."
+  },
+  {
+    text: "Which Fulani leader established a theocratic state in the Inner Niger Delta (the Massina) in the 19th century?",
+    options: ["El Hadj Umar Tall", "Usman dan Fodio", "Alpha Yaya", "Seku Amadu"],
+    answer: "Seku Amadu",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Seku Amadu led a Fulani reform movement that created a theocratic polity in Massina (Macina)."
+  },
+  {
+    text: "Which military innovation introduced or popularized by trans-Saharan and Mediterranean contacts changed West African warfare?",
+    options: ["Gunpowder artillery", "Naval warships", "Cavalry (horse-mounted warfare)", "Sling and bow only"],
+    answer: "Cavalry (horse-mounted warfare)",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "The use of horses and cavalry tactics, spread via Sahelian contacts, reshaped regional military power."
+  },
+  {
+    text: "Which forest product was a key export from forest zones to northern traders and coastal merchants?",
+    options: ["Cowrie shells", "Kola nuts", "Salt blocks", "Wheat"],
+    answer: "Kola nuts",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Kola nuts were highly valued across West Africa and beyond for their stimulant properties and trade value."
+  },
+  {
+    text: "Which empire was defeated by Moroccan forces in 1591, contributing to shifts in Saharan politics?",
+    options: ["Mali", "Ghana", "Songhai", "Asante"],
+    answer: "Songhai",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Moroccan forces with gunpowder weapons defeated Songhai at Tondibi (1591), fracturing its power."
+  },
+  {
+    text: "A major economic activity of Akan states centered on which product?",
+    options: ["Ivory export", "Gold production and trade", "Salt mining", "Rice cultivation"],
+    answer: "Gold production and trade",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Akan polities, including Asante, profited from gold mining and trade networks."
+  },
+  {
+    text: "In colonial administration, the British policy of 'indirect rule' most often relied on:",
+    options: ["Replacing all chiefs", "Importing European chiefs", "Direct rule by colonial governors", "Ruling through existing local chiefs and emirs"],
+    answer: "Ruling through existing local chiefs and emirs",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Indirect rule co-opted traditional authorities to implement colonial policies under British oversight."
+  },
+  {
+    text: "Who were the marabouts commonly found across Sahelian and coastal West Africa?",
+    options: ["Local merchants", "Muslim religious leaders and teachers", "Colonial administrators", "European missionaries"],
+    answer: "Muslim religious leaders and teachers",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Marabouts served as Quranic teachers, clerics, and spiritual guides in many Islamic communities."
+  },
+  {
+    text: "Which economic development in the 19th–20th centuries accelerated urbanization and trade on the West African coast?",
+    options: ["Decline of Atlantic trade", "Expansion of Atlantic commodity trade with Europeans", "Collapse of all markets", "Isolation from global markets"],
+    answer: "Expansion of Atlantic commodity trade with Europeans",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Increased colonial commerce in palm oil, cocoa, groundnuts, and other exports spurred coastal urban growth."
+  },
+  {
+    text: "Which European country established formal colonial control over large parts of coastal Senegal, including Gorée and Dakar?",
+    options: ["Portugal", "Britain", "France", "Spain"],
+    answer: "France",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "France built an expanding colonial presence in Senegal and much of Francophone West Africa."
+  },
+  {
+    text: "What action did Britain take on the high seas to enforce abolition of the trans-Atlantic slave trade?",
+    options: ["Closed all ports", "Established naval patrols to intercept slavers", "Sank African kingdoms", "Enlisted slave ships into the navy"],
+    answer: "Established naval patrols to intercept slavers",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "The Royal Navy patrolled Atlantic routes to suppress illegal slaving after 1807."
+  },
+  {
+    text: "Who was the Asante ruler and symbolically powerful head of the Asante Confederacy?",
+    options: ["Oba of Benin", "Asantehene (King of Asante)", "Almamy of Futa", "Mai of Bornu"],
+    answer: "Asantehene (King of Asante)",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "The Asantehene was the political and spiritual head of the Asante kingdom and custodian of the Golden Stool."
+  },
+  {
+    text: "Which small object circulated widely as currency and medium of exchange in parts of West Africa?",
+    options: ["Coins minted by Mali", "Cowrie shells", "Gold ingots only", "Salt bars exclusively"],
+    answer: "Cowrie shells",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Cowrie shells functioned as small-denomination currency and were widely used in markets."
+  },
+  {
+    text: "Which cash crop boom helped transform the economy of the Gold Coast (Ghana) in the late 19th and early 20th centuries?",
+    options: ["Coffee", "Rubber", "Cocoa", "Sugar"],
+    answer: "Cocoa",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Cocoa plantations made the Gold Coast a major global supplier and reshaped rural society."
+  },
+  {
+    text: "After independence many West African states joined a continental organization founded in 1963 for African unity; what was it called?",
+    options: ["United Nations", "European Union", "North Atlantic Treaty Organization", "Organization of African Unity (OAU)"],
+    answer: "Organization of African Unity (OAU)",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "The OAU (later the African Union) was created to promote unity and decolonization across Africa."
+  },
+  {
+    text: "Who led the 1898 Hut Tax War in Sierra Leone against British colonial rule?",
+    options: ["Bai Bureh", "Samori Toure", "Osei Tutu", "Yaa Asantewaa"],
+    answer: "Bai Bureh",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Bai Bureh organized resistance against colonial taxes and was a symbol of anti-colonial struggle."
+  },
+  {
+    text: "Which European power formally amalgamated Northern and Southern protectorates to create colonial Nigeria in 1914?",
+    options: ["France", "Belgium", "Germany", "Britain"],
+    answer: "Britain",
+    image: "",
+    subtopic: "History of West Africa",
+    explanation: "Lord Lugard’s 1914 Amalgamation unified British Northern and Southern Nigeria administratively."
+  },
+   {
+    text: "Which indigenous people are among the earliest inhabitants of southern Africa and are well known for rock art?",
+    options: ["San (Bushmen)", "Zulu", "Xhosa", "Sotho"],
+    answer: "San (Bushmen)",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The San were early hunter-gatherers whose rock paintings appear across southern Africa."
+  },
+  {
+    text: "Which pastoralist group encountered European settlers and were often called Khoikhoi by the Dutch?",
+    options: ["Xhosa", "Khoikhoi", "Zulu", "Tswana"],
+    answer: "Khoikhoi",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The Khoikhoi were pastoralists living around the Cape who clashed with early European settlers."
+  },
+  {
+    text: "What major cultural/technological stream reached southern Africa with Bantu migrations?",
+    options: ["Iron-working and agriculture", "Gunpowder", "Islam", "Classical Greek city-states"],
+    options: ["Iron-working and agriculture", "Gunpowder", "Islam", "Classical Greek city-states"],
+    answer: "Iron-working and agriculture",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Bantu-speaking peoples spread iron metallurgy and farming into southern Africa over centuries."
+  },
+  {
+    text: "Which early state (c. 11th–13th centuries) near the Limpopo is a precursor to later Zimbabwean polities?",
+    options: ["Zulu Kingdom", "Kingdom of Lesotho", "Mapungubwe", "Xhosa Confederacy"],
+    answer: "Mapungubwe",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Mapungubwe was a complex state connected to Indian Ocean trade and later centers like Great Zimbabwe."
+  },
+  {
+    text: "What is the Mfecane (or Difaqane) commonly described as?",
+    options: ["A period of regional migrations and warfare in the early 19th century", "A British administrative reform", "An economic treaty", "A missionary movement"],
+    answer: "A period of regional migrations and warfare in the early 19th century",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Mfecane involved population movements and state formation (including the rise of the Zulu) in southern Africa."
+  },
+  {
+    text: "Which leader is credited with centralizing the Zulu kingdom and creating a new military system in the early 1800s?",
+    options: ["Dingiswayo", "Shaka", "Cetshwayo", "Mpande"],
+    answer: "Shaka",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Shaka reorganized regiments and tactics, dramatically expanding Zulu power in the early 19th century."
+  },
+  {
+    text: "What was the Battle of Blood River (1838) notable for?",
+    options: ["A skirmish between Xhosa groups", "The British naval victory off the Cape", "A major encounter between Voortrekkers and Zulu resulting in a Voortrekker victory", "An Anglo-Dutch treaty signing"],
+    answer: "A major encounter between Voortrekkers and Zulu resulting in a Voortrekker victory",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Voortrekkers defeated Zulu forces at the Ncome (Blood) River; the event later became a symbol in Afrikaner memory."
+  },
+  {
+    text: "Which European company established a refreshment station at the Cape in 1652?",
+    options: ["British East India Company", "Dutch West India Company", "Dutch East India Company (VOC)", "Portuguese Crown"],
+    answer: "Dutch East India Company (VOC)",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The VOC under Jan van Riebeeck set up a provisioning station at the Cape for ships on the Asia route."
+  },
+  {
+    text: "Who led the VOC settlement at the Cape in 1652 and is often credited as an early colonial founder of Cape Town?",
+    options: ["Jan van Riebeeck", "Cecil Rhodes", "Bartolomeu Dias", "Jan Smuts"],
+    answer: "Jan van Riebeeck",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Jan van Riebeeck arrived to establish a refreshment station that became Cape Town."
+  },
+  {
+    text: "In which year did the British take permanent control of the Cape Colony after the Napoleonic Wars?",
+    options: ["1652", "1806", "1910", "1795"],
+    answer: "1806",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Following temporary occupations, the British established permanent control after the Battle of Blaauwberg (1806)."
+  },
+  {
+    text: "What was the Great Trek?",
+    options: ["A Spanish colonizing expedition", "A mass migration of Khoikhoi people", "A migration of Boer (Afrikaner) farmers inland to escape British rule", "A 20th-century urbanization movement"],
+    answer: "A migration of Boer (Afrikaner) farmers inland to escape British rule",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "During the 1830s–1840s many Boers (Voortrekkers) left the Cape to found new Boer republics inland."
+  },
+  {
+    text: "Which short-lived Boer republic was founded on the Natal coast after the Great Trek?",
+    options: ["Transvaal (South African Republic)", "Natalia (Republic of Natalia)", "Orange Free State", "Union of South Africa"],
+    answer: "Natalia (Republic of Natalia)",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The Voortrekkers briefly established the Natalia Republic before British control expanded there."
+  },
+  {
+    text: "Which 19th-century discovery near Kimberley transformed the colonial economy?",
+    options: ["Gold", "Coal", "Diamonds", "Oil"],
+    answer: "Diamonds",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Diamond discoveries (from about 1867) concentrated capital and stimulated large mining enterprises."
+  },
+  {
+    text: "The Witwatersrand (1886) is famed for the discovery of which resource that spurred Johannesburg’s rise?",
+    options: ["Diamonds", "Gold on the Witwatersrand", "Coal", "Copper"],
+    answer: "Gold on the Witwatersrand",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Gold rushes on the Witwatersrand created Johannesburg and transformed the economy."
+  },
+  {
+    text: "Which conflict (1899–1902) was fought between the British Empire and the two Boer republics?",
+    options: ["First Anglo-Boer War", "Zulu War", "Second Anglo-Boer War", "Anglo-Dutch War"],
+    answer: "Second Anglo-Boer War",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The Second Anglo-Boer War was a costly guerrilla conflict that ended in British victory and annexation."
+  },
+  {
+    text: "Which Boer leader became a symbol of Boer resistance and served as president of the South African Republic (Transvaal)?",
+    options: ["Jan Smuts", "Louis Botha", "Cecil Rhodes", "Paul Kruger"],
+    answer: "Paul Kruger",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Paul Kruger led the Transvaal and was an iconic figure of Boer nationalism."
+  },
+  {
+    text: "What political arrangement united Cape Colony, Natal, Transvaal and the Orange River Colony in 1910?",
+    options: ["The Union of South Africa", "The Republic of South Africa", "The Federation of Rhodesia and Nyasaland", "The Commonwealth of South Africa"],
+    answer: "The Union of South Africa",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "In 1910 the British colonies and former Boer republics joined as the Union of South Africa under dominion status."
+  },
+  {
+    text: "Which 1913 law limited black land ownership to reserves and dispossessed many Africans?",
+    options: ["Native Urban Areas Act", "Natives Land Act (1913)", "Group Areas Act", "Bantu Education Act"],
+    answer: "Natives Land Act (1913)",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The Natives Land Act restricted African landholding to a small portion of the country, entrenching dispossession."
+  },
+  {
+    text: "When was the African National Congress (ANC) founded?",
+    options: ["1900", "1921", "1912", "1948"],
+    answer: "1912",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The South African Native National Congress (later ANC) was formed in 1912 to press for African rights."
+  },
+  {
+    text: "Which political event in 1948 ushered in the formal policy of apartheid?",
+    options: ["The Union formation", "The ANC’s first mass campaign", "Sharpeville", "The National Party electoral victory in 1948"],
+    answer: "The National Party electoral victory in 1948",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The National Party victory permitted the institutionalization of apartheid laws and policies."
+  },
+  {
+    text: "What was the Defiance Campaign (1952) organized by the ANC and allied groups?",
+    options: ["A British colonial program", "An armed uprising", "A mass campaign of civil disobedience against apartheid laws", "A rural irrigation scheme"],
+    answer: "A mass campaign of civil disobedience against apartheid laws",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The Defiance Campaign used nonviolent mass defiance of apartheid laws across South Africa."
+  },
+  {
+    text: "What document articulated the core principles of the anti-apartheid movement in 1955?",
+    options: ["The Universal Declaration of Human Rights", "The Freedom Charter", "The Group Areas Act", "The Natives Land Act"],
+    answer: "The Freedom Charter",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The Freedom Charter, adopted at Kliptown, declared a vision of equality and nationalisation of key resources."
+  },
+  {
+    text: "What happened at the Sharpeville protest in 1960?",
+    options: ["A peaceful school demonstration", "A Zulu cultural festival", "Police opened fire on anti-pass protesters, killing and wounding many", "A meeting of mining unions"],
+    answer: "Police opened fire on anti-pass protesters, killing and wounding many",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Sharpeville (1960) was a turning point—leading to states of emergency, bans on organizations, and radicalization."
+  },
+  {
+    text: "Which apartheid-era statute required the official classification of citizens by race?",
+    options: ["Group Areas Act", "Bantu Education Act", "Pass Laws", "Population Registration Act"],
+    answer: "Population Registration Act",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The Population Registration Act (1950) created the legal basis for racial classification central to apartheid."
+  },
+  {
+    text: "What was Umkhonto we Sizwe (MK), launched in 1961?",
+    options: ["A cultural movement", "The ANC’s armed wing conducting sabotage against apartheid targets", "A parliamentary reform group", "A trade union federation"],
+    answer: "The ANC’s armed wing conducting sabotage against apartheid targets",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "MK (Spear of the Nation) was formed when nonviolent methods were met with repression."
+  },
+  {
+    text: "Which famous trial (1963–64) sentenced Nelson Mandela and other leaders to life imprisonment?",
+    options: ["Treason Trial", "Rivonia Trial", "Soweto Trial", "Sharpeville Inquiry"],
+    answer: "Rivonia Trial",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The Rivonia Trial convicted Mandela and others on charges including sabotage, leading to long imprisonments."
+  },
+  {
+    text: "What political-cultural trend did Steve Biko lead that emphasized psychological liberation and black pride?",
+    options: ["Pan-Africanism", "Black Consciousness Movement", "Zulu nationalism", "Congress of Democrats"],
+    answer: "Black Consciousness Movement",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Biko’s Black Consciousness promoted dignity, cultural pride, and grassroots activism among black South Africans."
+  },
+  {
+    text: "In what year did Nelson Mandela walk free from prison and the ANC unban begin formal negotiations?",
+    options: ["1964", "1976", "1990", "1994"],
+    answer: "1990",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "In 1990 F.W. de Klerk lifted bans and released Mandela, opening negotiations to end apartheid."
+  },
+  {
+    text: "What was the significance of the 1956 Women’s March to Pretoria?",
+    options: ["A proclamation of independence", "A call for martial law", "A massive protest of women against pass laws", "A miners’ strike"],
+    answer: "A massive protest of women against pass laws",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "On 9 August 1956, thousands of women marched to oppose pass regulations; the date is commemorated annually."
+  },
+  {
+    text: "What did the Bantu Education Act (1953) create?",
+    options: ["Universal higher education", "A system of segregated schooling designed to limit opportunities for black South Africans", "A vocational training program open to all races", "A fund for rural development"],
+    answer: "A system of segregated schooling designed to limit opportunities for black South Africans",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Bantu Education institutionalised inferior schooling for black children, aligning education with apartheid goals."
+  },
+  {
+    text: "What triggered the Soweto Uprising of 1976?",
+    options: ["A wage cut for miners", "A contested election", "A new language policy mandating Afrikaans in some schools", "The imposition of curfews in townships"],
+    answer: "A new language policy mandating Afrikaans in some schools",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Students protested Afrikaans as a compulsory medium; the crackdown sparked nationwide unrest."
+  },
+  {
+    text: "What was the Truth and Reconciliation Commission (TRC) established after 1994 meant to do?",
+    options: ["Replace the judiciary", "Conduct summary executions", "Investigate human rights abuses and grant conditional amnesty", "Annul confiscated land titles"],
+    answer: "Investigate human rights abuses and grant conditional amnesty",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The TRC sought to uncover truth and facilitate reconciliation via public hearings and conditional amnesty."
+  },
+  {
+    text: "How would you best define apartheid?",
+    options: ["An economic plan for industrialization", "A cultural revival", "A system of institutionalized racial segregation and discrimination", "A democratic constitution"],
+    answer: "A system of institutionalized racial segregation and discrimination",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Apartheid was a legally enforced system dividing people by race and restricting rights and movement."
+  },
+  {
+    text: "Which figure is often called the architect of formal apartheid policy after 1948?",
+    options: ["Nelson Mandela", "Hendrik Verwoerd", "Oliver Tambo", "Jan Smuts"],
+    answer: "Hendrik Verwoerd",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Verwoerd, as prime minister, promoted many laws that entrenched apartheid's structure."
+  },
+  {
+    text: "Which apartheid law enforced residential segregation and made forced removals common?",
+    options: ["Public Safety Act", "Suppression of Communism Act", "Bantu Authorities Act", "Group Areas Act (1950)"],
+    answer: "Group Areas Act (1950)",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The Group Areas Act assigned racial groups to different urban areas and enabled mass removals."
+  },
+  {
+    text: "Which forms of international pressure were important in weakening apartheid in the 1980s and early 1990s?",
+    options: ["Cultural festivals", "European colonization", "Economic sanctions, disinvestment and sports/cultural boycotts", "Mass emigration to Europe only"],
+    answer: "Economic sanctions, disinvestment and sports/cultural boycotts",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Sanctions and boycotts isolated apartheid regimes economically and morally on the world stage."
+  },
+  {
+    text: "Who founded the Pan Africanist Congress (PAC) as a breakaway from the ANC in 1959?",
+    options: ["Nelson Mandela", "Robert Sobukwe", "Oliver Tambo", "Albert Luthuli"],
+    answer: "Robert Sobukwe",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Sobukwe formed the PAC emphasizing Africanist politics and mass action separate from the ANC."
+  },
+  {
+    text: "Which notorious prison island in Table Bay held many anti-apartheid prisoners, including Nelson Mandela?",
+    options: ["Robben Island", "Devil’s Island", "Alcatraz", "Rikers Island"],
+    answer: "Robben Island",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Robben Island was a maximum-security prison where many political prisoners were incarcerated."
+  },
+  {
+    text: "What was the major significance of South Africa’s 1994 national election?",
+    options: ["It formed the first apartheid government", "It was a whites-only election", "It held the first multiracial, democratic election electing Nelson Mandela", "It led to British occupation"],
+    answer: "It held the first multiracial, democratic election electing Nelson Mandela",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "1994 marked the end of apartheid rule and the beginning of majority democratic governance."
+  },
+  {
+    text: "Who was widely seen as the last president of apartheid South Africa and shared power with Mandela in the negotiated transition?",
+    options: ["Nelson Mandela", "Desmond Tutu", "F. W. de Klerk", "Thabo Mbeki"],
+    answer: "F. W. de Klerk",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "F. W. de Klerk initiated legal reforms and negotiated the end of apartheid alongside Mandela."
+  },
+   {
+    text: "What was the Xhosa ‘cattle-killing’ movement (1856–57) associated with?",
+    options: [
+      "A call for industrialization",
+      "A trade agreement with Europeans",
+      "A movement that led to mass cattle slaughter and a catastrophic famine",
+      "The final defeat of the Zulu kingdom"
+    ],
+    answer: "A movement that led to mass cattle slaughter and a catastrophic famine",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The prophetic movement urged Xhosa to kill cattle and abandon crops, causing famine and social collapse."
+  },
+  {
+    text: "In which South African province did Mahatma Gandhi first organize politically and as a lawyer?",
+    options: ["Cape Province", "Natal", "Transvaal", "Orange Free State"],
+    answer: "Natal",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Gandhi lived and campaigned in Natal (including Durban) before returning to India, developing Satyagraha there."
+  },
+  {
+    text: "What term was used for largely British and foreign workers on the Transvaal goldfields who sought political rights?",
+    options: ["Volksraad", "Settlers", "Uitlanders", "Boers"],
+    answer: "Uitlanders",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Uitlanders (mainly British migrant workers) lacked full political rights in the Boer republics, a cause of tension."
+  },
+  {
+    text: "Which apartheid policy forcibly segregated urban space and created black townships like Soweto?",
+    options: ["Pass laws", "Homeland policy", "Native Administration", "Group Areas policy"],
+    answer: "Group Areas policy",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Group Areas legislation designated residential zones by race, displacing many non-white residents."
+  },
+  {
+    text: "What was the migrant-labour 'compound' system on mines?",
+    options: [
+      "Controlled hostels housing black miners under strict regulation",
+      "Farmer cooperatives around mines",
+      "Luxury housing for mine managers",
+      "Open-air markets near mining towns"
+    ],
+    answer: "Controlled hostels housing black miners under strict regulation",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Compounds segregated and controlled black mine workers' lives, separating them from families and communities."
+  },
+  {
+    text: "Which South African statesman was a leading international figure, served as prime minister, and was influential at the League of Nations and in WWI and WWII politics?",
+    options: ["Hendrik Verwoerd", "Jan Smuts", "D. F. Malan", "P. W. Botha"],
+    answer: "Jan Smuts",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Jan Smuts was an international statesman, serving as PM and supporting imperial cooperation and later the UN idea."
+  },
+  {
+    text: "Which sector dominated the modern South African economy from the late 19th century onward?",
+    options: ["Commercial fishing", "Smallholder subsistence farming", "Mining (gold and diamonds)", "Shipbuilding"],
+    answer: "Mining (gold and diamonds)",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Mining drew capital, migrant labour and produced the economic backbone of modern South Africa."
+  },
+  {
+    text: "Which multi-racial inner-city community was bulldozed by forced removals under apartheid in the 1950s?",
+    options: ["District Six", "Alexandra", "Soweto", "Sophiatown"],
+    answer: "Sophiatown",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Sophiatown was a jazz and cultural hub destroyed in forced removals to create segregated areas."
+  },
+  {
+    text: "Which language emerged from 19th-century Dutch, local influences, and became an official language in the 20th century?",
+    options: ["Zulu", "English", "Afrikaans", "Sotho"],
+    answer: "Afrikaans",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Afrikaans developed among settlers and indigenous/intermixed communities and was later institutionalized."
+  },
+  {
+    text: "What was the Rand Revolt of 1922?",
+    options: ["A workers’ uprising in the rural Eastern Cape", "An armed strike by white miners against wage policies and government", "An uprising of Zulu regiments", "A peasant rebellion in Natal"],
+    answer: "An armed strike by white miners against wage policies and government",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The Rand Revolt saw white miners take up arms over labor and political grievances; it was suppressed by force."
+  },
+  {
+    text: "Which 1913 law severely restricted black land ownership and laid the basis for later territorial segregation?",
+    options: ["Native Administration Act", "Urban Areas Act", "Natives Land Act (1913)", "Group Areas Act"],
+    answer: "Natives Land Act (1913)",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The 1913 Act allocated only a small percentage of land to African ownership and entrenched dispossession."
+  },
+  {
+    text: "Which South African leader became prime minister and later architect of apartheid policies in the 1950s and 1960s?",
+    options: ["Nelson Mandela", "Oliver Tambo", "Hendrik Verwoerd", "Desmond Tutu"],
+    answer: "Hendrik Verwoerd",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Verwoerd engineered major apartheid laws and ideological frameworks while serving as PM."
+  },
+  {
+    text: "Who chaired the Truth and Reconciliation Commission and won a Nobel Prize for anti-apartheid work?",
+    options: ["Nelson Mandela", "Desmond Tutu", "F. W. de Klerk", "Walter Sisulu"],
+    answer: "Desmond Tutu",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Archbishop Desmond Tutu chaired the TRC and was an outspoken moral voice against apartheid."
+  },
+  {
+    text: "Which largest trade union federation, formed in 1985, played a central role in the anti-apartheid struggle?",
+    options: ["SADTU", "NUM", "COSATU", "NEHAWU"],
+    answer: "COSATU",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The Congress of South African Trade Unions allied with the ANC and COSATU to pressure the apartheid state."
+  },
+  {
+    text: "The Black Consciousness Movement principally emphasized:",
+    options: ["Economic liberalization", "White supremacy", "Psychological empowerment, black pride and independent organization", "Establishing a monarchy"],
+    answer: "Psychological empowerment, black pride and independent organization",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Black Consciousness sought to restore dignity and internal confidence in the black population under apartheid."
+  },
+  {
+    text: "Which 1923 act attempted to regulate African residence in urban areas by restricting urban influx?",
+    options: ["Bantu Education Act", "Group Areas Act", "Natives Land Act", "Native Urban Areas Act"],
+    answer: "Native Urban Areas Act",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The Act aimed to control African urbanization and manage labor needs while restricting settlement rights."
+  },
+  {
+    text: "Which future South African president was a founding member of the ANC Youth League (1944) and central in the anti-apartheid movement?",
+    options: ["Nelson Mandela", "D. F. Malan", "Jan Smuts", "P. W. Botha"],
+    answer: "Nelson Mandela",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Mandela was a young leader in the ANC Youth League, which advocated more activist politics."
+  },
+  {
+    text: "What was Soweto best known for in the late apartheid period?",
+    options: ["A major port", "Site of the 1976 student uprisings protesting language policy and inequality", "A British administrative center", "A Zulu royal household"],
+    answer: "Site of the 1976 student uprisings protesting language policy and inequality",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The Soweto Uprising catalyzed youth activism and international awareness of apartheid repression."
+  },
+  {
+    text: "What was the Rivonia Trial mainly about?",
+    options: ["Economic reform", "Negotiations for a coalition government", "A trial of ANC leaders charged with sabotage and conspiracy", "A land redistribution court case"],
+    answer: "A trial of ANC leaders charged with sabotage and conspiracy",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Rivonia led to life sentences for Mandela and others for armed struggle-related charges."
+  },
+  {
+    text: "Who played a leading public role in negotiating the end of apartheid and shared Nobel Peace Prize with Mandela in 1993?",
+    options: ["Desmond Tutu", "F. W. de Klerk", "Steve Biko", "Hendrik Verwoerd"],
+    answer: "F. W. de Klerk",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "De Klerk and Mandela jointly received the Nobel for facilitating negotiations to end apartheid."
+  },
+   {
+    text: "Which international institution held South Africa accountable with sporting and cultural boycotts during apartheid?",
+    options: ["NATO", "The United Nations Security Council only", "The International Olympic Committee and broad sports boycotts", "Mercosur"],
+    answer: "The International Olympic Committee and broad sports boycotts",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Sporting boycotts (e.g., exclusion of Springboks from certain events) symbolized international isolation of apartheid."
+  },
+  {
+    text: "Which post-apartheid constitution (enacted 1996) is known for its Bill of Rights and progressive protections?",
+    options: ["The Interim Constitution (1993)", "The 1996 Final Constitution", "The 1910 Act of Union", "The 1950 Bantu Education Act"],
+    answer: "The 1996 Final Constitution",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "South Africa’s 1996 Constitution established rights protections, equality and the framework for the new democracy."
+  },
+  {
+    text: "Which truth-seeking body (1996–1998) investigated apartheid-era abuses while offering conditional amnesty?",
+    options: ["The International Court of Justice", "The War Crimes Tribunal", "Truth and Reconciliation Commission (TRC)", "Truth and Justice Tribunal"],
+    answer: "Truth and Reconciliation Commission (TRC)",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The TRC heard testimonies and offered restorative approaches through public hearings and amnesty procedures."
+  },
+  {
+    text: "What major socio-economic debate has been central in post-apartheid South Africa?",
+    options: ["Monarchy restoration", "Land restitution and redistribution", "Repealing the Constitution", "Reinstating pass laws"],
+    answer: "Land restitution and redistribution",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Land reform addresses historic dispossession; it’s a major political and economic challenge after 1994."
+  },
+  {
+    text: "Which leader became South Africa’s first democratically elected president in 1994?",
+    options: ["Nelson Mandela", "F. W. de Klerk", "Thabo Mbeki", "Jacob Zuma"],
+    answer: "Nelson Mandela",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Mandela led the ANC to victory in 1994 and became the symbol of national reconciliation."
+  },
+  {
+    text: "Who acted as vice-president under Mandela and later became president in 1999?",
+    options: ["Thabo Mbeki", "Jacob Zuma", "P. W. Botha", "Desmond Tutu"],
+    answer: "Thabo Mbeki",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Thabo Mbeki succeeded Mandela as president in 1999 and led economic and regional policies."
+  },
+  {
+    text: "Which iconic singer and anti-apartheid cultural figure spent years in exile and promoted South African music worldwide?",
+    options: ["Miriam Makeba", "Nadine Gordimer", "Winnie Mandela", "Desmond Tutu"],
+    answer: "Miriam Makeba",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Makeba used music as political expression, raising global awareness of apartheid-era suffering."
+  },
+  {
+    text: "Which trumpeter and musician became a global voice for South African jazz and anti-apartheid sentiment?",
+    options: ["Ladysmith Black Mambazo", "Hugh Masekela", "Johnny Clegg", "Brenda Fassie"],
+    answer: "Hugh Masekela",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Masekela’s music combined jazz with political commentary and international tours during exile."
+  },
+  {
+    text: "What was the 'State of Emergency' used by apartheid governments to suppress dissent in the 1980s?",
+    options: ["A program for urban renewal", "An international legal instrument", "A set of legal powers suspending civil liberties and enabling detention and banning", "An agricultural subsidy program"],
+    answer: "A set of legal powers suspending civil liberties and enabling detention and banning",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "States of emergency enabled mass arrests, detentions without trial and curtailment of freedoms."
+  },
+  {
+    text: "What role did the trade unions (and later COSATU) play in late-apartheid politics?",
+    options: ["They remained neutral on politics", "They supported only apartheid policies", "They organized labour action and allied with the ANC to pressure for change", "They were dissolved in the 1970s"],
+    answer: "They organized labour action and allied with the ANC to pressure for change",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Trade unions helped mobilize mass action and economic leverage against apartheid."
+  },
+  {
+    text: "Which policy under P. W. Botha described a defensive posture against perceived internal and external threats to apartheid?",
+    options: ["Total Onslaught/Total Strategy", "Sunrise Policy", "Open Door Policy", "Homelands Integration Plan"],
+    answer: "Total Onslaught/Total Strategy",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Botha’s doctrines framed apartheid as besieged and justified repressive security measures."
+  },
+  {
+    text: "Which 19th-century Afrikaner leader’s expansion helped found the Orange Free State and Transvaal republics?",
+    options: ["Paul Kruger", "Jan van Riebeeck", "Cecil Rhodes", "Mahatma Gandhi"],
+    answer: "Paul Kruger",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Paul Kruger became president of the South African Republic and symbolized Boer independence movements."
+  },
+  {
+    text: "Which British imperialist’s influence extended across southern Africa and lent his name to Rhodesia?",
+    options: ["Cecil Rhodes", "Winston Churchill", "Jan Smuts", "Arthur Wellesley"],
+    answer: "Cecil Rhodes",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Rhodes controlled vast mining interests and championed British imperial expansion in southern Africa."
+  },
+  {
+    text: "Which system of legally separate 'homelands' attempted to strip black South Africans of citizenship and assign it to tribal territories?",
+    options: ["Group Areas", "Bantu Authorities and Bantustans (homelands)", "Native Reserves", "Urban Areas scheme"],
+    answer: "Bantu Authorities and Bantustans (homelands)",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The homelands policy created pseudo-states intended to exclude blacks from 'white' South Africa politically."
+  },
+  {
+    text: "What major challenge did the post-1994 government face in the economy?",
+    options: ["Complete self-sufficiency in energy", "Managing high inequality, unemployment, and restructuring an economy shaped by mining and apartheid-era labour controls", "Excessive foreign labour supply", "No housing shortages"],
+    answer: "Managing high inequality, unemployment, and restructuring an economy shaped by mining and apartheid-era labour controls",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Post-apartheid South Africa confronted deep socioeconomic inequalities rooted in decades of dispossession."
+  },
+  {
+    text: "What was the role of the Truth and Reconciliation Commission’s amnesty provision?",
+    options: ["Automatic amnesty for any crime", "Amnesty for those who applied, fully confessed their political crimes and met criteria", "No amnesty ever granted", "Only amnesty for economic crimes"],
+    answer: "Amnesty for those who applied, fully confessed their political crimes and met criteria",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Conditional amnesty incentivised truthful disclosure in exchange for restorative justice and reconciliation."
+  },
+  {
+    text: "Which sporting symbol (Springboks) became a contested emblem but was later used as a national symbol of reconciliation at the 1995 Rugby World Cup?",
+    options: ["Cricket Proteas", "Springboks (rugby)", "Bafana Bafana (soccer)", "Netball Boks"],
+    answer: "Springboks (rugby)",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The 1995 World Cup and Mandela’s support helped transform the Springbok into a symbol of unity."
+  },
+  {
+    text: "Which major court and constitutional innovation has helped protect rights and promote equality in post-apartheid South Africa?",
+    options: ["Privy Council", "Constitutional Court", "House of Lords", "Supreme Soviet"],
+    answer: "Constitutional Court",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "The Constitutional Court interprets the 1996 Constitution and enforces rights protections."
+  },
+  {
+    text: "Which process sought to return some land to dispossessed communities following apartheid?",
+    options: ["Immediate land seizure", "Land Restitution and Redistribution programmes", "A nationalization program of all farms only", "Complete repeal of the 1996 Constitution"],
+    answer: "Land Restitution and Redistribution programmes",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Post-1994 governments implemented restitution and redistribution initiatives to remedy past dispossession."
+  },
+  {
+    text: "Which South African president left office amid controversy over state capture and later faced legal scrutiny?",
+    options: ["Nelson Mandela", "Thabo Mbeki", "Jacob Zuma", "F. W. de Klerk"],
+    answer: "Jacob Zuma",
+    image: "",
+    subtopic: "History of South Africa",
+    explanation: "Zuma’s presidency (2009–2018) faced corruption allegations that prompted legal and political consequences."
+  },
+   {
+    text: "When was the first permanent English settlement at Jamestown founded?",
+    options: ["1607", "1620", "1585", "1630"],
+    answer: "1607",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Jamestown, Virginia (1607), was the first permanent English settlement in North America."
+  },
+  {
+    text: "Which compact, signed in 1620, established a basic form of self-government for Plymouth Colony?",
+    options: ["Mayflower Compact", "House of Burgesses Charter", "Magna Carta", "Fundamental Orders"],
+    answer: "Mayflower Compact",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Pilgrims aboard the Mayflower adopted the Mayflower Compact to govern themselves at Plymouth."
+  },
+  {
+    text: "Which crop became economically crucial to early Virginia and saved the colony?",
+    options: ["Corn (maize)", "Rice", "Tobacco", "Wheat"],
+    answer: "Tobacco",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Tobacco cultivation (introduced by John Rolfe) turned Virginia into a profitable colony."
+  },
+  {
+    text: "What primary motive drove the Pilgrims and other early colonists who settled Plymouth?",
+    options: ["Economic exploitation", "Imperial glory", "Religious freedom and worship", "Scientific research"],
+    answer: "Religious freedom and worship",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Many early settlers, especially Pilgrims and Puritans, emigrated seeking freedom to practice their religion."
+  },
+  {
+    text: "Which confrontation in April 1775 is often considered the opening military engagement of the American Revolutionary War?",
+    options: ["Battles of Lexington and Concord", "Battle of Bunker Hill", "Siege of Boston", "Battle of Saratoga"],
+    answer: "Battles of Lexington and Concord",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "British troops and colonial militias clashed at Lexington and Concord, starting armed conflict."
+  },
+  {
+    text: "Who wrote the influential pamphlet 'Common Sense' urging American independence in 1776?",
+    options: ["John Adams", "Thomas Paine", "Ben Franklin", "Thomas Jefferson"],
+    answer: "Thomas Paine",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "'Common Sense' by Thomas Paine powerfully argued for independence and popular government."
+  },
+  {
+    text: "Which document, adopted July 4, 1776, formally announced the thirteen colonies’ separation from Britain?",
+    options: ["Articles of Confederation", "U.S. Constitution", "Declaration of Independence", "Bill of Rights"],
+    answer: "Declaration of Independence",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Declaration proclaimed the colonies independent and set out principles of natural rights."
+  },
+  {
+    text: "Where did the British army surrender in 1781, effectively ending major combat in the Revolution?",
+    options: ["Saratoga", "Yorktown", "Trenton", "Valley Forge"],
+    answer: "Yorktown",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Cornwallis’s surrender at Yorktown led to negotiations for peace and British recognition of independence."
+  },
+  {
+    text: "Which Founding Father was a leading author of many Federalist Papers advocating ratification of the Constitution?",
+    options: ["Patrick Henry", "Samuel Adams", "Alexander Hamilton", "George Mason"],
+    answer: "Alexander Hamilton",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Hamilton wrote a large portion of the Federalist Papers arguing for the new Constitution."
+  },
+  {
+    text: "In what year was the U.S. Constitution ratified by the necessary number of states to take effect?",
+    options: ["1789", "1787", "1788", "1791"],
+    answer: "1788",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Constitution was ratified by the ninth state in 1788 and took effect the following year."
+  },
+  {
+    text: "What was the principal purpose of the Bill of Rights (ratified 1791)?",
+    options: ["Create new states", "Establish the Supreme Court", "Protect individual liberties against federal power", "Form a national bank"],
+    answer: "Protect individual liberties against federal power",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The first ten amendments protect freedoms such as speech, religion, and fair trial."
+  },
+  {
+    text: "Who served as the first President of the United States under the Constitution (1789–1797)?",
+    options: ["John Adams", "Thomas Jefferson", "James Madison", "George Washington"],
+    answer: "George Washington",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "George Washington was unanimously elected first U.S. President and set many precedents."
+  },
+  {
+    text: "In which year did the United States purchase Louisiana from France, doubling U.S. territory?",
+    options: ["1803", "1801", "1812", "1798"],
+    answer: "1803",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Louisiana Purchase (1803) under Thomas Jefferson greatly expanded U.S. lands westward."
+  },
+  {
+    text: "Who led the Lewis and Clark Expedition to explore the newly acquired Louisiana Territory?",
+    options: ["Zebulon Pike", "Meriwether Lewis", "William Clark", "John C. Fremont"],
+    answer: "Meriwether Lewis",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Meriwether Lewis and William Clark led the Corps of Discovery; Lewis is often cited as expedition leader."
+  },
+  {
+    text: "Which Supreme Court case (1803) established the principle of judicial review?",
+    options: ["McCulloch v. Maryland", "Gibbons v. Ogden", "Marbury v. Madison", "Dred Scott v. Sandford"],
+    answer: "Marbury v. Madison",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Marbury v. Madison (1803) affirmed the Supreme Court’s power to invalidate laws it found unconstitutional."
+  },
+  {
+    text: "Which foreign policy statement warned European powers against further colonization in the Western Hemisphere (1823)?",
+    options: ["Monroe Doctrine", "Truman Doctrine", "Roosevelt Corollary", "Wilsonianism"],
+    answer: "Monroe Doctrine",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Monroe Doctrine declared opposition to European intervention in the Americas."
+  },
+  {
+    text: "Who was the U.S. President during the War of 1812 against Britain (1812–1815)?",
+    options: ["James Monroe", "James Madison", "Thomas Jefferson", "John Adams"],
+    answer: "James Madison",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "James Madison was president during the War of 1812."
+  },
+  {
+    text: "Which invention by Eli Whitney in 1793 dramatically increased cotton production and entrenched slavery in the South?",
+    options: ["The steel plow", "The telegraph", "The cotton gin", "The reaper"],
+    answer: "The cotton gin",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The cotton gin made cotton processing more efficient, expanding plantation profitability and slavery."
+  },
+  {
+    text: "What phrase described the 19th-century belief that the United States was destined to expand across North America?",
+    options: ["Manifest Destiny", "Monroe Doctrine", "American System", "Manifest Prosperity"],
+    answer: "Manifest Destiny",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Manifest Destiny justified expansion and shaped U.S. policy in the 19th century."
+  },
+  {
+    text: "Which compromise (1820) admitted Missouri as a slave state and Maine as a free state to maintain the balance?",
+    options: ["Compromise of 1850", "Kansas-Nebraska Act", "Missouri Compromise", "Compromise of 1877"],
+    answer: "Missouri Compromise",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Missouri Compromise (1820) maintained a balance between slave and free states."
+  },
+  {
+    text: "Which 1830 law authorized the removal of Native American tribes to lands west of the Mississippi?",
+    options: ["Homestead Act", "Indian Removal Act", "Dawes Act", "Kansas-Nebraska Act"],
+    answer: "Indian Removal Act",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Indian Removal Act (1830) led to forced relocations such as the Trail of Tears."
+  },
+  {
+    text: "Who wrote the anti-slavery novel 'Uncle Tom's Cabin' (1852) that galvanized northern opinion?",
+    options: ["Frederick Douglass", "Harriet Beecher Stowe", "Sojourner Truth", "Harriet Tubman"],
+    answer: "Harriet Beecher Stowe",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Stowe’s novel dramatized the suffering of enslaved people and influenced public sentiment."
+  },
+  {
+    text: "What was the effect of the Supreme Court decision in Dred Scott v. Sandford (1857)?",
+    options: ["Ended slavery", "Granted citizenship to freed slaves", "Declared African Americans were not U.S. citizens", "Established judicial review"],
+    answer: "Declared African Americans were not U.S. citizens",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Dred Scott held that Black people could not be citizens and that Congress could not ban slavery in territories."
+  },
+  {
+    text: "Which act (1854) allowed settlers in new western territories to decide the slavery question by popular vote?",
+    options: ["Missouri Compromise", "Compromise of 1850", "Fugitive Slave Act", "Kansas-Nebraska Act"],
+    answer: "Kansas-Nebraska Act",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Kansas-Nebraska Act introduced 'popular sovereignty' and sparked violent conflict in Kansas."
+  },
+  {
+    text: "Which 1860 event directly precipitated the secession of Southern states and the Civil War?",
+    options: ["Election of Abraham Lincoln", "Dred Scott decision", "John Brown’s raid", "Nullification Crisis"],
+    answer: "Election of Abraham Lincoln",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Lincoln’s election convinced many Southern leaders that slavery’s political future was threatened."
+  },
+  {
+    text: "Where did the first shots of the American Civil War occur in April 1861?",
+    options: ["Gettysburg", "Fort Sumter", "Bull Run", "Antietam"],
+    answer: "Fort Sumter",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Confederate forces fired on Fort Sumter in Charleston Harbor, beginning hostilities."
+  },
+  {
+    text: "Who issued the Emancipation Proclamation, freeing slaves in Confederate-held territories during the Civil War?",
+    options: ["Congress", "The Supreme Court", "Abraham Lincoln", "Ulysses S. Grant"],
+    answer: "Abraham Lincoln",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Lincoln issued the Emancipation Proclamation in 1863 as a war measure to weaken the Confederacy."
+  },
+  {
+    text: "Which 1863 battle is often considered the turning point of the Civil War because of the Union victory?",
+    options: ["Antietam", "Fort Donelson", "Shiloh", "Gettysburg"],
+    answer: "Gettysburg",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Union victory at Gettysburg halted Lee’s invasion of the North in 1863."
+  },
+  {
+    text: "Which Constitutional Amendment, ratified in 1865, abolished slavery throughout the United States?",
+    options: ["13th Amendment", "14th Amendment", "15th Amendment", "12th Amendment"],
+    answer: "13th Amendment",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The 13th Amendment legally ended slavery in the United States."
+  },
+  {
+    text: "Which amendment, adopted during Reconstruction, granted citizenship and equal protection under the law to all persons born or naturalized in the U.S.?",
+    options: ["13th Amendment", "14th Amendment", "15th Amendment", "16th Amendment"],
+    answer: "14th Amendment",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The 14th Amendment established citizenship and forbade states from infringing civil rights."
+  },
+  {
+    text: "Which amendment guaranteed the right to vote regardless of race (ratified 1870)?",
+    options: ["13th Amendment", "14th Amendment", "15th Amendment", "19th Amendment"],
+    answer: "15th Amendment",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The 15th Amendment prohibited denial of the vote based on race or prior condition of servitude."
+  },
+  {
+    text: "What compromise effectively ended Reconstruction in 1877 and led to the withdrawal of federal troops from the South?",
+    options: ["Compromise of 1850", "Missouri Compromise", "Compromise of 1877", "Wilmot Proviso"],
+    answer: "Compromise of 1877",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Compromise resolved the 1876 election in exchange for removing federal troops from Southern states."
+  },
+  {
+    text: "Which 1862 law granted settled farmers 160 acres of public land provided they improved it for five years?",
+    options: ["Homestead Act", "Morrill Act", "Pacific Railway Act", "Dawes Act"],
+    answer: "Homestead Act",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Homestead Act encouraged westward settlement by granting land to applicants who cultivated it."
+  },
+  {
+    text: "Which industrialist was the principal figure behind Standard Oil and a symbol of corporate consolidation?",
+    options: ["Andrew Carnegie", "John D. Rockefeller", "Cornelius Vanderbilt", "J. P. Morgan"],
+    answer: "John D. Rockefeller",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Rockefeller founded Standard Oil and dominated the oil industry in the late 19th century."
+  },
+  {
+    text: "Which nationwide railroad strike in 1894 highlighted labor unrest and federal involvement in labor disputes?",
+    options: ["Homestead Strike", "Haymarket Affair", "Pullman Strike", "Bonus Army"],
+    answer: "Pullman Strike",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Pullman Strike prompted federal troops to intervene, demonstrating tensions between labor and capital."
+  },
+  {
+    text: "Which 1890 federal law sought to limit monopolies and preserve competition?",
+    options: ["Interstate Commerce Act", "Homestead Act", "Federal Reserve Act", "Sherman Antitrust Act"],
+    answer: "Sherman Antitrust Act",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Sherman Act targeted restraints of trade and monopolistic practices."
+  },
+  {
+    text: "Which 1898 conflict resulted in the United States emerging as an imperial power with territories like the Philippines and Puerto Rico?",
+    options: ["Spanish-American War", "Mexican-American War", "World War I", "War of 1812"],
+    answer: "Spanish-American War",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Victory over Spain expanded U.S. influence overseas in 1898."
+  },
+  {
+    text: "Which president is known for trust-busting, conservation and the 'Square Deal' progressive policies?",
+    options: ["William Howard Taft", "Theodore Roosevelt", "Woodrow Wilson", "William McKinley"],
+    answer: "Theodore Roosevelt",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "T.R. advocated regulation of corporations, conservation, and progressive reform."
+  },
+  {
+    text: "Which president led the United States during World War I and proposed the League of Nations?",
+    options: ["Theodore Roosevelt", "William Howard Taft", "Woodrow Wilson", "Warren G. Harding"],
+    answer: "Woodrow Wilson",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Wilson guided U.S. policy in WWI and promoted the League as a framework for peace."
+  },
+  {
+    text: "Which international treaty ended World War I and imposed terms on Germany in 1919?",
+    options: ["Armistice of Compiègne", "Treaty of Brest-Litovsk", "Treaty of Ghent", "Treaty of Versailles"],
+    answer: "Treaty of Versailles",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Versailles (1919) formally ended WWI and shaped the postwar order, though the U.S. Senate rejected the League covenant."
+  },
+  {
+    text: "Which constitutional amendment, ratified in 1920, granted women the right to vote nationally?",
+    options: ["18th Amendment", "17th Amendment", "19th Amendment", "21st Amendment"],
+    answer: "19th Amendment",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The 19th Amendment enfranchised women nationwide in 1920."
+  },
+  {
+    text: "What phrase describes the cultural and economic exuberance of the 1920s, especially associated with jazz and consumerism?",
+    options: ["Gilded Age", "Jazz Age (Roaring Twenties)", "Progressive Era", "Great Society"],
+    answer: "Jazz Age (Roaring Twenties)",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The 1920s saw booming consumer culture, jazz music, and major social change."
+  },
+  {
+    text: "Which event on October 29, 1929, triggered stock-market collapse and helped trigger the Great Depression?",
+    options: ["Black Tuesday", "Black Monday", "Dust Bowl beginning", "Armistice Day"],
+    answer: "Black Tuesday",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Black Tuesday marked the 1929 Wall Street crash that precipitated the Depression."
+  },
+  {
+    text: "Which New Deal program created a federal safety net including retirement benefits and unemployment insurance (Social Security)?",
+    options: ["Civilian Conservation Corps (CCC)", "Tennessee Valley Authority (TVA)", "Works Progress Administration (WPA)", "Social Security Act"],
+    answer: "Social Security Act",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Social Security Act (1935) established pensions, unemployment insurance, and welfare programs."
+  },
+  {
+    text: "Who served as U.S. President for most of World War II, guiding wartime policy and postwar planning?",
+    options: ["Herbert Hoover", "Franklin D. Roosevelt", "Harry S. Truman", "Dwight D. Eisenhower"],
+    answer: "Franklin D. Roosevelt",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "FDR led the U.S. through the Depression and most of WWII until his death in 1945."
+  },
+  {
+    text: "Which surprise attack on December 7, 1941, brought the United States into World War II?",
+    options: ["Battle of Midway", "Attack on Pearl Harbor", "Battle of the Philippines", "Doolittle Raid"],
+    answer: "Attack on Pearl Harbor",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Japan’s attack on Pearl Harbor led Congress to declare war on Japan and enter WWII."
+  },
+  {
+    text: "What was the Manhattan Project?",
+    options: ["A postwar reconstruction plan", "A series of diplomatic conferences", "The secret U.S. program to develop the atomic bomb", "An anti-lynching campaign"],
+    answer: "The secret U.S. program to develop the atomic bomb",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Manhattan Project developed nuclear weapons during WWII."
+  },
+  {
+    text: "Which conference among Allied leaders in 1945 shaped postwar Europe and the United Nations framework?",
+    options: ["Yalta Conference", "Treaty of Paris", "Versailles Conference", "Potsdam Accords (no)"],
+    answer: "Yalta Conference",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Yalta (Feb. 1945) addressed postwar reorganization and the UN; Potsdam followed later."
+  },
+  {
+    text: "What U.S. foreign policy, first articulated in 1947, pledged support to countries resisting Communist expansion?",
+    options: ["Marshall Plan", "Truman Doctrine", "Containment Strategy", "Nixon Doctrine"],
+    answer: "Truman Doctrine",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Truman Doctrine supported nations resisting Communist influence, marking Cold War policy."
+  },
+  {
+    text: "Which 1948 economic initiative provided widespread American aid to rebuild war-ravaged Europe?",
+    options: ["Point Four Program", "Marshall Plan", "Lend-Lease 2", "Taft-Hartley Plan"],
+    answer: "Marshall Plan",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Marshall Plan funded reconstruction and helped stabilize Europe after WWII."
+  },
+  {
+    text: "Which security organization, formed in 1949, created a collective defense alliance between North America and Western Europe?",
+    options: ["Warsaw Pact", "SEATO", "United Nations", "NATO"],
+    answer: "NATO",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The North Atlantic Treaty Organization (NATO) arranged collective defense versus Soviet threat."
+  },
+  {
+    text: "Which conflict (1950–1953) pitted U.S.-led United Nations forces against North Korean and Chinese forces?",
+    options: ["Vietnam War", "World War II Pacific", "Korean War", "First Gulf War"],
+    answer: "Korean War",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Korean War fought on the peninsula ended in an armistice and solidified Cold War divisions."
+  },
+  {
+    text: "Which civil-rights leader delivered the 'I Have a Dream' speech in 1963 and led nonviolent protest campaigns?",
+    options: ["Malcolm X", "Rosa Parks", "Martin Luther King Jr.", "W. E. B. Du Bois"],
+    answer: "Martin Luther King Jr.",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "MLK led the civil rights movement and gave his famous speech at the March on Washington."
+  },
+  {
+    text: "Which Supreme Court decision in 1954 declared state-sponsored school segregation unconstitutional?",
+    options: ["Plessy v. Ferguson", "Brown v. Board of Education", "Roe v. Wade", "Gideon v. Wainwright"],
+    answer: "Brown v. Board of Education",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Brown overturned 'separate but equal' and mandated desegregation of public schools."
+  },
+  {
+    text: "Which U.S. senator became known for aggressive anti-Communist hearings in the early 1950s?",
+    options: ["Senator Robert Taft", "Senator Barry Goldwater", "Senator Joseph McCarthy", "Senator Hubert Humphrey"],
+    answer: "Senator Joseph McCarthy",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "McCarthy led a campaign accusing individuals of communist sympathies, later discredited."
+  },
+  {
+    text: "The October 1962 Cuban Missile Crisis was a confrontation between the United States and which country over nuclear missiles in Cuba?",
+    options: ["China", "North Korea", "Soviet Union", "Cuba only"],
+    answer: "Soviet Union",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Soviet missiles in Cuba triggered a tense standoff that nearly escalated to nuclear war."
+  },
+  {
+    text: "Which president escalated U.S. involvement in Vietnam and pushed Great Society domestic programs?",
+    options: ["John F. Kennedy", "Richard Nixon", "Lyndon B. Johnson", "Dwight D. Eisenhower"],
+    answer: "Lyndon B. Johnson",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "LBJ expanded U.S. forces in Vietnam while enacting extensive social reforms."
+  },
+  {
+    text: "Which landmark 1964 law banned discrimination in public accommodations and employment?",
+    options: ["Voting Rights Act", "Civil Rights Act of 1964", "Fair Labor Standards Act", "Equal Pay Act"],
+    answer: "Civil Rights Act of 1964",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Civil Rights Act outlawed segregation and employment discrimination."
+  },
+  {
+    text: "In what year did U.S. astronauts first land humans on the Moon (Apollo 11)?",
+    options: ["1967", "1968", "1969", "1971"],
+    answer: "1969",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Apollo 11 landed on the Moon on July 20, 1969, with Neil Armstrong and Buzz Aldrin."
+  },
+  {
+    text: "Which prolonged conflict deeply divided American society and led to large-scale protests during the 1960s and early 1970s?",
+    options: ["Korean War", "Vietnam War", "Gulf War", "World War II"],
+    answer: "Vietnam War",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Vietnam War and the draft provoked mass protests and domestic political turmoil."
+  },
+  {
+    text: "Which U.S. President resigned in 1974 over the Watergate scandal?",
+    options: ["Gerald Ford", "Richard Nixon", "Jimmy Carter", "Lyndon Johnson"],
+    answer: "Richard Nixon",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Facing near-certain impeachment, Nixon resigned in August 1974 amid Watergate revelations."
+  },
+  {
+    text: "What major 1979–1981 crisis involved the seizure of the American embassy and long hostage detention in Tehran?",
+    options: ["Iranian Hostage Crisis", "Suez Crisis", "Bay of Pigs", "Camp David Crisis"],
+    answer: "Iranian Hostage Crisis",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Iranian militants seized the U.S. Embassy in Tehran in 1979, holding Americans for over a year."
+  },
+  {
+    text: "Which U.S. president brokered the Camp David Accords between Israel and Egypt in 1978?",
+    options: ["Gerald Ford", "Richard Nixon", "Jimmy Carter", "Ronald Reagan"],
+    answer: "Jimmy Carter",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Carter facilitated a peace agreement between Egyptian President Sadat and Israeli PM Begin."
+  },
+  {
+    text: "Which 1973 international development triggered an oil embargo and major economic disruption in the U.S. and other industrialized nations?",
+    options: ["Sino-Soviet split", "Iranian Revolution", "1973 oil embargo by OPEC", "Korean War escalation"],
+    answer: "1973 oil embargo by OPEC",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The OPEC oil embargo led to energy shortages and stagflation in the 1970s."
+  },
+  {
+    text: "Which 1980s political leader promoted supply-side economics and a large tax-cut agenda known as 'Reaganomics'?",
+    options: ["Ronald Reagan", "Jimmy Carter", "Gerald Ford", "Bill Clinton"],
+    answer: "Ronald Reagan",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Reagan championed tax cuts, deregulation, and increased defense spending in the 1980s."
+  },
+  {
+    text: "Who famously told Mikhail Gorbachev, 'Mr. Gorbachev, tear down this wall' in 1987?",
+    options: ["Ronald Reagan", "Gerald Ford", "George H. W. Bush", "Jimmy Carter"],
+    answer: "Ronald Reagan",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Reagan’s 1987 speech in West Berlin symbolized U.S. support for ending the Cold War division."
+  },
+  {
+    text: "Which major Cold War symbol fell in 1989, signaling the fracturing of Soviet control in Eastern Europe?",
+    options: ["Iron Curtain", "Berlin Wall", "Potsdam Line", "Soviet Embassy"],
+    answer: "Berlin Wall",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The fall of the Berlin Wall in 1989 symbolized the collapse of communist regimes in Eastern Europe."
+  },
+  {
+    text: "Which 1991 conflict saw a U.S.-led coalition expel Iraqi forces from Kuwait?",
+    options: ["Gulf War (Operation Desert Storm)", "Vietnam War", "Korean War", "Bosnian War"],
+    answer: "Gulf War (Operation Desert Storm)",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Operation Desert Storm liberated Kuwait after Iraq’s 1990 invasion."
+  },
+  {
+    text: "Which trade agreement implemented in 1994 created a trilateral free-trade zone between the U.S., Canada, and Mexico?",
+    options: ["Trans-Pacific Partnership (TPP)", "NAFTA", "WTO", "CAFTA"],
+    answer: "NAFTA",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The North American Free Trade Agreement reduced many barriers among the three countries."
+  },
+  {
+    text: "Which U.S. President presided over a strong economy in the 1990s and was impeached but acquitted in 1999?",
+    options: ["George H. W. Bush", "George W. Bush", "Bill Clinton", "Jimmy Carter"],
+    answer: "Bill Clinton",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Clinton oversaw strong economic growth; he was impeached over the Lewinsky scandal but not removed."
+  },
+  {
+    text: "What terrorist attacks on September 11, 2001, led to a major shift in U.S. foreign and domestic policy?",
+    options: ["Oklahoma City bombing", "1993 World Trade Center bombing", "9/11 attacks on the World Trade Center and Pentagon", "Bali bombings"],
+    answer: "9/11 attacks on the World Trade Center and Pentagon",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Al-Qaeda’s 9/11 attacks precipitated the ‘War on Terror’ and global counterterrorism efforts."
+  },
+  {
+    text: "Which president launched military operations in Afghanistan (2001) and Iraq (2003)?",
+    options: ["Barack Obama", "Bill Clinton", "George W. Bush", "Donald Trump"],
+    answer: "George W. Bush",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "President George W. Bush authorized invasions in Afghanistan (2001) and Iraq (2003)."
+  },
+  {
+    text: "Which department, created after 9/11, consolidated domestic security activities in the United States?",
+    options: ["Department of Education", "Department of Defense", "Department of Homeland Security", "Department of Energy"],
+    answer: "Department of Homeland Security",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "DHS was established to coordinate national efforts to prevent and respond to terrorist attacks."
+  },
+  {
+    text: "Which major financial institution’s failure in 2008 helped trigger a global financial crisis?",
+    options: ["Enron", "WorldCom", "Lehman Brothers", "Bear Stearns (no: 2008 collapse)"],
+    answer: "Lehman Brothers",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Lehman Brothers’ 2008 bankruptcy intensified the global financial meltdown."
+  },
+  {
+    text: "Which law, signed in 2010, aimed to expand health insurance coverage and reform the U.S. healthcare system?",
+    options: ["Medicare Modernization Act", "Health Care and Education Reconciliation Act only", "Social Security Reform Act", "Affordable Care Act (ACA)"],
+    answer: "Affordable Care Act (ACA)",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The ACA (passed 2010) expanded coverage via marketplaces and Medicaid expansion in participating states."
+  },
+  {
+    text: "Which president was the first African American elected to the U.S. presidency (2008 and 2012)?",
+    options: ["Hillary Clinton", "Mitt Romney", "Barack Obama", "John McCain"],
+    answer: "Barack Obama",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Barack Obama won the presidency in 2008 and was reelected in 2012."
+  },
+  {
+    text: "Which candidate won the 2016 U.S. presidential election unexpectedly in a close electoral vote?",
+    options: ["Hillary Clinton", "Barack Obama", "Donald Trump", "Joe Biden"],
+    answer: "Donald Trump",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Donald Trump won the 2016 Electoral College vote and became president."
+  },
+  {
+    text: "Which global pandemic beginning in 2019–2020 led to major public-health responses and economic disruption in the United States?",
+    options: ["H1N1 (2009)", "Ebola (2014)", "COVID-19 pandemic", "Zika (2016)"],
+    answer: "COVID-19 pandemic",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "COVID-19 caused widespread illness, lockdowns, and large-scale economic impacts from 2020 onward."
+  },
+  {
+    text: "Who won the 2020 U.S. presidential election and took office in January 2021?",
+    options: ["Donald Trump", "Bernie Sanders", "Joe Biden", "Kamala Harris"],
+    answer: "Joe Biden",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Joe Biden defeated the incumbent and became president in January 2021."
+  },
+  {
+    text: "Which article of the U.S. Constitution establishes the legislative branch (Congress)?",
+    options: ["Article I", "Article II", "Article III", "Article IV"],
+    answer: "Article I",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Article I vests legislative power in the Congress (House and Senate)."
+  },
+  {
+    text: "Which branch of the federal government is primarily responsible for enforcing federal laws?",
+    options: ["Legislative branch", "Executive branch", "Judicial branch", "State governments"],
+    answer: "Executive branch",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The President and the executive departments enforce laws enacted by Congress."
+  },
+  {
+    text: "Which amendment guarantees freedoms such as speech, press, religion, assembly, and petition?",
+    options: ["Second Amendment", "Fourth Amendment", "First Amendment", "Fifth Amendment"],
+    answer: "First Amendment",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The First Amendment protects core civil liberties in the Bill of Rights."
+  },
+  {
+    text: "Which amendment protects citizens against unreasonable searches and seizures?",
+    options: ["First Amendment", "Fifth Amendment", "Sixth Amendment", "Fourth Amendment"],
+    answer: "Fourth Amendment",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Fourth Amendment requires warrants based on probable cause for many searches."
+  },
+  {
+    text: "Which 1848 meeting is commonly cited as the start of the organized women's rights movement in the United States?",
+    options: ["Seneca Falls Convention", "Emancipation Proclamation", "Haymarket Rally", "Columbus Day Conference"],
+    answer: "Seneca Falls Convention",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Seneca Falls Convention (1848) produced the Declaration of Sentiments demanding equal rights for women."
+  },
+  {
+    text: "Which 1963 book by Betty Friedan is credited with sparking the second-wave feminist movement in the United States?",
+    options: ["The Feminine Mystique", "A Room of One's Own", "The Second Sex", "Sex and the Single Girl"],
+    answer: "The Feminine Mystique",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Friedan’s book criticized domestic confinement and energized the women's movement."
+  },
+  {
+    text: "Which landmark Supreme Court decision in 1973 recognized a constitutional right to abortion (later overturned in 2022)?",
+    options: ["Griswold v. Connecticut", "Planned Parenthood v. Casey", "Roe v. Wade", "Doe v. Bolton"],
+    answer: "Roe v. Wade",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Roe v. Wade (1973) established a right to abortion; it was subject to later legal changes."
+  },
+  {
+    text: "Which provision of the 1964 Civil Rights Act prohibits employers and public accommodations from discriminating on the basis of race, color, religion, sex, or national origin?",
+    options: ["Voting Rights provision", "Title I", "Title II", "Title VII"],
+    answer: "Title VII",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Title VII addresses employment discrimination and is a cornerstone of civil-rights law."
+  },
+  {
+    text: "Which 1944 legislation provided benefits to returning World War II veterans, including education and home loans?",
+    options: ["GI Bill (Servicemen’s Readjustment Act)", "Homestead Act", "Social Security Act", "Wagner Act"],
+    answer: "GI Bill (Servicemen’s Readjustment Act)",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The GI Bill expanded access to education, housing, and other benefits for veterans."
+  },
+  {
+    text: "Which 1956 federal program funded the construction of a national system of interstate highways?",
+    options: ["Rural Electrification Act", "Interstate Highway System (Federal-Aid Highway Act)", "Social Security Expansion", "Medicare Act"],
+    answer: "Interstate Highway System (Federal-Aid Highway Act)",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The 1956 act authorized a nationwide network of high-speed highways for civilian and defense use."
+  },
+  {
+    text: "Which early computer network project (late 1960s) is the technical ancestor of the modern Internet?",
+    options: ["Email", "TCP/IP", "ARPANET", "Mosaic web browser"],
+    answer: "ARPANET",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "ARPANET linked research institutions and enabled packet-switched communications foundational for the Internet."
+  },
+  {
+    text: "Which U.S. agency led the Apollo program that landed humans on the Moon in 1969?",
+    options: ["National Science Foundation (NSF)", "Central Intelligence Agency (CIA)", "National Oceanic and Atmospheric Administration (NOAA)", "NASA"],
+    answer: "NASA",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "NASA (National Aeronautics and Space Administration) ran the Apollo lunar missions."
+  },
+  {
+    text: "Which 1965 law removed national origins quotas and opened U.S. immigration to broader global flows?",
+    options: ["Immigration Act of 1924", "Immigration and Nationality Act of 1965", "Chinese Exclusion Act", "McCarran-Walter Act"],
+    answer: "Immigration and Nationality Act of 1965",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The 1965 act ended racially based quotas and reshaped U.S. immigration patterns."
+  },
+  {
+    text: "Which public insurance program, enacted in 1965, provides health coverage to Americans aged 65 and older?",
+    options: ["Medicaid", "Medicare", "Social Security Disability", "Children's Health Insurance Program"],
+    answer: "Medicare",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Medicare offers health coverage for the elderly and disabled and was part of the Great Society."
+  },
+  {
+    text: "Which constitutional amendment lowered the voting age from 21 to 18 (ratified in 1971)?",
+    options: ["24th Amendment", "25th Amendment", "26th Amendment", "27th Amendment"],
+    answer: "26th Amendment",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The 26th Amendment reduced the voting age to 18, influenced by arguments about military draft age."
+  },
+  {
+    text: "Which 1986 law simplified the federal tax code and closed many loopholes while lowering top rates?",
+    options: ["Tax Reform Act of 1986", "Affordable Care Act", "Glass-Steagall Act", "Social Security Amendments of 1983"],
+    answer: "Tax Reform Act of 1986",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Tax Reform Act was a major bipartisan overhaul of federal income-tax rates and deductions."
+  },
+  {
+    text: "Which amendment protects the right to keep and bear arms?",
+    options: ["First Amendment", "Second Amendment", "Fourth Amendment", "Eighth Amendment"],
+    answer: "Second Amendment",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "The Second Amendment secures the right to bear arms and is central to U.S. debate on firearms."
+  },
+  {
+    text: "Which branch of government is specifically charged with making federal laws?",
+    options: ["Supreme Court", "President and Cabinet", "Congress (House and Senate)", "Federal Reserve"],
+    answer: "Congress (House and Senate)",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Congress (legislative branch) drafts, debates, and passes federal statutes."
+  },
+  {
+    text: "Which 2010 Supreme Court decision protected corporate independent political expenditures as free speech?",
+    options: ["McCain-Feingold Act", "Buckley v. Valeo", "Citizens United v. FEC", "Citizens v. Corporation"],
+    answer: "Citizens United v. FEC",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Citizens United (2010) allowed corporations and unions to spend independently on political campaigns."
+  },
+  {
+    text: "Which 2022 Supreme Court decision overturned the federal constitutional right to abortion established by Roe v. Wade?",
+    options: ["Planned Parenthood v. Casey", "Whole Woman’s Health v. Hellerstedt", "Gonzales v. Carhart", "Dobbs v. Jackson Women’s Health Organization"],
+    answer: "Dobbs v. Jackson Women’s Health Organization",
+    image: "",
+    subtopic: "History of USA",
+    explanation: "Dobbs (2022) returned the regulation of abortion to state legislatures by overturning Roe."
+  },
+]

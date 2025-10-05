@@ -1,0 +1,681 @@
+export default [
+  {
+    text: "Which club is Lionel Messi currently captaining in Major League Soccer?",
+    options: ["Inter Miami", "Paris Saint-Germain", "Barcelona", "Newell's Old Boys"],
+    answer: "Inter Miami", // A
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+  {
+    text: "Messi is widely regarded as one of the greatest in football history. Which role does he primarily play?",
+    options: ["Goalkeeper", "Forward", "Midfielder", "Defender"],
+    answer: "Forward", // B
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+  {
+    text: "Which personal accolade has Messi won multiple times, establishing him as one of the best players ever?",
+    options: ["Golden Glove", "Ballon d'Or", "FIFA Fair Play", "UEFA Young Player"],
+    answer: "Ballon d'Or", // C
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+  {
+    text: "Messi has played for several clubs. Which of these did he join after leaving Barcelona?",
+    options: ["River Plate", "Newell's Old Boys", "Paris Saint-Germain", "Inter Miami"],
+    answer: "Paris Saint-Germain", // D
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+  {
+    text: "Messi is famous for celebrating his goals by pointing to the sky. Why?",
+    options: ["For luck", "In tribute to his late grandmother", "Random habit", "For fans"],
+    answer: "In tribute to his late grandmother", // B
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+  {
+    text: "Which youth academy did Messi join when he moved to Spain?",
+    options: ["La Masia", "River Plate Academy", "Grandoli", "Newell's Old Boys"],
+    answer: "La Masia", // A
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+  {
+    text: "Messi is Argentina's all-time leading goalscorer. Which other record does he hold for his national team?",
+    options: ["Oldest player", "Fastest goal", "Most capped player", "Youngest captain"],
+    answer: "Most capped player", // C
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+  {
+    text: "Which legendary Barcelona teammate helped Messi feel comfortable in the first team when he was very young?",
+    options: ["Samuel Eto'o", "Cesc Fàbregas", "Gerard Piqué", "Ronaldinho"],
+    answer: "Ronaldinho", // D
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+  {
+    text: "Messi helped Barcelona achieve a historic feat under Pep Guardiola. What was it?",
+    options: ["Winning only La Liga", "Never losing a Clásico", "Fastest goal record", "First treble in Spanish football"],
+    answer: "First treble in Spanish football", // C
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+  {
+    text: "Messi is known for his incredible dribbling skills. What is another way to describe him?",
+    options: ["Creative playmaker", "Powerful goalkeeper", "Set-piece specialist", "Defensive wall"],
+    answer: "Creative playmaker", // A
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+  {
+    text: "Which of these awards did Messi win for his influence beyond football?",
+    options: ["Golden Glove", "Puskás Prize", "UEFA Best Defender", "Time's Athlete of the Year"],
+    answer: "Time's Athlete of the Year", // D
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+  {
+    text: "Messi is known as a prolific goalscorer. Which club record is he famous for?",
+    options: ["Most assists in MLS", "Most appearances in Copa America", "Most goals scored for a single club", "Most red cards"],
+    answer: "Most goals scored for a single club", // C
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+  {
+    text: "Messi's early youth club in Argentina was known for what?",
+    options: ["River Plate – first contract", "Grandoli – coached by his father", "PSG – summer trial", "Barcelona C – first team debut"],
+    answer: "Grandoli – coached by his father", // B
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+  {
+    text: "Messi returned to international football after a short retirement. Which tournament did he help Argentina narrowly qualify for?",
+    options: ["2016 Copa América", "2020 Copa América", "2008 Olympics", "2018 World Cup"],
+    answer: "2018 World Cup", // D
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+  {
+    text: "Which club did Messi remain loyal to despite receiving offers from Arsenal and other European clubs as a teen?",
+    options: ["River Plate", "Paris Saint-Germain", "Newell's Old Boys", "Barcelona"],
+    answer: "Barcelona", // C
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+  {
+    text: "Messi made his competitive debut for Barcelona at what age?",
+    options: ["15", "21", "19", "17"],
+    answer: "17", // D
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+  {
+    text: "Messi is considered the all-time top scorer for which domestic league?",
+    options: ["Premier League", "MLS", "Ligue 1", "La Liga"],
+    answer: "La Liga", // C
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+  {
+    text: "Which medal did Messi win at the 2008 Olympics with Argentina?",
+    options: ["Silver", "Bronze", "No medal", "Gold"],
+    answer: "Gold", // D
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+  {
+    text: "Messi has been known to surpass which milestone in career goals and assists combined?",
+    options: ["Over 500", "Over 1,500", "Over 1,200", "Over 800"],
+    answer: "Over 1,200", // C
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+  {
+    text: "Messi is one player to have achieved which of these greater feats with Barcelona?",
+    options: ["Winning only La Liga", "Winning MLS MVP", "Scoring only penalties", "Winning the sextuple"],
+    answer: "Winning the sextuple", // D
+    image: "",
+    subtopic: "Lionel Messi"
+  },
+
+
+  {
+    text: "What term was coined to describe Barcelona's reliance on Messi during his record-breaking 2012–13 season?",
+    options: ["Messidependencia", "Messimania", "Messi-effect", "Messi syndrome"],
+    answer: "Messidependencia", // A
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "Which teammate joined Barcelona to share the attacking load with Messi after Messidependencia concerns?",
+    options: ["Luis Suárez", "Neymar", "Andrés Iniesta", "Sergio Busquets"],
+    answer: "Neymar", // B
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "Messi became Eoropean's league all-time top scorer after surpassing which historic player?",
+    options: ["Telmo Zarra", "Cristiano Ronaldo", "Gerd Müller", "Raúl González"],
+    answer: "Gerd Müller", // C
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "What was significant about the 2014–15 season for Barcelona with Messi, Suárez, and Neymar?",
+    options: ["They won the treble for the first time", "They broke goal-scoring records as the MSN trio", "Messi scored fewer than 20 goals", "Barcelona went trophyless"],
+    answer: "They broke goal-scoring records as the MSN trio", // D
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "Which record did Messi break when he scored 91 goals in 2012 for club and country combined?",
+    options: ["Most goals in a calendar year", "Most hat-tricks in La Liga", "Most assists in Europe", "Most international goals in a year"],
+    answer: "Most goals in a calendar year", // A
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "During the 2015–16 season, Messi contributed to a record number of combined goals with MSN. Approximately how many goals did they score together?",
+    options: ["122 goals", "131 goals", "110 goals", "91 goals"],
+    answer: "131 goals", // B
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "Which manager's system allowed Messi to thrive alongside Suárez and Neymar, forming the famous MSN trio?",
+    options: ["Luis Enrique", "Pep Guardiola", "Frank Rijkaard", "Ernesto Valverde"],
+    answer: "Luis Enrique", // C
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "Messi wore the captain's armband for the first time in a league match against which team?",
+    options: ["Rayo Vallecano", "Sevilla", "Real Betis", "Espanyol"],
+    answer: "Rayo Vallecano", // D
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "Which record did Messi achieve during the 2017–18 season while still at Barcelona?",
+    options: ["Most appearances in club history", "Winning the sextuple", "Top scorer in La Liga with a Golden Boot", "Most international caps for Argentina"],
+    answer: "Top scorer in La Liga with a Golden Boot", // A
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "In 2012, Messi won the Ballon d'Or for the fourth time. What was historically unique about this achievement?",
+    options: [ "First Argentine to win twice", "Youngest winner ever", "First player to win it four times", "First Barcelona player to win consecutively"],
+    answer: "First player to win it four times", // B
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "Which season marked Messi's first league title as Barcelona's captain?",
+    options: ["2018–19", "2017–18", "2016–17", "2015–16"],
+    answer: "2018–19", // C
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "Messi's 2012 record-breaking year involved goals for which two entities?",
+    options: ["Barcelona and PSG", "Argentina and Barcelona", "Argentina and Newell's Old Boys", "Barcelona B and Barcelona C"],
+    answer: "Argentina and Barcelona", // D
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "The 2014–15 treble-winning Barcelona squad included Messi and which two forwards?",
+    options: ["Suárez and Neymar", "Iniesta and Busquets", "Piqué and Alba", "Messi and Ronaldinho"],
+    answer: "Suárez and Neymar", // A
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "What was unusual about Barcelona's 2013–14 season despite Messi still scoring 41 goals?",
+    options: ["No major trophies won", "Messi retired mid-season", "Messi scored only penalties", "Barcelona changed coaches mid-season"],
+    answer: "No major trophies won", // B
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "Which La Liga record did Messi break by surpassing Telmo Zarra’s 251 goals?",
+    options: ["Most career goals in La Liga", "Most goals in a single season", "Most assists in La Liga", "Most hat-tricks in European competitions"],
+    answer: "Most career goals in La Liga", // C
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "Messi's combined 363 goals over three seasons were scored with which trio?",
+    options: ["Messi, Suárez, Neymar", "Messi, Ronaldo, Suárez", "Messi, Neymar, Iniesta", "Messi, Suárez, Piqué"],
+    answer: "Messi, Suárez, Neymar", // D
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "In the 2016–17 season, Messi won both the Pichichi and European Golden Boot for what reason?",
+    options: ["Top scorer in La Liga", "Most assists in Europe", "Most appearances", "Winning the Copa del Rey"],
+    answer: "Top scorer in La Liga", // A
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "Which tournament did Messi win at the start of the 2015–16 season with Barcelona?",
+    options: ["UEFA Super Cup", "FIFA Club World Cup", "Copa del Rey", "La Liga"],
+    answer: "UEFA Super Cup", // B
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "Messi signed a new contract with Barcelona in 2017. How long did it extend his stay?",
+    options: ["Through 2021", "Through 2019", "Through 2023", "Through 2020"],
+    answer: "Through 2021", // C
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "During his final seasons at Barcelona, Messi became the club leader in what category?",
+    options: ["La Liga top scorer with eight Pichichi trophies", "Most red cards", "Most Champions League titles", "Most appearances for Argentina"],
+    answer: "La Liga top scorer with eight Pichichi trophies", // D
+    image: "",
+    subtopic: "Messi Records & MSN"
+  },
+  {
+    text: "On what date did Messi officially join Paris Saint-Germain?",
+    options: ["15 July 2021", "10 August 2021", "25 November 2021", "2 October 2021"],
+    answer: "10 August 2021",
+    subtopic: "Messi PSG Transfer"
+  },
+  {
+    text: "Which squad number did Messi choose at PSG, recalling his teenage debut at Barcelona?",
+    options: ["10", "30", "7", "9"],
+    answer: "30",
+    subtopic: "Messi PSG Transfer"
+  },
+  {
+    text: "Against which club did Messi score his first goal for PSG?",
+    options: ["Manchester City", "Reims", "Club Brugge", "Lyon"],
+    answer: "Manchester City",
+    subtopic: "Messi PSG Debut"
+  },
+  {
+    text: "How many goals and assists did Messi have in his debut PSG season?",
+    options: ["15 goals and 12 assists", "11 goals and 14 assists", "40 goals and 10 assists", "21 goals and 16 assists"],
+    answer: "11 goals and 14 assists",
+    subtopic: "Messi PSG Performance"
+  },
+  {
+    text: "Which record did Messi break with his goal against Nice in the 2022–23 season?",
+    options: ["Most appearances for PSG", "Highest goalscorer in European club football", "Most assists in Ligue 1 history", "Fastest hat-trick in Ligue 1"],
+    answer: "Highest goalscorer in European club football",
+    subtopic: "Messi Records"
+  },
+  {
+    text: "In which year did Messi join Inter Miami CF?",
+    options: ["2022", "2024", "2023", "2021"],
+    answer: "2023",
+    subtopic: "Messi Inter Miami Transfer"
+  },
+  {
+    text: "Who gave Messi the captain's armband upon his arrival at Inter Miami?",
+    options: ["Neymar", "Cristiano Ronaldo", "Pep Guardiola", "DeAndre Yedlin"],
+    answer: "DeAndre Yedlin",
+    subtopic: "Messi Inter Miami Transfer"
+  },
+  {
+    text: "Messi helped Inter Miami win their first-ever trophy in which competition?",
+    options: ["Leagues Cup", "MLS Cup", "U.S. Open Cup", "Supporters' Shield"],
+    answer: "Leagues Cup",
+    subtopic: "Messi Inter Miami Achievements"
+  },
+  {
+    text: "How many goals did Messi score in his first six games for Inter Miami?",
+    options: ["Seven", "Twelve", "Nine", "Six"],
+    answer: "Nine",
+    subtopic: "Messi Inter Miami Performance"
+  },
+  {
+    text: "When did Messi achieve his record-extending eighth Ballon d'Or?",
+    options: ["15 July 2023", "30 October 2023", "10 August 2023", "2 October 2023"],
+    answer: "30 October 2023",
+    subtopic: "Messi Awards"
+  },
+  {
+    text: "Which major award did Messi win for the first time as a footballer in 2023?",
+    options: ["Time Athlete of the Year", "La Liga MVP", "FIFA World Player", "UEFA Player of the Year"],
+    answer: "Time Athlete of the Year",
+    subtopic: "Messi Awards"
+  },
+  {
+    text: "Messi set the MLS record for most goal contributions in a single game with how many?",
+    options: ["Six", "Five", "Four", "Seven"],
+    answer: "Six",
+    subtopic: "Messi Inter Miami Records"
+  },
+  {
+    text: "Which trophy did Messi clinch with Inter Miami after a 3–2 win over Columbus Crew?",
+    options: ["Supporters' Shield", "MLS Cup", "Leagues Cup", "U.S. Open Cup"],
+    answer: "Supporters' Shield",
+    subtopic: "Messi Inter Miami Achievements"
+  },
+  {
+    text: "Against which team did Messi score his first hat-trick for Inter Miami?",
+    options: ["Columbus Crew", "New York Red Bulls", "Nashville SC", "New England Revolution"],
+    answer: "New England Revolution",
+    subtopic: "Messi Inter Miami Performance"
+  },
+  {
+    text: "Messi became Inter Miami's all-time top goalscorer in which season?",
+    options: ["2024", "2025", "2023", "2022"],
+    answer: "2024",
+    subtopic: "Messi Inter Miami Records"
+  },
+  {
+    text: "Messi became the fastest player to reach 40 MLS goals in which season?",
+    options: ["2024", "2025", "2023", "2026"],
+    answer: "2025",
+    subtopic: "Messi Inter Miami Records"
+  },
+  {
+    text: "Messi made his senior international debut for Argentina in which year?",
+    options: ["2004", "2005", "2006", "2007"],
+    answer: "2005",
+    subtopic: "Messi International Career"
+  },
+  {
+    text: "In which tournament did Messi score two goals and provide one assist, winning the Best Young Player award?",
+    options: ["2007 Copa América", "2006 FIFA World Cup", "2005 FIFA World Youth Championship", "2008 Olympics"],
+    answer: "2007 Copa América",
+    subtopic: "Messi International Career"
+  },
+  {
+    text: "Messi won his first Olympic gold medal with Argentina in which year?",
+    options: ["2004", "2012", "2006", "2008"],
+    answer: "2008",
+    subtopic: "Messi International Career"
+  },
+  {
+    text: "Messi won his first international trophy with Argentina in which tournament?",
+    options: ["2016 Copa América Centenario", "2015 Copa América", "2008 Olympics", "2021 Copa América"],
+    answer: "2021 Copa América",
+    subtopic: "Messi International Achievements"
+  },
+  {
+    text: "Messi surpassed which player to become Argentina's all-time top goalscorer in international matches?",
+    options: ["Diego Maradona", "Javier Mascherano", "Juan Román Riquelme", "Gabriel Batistuta"],
+    answer: "Gabriel Batistuta",
+    subtopic: "Messi International Records"
+  },
+  {
+    text: "Messi won the Golden Ball as the best player at the FIFA World Cup in which years?",
+    options: ["2010 and 2014", "2010 and 2022", "2014 and 2018", "2014 and 2022"],
+    answer: "2014 and 2022",
+    subtopic: "Messi Awards"
+  },
+  {
+    text: "Messi became the first player to win the World Cup Golden Ball twice in history in which year?",
+    options: ["2014", "2018", "2022", "2010"],
+    answer: "2022",
+    subtopic: "Messi Awards"
+  },
+  {
+    text: "During the 2022 World Cup, Messi set a record for direct goal contributions with how many?",
+    options: ["18", "17", "21", "13"],
+    answer: "21",
+    subtopic: "Messi Records"
+  },
+  {
+    text: "Messi scored his 100th international goal against which team?",
+    options: ["Peru", "Curaçao", "Brazil", "Colombia"],
+    answer: "Curaçao",
+    subtopic: "Messi International Records"
+  },
+  {
+    text: "Messi surpassed Javier Mascherano as Argentina's most-capped player during which competition?",
+    options: ["2015 Copa América", "2022 World Cup", "2016 Copa América Centenario", "2021 Copa América"],
+    answer: "2021 Copa América",
+    subtopic: "Messi International Records"
+  },
+    {
+    text: "Messi's favoured position as a child, behind two strikers, is known in Argentina as what?",
+    options: ["False nine", "Enganche", "Numero diez", "Playmaker wing"],
+    answer: "Enganche",
+    subtopic: "Messi Tactical Roles"
+  },
+  {
+    text: "Which manager first moved Messi to the right wing in Barcelona's first team, enabling him to cut inside and curl shots with his left foot?",
+    options: ["Pep Guardiola", "Luis Enrique", "Frank Rijkaard", "Ernesto Valverde"],
+    answer: "Frank Rijkaard",
+    subtopic: "Messi Tactical Roles"
+  },
+  {
+    text: "In Pep Guardiola's system, Messi most often played as a:",
+    options: ["Left winger", "Centre-forward in a false nine role", "Right midfielder", "Traditional number 9"],
+    answer: "Centre-forward in a false nine role",
+    subtopic: "Messi Tactical Roles"
+  },
+  {
+    text: "Messi's role as a false nine primarily allowed him to:",
+    options: ["Stay high up the pitch", "Roam into midfield to create space and passes", "Mark opposing strikers", "Focus solely on scoring penalties"],
+    answer: "Roam into midfield to create space and passes",
+    subtopic: "Messi Tactical Roles"
+  },
+  {
+    text: "Under Luis Enrique, Messi initially returned to which position before moving deeper later in his career?",
+    options: ["Left-back", "Right-sided forward", "Centre-back", "Goalkeeper"],
+    answer: "Right-sided forward",
+    subtopic: "Messi Tactical Roles"
+  },
+  {
+    text: "Messi has often combined his dribbling with which midfield duo to orchestrate attacks at Barcelona?",
+    options: ["Iniesta and Xavi", "Busquets and Piqué", "Ronaldo and Neymar", "Suárez and Neymar"],
+    answer: "Iniesta and Xavi",
+    subtopic: "Messi Tactical Roles"
+  },
+  {
+    text: "Messi’s versatility allows him to play in which of the following positions for Argentina?",
+    options: ["Right wing, false nine, central striker, number 10 playmaker", "Left-back, centre-back, goalkeeper", "Only left winger", "Defensive midfielder only"],
+    answer: "Right wing, false nine, central striker, number 10 playmaker",
+    subtopic: "Messi Tactical Roles"
+  },
+  {
+    text: "Which attribute is most enhanced by Messi's short stature and low centre of gravity?",
+    options: ["Aerial dominance", "Dribbling agility and rapid directional changes", "Penalty taking", "Physical strength in aerial duels"],
+    answer: "Dribbling agility and rapid directional changes",
+    subtopic: "Messi Physical Attributes"
+  },
+  {
+    text: "Messi was first publicly hailed as the future successor to which Argentine legend at age 18?",
+    options: ["Juan Román Riquelme", "Diego Maradona", "Gabriel Batistuta", "Javier Mascherano"],
+    answer: "Diego Maradona",
+    subtopic: "Messi Comparisons"
+  },
+  {
+    text: "Which manager famously stated in 2009 that Messi was the best player he had ever seen?",
+    options: ["Pep Guardiola", "Luis Enrique", "Frank Rijkaard", "Jorge Valdano"],
+    answer: "Pep Guardiola",
+    subtopic: "Messi Comparisons"
+  },
+  {
+    text: "Messi’s playing style is most similar to which of the following?",
+    options: ["Diego Maradona, diminutive left-footed playmaker", "Cristiano Ronaldo, muscular and fast striker", "Lionel Scaloni, defensive midfielder", "Zlatan Ibrahimović, aerial target man"],
+    answer: "Diego Maradona, diminutive left-footed playmaker",
+    subtopic: "Messi Comparisons"
+  },
+  {
+    text: "Early in his international career, Messi was sometimes perceived as less committed due to:",
+    options: ["Lack of goals", "His reserved temperament and minimal emotional displays", "Playing in Argentina only", "Frequent injuries"],
+    answer: "His reserved temperament and minimal emotional displays",
+    subtopic: "Messi Leadership"
+  },
+  {
+    text: "Messi’s tactical intelligence is best illustrated by his ability to:",
+    options: ["Always stay on the wing", "Drop deep into midfield to link play and create space", "Only shoot from outside the box", "Avoid defensive duties entirely"],
+    answer: "Drop deep into midfield to link play and create space",
+    subtopic: "Messi Tactical Roles"
+  },
+  {
+    text: "Messi’s dribbling success is amplified by:",
+    options: ["His ability to take long throws", "Quick feet, short bursts of acceleration, and ball control at speed", "Reliance on teammates to pass for him", "Frequent off-the-ball pressing"],
+    answer: "Quick feet, short bursts of acceleration, and ball control at speed",
+    subtopic: "Messi Physical Attributes"
+  },
+  {
+    text: "Messi’s combination of dribbling, passing, and playmaking makes him particularly dangerous in:",
+    options: ["Set-piece defense", "Counterattacks and transitional play", "Penalty shootouts only", "Aerial duels"],
+    answer: "Counterattacks and transitional play",
+    subtopic: "Messi Tactical Roles"
+  },
+  {
+    text: "Unlike Maradona, Messi never developed in the Argentine Primera División because:",
+    options: ["He chose to play overseas in La Liga with Barcelona", "He was injured", "He only played as a goalkeeper", "He was loaned to Europe temporarily"],
+    answer: "He chose to play overseas in La Liga with Barcelona",
+    subtopic: "Messi Early Career"
+  },
+  {
+    text: "Messi’s humility off the pitch contrasts with which rival’s extroverted personality?",
+    options: ["Diego Maradona", "Cristiano Ronaldo", "Ronaldinho", "Xavi Hernández"],
+    answer: "Cristiano Ronaldo",
+    subtopic: "Messi Comparisons"
+  },
+  {
+    text: "Messi was initially criticized for a perceived lack of leadership. Which event helped solidify his status as a national leader?",
+    options: ["Winning the 2022 World Cup and singing the national anthem with Argentina", "Moving to PSG", "Winning La Liga only", "Transferring to Inter Miami"],
+    answer: "Winning the 2022 World Cup and singing the national anthem with Argentina",
+    subtopic: "Messi Leadership"
+  },
+  {
+    text: "Messi’s ability to exploit space in the centre is most aided by which tactical deployment?",
+    options: ["Playing as a false nine or free number 10 behind strikers", "Only as a winger crossing balls", "As a defensive midfielder", "Staying strictly wide left"],
+    answer: "Playing as a false nine or free number 10 behind strikers",
+    subtopic: "Messi Tactical Roles"
+  },
+  {
+    text: "Which aspect of Messi’s skill set most distinguishes him from physically imposing forwards?",
+    options: ["Speed and athleticism", "Low centre of gravity, balance, and dribbling precision", "Height and aerial ability", "Penalties only"],
+    answer: "Low centre of gravity, balance, and dribbling precision",
+    subtopic: "Messi Physical Attributes"
+  },
+  {
+    text: "Messi is predominantly left-footed but also improved his weaker foot since his mid-20s; what does he primarily use the inside of his foot for?",
+    options: ["Finishing and providing passes", "Defensive tackles", "Free-kick shots", "Dribbling runs"],
+    answer: "Finishing and providing passes",
+    subtopic: "Messi Style of Play"
+  },
+  {
+    text: "Which former Barcelona manager famously said Messi runs faster with the ball than without?",
+    options: ["Luis Enrique", "Diego Maradona", "Pep Guardiola", "Johan Cruyff"],
+    answer: "Pep Guardiola",
+    subtopic: "Messi Style of Play"
+  },
+  {
+    text: "Messi set the record for most goals scored from direct free kicks among active players with how many?",
+    options: ["65", "69", "70", "72"],
+    answer: "69",
+    subtopic: "Messi Records"
+  },
+  {
+    text: "Messi's dribbling and balance are aided by his:",
+    options: ["Tall stature", "Upper-body weakness", "Low centre of gravity", "Long stride"],
+    answer: "Low centre of gravity",
+    subtopic: "Messi Style of Play"
+  },
+  {
+    text: "Messi helped Inter Miami break the MLS regular season points record by reaching how many points?",
+    options: ["72", "76", "70", "74"],
+    answer: "74",
+    subtopic: "Messi Inter Miami Records"
+  },
+  {
+    text: "Messi achieved his first MLS MVP award in which season?",
+    options: ["2023", "2025", "2022", "2024"],
+    answer: "2024",
+    subtopic: "Messi Inter Miami Achievements"
+  },
+  {
+    text: "Messi surpassed Cristiano Ronaldo as European club football's top scorer during a match against which team?",
+    options: ["Lyon", "Nice", "Manchester City", "Reims"],
+    answer: "Nice",
+    subtopic: "Messi Records"
+  },
+  {
+    text: "Messi's attacking trio at Barca with Neymar led to which nickname?",
+    options: ["MNS", "NMS", "SNN", "MSN"],
+    answer: "MSN",
+    subtopic: "Messi PSG Era"
+  },
+  {
+    text: "Messi’s final PSG season ended with him achieving how many goals across all competitions?",
+    options: ["11", "16", "14", "21"],
+    answer: "21",
+    subtopic: "Messi PSG Performance"
+  },
+  {
+    text: "Messi's role shifted later in his career to deeper positions, enhancing his:",
+    options: ["Shooting power", "Dribbling speed", "Playmaking and passing", "Free-kick ability"],
+    answer: "Playmaking and passing",
+    subtopic: "Messi Style of Play"
+  },
+  {
+    text: "In which years was Messi included in the Time 100 list of the world's most influential people?",
+    options: ["2010, 2011, 2012", "2011, 2012, 2023", "2009, 2014, 2020", "2012, 2015, 2021"],
+    answer: "2011, 2012, 2023",
+    subtopic: "Messi Popularity"
+  },
+  {
+    text: "By July 2023, Messi’s Facebook page had over how many followers, making it second only to Cristiano Ronaldo among sportspersons?",
+    options: ["50 million", "114 million", "200 million", "75 million"],
+    answer: "114 million",
+    subtopic: "Messi Popularity"
+  },
+  {
+    text: "Messi’s 2022 World Cup celebration post holds what Instagram record?",
+    options: ["Most commented post", "Most liked post with over 75 million likes", "First sports post to reach 1 million likes", "Most shared video clip"],
+    answer: "Most liked post with over 75 million likes",
+    subtopic: "Messi Popularity"
+  },
+  {
+    text: "Messi became the first footballer to exceed what € benchmark in 2013, with earnings of €41 million?",
+    options: ["€30 million", "€40 million", "€50 million", "€60 million"],
+    answer: "€40 million",
+    subtopic: "Messi Wealth & Sponsorships"
+  },
+  {
+    text: "Which company has been Messi’s main sponsor since 2006, providing signature boots and jerseys?",
+    options: ["Nike", "Adidas", "Puma", "Under Armour"],
+    answer: "Adidas",
+    subtopic: "Messi Wealth & Sponsorships"
+  },
+  {
+    text: "Messi has served as a UNICEF Goodwill Ambassador since:",
+    options: ["2004", "2008", "2010", "2012"],
+    answer: "2010",
+    subtopic: "Messi Philanthropy"
+  },
+  {
+    text: "The Leo Messi Foundation, established in 2007, primarily focuses on:",
+    options: ["Luxury endorsements", "Healthcare, education, and sport for children", "Real estate investments", "Football club ownership"],
+    answer: "Healthcare, education, and sport for children",
+    subtopic: "Messi Philanthropy"
+  },
+  {
+    text: "Messi has been married to Antonela Roccuzzo since:",
+    options: ["2015", "2016", "2017", "2018"],
+    answer: "2017",
+    subtopic: "Messi Personal Life"
+  },
+  {
+    text: "Messi holds triple citizenship. Which countries is he a citizen of?",
+    options: ["Argentina, Spain, Portugal", "Argentina, Italy, Spain", "Argentina, France, Italy", "Argentina, Brazil, Italy"],
+    answer: "Argentina, Italy, Spain",
+    subtopic: "Messi Personal Life"
+  },
+  {
+    text: "In 2016, Messi and his father were found guilty of tax fraud and received what sentence?",
+    options: ["2-year jail without suspension", "21-month suspended prison sentence and fines", "5-year probation", "Monetary fine only"],
+    answer: "21-month suspended prison sentence and fines",
+    subtopic: "Messi Personal Life"
+  },
+
+];

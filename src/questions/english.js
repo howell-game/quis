@@ -1,0 +1,1019 @@
+export default [
+  // Q1 (A) — Synonyms
+  {
+    text: "Choose the word closest in meaning to 'abundant'.",
+    options: ["plentiful", "scarce", "meagre", "insufficient"],
+    answer: "plentiful",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Abundant' means plentiful; the other choices are opposites or near-opposites."
+  },
+
+  // Q2 (B) — Antonyms
+  {
+    text: "Choose the antonym of 'opaque'.",
+    options: ["dense", "transparent", "murky", "obscure"],
+    answer: "transparent",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Opaque' means not allowing light through; its opposite is 'transparent'."
+  },
+
+  // Q3 (C) — Homonyms
+  {
+    text: "The word 'bark' in 'The dog’s bark was loud' and 'The tree’s bark is rough' illustrates:",
+    options: ["homophones", "synonyms", "homonyms", "antonyms"],
+    answer: "homonyms",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "The same word with different meanings (and same spelling) are homonyms (more precisely homographs)."
+  },
+
+  // Q4 (D) — Clause & sentence patterns
+  {
+    text: "Identify the sentence pattern of: 'Although she studied hard, she failed the exam.'",
+    options: ["Simple sentence", "Compound sentence", "Compound–complex sentence", "Complex sentence"],
+    answer: "Complex sentence",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "A subordinate clause ('Although...') plus a main clause makes a complex sentence."
+  },
+
+  // Q5 (A) — Word classes/functions
+  {
+    text: "In the sentence 'She quickly finished the task', the word 'quickly' functions as a:",
+    options: ["manner adverb", "adjective", "conjunction", "preposition"],
+    answer: "manner adverb",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Quickly' describes how she finished (manner), so it is an adverb."
+  },
+
+  // Q6 (B) — Tense/aspect/mood
+  {
+    text: "Choose the sentence that shows the present perfect tense.",
+    options: ["He left an hour ago.", "She has visited London three times.", "She will visit soon.", "He visits every year."],
+    answer: "She has visited London three times.",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "The present perfect is formed with 'has/have' + past participle (has visited)."
+  },
+
+  // Q7 (C) — Punctuation
+  {
+    text: "Which version is correctly punctuated?",
+    options: ["Its a pity we missed the train.", "It's a pity we missed the train.", "Its' a pity we missed the train.", "It is' a pity we missed the train."],
+    answer: "It's a pity we missed the train.",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "Contraction of 'It is' is 'It's' with apostrophe before s. 'Its' (no apostrophe) is possessive."
+  },
+
+  // Q8 (D) — Idiomatic usage (British)
+  {
+    text: "What does the idiom 'beat about the bush' mean in standard British English?",
+    options: ["To speak directly", "To avoid the main topic", "To finish quickly", "To fight outdoors"],
+    answer: "To avoid the main topic",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Beat about the bush' means to avoid addressing the main issue directly."
+  },
+
+  // Q9 (A) — Synonyms
+  {
+    text: "Select the closest synonym of 'meticulous'.",
+    options: ["thorough", "careless", "hasty", "superficial"],
+    answer: "thorough",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Meticulous' suggests great attention to detail; 'thorough' matches that meaning."
+  },
+
+  // Q10 (B) — Antonyms
+  {
+    text: "Choose the antonym of 'anxious'.",
+    options: ["distressed", "calm", "worried", "uneasy"],
+    answer: "calm",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Calm' is opposite in meaning to 'anxious'; the others are synonyms or near-synonyms of anxious."
+  },
+
+  // Q11 (C) — Homonyms
+  {
+    text: "Which pair are homonyms (same spelling, different meanings)?",
+    options: ["pair: 'right' (correct) / 'rite' (ceremony)", "pair: 'to' / 'too' (different spellings)", "pair: 'bat' (animal) / 'bat' (sports implement)", "pair: 'flour' / 'flower' (different spellings)"],
+    answer: "pair: 'bat' (animal) / 'bat' (sports implement)",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Bat' (flying mammal) and 'bat' (stick used in sport) are homonyms—same spelling, different meaning."
+  },
+
+  // Q12 (D) — Clause & sentence patterns
+  {
+    text: "Which sentence is a compound sentence?",
+    options: ["Although it rained, we went out.", "We went out because it stopped raining.", "We went out; the shop was closed.", "She left."],
+    answer: "We went out; the shop was closed.",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "A compound sentence contains two independent clauses; semicolon joins two main clauses."
+  },
+
+  // Q13 (A) — Word class / function
+  {
+    text: "In 'The manager praised his efficient assistant', the word 'efficient' is a(n):",
+    options: ["adjective modifying assistant", "adverb modifying praised", "noun", "preposition"],
+    answer: "adjective modifying assistant",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Efficient' describes 'assistant', so it is an adjective functioning as modifier."
+  },
+
+  // Q14 (B) — Mood / question tag
+  {
+    text: "Choose the correct question tag: 'You’ve met her before, ___?'",
+    options: ["haven't you", "didn't you", "aren't you", "don't you"],
+    answer: "haven't you",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "Present perfect main clause ('You've met') takes 'haven't you?' as the tag."
+  },
+
+  // Q15 (C) — Punctuation
+  {
+    text: "Which sentence uses commas correctly in a list?",
+    options: ["She bought apples bananas and grapes.", "She bought apples, bananas and grapes.", "She bought, apples, bananas, and grapes.", "She bought apples, bananas, and grapes."],
+    answer: "She bought apples, bananas, and grapes.",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "The serial (Oxford) comma is acceptable; in WAEC/JAMB style the clear punctuation is the last option."
+  },
+
+  // Q16 (D) — Idioms (figurative)
+  {
+    text: "In the sentence 'Losing the contract was a blessing in disguise for the firm', 'a blessing in disguise' means:",
+    options: ["an obvious benefit", "a superficial loss", "an initial misfortune that turns out well", "a spiritual sign"],
+    answer: "an initial misfortune that turns out well",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "The idiom indicates something that seems bad at first but has good outcomes later."
+  },
+
+  // Q17 (A) — Synonyms
+  {
+    text: "Choose the word closest in meaning to 'elated'.",
+    options: ["overjoyed", "sullen", "concerned", "listless"],
+    answer: "overjoyed",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Elated' means extremely happy—'overjoyed' fits best."
+  },
+
+  // Q18 (B) — Antonyms
+  {
+    text: "Pick the antonym of 'augment'.",
+    options: ["increase", "diminish", "intensify", "expand"],
+    answer: "diminish",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Augment' means increase; the opposite is 'diminish'."
+  },
+
+  // Q19 (C) — Homonyms
+  {
+    text: "Which meaning pair illustrates the word 'bank' as a homonym?",
+    options: ["river edge / financial institution", "bench / kitchen shelf", "book / booklet", "plate / platter"],
+    answer: "river edge / financial institution",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Bank' can mean riverbank or a financial institution—same spelling, different meanings."
+  },
+
+  // Q20 (D) — Clause & sentence patterns
+  {
+    text: "Identify the sentence type: 'If he had studied, he would have passed.'",
+    options: ["Simple conditional", "Zero conditional", "First conditional", "Third conditional (counterfactual past)"],
+    answer: "Third conditional (counterfactual past)",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "Third conditional refers to past unreal situations using 'had' + past participle / 'would have' + past participle."
+  },
+
+  // Q21 (A) — Word classes / function
+  {
+    text: "In 'Only James knew the answer', the word 'only' functions to:",
+    options: ["restrict the subject (focus particle)", "express negation", "serve as preposition", "introduce a relative clause"],
+    answer: "restrict the subject (focus particle)",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Only' limits or focuses the subject; it modifies 'James' in this sentence."
+  },
+
+  // Q22 (B) — Mood / Tense / Aspect
+  {
+    text: "Which sentence exemplifies the future continuous tense?",
+    options: ["She will have finished by then.", "She will be studying when you arrive.", "She studies every night.", "She studied yesterday."],
+    answer: "She will be studying when you arrive.",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "Future continuous uses 'will be' + present participle (will be studying)."
+  },
+
+  // Q23 (C) — Punctuation (apostrophe)
+  {
+    text: "Select the correctly written possessive form for a singular noun ending in s (traditional WAEC/JAMB preference):",
+    options: ["James' book", "James's book", "Jamess book", "James-of book"],
+    answer: "James's book",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "Many style guides (including exam practice) accept 'James's' for singular possessive of names ending in s."
+  },
+
+  // Q24 (D) — Idiom (British)
+  {
+    text: "What does 'to break the ice' mean in formal British English?",
+    options: ["Smash cold objects", "Begin a conversation to reduce awkwardness", "Stop a ship to sail", "Make a formal declaration"],
+    answer: "Begin a conversation to reduce awkwardness",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "To 'break the ice' is to initiate social interaction to ease tension."
+  },
+
+  // Q25 (A) — Synonyms
+  {
+    text: "Which word is closest in meaning to 'ameliorate'?",
+    options: ["improve", "worsen", "delay", "ignore"],
+    answer: "improve",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Ameliorate' means to make something better or improve it."
+  },
+
+  // Q26 (B) — Antonyms
+  {
+    text: "Pick the best antonym for 'benign'.",
+    options: ["harmless", "malignant", "innocuous", "mild"],
+    answer: "malignant",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Benign' means harmless; 'malignant' is its opposite (especially in medical contexts)."
+  },
+
+  // Q27 (C) — Homonyms
+  {
+    text: "Which sentence shows 'tear' pronounced two ways (homograph with different pronunciation/meaning)?",
+    options: ["She shed a tear of joy.", "He will tear the paper.", "Both A and B", "Neither A nor B"],
+    answer: "Both A and B",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Tear' (teer) noun = drop from eye; 'tear' (tair) verb = rip—same spelling, different pronunciations and meanings."
+  },
+
+  // Q28 (D) — Clause & sentence patterns
+  {
+    text: "Which of the following contains a relative clause?",
+    options: ["He arrived late.", "She sings and dances.", "Go to the market.", "The man who called left a message."],
+    answer: "The man who called left a message.",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "The clause 'who called' modifies 'the man' and is a relative (adjective) clause."
+  },
+
+  // Q29 (A) — Word classes/functions
+  {
+    text: "In 'They appointed her treasurer', the word 'treasurer' is functioning as a(n):",
+    options: ["object complement (noun)", "adverb", "prepositional object", "subject pronoun"],
+    answer: "object complement (noun)",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Treasurer' renames or complements the object 'her'—an object complement."
+  },
+
+  // Q30 (B) — Tense / Agreement (number)
+  {
+    text: "Choose the sentence with correct subject-verb agreement.",
+    options: ["The team are playing well.", "The books is on the table.", "The committee decides tomorrow.", "Neither of the boys are ready."],
+    answer: "The committee decides tomorrow.",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "Collective noun 'committee' treated as singular in formal usage—'decides' is correct."
+  },
+
+  // Q31 (C) — Punctuation & Spelling
+  {
+    text: "Which spelling is correct?",
+    options: ["seperate", "separate", "seperete", "separrate"],
+    answer: "separate",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Separate' is the correct British/standard spelling; others are misspellings."
+  },
+
+  // Q32 (D) — Idiomatic / Ordinary vs figurative
+  {
+    text: "In 'He took the news in his stride', the phrase 'in his stride' most nearly means:",
+    options: ["with great difficulty", "with anger", "calmly and without fuss", "after running quickly"],
+    answer: "calmly and without fuss",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "The idiom means to accept or deal with something calmly and easily."
+  },
+
+  // Q33 (A) — Synonyms (context)
+  {
+    text: "Select the best synonym for 'reluctant' in the sentence: 'She was reluctant to accept the offer.'",
+    options: ["hesitant", "eager", "willing", "certain"],
+    answer: "hesitant",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Reluctant' means unwilling or hesitant; 'hesitant' matches the context."
+  },
+
+  // Q34 (B) — Antonyms
+  {
+    text: "Which of the following is the opposite of 'obscure'?",
+    options: ["vague", "clear", "unknown", "hidden"],
+    answer: "clear",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Obscure' and 'clear' are opposites; others are synonyms or related words."
+  },
+
+  // Q35 (C) — Homonyms (meaning)
+  {
+    text: "Which of these pairs shows a homonymic relation (sound same, possibly different spelling)?",
+    options: ["flower / flour", "trade / commerce", "speak / talk", "big / large"],
+    answer: "flower / flour",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Flower' and 'flour' are near-homophones (sound alike) with different meanings and spellings."
+  },
+
+  // Q36 (D) — Clauses & sentence transformation
+  {
+    text: "Change to reported speech: He said, 'I can finish it tomorrow.' → He said that ___ .",
+    options: ["he finished it tomorrow", "he will be able to finish it tomorrow", "he can finish it tomorrow", "he could finish it the next day"],
+    answer: "he could finish it the next day",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "In reported speech, 'can' shifts to 'could' and time 'tomorrow' becomes 'the next day'."
+  },
+
+  // Q37 (A) — Word class/function (determiners)
+  {
+    text: "In 'All students must submit their forms', the word 'their' is a:",
+    options: ["possessive determiner (adjective)", "object pronoun", "reflexive pronoun", "demonstrative"],
+    answer: "possessive determiner (adjective)",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Their' modifies 'forms' by expressing possession; grammatically it's a possessive determiner."
+  },
+
+  // Q38 (B) — Mood / Tag question
+  {
+    text: "Choose the correct tag: 'Nobody called, ___?'",
+    options: ["did they", "didn't they", "do they", "does it"],
+    answer: "did they",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "Negative statement 'Nobody called' takes positive tag 'did they?'."
+  },
+
+  // Q39 (C) — Punctuation (semicolon)
+  {
+    text: "Which sentence correctly uses a semicolon?",
+    options: ["I wanted to go; but I was ill.", "I wanted; to go but I was ill.", "I wanted to go; I was ill.", "I wanted to go I was; ill."],
+    answer: "I wanted to go; I was ill.",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "Semicolons join closely related independent clauses—'I wanted to go; I was ill.' is correct."
+  },
+
+  // Q40 (D) — Idiomatic usage (British)
+  {
+    text: "In the sentence 'He won't bite the bullet until absolutely necessary', what does 'bite the bullet' mean?",
+    options: ["act bravely after delay", "chew on metal", "suffer from pain", "avoid responsibility"],
+    answer: "act bravely after delay",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "To 'bite the bullet' is to face a difficult situation bravely, often after reluctance."
+  },
+
+  // Q41 (A) — Synonyms (formal)
+  {
+    text: "Choose the word closest in meaning to 'explicit'.",
+    options: ["clear", "implicit", "vague", "obscure"],
+    answer: "clear",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Explicit' means clearly expressed or leaving nothing implied—'clear' is the best match."
+  },
+
+  // Q42 (B) — Antonyms (degree)
+  {
+    text: "Which is the opposite of 'scarce'?",
+    options: ["rare", "plentiful", "sparse", "limited"],
+    answer: "plentiful",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Scarce' = in short supply; 'plentiful' is its opposite."
+  },
+
+  // Q43 (C) — Homonyms (context)
+  {
+    text: "Which sentence uses 'lead' pronounced like /led/ ?",
+    options: ["Please lead the way.", "The pipes were made of lead.", "We will lead tomorrow.", "She leads the team."],
+    answer: "The pipes were made of lead.",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "As a noun meaning the metal, 'lead' is pronounced /led/; as a verb 'lead' is /liːd/."
+  },
+
+  // Q44 (D) — Sentence patterns (transformation)
+  {
+    text: "Combine into one sentence: 'She studied hard. She failed the exam.' (use contrast conjunction).",
+    options: ["She studied hard; therefore she failed the exam.", "Although she studied hard, she failed the exam.", "She studied hard and she failed the exam.", "She studied hard, she failed the exam."],
+    answer: "Although she studied hard, she failed the exam.",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "Use 'although' to show contrast between studying hard and failing."
+  },
+
+  // Q45 (A) — Word classes and their functions (prepositions)
+  {
+    text: "In 'The book is on the table', the word 'on' is a:",
+    options: ["preposition", "conjunction", "verb", "determiner"],
+    answer: "preposition",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'On' shows position relation (book → table) and is a preposition."
+  },
+
+  // Q46 (B) — Tense / Aspect (perfect continuous)
+  {
+    text: "Which sentence shows the present perfect continuous (perfect progressive) aspect?",
+    options: ["He plays the piano.", "He has been playing the piano for two hours.", "He had played earlier.", "He will play soon."],
+    answer: "He has been playing the piano for two hours.",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "Present perfect continuous = 'has/have been' + present participle (has been playing)."
+  },
+
+  // Q47 (C) — Punctuation (colon)
+  {
+    text: "Which sentence correctly uses a colon?",
+    options: ["She bought: apples, oranges and pears.", "She needs the following: a pen, a ruler and a book.", "She: went home early.", "He: was late."],
+    answer: "She needs the following: a pen, a ruler and a book.",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "A colon introduces a list or explanation; the second option is the correct usage."
+  },
+
+  // Q48 (D) — Idiom (British)
+  {
+    text: "The expression 'to take something with a pinch of salt' means:",
+    options: ["to eat unhealthily", "to accept something skeptically", "to season food heavily", "to preserve information carefully"],
+    answer: "to accept something skeptically",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "The idiom advises cautious acceptance due to possible inaccuracy or exaggeration."
+  },
+
+  // Q49 (A) — Synonyms (contextual)
+  {
+    text: "Select the best synonym for 'infer' in: 'From her tone we can infer disapproval.'",
+    options: ["deduce", "ignore", "listen", "announce"],
+    answer: "deduce",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Infer' = deduce or conclude from evidence—'deduce' is the match."
+  },
+
+  // Q50 (B) — Antonyms / Degree
+  {
+    text: "Which is the best antonym for 'optimistic'?",
+    options: ["hopeful", "pessimistic", "confident", "encouraged"],
+    answer: "pessimistic",
+    image: "",
+    subtopic: "Lexis and Structure",
+    explanation: "'Pessimistic' is opposite to 'optimistic' (negative expectation vs positive)."
+  },
+   {
+    text: "Which of the following best defines a monophthong?",
+    options: [
+      "A single, unchanging vowel sound",
+      "A vowel sound that glides from one quality to another",
+      "A sequence of two consonants",
+      "A silent vowel letter"
+    ],
+    answer: "A single, unchanging vowel sound",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "A monophthong is one steady vowel sound (no glide), unlike a diphthong which changes quality."
+  },
+  {
+    text: "Which word contains a diphthong?",
+    options: ["cat", "boy", "bed", "pot"],
+    answer: "boy",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Boy' contains the diphthong /ɔɪ/ (a glide from /ɔ/ to /ɪ/)."
+  },
+  {
+    text: "Which word contains the long high front vowel (as in 'see') — a typical monophthong?",
+    options: ["seat", "say", "sight", "soot"],
+    answer: "seat",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Seat' normally has the long front vowel /iː/ (monophthong) in standard varieties."
+  },
+  {
+    text: "Which pair forms a minimal pair that differs only by the vowel sound?",
+    options: ["bit / bet", "pat / mat", "book / back", "tin / ton"],
+    answer: "bit / bet",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "A minimal pair differs in only one phoneme; 'bit' /bɪt/ vs 'bet' /bɛt/ differ only in the vowel."
+  },
+  {
+    text: "Which description identifies a high front unrounded vowel?",
+    options: ["The vowel in 'beat' (/iː/)", "The vowel in 'bat' (/æ/)", "The vowel in 'cot' (/ɒ/)", "The vowel in 'boot' (/uː/)"],
+    answer: "The vowel in 'beat' (/iː/)",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "A high front unrounded vowel is exemplified by /iː/ in 'beat'."
+  },
+  {
+    text: "Which word contains the diphthong /aɪ/ (as in 'high')?",
+    options: ["made", "mice", "mode", "moat"],
+    answer: "mice",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Mice' contains the diphthong /aɪ/, heard in 'high', 'my', 'mice'."
+  },
+  {
+    text: "Which consonant is voiced?",
+    options: ["p", "t", "k", "b"],
+    answer: "b",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "Voiced consonants use vocal fold vibration; /b/ is voiced, while /p, t, k/ are voiceless."
+  },
+  {
+    text: "Which pair represents a voiceless–voiced counterpart?",
+    options: ["b / p", "s / z", "t / d", "m / n"],
+    answer: "t / d",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "/t/ is voiceless and /d/ is its voiced counterpart (same place and manner)."
+  },
+  {
+    text: "Which of these consonants is classified as a fricative?",
+    options: ["b", "t", "f", "m"],
+    answer: "f",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "A fricative is produced by close approximation causing turbulent airflow; /f/ is a labiodental fricative."
+  },
+  {
+    text: "Which word begins with an affricate sound?",
+    options: ["chew", "shoe", "task", "pack"],
+    answer: "chew",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "An affricate combines a stop + fricative; 'chew' begins with /tʃ/, an affricate."
+  },
+  {
+    text: "Which word begins with a nasal consonant?",
+    options: ["night", "light", "fight", "sight"],
+    answer: "night",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "The initial sound /n/ in 'night' is a nasal consonant produced with airflow through the nose."
+  },
+  {
+    text: "Which final consonant cluster is permissible in English (compare ordinary syllable structures)?",
+    options: ["ngk (as a final tri-cluster like *'thangk')", "rts (as in 'hearts')", "mbd (final sequence like *'limbd')", "ptl (final sequence like *'aptl')"],
+    answer: "rts (as in 'hearts')",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "English allows final clusters such as /rts/ (hearts); the other sequences are not typical final clusters."
+  },
+  {
+    text: "Which word begins with the consonant cluster 'str'?",
+    options: ["string", "ask", "sample", "listen"],
+    answer: "string",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'String' begins with the consonant cluster /str/ which is a common English onset."
+  },
+  {
+    text: "Which pair are homophones (sound the same but differ in meaning / spelling)?",
+    options: ["flower / flour", "lead / load", "beat / bit", "send / sand"],
+    answer: "flower / flour",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Flower' and 'flour' are pronounced the same though spelled differently and have different meanings."
+  },
+  {
+    text: "Which word shows primary stress on the first syllable (written with stress-marking)?",
+    options: ["PHO-to-graph", "pho-TO-graph-y", "pho-to-GRAPH-ic", "pho-to-gra-PHER"],
+    answer: "PHO-to-graph",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Photograph' has primary stress on the first syllable: PHO-to-graph."
+  },
+  {
+    text: "Which word has stress on the second syllable (marking in caps)?",
+    options: ["BE-lieve", "be-LIEVE", "BE-come", "BE-yond"],
+    answer: "be-LIEVE",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'believe' is stressed on the second syllable: be-LIEVE."
+  },
+  {
+    text: "Which sentence usually takes rising intonation in neutral speech?",
+    options: ["What time is it?", "Is she coming?", "He is coming.", "She will arrive tomorrow."],
+    answer: "Is she coming?",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "Yes/no questions like 'Is she coming?' commonly have rising intonation in many contexts."
+  },
+  {
+    text: "In 'I DID tell you', the capitalised auxiliary 'DID' indicates:",
+    options: ["habitual action", "emphatic stress (contradiction or confirmation)", "future intention", "a polite request"],
+    answer: "emphatic stress (contradiction or confirmation)",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "Using 'did' in this way stresses/contrasts the action (emphatic or corrective stress)."
+  },
+  {
+    text: "Which vowel is a rounded back vowel, commonly heard in 'goose'?",
+    options: ["the vowel in 'heed'", "the vowel in 'bat'", "the vowel in 'goose'", "the vowel in 'bed'"],
+    answer: "the vowel in 'goose'",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "The vowel in 'goose' (/uː/) is a high back rounded vowel."
+  },
+  {
+    text: "Which word contains the diphthong /eɪ/ (as in 'day')?",
+    options: ["say", "see", "saw", "sue"],
+    answer: "say",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Say' contains the diphthong /eɪ/, as in 'day', 'say', 'pay'."
+  },
+  {
+    text: "Which initial consonant cluster is allowed in English?",
+    options: ["tl- (as in *'tla-')", "sp-", "pt- (as in *'ptarmigan' initial pronounced 't')", "tl- (again)"],
+    answer: "sp-",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "Clusters like /sp/ (as in 'spin') are common initial clusters; /tl/ is not a native English initial cluster."
+  },
+  {
+    text: "Which final consonant cluster is common in English words such as 'acts'?",
+    options: ["-ngk-", "-rts-", "-mbd-", "-ptl-"],
+    answer: "-rts-",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "Final clusters like /rts/ occur in words such as 'hearts' or 'acts' (with /kts/)."
+  },
+  {
+    text: "Which consonant is classified as lateral?",
+    options: ["l", "r", "w", "y"],
+    answer: "l",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "The lateral consonant /l/ allows airflow around the sides of the tongue (a lateral approximant)."
+  },
+  {
+    text: "Which symbolised spelling (letters) represents a palatal/ postalveolar sound commonly written 'sh'?",
+    options: ["k", "s", "sh", "m"],
+    answer: "sh",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "The grapheme 'sh' represents the postalveolar fricative /ʃ/ in English."
+  },
+  {
+    text: "Which word rhymes with 'light'?",
+    options: ["kite", "lot", "let", "loan"],
+    answer: "kite",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Light' and 'kite' share the same vowel + final consonant rhyme: /aɪt/."
+  },
+  {
+    text: "Which word is a homophone of 'knight'?",
+    options: ["night", "nut", "knit", "note"],
+    answer: "night",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Knight' and 'night' are pronounced the same though spelled differently and mean different things."
+  },
+  {
+    text: "When used as a verb, which form of 'record' has stress on the second syllable (marked)?",
+    options: ["RE-cord (noun)", "re-CORD (verb)", "RE-corded", "RE-cording"],
+    answer: "re-CORD (verb)",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "The verb 'record' is stressed on the second syllable: re-CORD, while the noun is RE-cord."
+  },
+  {
+    text: "Which word has primary stress on the third syllable (stress marked)?",
+    options: ["IN-for-ma-tion", "in-FOR-ma-tion", "in-for-MA-tion", "in-for-ma-TION"],
+    answer: "in-for-MA-tion",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Information' is usually pronounced with stress on the third syllable: in-for-MA-tion."
+  },
+  {
+    text: "Which type of question typically takes falling intonation in neutral speech?",
+    options: ["Yes/no questions expecting confirmation", "Wh- questions (who, what, where)", "Tag questions when speaker doubts", "List items before the final item"],
+    answer: "Wh- questions (who, what, where)",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "Wh- questions normally take falling intonation in most English varieties to signal a request for information."
+  },
+  {
+    text: "Which word begins with the onset cluster 'pl'?",
+    options: ["play", "say", "tray", "clay"],
+    answer: "play",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Play' begins with the cluster /pl/ (a common English onset)."
+  },
+  {
+    text: "Which consonant is a voiced velar plosive?",
+    options: ["k", "g", "t", "d"],
+    answer: "g",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "/g/ is a voiced velar stop/plosive (as in 'go'); /k/ is its voiceless counterpart."
+  },
+  {
+    text: "Which word contains the final consonant cluster /sk/?",
+    options: ["ask", "ash", "ace", "aim"],
+    answer: "ask",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Ask' ends with the cluster /sk/; many English words permit /sk/ word-finally."
+  },
+  {
+    text: "Which two words rhyme with each other?",
+    options: ["cake / lake", "cat / kit", "bed / bad", "meet / met"],
+    answer: "cake / lake",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Cake' and 'lake' rhyme (/keɪk/); the other pairs differ in vowel or final consonant sounds."
+  },
+  {
+    text: "Which consonant is a glottal fricative (written in ordinary spelling as 'h')?",
+    options: ["h", "s", "m", "r"],
+    answer: "h",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "The sound /h/ is a glottal fricative produced at the glottis."
+  },
+  {
+    text: "Which pair are perfect homophones (sound identical) with different spelling and meanings?",
+    options: ["one / won", "bin / ban", "hat / heat", "rent / rant"],
+    answer: "one / won",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'One' and 'won' sound the same though they differ in spelling and meaning."
+  },
+  {
+    text: "Which of these words contains a reduced (schwa) vowel in an unstressed syllable?",
+    options: ["photography", "photograph", "photo", "photoshop"],
+    answer: "photography",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "In 'photography' the first syllable is unstressed and commonly reduced to a schwa: /fəˈtɒɡrəfi/."
+  },
+  {
+    text: "Which initial consonant cluster is NOT a legal onset in native English words?",
+    options: ["tl- (as in *'tlap')", "tr-", "pl-", "sk-"],
+    answer: "tl- (as in *'tlap')",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "An initial /tl/ cluster does not occur in native English; /tr/, /pl/, /sk/ are common."
+  },
+  {
+    text: "Which suffix pattern usually places primary stress on the syllable before the suffix (e.g. -ic words)?",
+    options: ["Words ending in -ic (e.g. geoLOGic)", "Words ending in -al (always final)", "Words ending in -ment (stress last)", "Words ending in -s (always shift)"],
+    answer: "Words ending in -ic (e.g. geoLOGic)",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "Adjectives ending in -ic typically place stress on the syllable immediately before the suffix (penultimate stress)."
+  },
+  {
+    text: "Which vowel contrast pairs demonstrate a length/quality difference important in English minimal pairs?",
+    options: ["sheep / ship", "cat / cut", "bad / bed", "man / men"],
+    answer: "sheep / ship",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Sheep' /siːp/ vs 'ship' /ɪ/ is a classic vowel length/quality minimal pair in English."
+  },
+  {
+    text: "Which word contains the medial consonant cluster /nd/?",
+    options: ["hand", "hate", "hot", "hose"],
+    answer: "hand",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Hand' contains the medial cluster /nd/ between vowel and final position."
+  },
+  {
+    text: "Which pair shows the typical stress-shift pattern: noun stressed on first syllable, verb on second (marking shown)?",
+    options: ["REcord (noun) / re-CORD (verb)", "reCORD / REcord", "RE-cord / RE-cord", "re-cord / re-cord"],
+    answer: "REcord (noun) / re-CORD (verb)",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "Many English two-syllable word pairs show noun-first-syllable stress and verb-second-syllable stress (e.g., REcord vs re-CORD)."
+  },
+  {
+    text: "Which sentence uses emphatic stress to contradict a denial (emphasis shown by capitals)?",
+    options: ["I DID finish the work.", "I did FINISH the work.", "I did finish the WORK.", "I did finish the work."],
+    answer: "I DID finish the work.",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "Capitalising 'DID' indicates emphatic stress on the auxiliary to contradict or insist (e.g., 'I DID finish it')."
+  },
+  {
+    text: "Which word contains the diphthong /ɔɪ/ (as in 'boy')?",
+    options: ["boat", "boy", "boot", "bait"],
+    answer: "boy",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Boy' contains the /ɔɪ/ diphthong (listen: 'boy', 'toy', 'join')."
+  },
+  {
+    text: "Which consonant is articulated with the lower lip and the upper teeth (labiodental)?",
+    options: ["f", "k", "t", "n"],
+    answer: "f",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "/f/ is a labiodental fricative made with the lower lip against the upper teeth; /v/ is the voiced counterpart."
+  },
+  {
+    text: "Which two words rhyme?",
+    options: ["sing / ring", "sink / song", "sing / sang", "sing / sung"],
+    answer: "sing / ring",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Sing' and 'ring' end with the same rhyme /ɪŋ/ and therefore rhyme."
+  },
+  {
+    text: "Which of the following pairs are homophones?",
+    options: ["one / won", "cup / cap", "bed / bad", "hot / hut"],
+    answer: "one / won",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'One' and 'won' are pronounced identically despite different spelling and meaning."
+  },
+  {
+    text: "Which of these words contains an unstressed syllable typically pronounced with a schwa sound (ə)?",
+    options: ["banana", "banish", "band", "bank"],
+    answer: "banana",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "In 'banana' the first and last syllables are often reduced to schwa: /bəˈnænə/."
+  },
+  {
+    text: "Which of these initial clusters is illegal at the start of native English words?",
+    options: ["tl- (as in *'tlop')", "br-", "st-", "gl-"],
+    answer: "tl- (as in *'tlop')",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "Initial /tl/ does not occur in native English onsets; English allows clusters like br-, st-, gl-."
+  },
+  {
+    text: "Which word is stressed on the first syllable (stress shown)?",
+    options: ["CAN-di-date", "can-DI-date", "can-di-DATE", "can-di-date"],
+    answer: "CAN-di-date",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Candidate' has primary stress on the first syllable: CAN-di-date."
+  },
+  {
+    text: "Which word pair shows a difference in vowel quality that changes meaning (a vowel minimal pair)?",
+    options: ["ship / sheep", "pen / pan", "men / man", "bed / bad"],
+    answer: "ship / sheep",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Ship' /ɪ/ vs 'sheep' /iː/ differ only in vowel quality and meaning — a vowel minimal pair."
+  },
+  {
+    text: "Which consonant cluster appears medially in the word 'wonder'?",
+    options: ["nd", "ng", "pt", "tl"],
+    answer: "nd",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Wonder' contains the medial cluster /nd/ (won-der)."
+  },
+  {
+    text: "Which noun/verb stress contrast pair is correctly matched?",
+    options: ["REcord (noun) / re-CORD (verb)", "reCORD (noun) / RE-cord (verb)", "RE-cord (noun) / RE-cord (verb)", "re-cord (noun) / re-cord (verb)"],
+    answer: "REcord (noun) / re-CORD (verb)",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "The noun 'record' is typically RE-cord, while the verb is re-CORD — a common stress shift pattern."
+  },
+  {
+    text: "Which of the following words contains the glottal fricative /h/?",
+    options: ["hat", "sat", "mat", "cat"],
+    answer: "hat",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Hat' begins with /h/, the glottal fricative; the others begin with different consonants."
+  },
+  {
+    text: "Which pair rhyme exactly?",
+    options: ["heat / meat", "hit / heat", "hit / heat", "hat / heat"],
+    answer: "heat / meat",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Heat' and 'meat' rhyme (same vowel and final consonant pattern /iːt/)."
+  },
+  {
+    text: "Which of these is an example of contrastive (emphatic) word stress used to correct or emphasise?",
+    options: ["I DID see him (emphatic DID).", "I did see him (neutral).", "I did see him (no emphasis).", "I did see him (unattested)"],
+    answer: "I DID see him (emphatic DID).",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "Placing strong stress on 'DID' emphasises or contradicts a denial: contrastive/emphatic stress."
+  },
+  {
+    text: "Which word contains the diphthong /aʊ/ (as in 'now')?",
+    options: ["now", "no", "new", "knee"],
+    answer: "now",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Now' contains the diphthong /aʊ/ (as in 'now', 'how', 'cow')."
+  },
+  {
+    text: "Which consonant is produced at the labiodental place of articulation?",
+    options: ["v", "g", "t", "s"],
+    answer: "v",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "/v/ is labiodental (lower lip to upper teeth) and is voiced; /f/ is the voiceless counterpart."
+  },
+  {
+    text: "Which two monosyllabic words rhyme?",
+    options: ["cat / bat", "cup / cap", "dog / dig", "sun / son (in many accents)"],
+    answer: "cat / bat",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Cat' and 'bat' rhyme as simple CVC words sharing vowel and final consonant patterns."
+  },
+  {
+    text: "Which word pair are homophones?",
+    options: ["flower / flour", "cat / cot", "bit / bet", "man / men"],
+    answer: "flower / flour",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "As earlier, 'flower' and 'flour' are pronounced the same though spelled differently."
+  },
+  {
+    text: "Which of these words shows vowel reduction in connected speech (unstressed schwa)?",
+    options: ["banana (bə-NA-na)", "ban', 'band' and similar single-stress words", "bed", "bat"],
+    answer: "banana (bə-NA-na)",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "In everyday connected speech 'banana' is typically reduced to /bəˈnænə/ with schwa in unstressed syllables."
+  },
+  {
+    text: "Which initial cluster does English allow: 'tl', 'dw', 'kn', or 'ps' (as pronounced)?",
+    options: ["tl (not allowed)", "dw (allowed in words like 'dwell')", "kn (allowed but k silent as in 'knife')", "ps (initial cluster not native; 'psychology' is /saɪ/ with silent p)"],
+    answer: "dw (allowed in words like 'dwell')",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "Initial /dw/ occurs in English (dwell, dwarf); 'kn' occurs but with silent /k/ and thus onset is /n/."
+  },
+  {
+    text: "Which word has primary stress on the first syllable (stress shown)?",
+    options: ["CAN-dle", "can-DLE", "can-dle", "can-dle"],
+    answer: "CAN-dle",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Candle' is stressed on the first syllable: CAN-dle."
+  },
+  {
+    text: "Which minimal pair contrasts vowel quantity/quality (affects meaning)?",
+    options: ["ship / sheep", "cap / cap", "pan / pan", "man / man"],
+    answer: "ship / sheep",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "'Ship' /ɪ/ vs 'sheep' /iː/ is a clear vowel contrast that changes meaning."
+  },
+  {
+    text: "Which sentence would most likely use emphatic stress to correct someone's claim?",
+    options: ["No — I DID tell you.", "No — I did tell you.", "No — I did tell you.", "No — I did tell you."],
+    answer: "No — I DID tell you.",
+    image: "",
+    subtopic: "Oral Forms",
+    explanation: "Capitalising 'DID' shows contrastive/emphatic stress correcting a denial: 'I DID tell you.'"
+  },
+  
+];

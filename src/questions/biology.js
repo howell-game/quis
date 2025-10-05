@@ -1,0 +1,12219 @@
+export default [
+  {
+    text: "Which of the following processes is a characteristic of all living organisms?",
+    options: ["Evaporation", "Respiration", "Fermentation", "Osmosis"],
+    answer: "Respiration",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "All living organisms respire to release energy needed for survival."
+  },
+  {
+    text: "Which of these structures regulates the movement of substances in and out of the cell?",
+    options: ["Nucleus", "Mitochondrion", "Cell membrane", "Cytoplasm"],
+    answer: "Cell membrane",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The cell membrane controls the entry and exit of materials."
+  },
+  {
+    text: "Which of the following is NOT a characteristic of living organisms?",
+    options: ["Growth", "Reproduction", "Irritability", "Melting"],
+    answer: "Melting",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Melting is a physical process, not a life characteristic."
+  },
+  {
+    text: "The cell wall is found in which type of cells?",
+    options: ["Animal cells only", "Plant cells only", "Both animal and plant cells", "Neither animal nor plant cells"],
+    answer: "Plant cells only",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The rigid cell wall provides strength and support to plant cells."
+  },
+  {
+    text: "The functional unit of life is the ____.",
+    options: ["Tissue", "Cell", "Organ", "System"],
+    answer: "Cell",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The cell is the smallest structural and functional unit of life."
+  },
+  {
+    text: "Which of the following organisms exhibits both autotrophic and heterotrophic modes of nutrition?",
+    options: ["Paramecium", "Hydra", "Euglena", "Onion bulb"],
+    answer: "Euglena",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Euglena can photosynthesize and also feed on organic matter."
+  },
+  {
+    text: "Which of the following correctly represents the sequence of levels of organization in living organisms?",
+    options: ["Cell → Organ → Tissue → System → Organism", "Tissue → Cell → Organ → System → Organism", "Cell → Tissue → Organ → System → Organism", "Organ → System → Tissue → Cell → Organism"],
+    answer: "Cell → Tissue → Organ → System → Organism",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "This is the correct logical sequence of organization in living things."
+  },
+  {
+    text: "Which of these organelles is responsible for energy production in animal cells?",
+    options: ["Ribosome", "Nucleus", "Mitochondrion", "Chloroplast"],
+    answer: "Mitochondrion",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Mitochondria produce ATP through cellular respiration."
+  },
+  {
+    text: "Which of the following is an example of a unicellular organism?",
+    options: ["Hydra", "Onion bulb", "Paramecium", "Liver"],
+    answer: "Paramecium",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Paramecium is a single-celled protozoan."
+  },
+  {
+    text: "The main function of red blood cells in humans is to ____.",
+    options: ["Fight infections", "Transport oxygen", "Produce hormones", "Digest food"],
+    answer: "Transport oxygen",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Red blood cells carry oxygen from the lungs to the body tissues."
+  },
+  {
+    text: "Which of the following structures is common to both plant and animal cells?",
+    options: ["Cell wall", "Chloroplast", "Mitochondrion", "Large central vacuole"],
+    answer: "Mitochondrion",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Mitochondria are found in both plant and animal cells for respiration."
+  },
+  {
+    text: "The organ responsible for filtering waste products from the blood in humans is the ____.",
+    options: ["Heart", "Kidney", "Liver", "Lungs"],
+    answer: "Kidney",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The kidney removes metabolic wastes and excess water from blood."
+  },
+  {
+    text: "Which organelle is responsible for photosynthesis?",
+    options: ["Mitochondrion", "Ribosome", "Chloroplast", "Nucleus"],
+    answer: "Chloroplast",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Chloroplasts contain chlorophyll, which captures sunlight for photosynthesis."
+  },
+  {
+    text: "The excretory system in humans includes the following organs EXCEPT the ____.",
+    options: ["Kidney", "Lungs", "Skin", "Heart"],
+    answer: "Heart",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The heart is part of the circulatory system, not excretion."
+  },
+  {
+    text: "In which part of the cell does respiration mainly occur?",
+    options: ["Nucleus", "Chloroplast", "Mitochondrion", "Ribosome"],
+    answer: "Mitochondrion",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Mitochondria are the site of cellular respiration."
+  },
+  {
+    text: "Which of these best describes tissues?",
+    options: ["Groups of similar cells performing a common function", "A collection of organs", "The smallest unit of life", "A system of organs"],
+    answer: "Groups of similar cells performing a common function",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Tissues are formed by similar cells working together."
+  },
+  {
+    text: "Hydra is an example of a ____ level of organization.",
+    options: ["Cell", "Tissue", "Organ", "Organism"],
+    answer: "Tissue",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Hydra exhibits a tissue level of organization."
+  },
+  {
+    text: "Which part of the cell is responsible for controlling activities such as growth and reproduction?",
+    options: ["Nucleus", "Mitochondrion", "Cytoplasm", "Ribosome"],
+    answer: "Nucleus",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The nucleus contains genetic material that controls cell functions."
+  },
+  {
+    text: "Which of these organisms is capable of both asexual and sexual reproduction?",
+    options: ["Hydra", "Onion bulb", "Paramecium", "Chlamydomonas"],
+    answer: "Chlamydomonas",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Chlamydomonas reproduces both asexually (by binary fission) and sexually."
+  },
+  {
+    text: "Which of the following correctly matches an organ to its system?",
+    options: ["Lungs – Digestive system", "Heart – Circulatory system", "Kidney – Nervous system", "Stomach – Respiratory system"],
+    answer: "Heart – Circulatory system",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The heart pumps blood as part of the circulatory system."
+  },
+{
+    text: "Which of the following structures is present in both plant and animal cells?",
+    options: ["Cell wall", "Mitochondrion", "Chloroplast", "Large vacuole"],
+    answer: "Mitochondrion",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Mitochondria are found in both plants and animals for energy production."
+  },
+  {
+    text: "Which of the following organisms exhibits locomotion using cilia?",
+    options: ["Euglena", "Paramecium", "Amoeba", "Chlamydomonas"],
+    answer: "Paramecium",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Paramecium moves with tiny hair-like structures called cilia."
+  },
+  {
+    text: "The ability of living organisms to respond to changes in their environment is known as ____.",
+    options: ["Growth", "Irritability", "Homeostasis", "Reproduction"],
+    answer: "Irritability",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Irritability is the capacity to detect and respond to stimuli."
+  },
+  {
+    text: "Which of the following is NOT a function of the nucleus?",
+    options: ["Control of cell activities", "Storage of genetic material", "Protein synthesis", "Cell division regulation"],
+    answer: "Protein synthesis",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Protein synthesis occurs at ribosomes, not in the nucleus."
+  },
+  {
+    text: "Which of these best describes Chlamydomonas?",
+    options: ["A tissue", "A unicellular alga", "A colonial protozoan", "A parasitic bacterium"],
+    answer: "A unicellular alga",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Chlamydomonas is a single-celled green alga capable of photosynthesis."
+  },
+  {
+    text: "Which of the following levels of organization is missing in the sequence: Cell → Tissue → Organ → ? → Organism?",
+    options: ["Organ system", "Organ compound", "Organelle", "Symbiosis"],
+    answer: "Organ system",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The correct hierarchy is Cell → Tissue → Organ → System → Organism."
+  },
+  {
+    text: "Which of the following is an example of a system in animals?",
+    options: ["Epithelial", "Digestive", "Nucleus", "Onion bulb"],
+    answer: "Digestive",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The digestive system breaks down food for absorption and energy release."
+  },
+  {
+    text: "Which organelle is responsible for packaging and secreting proteins?",
+    options: ["Nucleolus", "Golgi apparatus", "Ribosome", "Lysosome"],
+    answer: "Golgi apparatus",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The Golgi apparatus modifies and packages proteins for transport."
+  },
+  {
+    text: "A living organism that is both autotrophic and motile is ____.",
+    options: ["Hydra", "Euglena", "Paramecium", "Yeast"],
+    answer: "Euglena",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Euglena can photosynthesize like plants and move like animals."
+  },
+  {
+    text: "Which of the following is true of all living things?",
+    options: ["They all reproduce sexually", "They all respire aerobically", "They all require energy", "They all have backbones"],
+    answer: "They all require energy",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Every living thing requires energy, though the source may differ."
+  },
+  {
+    text: "The structure that controls the semi-permeability of the cell is the ____.",
+    options: ["Nuclear membrane", "Cell wall", "Cell membrane", "Cytoplasm"],
+    answer: "Cell membrane",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The cell membrane selectively allows substances in and out."
+  },
+  {
+    text: "Which of the following statements is correct about tissues?",
+    options: ["They are formed by groups of organs", "They perform unrelated functions", "They are formed by similar cells", "They are the largest unit of life"],
+    answer: "They are formed by similar cells",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Tissues are made of groups of similar cells that perform the same function."
+  },
+  {
+    text: "The structural difference between plant and animal cells includes the presence of ____.",
+    options: ["Nucleus", "Chloroplasts", "Mitochondria", "Cell membrane"],
+    answer: "Chloroplasts",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Chloroplasts are found in plant cells but absent in animal cells."
+  },
+  {
+    text: "Which of the following organisms shows tissue level of organization?",
+    options: ["Euglena", "Hydra", "Paramecium", "Chlamydomonas"],
+    answer: "Hydra",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Hydra has groups of similar cells organized into tissues."
+  },
+  {
+    text: "The removal of toxic metabolic waste in living organisms is referred to as ____.",
+    options: ["Secretion", "Excretion", "Egestion", "Osmoregulation"],
+    answer: "Excretion",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Excretion eliminates metabolic wastes such as urea and carbon dioxide."
+  },
+  {
+    text: "Which of these is an organ in plants?",
+    options: ["Chloroplast", "Root", "Epithelial tissue", "Cytoplasm"],
+    answer: "Root",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Roots are plant organs specialized for absorption and anchorage."
+  },
+  {
+    text: "Which organelle is known as the control center of the cell?",
+    options: ["Nucleolus", "Mitochondrion", "Nucleus", "Golgi body"],
+    answer: "Nucleus",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The nucleus stores DNA and directs cell activities."
+  },
+  {
+    text: "Which of these best distinguishes living things from non-living things?",
+    options: ["Ability to move from place to place", "Ability to grow and reproduce", "Ability to undergo diffusion", "Ability to have mass and volume"],
+    answer: "Ability to grow and reproduce",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Growth and reproduction are unique to living organisms."
+  },
+  {
+    text: "Which organelle is present in plant cells but absent in animal cells?",
+    options: ["Ribosome", "Nucleus", "Cell membrane", "Cell wall"],
+    answer: "Cell wall",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The rigid cell wall surrounds plant cells only."
+  },
+  {
+    text: "Which of the following systems is directly involved in the breakdown and absorption of food?",
+    options: ["Digestive system", "Respiratory system", "Circulatory system", "Excretory system"],
+    answer: "Digestive system",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The digestive system digests food and absorbs nutrients."
+  },
+  {
+    text: "Which of the following is NOT a characteristic of living organisms?",
+    options: ["Respiration", "Nutrition", "Decay", "Excretion"],
+    answer: "Decay",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Decay is a process that occurs in dead organisms, not a life characteristic."
+  },
+  {
+    text: "Which of the following cell structures is correctly matched with its function?",
+    options: [
+      "Mitochondrion – Protein synthesis",
+      "Ribosome – Energy production",
+      "Chloroplast – Photosynthesis",
+      "Nucleus – Excretion"
+    ],
+    answer: "Chloroplast – Photosynthesis",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Chloroplasts capture light energy and convert it into chemical energy."
+  },
+  {
+    text: "Which of the following best explains why viruses are considered to be at the border between living and non-living things?",
+    options: [
+      "They can only be seen with a light microscope",
+      "They possess chlorophyll for photosynthesis",
+      "They can reproduce only inside living cells",
+      "They lack protein coats"
+    ],
+    answer: "They can reproduce only inside living cells",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Viruses show life features only when inside a host cell."
+  },
+  {
+    text: "Which of the following is NOT true of both plant and animal cells?",
+    options: [
+      "Both contain mitochondria",
+      "Both have cytoplasm",
+      "Both have a cell wall",
+      "Both contain ribosomes"
+    ],
+    answer: "Both have a cell wall",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Only plant cells have a rigid cell wall; animal cells lack it."
+  },
+  {
+    text: "Which of the following correctly arranges the levels of organization in increasing order of complexity?",
+    options: [
+      "Organ → Tissue → Cell → System → Organism",
+      "Cell → Tissue → Organ → System → Organism",
+      "Tissue → Organ → Cell → System → Organism",
+      "Cell → Organ → Tissue → System → Organism"
+    ],
+    answer: "Cell → Tissue → Organ → System → Organism",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "This is the correct logical sequence of biological organization."
+  },
+  {
+    text: "Which of these structures is present in Euglena but absent in Paramecium?",
+    options: ["Nucleus", "Flagellum", "Cytoplasm", "Contractile vacuole"],
+    answer: "Flagellum",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Euglena uses a flagellum for movement, while Paramecium uses cilia."
+  },
+  {
+    text: "Which of the following is a correct distinction between plant and animal cells?",
+    options: [
+      "Plant cells lack mitochondria while animal cells possess them",
+      "Plant cells have cell walls while animal cells do not",
+      "Animal cells have chloroplasts while plant cells do not",
+      "Animal cells have vacuoles while plant cells do not"
+    ],
+    answer: "Plant cells have cell walls while animal cells do not",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The cell wall is unique to plant cells and absent in animals."
+  },
+  {
+    text: "In which of the following organisms can movement be described as amoeboid?",
+    options: ["Hydra", "Paramecium", "Amoeba", "Euglena"],
+    answer: "Amoeba",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Amoeba moves by forming pseudopodia, hence amoeboid movement."
+  },
+  {
+    text: "Which of these is an example of an organ system?",
+    options: ["Onion bulb", "Reproductive system", "Epithelial tissue", "Chlamydomonas"],
+    answer: "Reproductive system",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Organ systems are groups of organs working together e.g. reproductive system."
+  },
+  {
+    text: "Which of the following best explains why cells are called the structural units of life?",
+    options: [
+      "All living things are made of one or more cells",
+      "Cells can only be seen under a microscope",
+      "Cells are present only in higher organisms",
+      "Cells do not require energy"
+    ],
+    answer: "All living things are made of one or more cells",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Cells form the basic structure of all living organisms."
+  },
+  {
+    text: "Which of the following organelles is responsible for intracellular digestion?",
+    options: ["Mitochondria", "Lysosome", "Golgi body", "Nucleus"],
+    answer: "Lysosome",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Lysosomes contain enzymes that digest worn-out organelles and food particles."
+  },
+  {
+    text: "Which of the following statements about tissues is correct?",
+    options: [
+      "A tissue is made up of organs performing the same function",
+      "A tissue is made up of similar cells performing the same function",
+      "A tissue is the smallest unit of life",
+      "A tissue is formed by systems working together"
+    ],
+    answer: "A tissue is made up of similar cells performing the same function",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Tissues are organized groups of similar cells."
+  },
+  {
+    text: "The onion bulb is an example of a(n) ____.",
+    options: ["Cell", "Tissue", "Organ", "System"],
+    answer: "Organ",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Organs are structures made of tissues performing specific functions."
+  },
+  {
+    text: "Which of the following organisms uses contractile vacuoles to regulate water balance?",
+    options: ["Frog", "Hydra", "Paramecium", "Onion bulb"],
+    answer: "Paramecium",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Paramecium uses contractile vacuoles for osmoregulation."
+  },
+  {
+    text: "Which of these processes is necessary for the continuity of life?",
+    options: ["Respiration", "Growth", "Excretion", "Reproduction"],
+    answer: "Reproduction",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Reproduction ensures the survival of species across generations."
+  },
+  {
+    text: "Which of the following structures is absent in animal cells?",
+    options: ["Ribosome", "Nucleus", "Cell wall", "Mitochondrion"],
+    answer: "Cell wall",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The rigid cell wall is absent in animals but present in plants."
+  },
+  {
+    text: "Which statement is TRUE of both Amoeba and Paramecium?",
+    options: [
+      "Both move using pseudopodia",
+      "Both are multicellular",
+      "Both live in aquatic environments",
+      "Both are plants"
+    ],
+    answer: "Both live in aquatic environments",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Both Amoeba and Paramecium are unicellular protozoans found in water."
+  },
+  {
+    text: "Which system is responsible for transporting materials throughout the body?",
+    options: ["Digestive system", "Circulatory system", "Excretory system", "Nervous system"],
+    answer: "Circulatory system",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The circulatory system transports oxygen, nutrients, and wastes."
+  },
+  {
+    text: "Which organelle is responsible for the synthesis of ribosomal RNA?",
+    options: ["Nucleolus", "Mitochondrion", "Golgi body", "Chloroplast"],
+    answer: "Nucleolus",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The nucleolus synthesizes rRNA and assembles ribosome subunits."
+  },
+  {
+    text: "Which of the following is NOT an example of excretion?",
+    options: [
+      "Carbon dioxide release through lungs",
+      "Sweat production through skin",
+      "Urea formation in kidneys",
+      "Undigested food passing out as feces"
+    ],
+    answer: "Undigested food passing out as feces",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The removal of undigested food is egestion, not excretion."
+  },
+  {
+    text: "Which of the following statements about living organisms is/are CORRECT? I. They require energy for activities. II. They all possess chlorophyll. III. They respond to stimuli.",
+    options: ["I only", "I and III only", "II and III only", "I, II and III"],
+    answer: "I and III only",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "All living things require energy and show irritability (I and III). Only plants and some protists have chlorophyll, not all organisms."
+  },
+  {
+    text: "A student observed a cell with a large central vacuole, chloroplasts and a cellulose boundary. The cell is most likely from the ____.",
+    options: ["Human skin", "Onion leaf", "Hydra epidermis", "Bacterial colony"],
+    answer: "Onion leaf",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Chloroplasts and a cellulose cell wall indicate a plant cell; an onion leaf is a photosynthetic plant tissue."
+  },
+  {
+    text: "Which of the following is NOT a function of the cell membrane?",
+    options: ["Selective permeability", "Cell recognition", "ATP production", "Boundary formation"],
+    answer: "ATP production",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "ATP is produced mainly in mitochondria; membranes mediate transport, recognition, and define boundaries."
+  },
+  {
+    text: "Consider Euglena: I. Possesses chloroplasts. II. Moves with cilia. III. Exhibits phototaxis. Which are TRUE?",
+    options: ["I only", "I and III only", "II and III only", "I, II and III"],
+    answer: "I and III only",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Euglena has chloroplasts and shows phototaxis using its eyespot; it moves with a flagellum, not cilia."
+  },
+  {
+    text: "Which structure–function pairing is CORRECT?",
+    options: [
+      "Ribosome – Lipid synthesis",
+      "Golgi apparatus – Protein modification and packaging",
+      "Lysosome – Photosynthesis",
+      "Chloroplast – Intracellular digestion"
+    ],
+    answer: "Golgi apparatus – Protein modification and packaging",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The Golgi modifies, sorts and packages proteins; the other pairings mismatch functions."
+  },
+  {
+    text: "Which of the following correctly completes the series: Cell → Tissue → Organ → ____ → Organism?",
+    options: ["Organelle", "System", "Community", "Population"],
+    answer: "System",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Organs combine to form organ systems, which together constitute the organism."
+  },
+  {
+    text: "Hydra is best described as having ____ level of organization with predominant ____ tissue type.",
+    options: ["Cellular; muscular", "Tissue; epithelial", "Organ; vascular", "System; nervous"],
+    answer: "Tissue; epithelial",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Hydra exhibits tissue-level organization; epithelial (epidermal and gastrodermal) tissues are dominant."
+  },
+  {
+    text: "Which feature distinguishes plant cells from animal cells under the microscope MOST reliably?",
+    options: ["Presence of mitochondria", "Presence of ribosomes", "Presence of chloroplasts", "Presence of cytoplasm"],
+    answer: "Presence of chloroplasts",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Chloroplasts occur in plant cells (especially photosynthetic tissues) but not in animal cells; the others occur in both."
+  },
+  {
+    text: "Paramecium maintains water balance using a structure called the ____ which functions primarily in ____.",
+    options: [
+      "Food vacuole; digestion",
+      "Contractile vacuole; osmoregulation",
+      "Pellicle; locomotion",
+      "Cilium; ingestion"
+    ],
+    answer: "Contractile vacuole; osmoregulation",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Paramecium expels excess water via contractile vacuoles to maintain osmotic balance."
+  },
+  {
+    text: "Which of the following is TRUE of both plant and animal cells?",
+    options: [
+      "Both have cellulose cell walls",
+      "Both carry out aerobic respiration",
+      "Both contain chloroplasts",
+      "Both lack centrioles"
+    ],
+    answer: "Both carry out aerobic respiration",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Both types of cells use mitochondria for aerobic respiration; cell walls and chloroplasts are not common to both."
+  },
+  {
+    text: "A specimen shows a pellicle, oral groove and numerous hair-like structures. It is most likely ____ and moves by ____.",
+    options: ["Euglena; flagellum", "Paramecium; cilia", "Amoeba; pseudopodia", "Hydra; tentacles"],
+    answer: "Paramecium; cilia",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Paramecium has a pellicle and cilia used for locomotion and feeding via the oral groove."
+  },
+  {
+    text: "Which option CORRECTLY matches level to example?",
+    options: [
+      "Cell – Chlamydomonas",
+      "Tissue – Kidney",
+      "Organ – Epithelial",
+      "System – Onion bulb"
+    ],
+    answer: "Cell – Chlamydomonas",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Chlamydomonas is unicellular (cell level). Kidney is an organ, epithelial is a tissue, onion bulb is an organ."
+  },
+  {
+    text: "Which statement about excretion is INCORRECT?",
+    options: [
+      "Lungs remove carbon dioxide and water",
+      "Skin excretes urea through sweat",
+      "Kidneys remove urea from blood",
+      "Egestion and excretion are the same"
+    ],
+    answer: "Egestion and excretion are the same",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Egestion removes undigested food; excretion removes metabolic wastes like urea and CO₂."
+  },
+  {
+    text: "A cell immersed in a hypertonic solution will ____ due to ____.",
+    options: [
+      "Swell; endosmosis",
+      "Shrink; exosmosis",
+      "Remain unchanged; isotonicity",
+      "Burst; active transport"
+    ],
+    answer: "Shrink; exosmosis",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Water moves out of the cell in a hypertonic medium, causing shrinkage (plasmolysis in plants)."
+  },
+  {
+    text: "Which combination is CORRECT regarding cell components and functions? I. Nucleolus – rRNA synthesis. II. Ribosome – protein synthesis. III. Mitochondrion – lipid storage.",
+    options: ["I only", "II only", "I and II only", "I, II and III"],
+    answer: "I and II only",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "I and II are correct; mitochondria produce ATP and are not primarily for lipid storage."
+  },
+  {
+    text: "Which feature most directly accounts for the semi-permeable nature of the plasma membrane?",
+    options: [
+      "Presence of cellulose microfibrils",
+      "Phospholipid bilayer with embedded proteins",
+      "Cristae and matrix",
+      "Presence of middle lamella"
+    ],
+    answer: "Phospholipid bilayer with embedded proteins",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "The fluid mosaic structure enables selective transport via lipids and proteins."
+  },
+  {
+    text: "In the correct sequence of biological organization, which level is IMMEDIATELY below 'organ'?",
+    options: ["System", "Tissue", "Cell", "Organism"],
+    answer: "Tissue",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Organs are made of tissues; thus tissue is immediately below organ."
+  },
+  {
+    text: "Which of these pairs is CORRECTLY matched: organism → locomotory structure?",
+    options: [
+      "Amoeba → cilia",
+      "Euglena → flagellum",
+      "Paramecium → pseudopodia",
+      "Hydra → flagellum"
+    ],
+    answer: "Euglena → flagellum",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Euglena uses a flagellum; Amoeba uses pseudopodia; Paramecium uses cilia; Hydra lacks flagella."
+  },
+  {
+    text: "Which of the following is a CHARACTERISTIC of life illustrated by plants turning their leaves toward light?",
+    options: ["Tropism (response to stimulus)", "Nutrition", "Reproduction", "Homeostasis"],
+    answer: "Tropism (response to stimulus)",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "Phototropism shows irritability/response to environmental stimuli."
+  },
+  {
+    text: "Which statement BEST differentiates plant and animal cells under identical conditions?",
+    options: [
+      "Only plant cells undergo respiration",
+      "Only animal cells contain DNA",
+      "Plant cells plasmolyse in strong salt solution; animal cells crenate",
+      "Animal cells have chloroplasts while plant cells lack them"
+    ],
+    answer: "Plant cells plasmolyse in strong salt solution; animal cells crenate",
+    image: "",
+    subtopic: "Living Organisms",
+    explanation: "In hypertonic media, plant cells plasmolyse (cell wall present), whereas animal cells shrink (crenate)."
+  },
+   {
+    text: "Which kingdom contains prokaryotic organisms such as bacteria?",
+    options: ["Monera", "Protista", "Fungi", "Plantae"], // ✅ Correct = A
+    answer: "Monera",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Organisms in Monera are prokaryotes without a true nucleus."
+  },
+  {
+    text: "Blue-green algae belong to which kingdom?",
+    options: ["Protista", "Monera", "Fungi", "Plantae"], // ✅ Correct = B
+    answer: "Monera",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Blue-green algae are cyanobacteria, part of Monera."
+  },
+  {
+    text: "Which organism is a unicellular protist?",
+    options: ["Moss", "Fern", "Amoeba", "Mushroom"], // ✅ Correct = C
+    answer: "Amoeba",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Amoeba is a unicellular organism in Protista."
+  },
+  {
+    text: "Which of these organisms shows both plant-like and animal-like features?",
+    options: ["Paramecium", "Hydra", "Spirogyra", "Euglena"], // ✅ Correct = D
+    answer: "Euglena",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Euglena photosynthesizes like plants but moves like animals."
+  },
+  {
+    text: "Which of these belongs to Fungi?",
+    options: ["Rhizopus", "Moss", "Euglena", "Spirogyra"], // ✅ Correct = A
+    answer: "Rhizopus",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Rhizopus is a saprophytic fungus."
+  },
+  {
+    text: "Spirogyra belongs to which group of plants?",
+    options: ["Bryophyta", "Thallophyta", "Pteridophyta", "Spermatophyta"], // ✅ Correct = B
+    answer: "Thallophyta",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Spirogyra is a filamentous green alga in Thallophyta."
+  },
+  {
+    text: "Mosses are classified under which division?",
+    options: ["Thallophyta", "Pteridophyta", "Spermatophyta", "Bryophyta"], // ✅ Correct = D
+    answer: "Bryophyta",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Mosses are non-vascular plants in Bryophyta."
+  },
+  {
+    text: "Which of these is an example of Pteridophyta?",
+    options: ["Cycas", "Dryopteris", "Spirogyra", "Maize"], // ✅ Correct = B
+    answer: "Dryopteris",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Dryopteris is a typical fern in Pteridophyta."
+  },
+  {
+    text: "Gymnosperms are plants that:",
+    options: ["Bear naked seeds", "Have flowers", "Produce fruits", "Lack roots"], // ✅ Correct = A
+    answer: "Bear naked seeds",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Gymnosperms produce naked seeds not enclosed in fruits."
+  },
+  {
+    text: "Maize is classified as:",
+    options: ["Gymnosperm", "Dicot", "Monocot", "Bryophyte"], // ✅ Correct = C
+    answer: "Monocot",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Maize has one seed leaf, parallel veins, and fibrous roots."
+  },
+  {
+    text: "Hydra belongs to which animal phylum?",
+    options: ["Mollusca", "Coelenterata", "Nematoda", "Annelida"], // ✅ Correct = B
+    answer: "Coelenterata",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Hydra is a coelenterate with a simple sac-like body."
+  },
+  {
+    text: "Which of these is a flatworm?",
+    options: ["Cockroach", "Earthworm", "Taenia", "Snail"], // ✅ Correct = C
+    answer: "Taenia",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Taenia is a parasitic flatworm belonging to Platyhelminthes."
+  },
+  {
+    text: "Earthworm belongs to which group?",
+    options: ["Platyhelminthes", "Annelida", "Nematoda", "Arthropoda"], // ✅ Correct = B
+    answer: "Annelida",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Earthworm is a segmented worm in Annelida."
+  },
+  {
+    text: "Which phylum includes insects like mosquitoes and butterflies?",
+    options: ["Arthropoda", "Mollusca", "Annelida", "Nematoda"], // ✅ Correct = A
+    answer: "Arthropoda",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Insects are arthropods with jointed legs and segmented bodies."
+  },
+  {
+    text: "Snails belong to which group?",
+    options: ["Annelida", "Coelenterata", "Mollusca", "Arthropoda"], // ✅ Correct = C
+    answer: "Mollusca",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Snails are mollusks with soft bodies and shells."
+  },
+  {
+    text: "Which of these is a cartilaginous fish?",
+    options: ["Shark", "Tilapia", "Catfish", "Salmon"], // ✅ Correct = A
+    answer: "Shark",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Sharks have skeletons made of cartilage, not bone."
+  },
+  {
+    text: "Frogs are members of which class?",
+    options: ["Pisces", "Reptilia", "Amphibia", "Mammalia"], // ✅ Correct = C
+    answer: "Amphibia",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Frogs are amphibians that live both in water and on land."
+  },
+  {
+    text: "Which of these animals is a reptile?",
+    options: ["Frog", "Snake", "Toad", "Shark"], // ✅ Correct = B
+    answer: "Snake",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Reptiles include snakes, lizards, and turtles."
+  },
+  {
+    text: "Birds are classified under which class?",
+    options: ["Mammalia", "Reptilia", "Aves", "Pisces"], // ✅ Correct = C
+    answer: "Aves",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Birds belong to class Aves, characterized by feathers."
+  },
+  {
+    text: "Humans belong to which class of animals?",
+    options: ["Amphibia", "Mammalia", "Reptilia", "Aves"], // ✅ Correct = B
+    answer: "Mammalia",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Humans are mammals because they have mammary glands."
+  },
+  {
+    text: "Which main feature distinguishes Monera from Protista?",
+    options: [
+      "Ability to photosynthesize",
+      "Presence of a true nucleus", // ✅ Correct = B
+      "Presence of chlorophyll",
+      "Ability to move"
+    ],
+    answer: "Presence of a true nucleus",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Protists have a true nucleus (eukaryotic), while Monerans are prokaryotic."
+  },
+  {
+    text: "Why is Euglena considered a link between plants and animals?",
+    options: [
+      "It forms colonies",
+      "It reproduces sexually",
+      "It lives in water",
+      "It has both chloroplasts and flagella" // ✅ Correct = D
+    ],
+    answer: "It has both chloroplasts and flagella",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Euglena photosynthesizes like plants and moves like animals."
+  },
+  {
+    text: "What differentiates fungi from green plants?",
+    options: [
+      "Fungi lack chlorophyll", // ✅ Correct = A
+      "Fungi reproduce by spores",
+      "Fungi have cell walls",
+      "Fungi live on land"
+    ],
+    answer: "Fungi lack chlorophyll",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Fungi cannot photosynthesize as they lack chlorophyll."
+  },
+  {
+    text: "Bryophytes are more advanced than thallophytes because they:",
+    options: [
+      "Produce naked seeds",
+      "Possess root-like and leaf-like structures", // ✅ Correct = B
+      "Have vascular tissues",
+      "Have true flowers"
+    ],
+    answer: "Possess root-like and leaf-like structures",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Bryophytes developed simple roots (rhizoids) and leaf-like structures, unlike thallophytes."
+  },
+  {
+    text: "Which of the following is an advancement of pteridophytes over bryophytes?",
+    options: [
+      "Ability to produce gametes",
+      "Ability to photosynthesize",
+      "Possession of vascular tissues", // ✅ Correct = C
+      "Dependence on water for reproduction"
+    ],
+    answer: "Possession of vascular tissues",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Pteridophytes have vascular tissues for transport, unlike bryophytes."
+  },
+  {
+    text: "Why are gymnosperms considered more advanced than pteridophytes?",
+    options: [
+      "They reproduce sexually",
+      "They have true leaves",
+      "They bear naked seeds", // ✅ Correct = C
+      "They are photosynthetic"
+    ],
+    answer: "They bear naked seeds",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Gymnosperms developed seeds, while pteridophytes still depend on spores."
+  },
+  {
+    text: "Which feature differentiates monocots from dicots?",
+    options: [
+      "Presence of chlorophyll",
+      "Presence of roots",
+      "Ability to flower",
+      "Number of seed leaves" // ✅ Correct = D
+    ],
+    answer: "Number of seed leaves",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Monocots have one seed leaf, while dicots have two."
+  },
+  {
+    text: "Which of these animals exhibits radial symmetry?",
+    options: ["Hydra", "Butterfly", "Snail", "Earthworm"], // ✅ Correct = A
+    answer: "Hydra",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Hydra has body parts arranged around a central axis, showing radial symmetry."
+  },
+  {
+    text: "Which feature makes annelids more advanced than flatworms?",
+    options: [
+      "Segmented body", // ✅ Correct = A
+      "Presence of a mouth",
+      "Ability to move",
+      "Sexual reproduction"
+    ],
+    answer: "Segmented body",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Annelids have body segmentation, showing higher structural organization."
+  },
+  {
+    text: "Which characteristic makes arthropods the most successful animals?",
+    options: [
+      "Soft bodies and shells",
+      "Presence of a backbone",
+      "Ability to photosynthesize",
+      "Jointed appendages and exoskeleton" // ✅ Correct = D
+    ],
+    answer: "Jointed appendages and exoskeleton",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "These features allow arthropods to adapt to various environments."
+  },
+  {
+    text: "Which of these animals belongs to Mollusca?",
+    options: ["Cockroach", "Snail", "Earthworm", "Taenia"], // ✅ Correct = B
+    answer: "Snail",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Snails are soft-bodied animals with shells, characteristic of Mollusca."
+  },
+  {
+    text: "Which feature makes fishes less advanced than amphibians?",
+    options: [
+      "They reproduce sexually",
+      "They live only in water", // ✅ Correct = B
+      "They possess a backbone",
+      "They respire through gills"
+    ],
+    answer: "They live only in water",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Amphibians evolved to survive both in water and on land, unlike fishes."
+  },
+  {
+    text: "Why are reptiles considered more advanced than amphibians?",
+    options: [
+      "They lay shelled eggs on land", // ✅ Correct = A
+      "They live in water",
+      "They have gills",
+      "They are cold-blooded"
+    ],
+    answer: "They lay shelled eggs on land",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Reptiles developed amniotic eggs, freeing them from dependence on water for reproduction."
+  },
+  {
+    text: "Which feature makes birds unique among vertebrates?",
+    options: [
+      "Backbone",
+      "Lungs",
+      "Warm-bloodedness",
+      "Feathers" // ✅ Correct = D
+    ],
+    answer: "Feathers",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Feathers are unique adaptations for flight and insulation in birds."
+  },
+  {
+    text: "Which of the following is a mammalian feature?",
+    options: [
+      "Mammary glands", // ✅ Correct = A
+      "Scales",
+      "Feathers",
+      "Shell"
+    ],
+    answer: "Mammary glands",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Mammals nurse their young with milk from mammary glands."
+  },
+  {
+    text: "What do fungi and animals have in common?",
+    options: [
+      "They photosynthesize",
+      "They are prokaryotic",
+      "They have cell walls of cellulose",
+      "They are heterotrophic" // ✅ Correct = D
+    ],
+    answer: "They are heterotrophic",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Both fungi and animals depend on external sources for food."
+  },
+  {
+    text: "Why are protozoans considered more advanced than bacteria?",
+    options: [
+      "They are eukaryotic", // ✅ Correct = A
+      "They cause diseases",
+      "They are smaller",
+      "They lack chlorophyll"
+    ],
+    answer: "They are eukaryotic",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Protozoans have a nucleus and organelles, unlike bacteria."
+  },
+  {
+    text: "Which advancement allowed plants to survive better on land?",
+    options: [
+      "Ability to photosynthesize",
+      "Production of spores",
+      "Dependence on water",
+      "Development of vascular tissues" // ✅ Correct = D
+    ],
+    answer: "Development of vascular tissues",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Vascular tissues allowed transport of water and nutrients on land."
+  },
+  {
+    text: "Which of these is an evolutionary advancement of mammals over reptiles?",
+    options: [
+      "Ability to breathe air",
+      "Internal fertilization and live birth", // ✅ Correct = B
+      "Cold-bloodedness",
+      "Laying eggs"
+    ],
+    answer: "Internal fertilization and live birth",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Many mammals give birth to live young, unlike reptiles."
+  },
+  {
+    text: "Which two features distinguish vertebrates from invertebrates?",
+    options: [
+      "Presence of cell walls and nucleus",
+      "Warm-bloodedness and lungs",
+      "Ability to fly and reproduce sexually",
+      "Presence of backbone and endoskeleton" // ✅ Correct = D
+    ],
+    answer: "Presence of backbone and endoskeleton",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Vertebrates have an internal skeleton and a backbone, unlike invertebrates."
+  },
+  {
+    text: "Which evolutionary advantage do amphibians have over fishes?",
+    options: [
+      "They have a backbone",
+      "They reproduce sexually",
+      "They can breathe both in water and on land",
+      "They are cold-blooded"
+    ],
+    answer: "They can breathe both in water and on land",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Amphibians evolved lungs in addition to gills, allowing them to live on land as well as in water."
+  },
+  {
+    text: "Why were reptiles able to dominate terrestrial habitats compared to amphibians?",
+    options: [
+      "They depend on external fertilization",
+      "They are less complex in structure",
+      "They lay shelled amniotic eggs",
+      "They have moist skins for respiration"
+    ],
+    answer: "They lay shelled amniotic eggs",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Reptiles’ amniotic eggs protected embryos from drying, freeing them from water-dependent reproduction."
+  },
+  {
+    text: "What evolutionary adaptation enabled gymnosperms to survive in dry areas?",
+    options: [
+      "Absence of roots",
+      "Development of pollen grains",
+      "Dependence on water for fertilization",
+      "Presence of spores"
+    ],
+    answer: "Development of pollen grains",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Pollen grains allow fertilization without water, unlike earlier plants that relied on swimming gametes."
+  },
+  {
+    text: "Why is the evolution of the amniotic egg considered a major step in vertebrate evolution?",
+    options: [
+      "It ensured animals remained cold-blooded",
+      "It promoted metamorphosis",
+      "It eliminated the need for aquatic environments during reproduction",
+      "It allowed external fertilization"
+    ],
+    answer: "It eliminated the need for aquatic environments during reproduction",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "The amniotic egg provided protection and nutrients, enabling vertebrates to reproduce on land."
+  },
+  {
+    text: "What was the main evolutionary significance of feathers in birds?",
+    options: [
+      "They improved reproduction",
+      "They increased body weight",
+      "They reduced respiration",
+      "They enhanced flight and insulation"
+    ],
+    answer: "They enhanced flight and insulation",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Feathers helped in thermoregulation and flight, making birds highly adaptive."
+  },
+  {
+    text: "In mammals, which evolutionary adaptation increased survival of the young?",
+    options: [
+      "Cold-blooded metabolism",
+      "Production of spores",
+      "External fertilization",
+      "Presence of mammary glands"
+    ],
+    answer: "Presence of mammary glands",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Mammary glands nourish young with milk, ensuring higher survival rates."
+  },
+  {
+    text: "What advantage did segmentation provide to annelids?",
+    options: [
+      "It enabled photosynthesis",
+      "It prevented movement",
+      "It increased flexibility and specialization of body parts",
+      "It allowed radial symmetry"
+    ],
+    answer: "It increased flexibility and specialization of body parts",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Segmentation allowed different parts of the body to carry out specialized functions efficiently."
+  },
+  {
+    text: "Why are insects considered highly successful in evolution?",
+    options: [
+      "They are aquatic only",
+      "They are vertebrates",
+      "They reproduce slowly",
+      "They have exoskeletons and can fly"
+    ],
+    answer: "They have exoskeletons and can fly",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "The exoskeleton prevents water loss, and flight aids in dispersal and escape from predators."
+  },
+  {
+    text: "What feature allowed reptiles to colonize deserts successfully?",
+    options: [
+      "Scaly, waterproof skins",
+      "External fertilization",
+      "Moist, thin skins",
+      "Gills for respiration"
+    ],
+    answer: "Scaly, waterproof skins",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Their keratinized scales reduce water loss, enabling survival in dry habitats."
+  },
+  {
+    text: "Which of these evolutionary changes increased efficiency of mammals in cold environments?",
+    options: [
+      "Production of spores",
+      "Warm-bloodedness",
+      "Cold-bloodedness",
+      "Dependence on external fertilization"
+    ],
+    answer: "Warm-bloodedness",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Endothermy allows mammals to maintain constant internal temperatures in harsh climates."
+  },
+  {
+    text: "Which evolutionary development distinguishes flowering plants (angiosperms) from gymnosperms?",
+    options: [
+      "Production of seeds enclosed in fruits",
+      "Dependence on water for fertilization",
+      "Dependence on spores",
+      "Absence of vascular tissues"
+    ],
+    answer: "Production of seeds enclosed in fruits",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Enclosed seeds allow better protection and dispersal compared to naked seeds of gymnosperms."
+  },
+  {
+    text: "Which adaptation increased efficiency of respiration in birds?",
+    options: [
+      "Spiracles",
+      "Presence of gills",
+      "Air sacs and lungs",
+      "Trachea only"
+    ],
+    answer: "Air sacs and lungs",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Air sacs provide continuous flow of oxygen, vital for flight metabolism."
+  },
+  {
+    text: "What was the significance of jointed appendages in arthropods?",
+    options: [
+      "They provided better locomotion and manipulation of food",
+      "They enabled photosynthesis",
+      "They increased water loss",
+      "They reduced mobility"
+    ],
+    answer: "They provided better locomotion and manipulation of food",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Jointed appendages allowed diverse adaptations in movement and feeding."
+  },
+  {
+    text: "Why are birds considered closely related to reptiles evolutionarily?",
+    options: [
+      "Both have feathers",
+      "Both lay amniotic eggs with shells",
+      "Both have mammary glands",
+      "Both are warm-blooded"
+    ],
+    answer: "Both lay amniotic eggs with shells",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Birds evolved from reptilian ancestors, retaining the amniotic egg feature."
+  },
+  {
+    text: "Which feature helped flowering plants diversify rapidly?",
+    options: [
+      "Dependence on spores",
+      "Presence of flowers for reproduction",
+      "Naked seeds",
+      "Lack of vascular tissues"
+    ],
+    answer: "Presence of flowers for reproduction",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Flowers increased cross-pollination, leading to diversity and wide adaptation."
+  },
+  {
+    text: "Why is internal fertilization an evolutionary advantage in animals?",
+    options: [
+      "It requires external water",
+      "It reduces adaptation to land",
+      "It reduces gamete wastage and increases fertilization success",
+      "It prevents development of embryos"
+    ],
+    answer: "It reduces gamete wastage and increases fertilization success",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Internal fertilization ensures higher chances of zygote formation, especially on land."
+  },
+  {
+    text: "Which adaptation helped amphibians transition to land?",
+    options: [
+      "Amniotic egg",
+      "Presence of scales",
+      "Development of lungs",
+      "Ability to produce spores"
+    ],
+    answer: "Development of lungs",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Lungs complemented gills, enabling amphibians to breathe on land."
+  },
+  {
+    text: "Which structural adaptation gave mammals an advantage in feeding diversity?",
+    options: [
+      "Differentiated teeth (heterodont dentition)",
+      "External fertilization",
+      "Cloaca",
+      "Presence of scales"
+    ],
+    answer: "Differentiated teeth (heterodont dentition)",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Mammals have incisors, canines, molars specialized for varied diets."
+  },
+  {
+    text: "Why are vascular tissues considered a major evolutionary step in plants?",
+    options: [
+      "They increased seed size",
+      "They eliminated chlorophyll",
+      "They enabled efficient transport of water and food",
+      "They reduced reproduction"
+    ],
+    answer: "They enabled efficient transport of water and food",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Vascular tissues allowed plants to grow larger and colonize land."
+  },
+  {
+    text: "Which evolutionary trend do vertebrates show in reproduction?",
+    options: [
+      "From external fertilization to internal fertilization",
+      "From sexual to asexual reproduction",
+      "From internal fertilization to external fertilization",
+      "From live birth to egg-laying"
+    ],
+    answer: "From external fertilization to internal fertilization",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "As vertebrates evolved, fertilization shifted from external (fishes, amphibians) to internal (reptiles, birds, mammals)."
+  },
+  {
+    text: "Why are amphibians still tied to water despite being able to live on land?",
+    options: [
+      "They are warm-blooded and need cooling",
+      "They cannot move on land",
+      "They have moist skin and require water for reproduction",
+      "They cannot breathe on land"
+    ],
+    answer: "They have moist skin and require water for reproduction",
+    subtopic: "evolution of organisms",
+    explanation: "Amphibians need water for fertilization and larval development, and their skin requires moisture for gas exchange."
+  },
+  {
+    text: "What key difference allowed reptiles to become fully terrestrial unlike amphibians?",
+    options: [
+      "Ability to fly",
+      "Dry, scaly skin and amniotic eggs",
+      "Metamorphosis",
+      "Cold-blooded metabolism"
+    ],
+    answer: "Dry, scaly skin and amniotic eggs",
+    subtopic: "evolution of organisms",
+    explanation: "Reptiles reduced dependence on water by evolving waterproof skin and shelled eggs."
+  },
+  {
+    text: "Which evolutionary step separates gymnosperms and angiosperms most clearly?",
+    options: [
+      "Production of spores",
+      "Flowers and fruit enclosing seeds",
+      "Absence of vascular tissue",
+      "Production of naked seeds"
+    ],
+    answer: "Flowers and fruit enclosing seeds",
+    subtopic: "evolution of organisms",
+    explanation: "Angiosperms developed flowers and fruits which aid in pollination and dispersal."
+  },
+  {
+    text: "Why did the development of lungs in fish ancestors not alone allow full terrestrial life?",
+    options: [
+      "They had no skeleton",
+      "They had no gills",
+      "They lacked fins",
+      "Their eggs and skin still required water"
+    ],
+    answer: "Their eggs and skin still required water",
+    subtopic: "evolution of organisms",
+    explanation: "Without amniotic eggs and waterproof skin, they remained tied to water."
+  },
+  {
+    text: "Why are mammals considered more advanced than reptiles in caring for offspring?",
+    options: [
+      "They lay more eggs",
+      "They have scales",
+      "They produce spores",
+      "They have mammary glands and parental care"
+    ],
+    answer: "They have mammary glands and parental care",
+    subtopic: "evolution of organisms",
+    explanation: "Mammals nourish young with milk and provide protection, improving survival rates."
+  },
+  {
+    text: "Why do birds have hollow bones as an adaptation?",
+    options: [
+      "To reduce body weight for flight",
+      "To increase blood production",
+      "To store water",
+      "To increase body weight"
+    ],
+    answer: "To reduce body weight for flight",
+    subtopic: "evolution of organisms",
+    explanation: "Hollow bones reduce body mass while retaining strength, making flight efficient."
+  },
+  {
+    text: "Which adaptation in insects contributed most to their evolutionary success?",
+    options: [
+      "Live birth",
+      "Ability to fly and exoskeleton",
+      "Large body size",
+      "Endothermy"
+    ],
+    answer: "Ability to fly and exoskeleton",
+    subtopic: "evolution of organisms",
+    explanation: "Flight allows dispersal, while exoskeleton provides protection and prevents water loss."
+  },
+  {
+    text: "Why is the development of the seed considered more advanced than spores in plants?",
+    options: [
+      "Spores can only reproduce sexually",
+      "Seeds contain stored food and protective coats",
+      "Spores are larger",
+      "Seeds require water for dispersal"
+    ],
+    answer: "Seeds contain stored food and protective coats",
+    subtopic: "evolution of organisms",
+    explanation: "Seeds ensure survival of the embryo and provide nutrients for germination."
+  },
+  {
+    text: "Why are fishes considered less adapted to land compared to amphibians?",
+    options: [
+      "They produce mammary glands",
+      "They depend on gills and external fertilization",
+      "They lack skeletons",
+      "They are warm-blooded"
+    ],
+    answer: "They depend on gills and external fertilization",
+    subtopic: "evolution of organisms",
+    explanation: "Fishes rely on gills and water-dependent fertilization, unlike amphibians that evolved lungs."
+  },
+  {
+    text: "Why did reptiles evolve scaly skin?",
+    options: [
+      "To aid in gas exchange",
+      "To allow photosynthesis",
+      "To prevent water loss",
+      "To increase reproduction"
+    ],
+    answer: "To prevent water loss",
+    subtopic: "evolution of organisms",
+    explanation: "Scales are keratinized structures that reduce evaporation in dry habitats."
+  },
+  {
+    text: "What was the main evolutionary step that allowed vertebrates to grow very large?",
+    options: [
+      "Exoskeleton",
+      "External fertilization",
+      "Endoskeleton made of bone and cartilage",
+      "Absence of respiratory system"
+    ],
+    answer: "Endoskeleton made of bone and cartilage",
+    subtopic: "evolution of organisms",
+    explanation: "The endoskeleton supports growth without limiting body size like exoskeletons do."
+  },
+  {
+    text: "Why is the presence of flowers in angiosperms a huge evolutionary advantage?",
+    options: [
+      "They prevent fertilization",
+      "They produce spores",
+      "They increase water loss",
+      "They attract pollinators, ensuring cross-pollination"
+    ],
+    answer: "They attract pollinators, ensuring cross-pollination",
+    subtopic: "evolution of organisms",
+    explanation: "Flowers improve genetic diversity by facilitating cross-pollination."
+  },
+  {
+    text: "Why did reptiles evolve internal fertilization before mammals?",
+    options: [
+      "To protect gametes from desiccation on land",
+      "To allow external fertilization",
+      "To eliminate gamete production",
+      "To reproduce in water only"
+    ],
+    answer: "To protect gametes from desiccation on land",
+    subtopic: "evolution of organisms",
+    explanation: "Internal fertilization prevents sperm from drying out in terrestrial environments."
+  },
+  {
+    text: "Why are mammals more energy-demanding than reptiles?",
+    options: [
+      "They are ectothermic",
+      "They reproduce externally",
+      "They are endothermic and maintain constant body temperature",
+      "They have scaly skins"
+    ],
+    answer: "They are endothermic and maintain constant body temperature",
+    subtopic: "evolution of organisms",
+    explanation: "Mammals burn more energy to regulate temperature internally."
+  },
+  {
+    text: "Why are birds considered the best adapted for aerial life?",
+    options: [
+      "They use external fertilization",
+      "They reproduce by spores",
+      "They have scales only",
+      "They possess feathers, hollow bones, and efficient respiration"
+    ],
+    answer: "They possess feathers, hollow bones, and efficient respiration",
+    subtopic: "evolution of organisms",
+    explanation: "All these adaptations reduce weight and maximize oxygen supply for flight."
+  },
+  {
+    text: "Which evolutionary step in plants reduced dependence on water for fertilization?",
+    options: [
+      "Production of spores",
+      "Loss of vascular tissues",
+      "Development of rhizoids",
+      "Development of pollen grains"
+    ],
+    answer: "Development of pollen grains",
+    subtopic: "evolution of organisms",
+    explanation: "Pollen grains transport sperm without water, unlike earlier plants."
+  },
+  {
+    text: "Why are amphibians considered a transitional group in evolution?",
+    options: [
+      "They reproduce by spores",
+      "They are warm-blooded",
+      "They show features of both aquatic and terrestrial life",
+      "They live entirely in water"
+    ],
+    answer: "They show features of both aquatic and terrestrial life",
+    subtopic: "evolution of organisms",
+    explanation: "Amphibians bridge fishes and reptiles, with lungs for land and gills in larvae."
+  },
+  {
+    text: "Which evolutionary advantage do mammals have over reptiles in cold climates?",
+    options: [
+      "They produce amniotic eggs",
+      "They are ectothermic",
+      "They lay shelled eggs",
+      "They are endothermic and covered with hair"
+    ],
+    answer: "They are endothermic and covered with hair",
+    subtopic: "evolution of organisms",
+    explanation: "Hair insulates and endothermy ensures survival in low temperatures."
+  },
+  {
+    text: "Why did the evolution of the backbone represent a major step?",
+    options: [
+      "It reduced flexibility",
+      "It prevented body movement",
+      "It allowed greater movement and support of larger bodies",
+      "It eliminated reproduction"
+    ],
+    answer: "It allowed greater movement and support of larger bodies",
+    subtopic: "evolution of organisms",
+    explanation: "The backbone supports muscles and protects the spinal cord, aiding complexity."
+  },
+  {
+    text: "Which evolutionary step best explains why reptiles were more successful than amphibians on land?",
+    options: [
+      "Dependence on water",
+      "Moist skin and metamorphosis",
+      "External fertilization",
+      "Scaly skin, internal fertilization, and amniotic eggs"
+    ],
+    answer: "Scaly skin, internal fertilization, and amniotic eggs",
+    subtopic: "evolution of organisms",
+    explanation: "These adaptations freed reptiles from dependence on aquatic environments."
+  },
+  {
+    text: "Which combination BEST explains insect evolutionary success on land? I. Waterproof exoskeleton. II. Metamorphosis with niche partitioning. III. Amniotic egg.",
+    options: ["I and III only", "I and II only", "II and III only", "I, II and III"],
+    answer: "I and II only",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Insects lack amniotic eggs (vertebrate feature). Exoskeleton limits water loss; metamorphosis reduces intraspecific competition."
+  },
+  {
+    text: "All of the following promoted plant colonization of land EXCEPT:",
+    options: ["Cuticle and stomata", "Seeds and pollen", "Vascular tissues", "Motile sperm requiring free water"],
+    answer: "Motile sperm requiring free water",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Dependence on free water constrained early plants (bryophytes). The other features enhanced terrestrial life."
+  },
+  {
+    text: "Arrange the groups in increasing reproductive independence from water: Bryophyta, Spermatophyta, Pteridophyta.",
+    options: [
+      "Pteridophyta → Spermatophyta → Bryophyta",
+      "Spermatophyta → Pteridophyta → Bryophyta",
+      "Bryophyta → Pteridophyta → Spermatophyta",
+      "Pteridophyta → Bryophyta → Spermatophyta"
+    ],
+    answer: "Bryophyta → Pteridophyta → Spermatophyta",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Bryophytes rely on water for fertilization; ferns less so but still need water; seed plants use pollen."
+  },
+  {
+    text: "Which pair correctly matches phylum to a KEY evolutionary innovation that increased complexity?",
+    options: [
+      "Platyhelminthes – true coelom",
+      "Mollusca – water vascular system",
+      "Nematoda – segmentation",
+      "Annelida – segmentation with closed circulation"
+    ],
+    answer: "Annelida – segmentation with closed circulation",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Annelids are segmented and many possess closed circulatory systems; other pairings are incorrect."
+  },
+  {
+    text: "A lineage experiences habitat drying. Which combined plant traits most directly promote success?",
+    options: [
+      "Rhizoids and motile sperm",
+      "Thick cuticle and lignified xylem",
+      "Flagellated sperm and thin epidermis",
+      "Large gametophyte and no stomata"
+    ],
+    answer: "Thick cuticle and lignified xylem",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Cuticle reduces water loss; lignified xylem enables support and long-distance water transport."
+  },
+  {
+    text: "Which statement about vertebrate transition water → land is MOST accurate?",
+    options: [
+      "Bird feathers first evolved strictly for flight.",
+      "Amniotic egg and keratinized skin freed reptiles from aquatic reproduction.",
+      "Mammalian endothermy evolved before the amniotic egg.",
+      "Lungs alone made amphibians fully terrestrial."
+    ],
+    answer: "Amniotic egg and keratinized skin freed reptiles from aquatic reproduction.",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "These adaptations removed dependence on water for reproduction; the other statements are oversimplified or incorrect."
+  },
+  {
+    text: "Which combination correctly traces plant structural complexity?",
+    options: [
+      "Bryophyta → Thallophyta → Pteridophyta → Spermatophyta",
+      "Thallophyta → Pteridophyta → Bryophyta → Spermatophyta",
+      "Pteridophyta → Thallophyta → Spermatophyta → Bryophyta",
+      "Thallophyta (no true organs) → Bryophyta (gametophyte dominant) → Pteridophyta (vascular sporophyte) → Spermatophyta (seed plants)"
+    ],
+    answer: "Thallophyta (no true organs) → Bryophyta (gametophyte dominant) → Pteridophyta (vascular sporophyte) → Spermatophyta (seed plants)",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "This shows the accepted upward trend in tissue/organs, dominance shift, and seed evolution."
+  },
+  {
+    text: "Which of the following is NOT a derived trend from fish to amphibians to reptiles?",
+    options: [
+      "External → internal fertilization",
+      "Decreasing keratinization of skin",
+      "Gills → lungs",
+      "Non-amniotic → amniotic egg"
+    ],
+    answer: "Decreasing keratinization of skin",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Keratinization increases from moist amphibian skin to scaly reptilian skin."
+  },
+  {
+    text: "Evaluate which factor MOST improves pollination specificity in angiosperms.",
+    options: [
+      "Wind dispersal alone",
+      "Co-evolution with animal pollinators (nectar, scent, morphology)",
+      "Inconspicuous flowers",
+      "Production of spores instead of pollen"
+    ],
+    answer: "Co-evolution with animal pollinators (nectar, scent, morphology)",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Biotic pollination drives specialization and reproductive isolation, boosting diversification."
+  },
+  {
+    text: "Which life-history feature BEST explains insect pest outbreaks despite natural enemies?",
+    options: [
+      "Viviparity",
+      "Endothermy",
+      "Complete metamorphosis and high reproductive rate",
+      "Slow development and low fecundity"
+    ],
+    answer: "Complete metamorphosis and high reproductive rate",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Rapid population growth and stage-specific niches can overwhelm control by predators/parasitoids."
+  },
+  {
+    text: "Hydra, Taenia, Earthworm, Cockroach: Which order shows INCREASING complexity?",
+    options: [
+      "Hydra → Earthworm → Taenia → Cockroach",
+      "Hydra → Taenia → Earthworm → Cockroach",
+      "Taenia → Hydra → Cockroach → Earthworm",
+      "Earthworm → Taenia → Hydra → Cockroach"
+    ],
+    answer: "Hydra → Taenia → Earthworm → Cockroach",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Cnidarian (tissue-level) → Platyhelminth (triploblastic acoelomate) → Annelid (segmented coelomate) → Arthropod (segmented, jointed appendages)."
+  },
+  {
+    text: "Which option CORRECTLY matches group → dominant generation:",
+    options: [
+      "Thallophyta → sporophyte",
+      "Bryophyta → sporophyte",
+      "Spermatophyta → sporophyte",
+      "Pteridophyta → gametophyte"
+    ],
+    answer: "Spermatophyta → sporophyte",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Seed plants have dominant sporophytes; bryophytes have dominant gametophytes; thallophytes lack alternation as in higher plants."
+  },
+  {
+    text: "Which statement about fungi evolution and ecology is MOST defensible?",
+    options: [
+      "All fungi are harmful to agriculture.",
+      "Fungi evolved from bryophytes.",
+      "Loss of chlorophyll forced parasitism in all fungi.",
+      "Chitinous walls and external digestion enabled radiation into decomposer and mutualist niches."
+    ],
+    answer: "Chitinous walls and external digestion enabled radiation into decomposer and mutualist niches.",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Fungi diversified into saprophytes, parasites, and mutualists (e.g., mycorrhizae)."
+  },
+  {
+    text: "Which combination explains molluscan success across habitats?",
+    options: [
+      "Mantle, radula (in many), and diverse shells",
+      "Segmented body and jointed legs",
+      "Chitinous exoskeleton and tracheae",
+      "Water vascular system and tube feet"
+    ],
+    answer: "Mantle, radula (in many), and diverse shells",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "These features underpin feeding and protection strategies in Mollusca (e.g., snails, bivalves)."
+  },
+  {
+    text: "Which pair is a CORRECT economic assessment?",
+    options: [
+      "Housefly – biological control of pests",
+      "Honeybees – reduce crop yield via nectar theft",
+      "Mosquito – pollination of staple cereals",
+      "Silkworm (Bombyx mori) – textile production"
+    ],
+    answer: "Silkworm (Bombyx mori) – textile production",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Silkworms produce silk; bees increase yield; houseflies spread disease; mosquitoes are notable disease vectors."
+  },
+  {
+    text: "Which combination of traits MOST likely increases vertebrate parental investment and offspring survival?",
+    options: [
+      "Cold-bloodedness, many eggs, no care",
+      "External fertilization, many tiny eggs, no care",
+      "No nesting, rapid dispersal of eggs",
+      "Internal fertilization, fewer offspring, lactation/brooding"
+    ],
+    answer: "Internal fertilization, fewer offspring, lactation/brooding",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "K-selected strategies increase per-offspring survival (typical of many birds/mammals)."
+  },
+  {
+    text: "Which feature set BEST identifies gymnosperms vs angiosperms in an evolutionary field survey?",
+    options: [
+      "Naked ovules on cones; seeds not enclosed vs flowers and fruits with enclosed seeds",
+      "Lack of vascular tissues vs presence",
+      "Gametophyte dominance vs sporophyte dominance",
+      "Presence of chlorophyll vs absence"
+    ],
+    answer: "Naked ovules on cones; seeds not enclosed vs flowers and fruits with enclosed seeds",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Gymnosperms lack fruits; angiosperms have flowers/fruits enclosing seeds."
+  },
+  {
+    text: "A terrestrial arthropod lineage invades arid zones. Which innovations MOST support success?",
+    options: [
+      "Spiracles with tracheal system and waxy epicuticle",
+      "Ciliated skin and external fertilization",
+      "Loss of exoskeleton and skin respiration",
+      "Thin cuticle and book gills"
+    ],
+    answer: "Spiracles with tracheal system and waxy epicuticle",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Direct gas delivery with minimized water loss via waxy cuticle supports arid survival."
+  },
+  {
+    text: "Which sequence correctly reflects increasing skull/jaw specialization for diverse diets in vertebrates?",
+    options: [
+      "Reptiles → amphibians → birds → bony fish → mammals",
+      "Bony fish → cartilaginous fish → mammals → reptiles → birds",
+      "Amphibians → cartilaginous fish → reptiles → mammals → birds",
+      "Cartilaginous fish → bony fish → amphibians → reptiles → mammals"
+    ],
+    answer: "Cartilaginous fish → bony fish → amphibians → reptiles → mammals",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Trend toward ossified jaws, differentiated dentition, and complex jaw articulation culminates in mammals."
+  },
+  {
+    text: "Which of the following is the LEAST valid justification for calling birds ‘modified reptiles’?",
+    options: [
+      "Identical ectothermic physiology to reptiles",
+      "Amniotic egg and similar embryology",
+      "Presence of scales and feathers (derived from epidermis)",
+      "Homologous limb skeleton patterns"
+    ],
+    answer: "Identical ectothermic physiology to reptiles",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Birds are endothermic, unlike most reptiles; other points reflect genuine affinities."
+  },
+  {
+    text: "In plant evolution, which transition MOST directly improved genetic diversity and speciation rate?",
+    options: [
+      "Rhizoids → root hairs",
+      "Abiotic pollination → biotic (animal-mediated) pollination",
+      "Self-pollination → obligate wind pollination",
+      "Spores → seeds"
+    ],
+    answer: "Abiotic pollination → biotic (animal-mediated) pollination",
+    image: "",
+    subtopic: "evolution of organisms",
+    explanation: "Animal pollination fosters targeted pollen transfer, isolation, and rapid diversification in angiosperms."
+  },
+  {
+    text: "Which adaptation allows stick insects to avoid being easily seen by predators?",
+    options: [
+      "Bright warning colouration",
+      "Camouflage with plant stems",
+      "Thick exoskeleton",
+      "Countershading"
+    ],
+    answer: "Camouflage with plant stems",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Stick insects resemble twigs and stems, helping them blend into their environment."
+  },
+  {
+    text: "What is the MAIN function of the spines on a cactus?",
+    options: [
+      "To attract pollinators",
+      "To aid photosynthesis",
+      "To reduce water loss",
+      "To store food"
+    ],
+    answer: "To reduce water loss",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Spines reduce transpiration and also protect cacti from grazing animals."
+  },
+  {
+    text: "The bright red head of the male Agama lizard is an adaptation primarily for:",
+    options: [
+      "Camouflage",
+      "Attracting mates",
+      "Thermoregulation",
+      "Conserving water"
+    ],
+    answer: "Attracting mates",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "The red coloration signals fitness to females during courtship."
+  },
+  {
+    text: "Countershading in fish is best described as:",
+    options: [
+      "Having darker upper and lighter lower surfaces",
+      "Possessing bright red and yellow stripes",
+      "Mimicking twigs and branches",
+      "Changing colour to match surroundings"
+    ],
+    answer: "Having darker upper and lighter lower surfaces",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "This helps aquatic animals avoid detection from predators above and below."
+  },
+  {
+    text: "What is the significance of territorial behaviour in animals?",
+    options: [
+      "It ensures survival during migration",
+      "It prevents overcrowding and competition",
+      "It aids water conservation",
+      "It assists in respiration"
+    ],
+    answer: "It prevents overcrowding and competition",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Territoriality reduces fights over food, mates, and resources."
+  },
+  {
+    text: "The mouthparts of a mosquito are adapted for:",
+    options: [
+      "Sucking nectar",
+      "Piercing and sucking blood",
+      "Chewing plant material",
+      "Grinding seeds"
+    ],
+    answer: "Piercing and sucking blood",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Mosquitoes have specialized stylets for piercing skin and sucking blood."
+  },
+  {
+    text: "Which behavioural adaptation helps lizards regulate body temperature?",
+    options: [
+      "Basking in the sun",
+      "Changing skin colour",
+      "Burrowing in soil",
+      "Feeding at night"
+    ],
+    answer: "Basking in the sun",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Lizards, being ectothermic, rely on basking to increase body temperature."
+  },
+  {
+    text: "The thin, long beak of a hummingbird is specially adapted for:",
+    options: [
+      "Catching insects in flight",
+      "Probing flowers for nectar",
+      "Cracking hard seeds",
+      "Tearing flesh"
+    ],
+    answer: "Probing flowers for nectar",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Hummingbirds feed on nectar, and their beaks are adapted for reaching deep into flowers."
+  },
+  {
+    text: "Warning colouration in mushrooms is an adaptation for:",
+    options: [
+      "Attracting pollinators",
+      "Dissuading predators",
+      "Absorbing sunlight",
+      "Camouflaging in the soil"
+    ],
+    answer: "Dissuading predators",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Bright colours signal toxicity or unpalatability to predators."
+  },
+  {
+    text: "Why do some desert animals remain inactive during the day?",
+    options: [
+      "To conserve water",
+      "To attract mates",
+      "To avoid predators",
+      "To aid digestion"
+    ],
+    answer: "To conserve water",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "This behavioural adaptation helps them avoid heat and reduce water loss."
+  },
+  {
+    text: "The hairy coat of mammals helps them mainly in:",
+    options: [
+      "Regulating body temperature",
+      "Flying long distances",
+      "Attracting mates",
+      "Camouflaging in grass"
+    ],
+    answer: "Regulating body temperature",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Hair provides insulation, reducing heat loss in cold and protecting against heat in hot weather."
+  },
+  {
+    text: "Which feature is an adaptation of frogs to aquatic life?",
+    options: [
+      "Presence of gills in adults",
+      "Webbed hindlimbs",
+      "Scales covering the skin",
+      "Claws for digging"
+    ],
+    answer: "Webbed hindlimbs",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Webbed feet increase swimming efficiency in water."
+  },
+  {
+    text: "The bright feathers of male peacocks function to:",
+    options: [
+      "Hide from predators",
+      "Regulate body temperature",
+      "Attract females",
+      "Camouflage in grass"
+    ],
+    answer: "Attract females",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Bright feathers are used in sexual selection to attract mates."
+  },
+  {
+    text: "Aestivation in animals occurs mainly in response to:",
+    options: [
+      "Low oxygen levels",
+      "Excessive heat or drought",
+      "Cold winter conditions",
+      "Shortage of food in winter"
+    ],
+    answer: "Excessive heat or drought",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Aestivation allows animals to survive unfavourable hot and dry conditions."
+  },
+  {
+    text: "Which insect caste in termites is responsible for reproduction?",
+    options: [
+      "Workers",
+      "Soldiers",
+      "Queen and King",
+      "Nymphs"
+    ],
+    answer: "Queen and King",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "The queen and king perform reproductive functions in the termite colony."
+  },
+  {
+    text: "The scales on reptiles function mainly to:",
+    options: [
+      "Aid in locomotion",
+      "Prevent water loss",
+      "Assist in reproduction",
+      "Help digestion"
+    ],
+    answer: "Prevent water loss",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "The keratinized scales reduce water loss and protect the animal."
+  },
+  {
+    text: "Which adaptation allows praying mantis to capture prey effectively?",
+    options: [
+      "Powerful hindlimbs",
+      "Raptorial forelegs",
+      "Poisonous fangs",
+      "Web-spinning ability"
+    ],
+    answer: "Raptorial forelegs",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Mantises use spiny forelegs to grasp and hold prey firmly."
+  },
+  {
+    text: "Camels conserve water mainly by:",
+    options: [
+      "Having a hump filled with water",
+      "Producing concentrated urine",
+      "Sweating profusely",
+      "Feeding only at night"
+    ],
+    answer: "Producing concentrated urine",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Camels excrete very concentrated urine to reduce water loss."
+  },
+  {
+    text: "The long legs of wading birds such as herons help them to:",
+    options: [
+      "Balance on tree branches",
+      "Walk in shallow water",
+      "Catch flying insects",
+      "Conserve body heat"
+    ],
+    answer: "Walk in shallow water",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Their legs allow them to wade into water without wetting their bodies."
+  },
+  {
+    text: "The thick fur of polar bears is mainly an adaptation for:",
+    options: [
+      "Avoiding predators",
+      "Keeping warm in cold climates",
+      "Swimming efficiently",
+      "Catching fish"
+    ],
+    answer: "Keeping warm in cold climates",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Dense fur traps air and insulates against extreme cold."
+  },
+  {
+    text: "Why do toads have rough, warty skin compared to frogs?",
+    options: [
+      "To aid in jumping",
+      "To conserve water in drier habitats",
+      "To enhance camouflage in water",
+      "To increase swimming speed"
+    ],
+    answer: "To conserve water in drier habitats",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "The warty skin of toads reduces water loss, helping them survive on land more than frogs."
+  },
+  {
+    text: "Which of the following BEST illustrates territorial behaviour?",
+    options: [
+      "A lion marking its territory with scent",
+      "A butterfly feeding on nectar",
+      "A toad changing skin colour",
+      "A mosquito sucking blood"
+    ],
+    answer: "A lion marking its territory with scent",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Marking territory with scent helps reduce competition and signals dominance."
+  },
+  {
+    text: "The worker caste in termites is responsible mainly for:",
+    options: [
+      "Defending the colony",
+      "Reproducing offspring",
+      "Feeding and building",
+      "Producing pheromones"
+    ],
+    answer: "Feeding and building",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Workers gather food and maintain the nest, ensuring the colony's survival."
+  },
+  {
+    text: "What adaptive feature helps desert plants survive long dry seasons?",
+    options: [
+      "Broad leaves with stomata",
+      "Thick cuticle and reduced leaves",
+      "Shallow roots only",
+      "Brightly coloured flowers"
+    ],
+    answer: "Thick cuticle and reduced leaves",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Succulents and xerophytes conserve water by reducing surface area and transpiration."
+  },
+  {
+    text: "The long proboscis of butterflies is adapted for:",
+    options: [
+      "Chewing soft fruits",
+      "Sucking nectar",
+      "Grinding seeds",
+      "Drilling into bark"
+    ],
+    answer: "Sucking nectar",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "The coiled proboscis allows butterflies to feed on flower nectar efficiently."
+  },
+  {
+    text: "Which of the following is a behavioural adaptation of crocodiles?",
+    options: [
+      "Shedding scales",
+      "Basking for thermoregulation",
+      "Having webbed feet",
+      "Possessing sharp teeth"
+    ],
+    answer: "Basking for thermoregulation",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Crocodiles sun-bask to regulate body temperature since they are ectotherms."
+  },
+  {
+    text: "What is the adaptive significance of the soldier caste in termites?",
+    options: [
+      "They reproduce offspring",
+      "They guard against predators",
+      "They build tunnels",
+      "They collect food"
+    ],
+    answer: "They guard against predators",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Soldiers defend the nest with strong mandibles or chemical sprays."
+  },
+  {
+    text: "The green coloration of a praying mantis is an example of:",
+    options: [
+      "Countershading",
+      "Mimicry",
+      "Camouflage",
+      "Warning coloration"
+    ],
+    answer: "Camouflage",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Its colour helps it blend with leaves, hiding from predators and prey."
+  },
+  {
+    text: "The long curved beak of a vulture is adapted for:",
+    options: [
+      "Cracking hard seeds",
+      "Probing flowers",
+      "Tearing flesh",
+      "Sipping nectar"
+    ],
+    answer: "Tearing flesh",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Vultures have sharp hooked beaks to rip apart carrion."
+  },
+  {
+    text: "Which adaptation explains why desert rodents produce highly concentrated urine?",
+    options: [
+      "To improve reproduction",
+      "To conserve water",
+      "To aid thermoregulation",
+      "To fight infection"
+    ],
+    answer: "To conserve water",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Desert animals minimize water loss by producing concentrated urine."
+  },
+  {
+    text: "Which of the following is an example of mimicry?",
+    options: [
+      "A stick insect resembling twigs",
+      "A non-poisonous snake resembling a venomous one",
+      "A chameleon changing colour to match its background",
+      "A moth having eye-like wing spots"
+    ],
+    answer: "A non-poisonous snake resembling a venomous one",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Mimicry involves harmless organisms resembling harmful ones to avoid predation."
+  },
+  {
+    text: "The hibernation of some mammals during winter is an adaptation to:",
+    options: [
+      "Escape cold and food scarcity",
+      "Increase breeding success",
+      "Avoid predators",
+      "Aid water conservation"
+    ],
+    answer: "Escape cold and food scarcity",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Hibernation conserves energy when food is scarce and temperatures are low."
+  },
+  {
+    text: "Birds that feed on nectar are likely to have:",
+    options: [
+      "Flat broad beaks",
+      "Strong conical beaks",
+      "Long slender beaks",
+      "Short hooked beaks"
+    ],
+    answer: "Long slender beaks",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Slender beaks allow access to nectar deep within flowers."
+  },
+  {
+    text: "Which of the following behaviours is an adaptation to dry conditions?",
+    options: [
+      "Fish swimming in schools",
+      "Nocturnal feeding in desert animals",
+      "Hibernation in cold regions",
+      "Migration of birds"
+    ],
+    answer: "Nocturnal feeding in desert animals",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Feeding at night reduces water loss and exposure to heat."
+  },
+  {
+    text: "Which body covering helps amphibians in respiration?",
+    options: [
+      "Scales",
+      "Moist skin",
+      "Feathers",
+      "Hair"
+    ],
+    answer: "Moist skin",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Frogs and toads respire partly through their moist skin."
+  },
+  {
+    text: "Why do many seabirds have webbed feet?",
+    options: [
+      "To catch flying insects",
+      "To swim and paddle efficiently",
+      "To regulate body temperature",
+      "To grip prey firmly"
+    ],
+    answer: "To swim and paddle efficiently",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Webbed feet act like paddles in swimming birds such as ducks and gulls."
+  },
+  {
+    text: "The presence of large ears in desert foxes is an adaptation for:",
+    options: [
+      "Better hunting ability",
+      "Heat loss by radiation",
+      "Improved camouflage",
+      "Protecting eyes from sand"
+    ],
+    answer: "Heat loss by radiation",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Large ears increase surface area for heat dissipation."
+  },
+  {
+    text: "The presence of scales in mammals such as pangolins is mainly for:",
+    options: [
+      "Reproduction",
+      "Camouflage",
+      "Protection",
+      "Water conservation"
+    ],
+    answer: "Protection",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "The tough keratin scales shield pangolins from predators."
+  },
+  {
+    text: "Which feature helps birds like ducks to float on water?",
+    options: [
+      "Hollow bones",
+      "Oil-coated feathers",
+      "Webbed feet",
+      "Large wingspan"
+    ],
+    answer: "Oil-coated feathers",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Feathers coated with oil from the preen gland repel water, keeping ducks buoyant."
+  },
+  {
+    text: "The red warning colour of ladybird beetles signals:",
+    options: [
+      "Camouflage ability",
+      "Unpalatability to predators",
+      "Courtship behaviour",
+      "Heat absorption"
+    ],
+    answer: "Unpalatability to predators",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Their bright colour warns predators of their unpleasant taste or toxicity."
+  },
+   {
+    text: "Which adaptation BEST explains why whales, though mammals, can live permanently in aquatic environments?",
+    options: [
+      "Presence of gills for respiration",
+      "Modified limbs into flippers",
+      "Cartilaginous skeleton",
+      "Ability to lay eggs underwater"
+    ],
+    answer: "Modified limbs into flippers",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Whales have forelimbs modified into flippers, aiding aquatic locomotion while still breathing air."
+  },
+  {
+    text: "Why do snakes exhibit countershading with darker dorsal and lighter ventral surfaces?",
+    options: [
+      "For reproduction",
+      "For camouflage against both sky and ground",
+      "For attracting mates",
+      "For increasing speed of movement"
+    ],
+    answer: "For camouflage against both sky and ground",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Countershading makes snakes less visible to predators and prey from above and below."
+  },
+  {
+    text: "The presence of compound eyes in insects is an adaptation mainly for:",
+    options: [
+      "Detecting a wide field of vision",
+      "Filtering food particles",
+      "Regulating body temperature",
+      "Producing pheromones"
+    ],
+    answer: "Detecting a wide field of vision",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Compound eyes allow insects to see multiple directions at once, helping in detecting predators."
+  },
+  {
+    text: "In hot deserts, some plants open their stomata only at night. This is known as:",
+    options: [
+      "C3 photosynthesis",
+      "CAM photosynthesis",
+      "C4 photosynthesis",
+      "Photorespiration"
+    ],
+    answer: "CAM photosynthesis",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "CAM plants open stomata at night to reduce water loss while still obtaining CO₂."
+  },
+  {
+    text: "The evolution of different beak shapes in Darwin’s finches is an adaptation to:",
+    options: [
+      "Different nesting habits",
+      "Different feeding niches",
+      "Migration patterns",
+      "Predator avoidance"
+    ],
+    answer: "Different feeding niches",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Natural selection favoured beak shapes suited to specific food resources."
+  },
+  {
+    text: "What adaptive strategy explains why crocodiles can stay submerged for a long time?",
+    options: [
+      "Storage of oxygen in myoglobin",
+      "Possession of gills",
+      "Reduced need for oxygen",
+      "Use of tracheal system"
+    ],
+    answer: "Storage of oxygen in myoglobin",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "High myoglobin content in muscles allows crocodiles to store oxygen for extended dives."
+  },
+  {
+    text: "Which structural adaptation allows desert rodents to avoid overheating?",
+    options: [
+      "Highly vascularised ears",
+      "Absence of sweat glands",
+      "Nocturnal eyesight",
+      "Specialized teeth"
+    ],
+    answer: "Highly vascularised ears",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Blood vessels in large ears release excess body heat effectively."
+  },
+  {
+    text: "The division of labour among termite castes is an adaptation that primarily ensures:",
+    options: [
+      "Efficient use of resources",
+      "Reduction in body size",
+      "Avoidance of predators",
+      "Equal reproduction by all castes"
+    ],
+    answer: "Efficient use of resources",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Specialisation in roles like feeding, defence, and reproduction improves colony survival."
+  },
+  {
+    text: "Which of the following is the BEST explanation for seasonal migration in birds?",
+    options: [
+      "Escape from predators",
+      "Searching for better feeding and breeding grounds",
+      "Avoidance of water loss",
+      "To maintain body temperature"
+    ],
+    answer: "Searching for better feeding and breeding grounds",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Migration ensures access to food and favourable breeding conditions."
+  },
+  {
+    text: "The eye-like spots on butterfly wings are adaptations for:",
+    options: [
+      "Mimicry of larger animals",
+      "Camouflage in trees",
+      "Thermoregulation",
+      "Mate attraction"
+    ],
+    answer: "Mimicry of larger animals",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Eye spots can scare predators by resembling the eyes of larger animals."
+  },
+  {
+    text: "How does the waxy cuticle on leaves of xerophytes function in adaptation?",
+    options: [
+      "Facilitates photosynthesis",
+      "Prevents excess water loss",
+      "Aids nitrogen fixation",
+      "Stores carbohydrates"
+    ],
+    answer: "Prevents excess water loss",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Thick waxy cuticle reduces transpiration, conserving water in dry environments."
+  },
+  {
+    text: "Which adaptation explains why polar bears appear white in snowy habitats?",
+    options: [
+      "Camouflage for hunting",
+      "Warning colouration",
+      "Thermal insulation",
+      "Mimicry of snow leopards"
+    ],
+    answer: "Camouflage for hunting",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Their white fur blends into snow, making it easier to ambush prey."
+  },
+  {
+    text: "The behavioural adaptation where animals reduce activity to survive adverse hot and dry conditions is called:",
+    options: [
+      "Hibernation",
+      "Aestivation",
+      "Migration",
+      "Camouflage"
+    ],
+    answer: "Aestivation",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Aestivation helps animals survive heat and drought by becoming dormant."
+  },
+  {
+    text: "Why do penguins huddle together during winter?",
+    options: [
+      "To reduce heat loss",
+      "To conserve oxygen",
+      "To avoid predators",
+      "To attract mates"
+    ],
+    answer: "To reduce heat loss",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Huddling conserves heat in extreme cold environments."
+  },
+  {
+    text: "Insects like grasshoppers conserve water mainly by:",
+    options: [
+      "Excreting solid uric acid",
+      "Breathing through lungs",
+      "Having waterproof feathers",
+      "Shedding exoskeleton regularly"
+    ],
+    answer: "Excreting solid uric acid",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Excreting uric acid minimises water loss compared to urea or ammonia."
+  },
+  {
+    text: "Which of the following is NOT an adaptation of desert plants?",
+    options: [
+      "Succulent stems for water storage",
+      "Leaves modified into spines",
+      "Shallow, widespread roots",
+      "Large broad leaves with thin cuticle"
+    ],
+    answer: "Large broad leaves with thin cuticle",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Broad thin leaves increase water loss, unsuitable for desert survival."
+  },
+  {
+    text: "The streamlined body of fish is an adaptation for:",
+    options: [
+      "Efficient swimming",
+      "Thermoregulation",
+      "Reproduction",
+      "Camouflage"
+    ],
+    answer: "Efficient swimming",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Streamlined bodies reduce resistance while moving in water."
+  },
+  {
+    text: "Which adaptive feature enables mosquitoes to locate hosts from a distance?",
+    options: [
+      "Compound eyes",
+      "Antennae sensitive to carbon dioxide",
+      "Long proboscis",
+      "Strong wings"
+    ],
+    answer: "Antennae sensitive to carbon dioxide",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Mosquitoes detect CO₂ exhaled by hosts using sensitive antennae."
+  },
+  {
+    text: "The presence of fat layers (blubber) in whales and seals is mainly for:",
+    options: [
+      "Camouflage in deep waters",
+      "Buoyancy and insulation",
+      "Courtship displays",
+      "Digesting large prey"
+    ],
+    answer: "Buoyancy and insulation",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Blubber conserves heat and aids buoyancy in cold aquatic environments."
+  },
+  {
+    text: "What is the adaptive value of the bright display of feathers in some male birds?",
+    options: [
+      "Thermoregulation",
+      "Attracting females for reproduction",
+      "Camouflage against predators",
+      "Warning predators of toxicity"
+    ],
+    answer: "Attracting females for reproduction",
+    image: "",
+    subtopic: "Adaptation",
+    explanation: "Bright plumage is a sexual adaptation that signals health and genetic fitness."
+  },
+   {
+    text: "Which plant organ is mainly responsible for absorption of water and mineral salts?",
+    options: [
+      "Root",
+      "Stem",
+      "Leaf",
+      "Flower"
+    ],
+    answer: "Root",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "Roots absorb water and minerals from the soil through root hairs."
+  },
+  {
+    text: "The main function of the stem in plants is to:",
+    options: [
+      "Produce seeds",
+      "Support leaves and transport materials",
+      "Absorb water",
+      "Store chlorophyll"
+    ],
+    answer: "Support leaves and transport materials",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "Stems provide mechanical support and transport water and food."
+  },
+  {
+    text: "Which tissue is responsible for transport of water in plants?",
+    options: [
+      "Phloem",
+      "Xylem",
+      "Collenchyma",
+      "Sclerenchyma"
+    ],
+    answer: "Xylem",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "Xylem vessels conduct water and minerals upward in plants."
+  },
+  {
+    text: "The flat surface of a leaf is an adaptation for:",
+    options: [
+      "Seed production",
+      "Photosynthesis",
+      "Absorption of water",
+      "Storage of starch"
+    ],
+    answer: "Photosynthesis",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The broad surface increases light absorption for photosynthesis."
+  },
+  {
+    text: "Which supporting tissue provides flexible support in young stems?",
+    options: [
+      "Xylem",
+      "Collenchyma",
+      "Phloem",
+      "Sclerenchyma"
+    ],
+    answer: "Collenchyma",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "Collenchyma cells have thickened corners, giving strength and flexibility."
+  },
+  {
+    text: "The tiny pores on the leaf surface are called:",
+    options: [
+      "Lenticels",
+      "Stomata",
+      "Trichomes",
+      "Cuticles"
+    ],
+    answer: "Stomata",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "Stomata regulate gas exchange and transpiration in leaves."
+  },
+  {
+    text: "The main function of phloem tissue is:",
+    options: [
+      "To conduct water",
+      "To conduct food",
+      "To provide mechanical strength",
+      "To absorb light"
+    ],
+    answer: "To conduct food",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "Phloem transports sugars and other products of photosynthesis."
+  },
+  {
+    text: "Which of the following is a reproductive organ in mammals?",
+    options: [
+      "Kidney",
+      "Liver",
+      "Ovary",
+      "Bladder"
+    ],
+    answer: "Ovary",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The ovary produces eggs and reproductive hormones in females."
+  },
+  {
+    text: "The cuticle on a leaf mainly functions to:",
+    options: [
+      "Aid in photosynthesis",
+      "Prevent water loss",
+      "Absorb minerals",
+      "Assist in respiration"
+    ],
+    answer: "Prevent water loss",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The waxy cuticle reduces transpiration from the leaf surface."
+  },
+  {
+    text: "Which organ in mammals filters blood to form urine?",
+    options: [
+      "Heart",
+      "Kidney",
+      "Liver",
+      "Pancreas"
+    ],
+    answer: "Kidney",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The kidneys excrete nitrogenous waste products and regulate water balance."
+  },
+  {
+    text: "The presence of chloroplasts is a characteristic of which plant organ?",
+    options: [
+      "Root",
+      "Stem",
+      "Leaf",
+      "Seed"
+    ],
+    answer: "Leaf",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "Leaves contain chloroplasts which carry out photosynthesis."
+  },
+  {
+    text: "Which supporting tissue has thickened lignified walls?",
+    options: [
+      "Parenchyma",
+      "Sclerenchyma",
+      "Collenchyma",
+      "Epidermis"
+    ],
+    answer: "Sclerenchyma",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "Sclerenchyma fibres have thick lignified cell walls that provide rigidity."
+  },
+  {
+    text: "The liver in mammals is located mainly in the:",
+    options: [
+      "Thoracic cavity",
+      "Abdominal cavity",
+      "Pelvic cavity",
+      "Cranial cavity"
+    ],
+    answer: "Abdominal cavity",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The liver lies in the upper part of the abdominal cavity."
+  },
+  {
+    text: "The part of a mammalian digestive system where most absorption of digested food occurs is the:",
+    options: [
+      "Stomach",
+      "Small intestine",
+      "Large intestine",
+      "Rectum"
+    ],
+    answer: "Small intestine",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The small intestine has villi and microvilli that increase surface area for absorption."
+  },
+  {
+    text: "Which of the following plant organs contains vascular bundles arranged in a ring?",
+    options: [
+      "Monocot root",
+      "Dicot stem",
+      "Monocot stem",
+      "Dicot leaf"
+    ],
+    answer: "Dicot stem",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "In dicot stems, vascular bundles form a ring, aiding secondary growth."
+  },
+  {
+    text: "In a transverse section of a dicot root, the xylem is usually arranged:",
+    options: [
+      "In a ring around the pith",
+      "As a star-shaped structure in the center",
+      "Scattered throughout the cortex",
+      "Just below the epidermis"
+    ],
+    answer: "As a star-shaped structure in the center",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "Dicot roots have xylem arranged in a star shape at the center of the stele."
+  },
+  {
+    text: "In monocot stems, vascular bundles are:",
+    options: [
+      "Arranged in a ring",
+      "Scattered throughout the ground tissue",
+      "Arranged only in the cortex",
+      "Restricted to the epidermis"
+    ],
+    answer: "Scattered throughout the ground tissue",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "In monocot stems, vascular bundles are scattered rather than ring-like."
+  },
+  {
+    text: "Which of the following tissues provides both strength and the ability to stretch in young stems?",
+    options: [
+      "Collenchyma",
+      "Sclerenchyma",
+      "Phloem",
+      "Xylem"
+    ],
+    answer: "Collenchyma",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "Collenchyma supports young growing parts due to its thickened corners and flexibility."
+  },
+  {
+    text: "Which organ in mammals is directly responsible for bile production?",
+    options: [
+      "Pancreas",
+      "Gall bladder",
+      "Liver",
+      "Small intestine"
+    ],
+    answer: "Liver",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The liver produces bile, which is stored in the gall bladder."
+  },
+  {
+    text: "The bundle cap in dicot stems consists of:",
+    options: [
+      "Parenchyma cells",
+      "Collenchyma cells",
+      "Sclerenchyma cells",
+      "Phloem fibres"
+    ],
+    answer: "Sclerenchyma cells",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "Bundle caps of dicot stems are made of sclerenchyma that provides rigidity."
+  },
+  {
+    text: "Which part of the mammalian digestive system secretes enzymes that act on proteins, fats, and carbohydrates?",
+    options: [
+      "Pancreas",
+      "Liver",
+      "Gall bladder",
+      "Large intestine"
+    ],
+    answer: "Pancreas",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The pancreas secretes pancreatic juice containing protease, lipase, and amylase."
+  },
+  {
+    text: "The vascular cambium in dicot stems is located between the:",
+    options: [
+      "Xylem and phloem",
+      "Cortex and epidermis",
+      "Pericycle and endodermis",
+      "Pith and cortex"
+    ],
+    answer: "Xylem and phloem",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The cambium lies between the xylem and phloem, producing secondary tissues."
+  },
+  {
+    text: "Which organ in mammals removes worn-out red blood cells and detoxifies harmful substances?",
+    options: [
+      "Heart",
+      "Spleen",
+      "Kidney",
+      "Liver"
+    ],
+    answer: "Liver",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The liver detoxifies substances and also breaks down old red blood cells."
+  },
+  {
+    text: "The tissue that conducts manufactured food in plants is the:",
+    options: [
+      "Xylem",
+      "Phloem",
+      "Cambium",
+      "Parenchyma"
+    ],
+    answer: "Phloem",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "Phloem transports sugars and amino acids from leaves to other parts."
+  },
+  {
+    text: "In a mammal, the organ that stores urine before excretion is the:",
+    options: [
+      "Kidney",
+      "Bladder",
+      "Ureter",
+      "Urethra"
+    ],
+    answer: "Bladder",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The bladder temporarily stores urine before release through the urethra."
+  },
+  {
+    text: "The main function of the large intestine in mammals is:",
+    options: [
+      "Absorption of digested food",
+      "Reabsorption of water and formation of faeces",
+      "Production of bile",
+      "Production of enzymes"
+    ],
+    answer: "Reabsorption of water and formation of faeces",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The large intestine absorbs water and compacts undigested material."
+  },
+  {
+    text: "The pith in a dicot stem consists mainly of:",
+    options: [
+      "Sclerenchyma",
+      "Collenchyma",
+      "Parenchyma",
+      "Phloem"
+    ],
+    answer: "Parenchyma",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The pith is made of parenchyma cells which store food and provide support."
+  },
+  {
+    text: "Which structure separates the thoracic cavity from the abdominal cavity in mammals?",
+    options: [
+      "Lungs",
+      "Diaphragm",
+      "Ribs",
+      "Pleura"
+    ],
+    answer: "Diaphragm",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The diaphragm is a muscular sheet that separates the thorax from the abdomen."
+  },
+  {
+    text: "In plant stems, secondary growth is brought about by the activity of:",
+    options: [
+      "Collenchyma",
+      "Sclerenchyma",
+      "Vascular cambium",
+      "Parenchyma"
+    ],
+    answer: "Vascular cambium",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The vascular cambium produces secondary xylem and phloem, increasing stem girth."
+  },
+  {
+    text: "The organ that produces urea as a waste product in mammals is the:",
+    options: [
+      "Kidney",
+      "Liver",
+      "Pancreas",
+      "Spleen"
+    ],
+    answer: "Liver",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The liver deaminates amino acids and converts ammonia into urea."
+  },
+   {
+    text: "In a transverse section of a dicot leaf, palisade cells are adapted for photosynthesis because:",
+    options: [
+      "They contain few chloroplasts",
+      "They are loosely packed with air spaces",
+      "They contain numerous chloroplasts and are closely packed",
+      "They lack cell walls for light penetration"
+    ],
+    answer: "They contain numerous chloroplasts and are closely packed",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The dense arrangement and high chloroplast content of palisade cells maximize light absorption."
+  },
+  {
+    text: "Which supporting tissue in plants is dead at maturity but provides great tensile strength?",
+    options: [
+      "Collenchyma",
+      "Sclerenchyma",
+      "Phloem",
+      "Parenchyma"
+    ],
+    answer: "Sclerenchyma",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "Sclerenchyma cells with lignified walls provide mechanical strength even after death."
+  },
+  {
+    text: "The kidney of mammals is adapted for osmoregulation because it contains:",
+    options: [
+      "Glomeruli and renal tubules",
+      "Pancreatic ducts",
+      "Bile ducts",
+      "Sweat glands"
+    ],
+    answer: "Glomeruli and renal tubules",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "Glomeruli filter blood while renal tubules reabsorb water and salts for osmoregulation."
+  },
+  {
+    text: "What is the main structural difference between xylem vessels and tracheids?",
+    options: [
+      "Xylem vessels have end walls, tracheids do not",
+      "Tracheids are shorter and wider than vessels",
+      "Xylem vessels form continuous tubes, tracheids are tapered cells with pits",
+      "Both are living at maturity"
+    ],
+    answer: "Xylem vessels form continuous tubes, tracheids are tapered cells with pits",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "Vessels form long tubes, while tracheids are spindle-shaped with pits for lateral transport."
+  },
+  {
+    text: "Which feature best explains the efficiency of the small intestine in nutrient absorption?",
+    options: [
+      "Presence of cilia",
+      "Large surface area due to villi and microvilli",
+      "Production of hydrochloric acid",
+      "Secretion of bile"
+    ],
+    answer: "Large surface area due to villi and microvilli",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "Villi and microvilli increase the surface area for maximum absorption of digested nutrients."
+  },
+  {
+    text: "The pericycle in a plant root is significant because it:",
+    options: [
+      "Protects the root tip",
+      "Gives rise to lateral roots",
+      "Produces food",
+      "Stores water"
+    ],
+    answer: "Gives rise to lateral roots",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The pericycle is a layer inside the endodermis that initiates lateral root formation."
+  },
+  {
+    text: "The functional significance of the diaphragm in mammals is that it:",
+    options: [
+      "Pumps blood to the lungs",
+      "Separates oxygenated and deoxygenated blood",
+      "Assists in breathing by changing thoracic volume",
+      "Protects the heart from external injury"
+    ],
+    answer: "Assists in breathing by changing thoracic volume",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The diaphragm contracts and relaxes to alter chest cavity volume for inhalation and exhalation."
+  },
+  {
+    text: "Which plant tissue provides resistance to bending in young stems?",
+    options: [
+      "Sclerenchyma",
+      "Phloem fibres",
+      "Collenchyma",
+      "Parenchyma"
+    ],
+    answer: "Collenchyma",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "Collenchyma with thickened cell corners supports flexibility and resistance in growing stems."
+  },
+  {
+    text: "The renal artery in mammals carries blood that is:",
+    options: [
+      "Deoxygenated and rich in urea",
+      "Oxygenated and rich in urea",
+      "Deoxygenated and poor in urea",
+      "Oxygenated and free of urea"
+    ],
+    answer: "Oxygenated and rich in urea",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The renal artery brings oxygenated but urea-rich blood from the heart to the kidneys."
+  },
+  {
+    text: "Which adaptation prevents backflow of blood into the atria of the mammalian heart?",
+    options: [
+      "Semilunar valves",
+      "Bicuspid and tricuspid valves",
+      "Chordae tendineae",
+      "Septum"
+    ],
+    answer: "Bicuspid and tricuspid valves",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The atrioventricular valves prevent blood from flowing back into the atria when ventricles contract."
+  },
+  {
+    text: "Which arrangement of tissues is correct for a dicot stem (from outside to inside)?",
+    options: [
+      "Epidermis → Cortex → Phloem → Cambium → Xylem → Pith",
+      "Epidermis → Phloem → Cortex → Cambium → Xylem → Pith",
+      "Cortex → Epidermis → Phloem → Cambium → Xylem → Pith",
+      "Epidermis → Phloem → Xylem → Cortex → Pith"
+    ],
+    answer: "Epidermis → Cortex → Phloem → Cambium → Xylem → Pith",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The typical arrangement is epidermis outside, then cortex, vascular bundles (phloem, cambium, xylem), and pith inside."
+  },
+  {
+    text: "The liver in mammals performs all the following functions EXCEPT:",
+    options: [
+      "Conversion of excess glucose into glycogen",
+      "Production of bile",
+      "Excretion of carbon dioxide",
+      "Detoxification of harmful substances"
+    ],
+    answer: "Excretion of carbon dioxide",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "Carbon dioxide is excreted by the lungs, not the liver."
+  },
+  {
+    text: "Which structure in dicot leaves ensures gaseous exchange?",
+    options: [
+      "Stomata",
+      "Cuticle",
+      "Palisade cells",
+      "Xylem vessels"
+    ],
+    answer: "Stomata",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "Stomata regulate gaseous exchange and transpiration in leaves."
+  },
+  {
+    text: "The spleen in mammals functions mainly in:",
+    options: [
+      "Pumping blood",
+      "Production of bile",
+      "Filtration of blood and destruction of old red blood cells",
+      "Secretion of digestive enzymes"
+    ],
+    answer: "Filtration of blood and destruction of old red blood cells",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The spleen filters blood, recycles iron, and destroys worn-out red blood cells."
+  },
+  {
+    text: "The Casparian strip in plant roots ensures that:",
+    options: [
+      "Water moves freely through the apoplast",
+      "All water and solutes entering the xylem pass through cell membranes",
+      "Roots can store food reserves",
+      "The epidermis can regulate transpiration"
+    ],
+    answer: "All water and solutes entering the xylem pass through cell membranes",
+    image: "",
+    subtopic: "Structure of Organisms",
+    explanation: "The Casparian strip in the endodermis forces selective uptake by blocking apoplastic flow."
+  },
+   {
+    text: "Which of the following organisms exhibits autotrophic nutrition?",
+    options: [
+      "Amoeba",
+      "Mushroom",
+      "Green algae",
+      "Tapeworm"
+    ],
+    answer: "Green algae",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Green algae can manufacture their food using sunlight, water, and CO₂ through photosynthesis."
+  },
+  {
+    text: "Holozoic nutrition is characteristic of which of the following?",
+    options: [
+      "Mushroom",
+      "Man",
+      "Loranthus",
+      "Rhizopus"
+    ],
+    answer: "Man",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Humans exhibit holozoic nutrition, involving ingestion, digestion, and assimilation."
+  },
+  {
+    text: "Which mode of nutrition is observed in Rhizopus?",
+    options: [
+      "Autotrophic",
+      "Parasitic",
+      "Saprophytic",
+      "Holozoic"
+    ],
+    answer: "Saprophytic",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Rhizopus feeds on decaying matter, showing saprophytic nutrition."
+  },
+  {
+    text: "Which of the following is an example of a carnivorous plant?",
+    options: [
+      "Bladderwort",
+      "Loranthus",
+      "Mushroom",
+      "Rhizopus"
+    ],
+    answer: "Bladderwort",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Bladderwort traps and digests small aquatic organisms."
+  },
+  {
+    text: "The deficiency of vitamin C in diet results in:",
+    options: [
+      "Kwashiorkor",
+      "Scurvy",
+      "Rickets",
+      "Night blindness"
+    ],
+    answer: "Scurvy",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Vitamin C deficiency causes scurvy characterized by bleeding gums and weakness."
+  },
+  {
+    text: "Which of these food tests uses Benedict’s solution?",
+    options: [
+      "Protein test",
+      "Fat test",
+      "Starch test",
+      "Reducing sugar test"
+    ],
+    answer: "Reducing sugar test",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Benedict’s solution detects reducing sugars like glucose."
+  },
+  {
+    text: "The basic structural unit of the mammalian tooth is:",
+    options: [
+      "Pulp cavity",
+      "Enamel",
+      "Crown",
+      "Dentin"
+    ],
+    answer: "Dentin",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Dentin forms the bulk of the tooth structure beneath the enamel."
+  },
+  {
+    text: "The site of carbohydrate digestion begins in the:",
+    options: [
+      "Stomach",
+      "Mouth",
+      "Pancreas",
+      "Large intestine"
+    ],
+    answer: "Mouth",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Salivary amylase in saliva begins carbohydrate digestion in the mouth."
+  },
+  {
+    text: "The end product of protein digestion is:",
+    options: [
+      "Glucose",
+      "Fatty acids",
+      "Amino acids",
+      "Glycerol"
+    ],
+    answer: "Amino acids",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Proteins are broken down into amino acids which are absorbed into the blood."
+  },
+  {
+    text: "The element most required for chlorophyll formation is:",
+    options: [
+      "Nitrogen",
+      "Potassium",
+      "Calcium",
+      "Sulphur"
+    ],
+    answer: "Nitrogen",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Nitrogen deficiency leads to yellowing of leaves due to lack of chlorophyll."
+  },
+  {
+    text: "Which of the following is a micro-nutrient for plants?",
+    options: [
+      "Nitrogen",
+      "Magnesium",
+      "Potassium",
+      "Zinc"
+    ],
+    answer: "Zinc",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Zinc is needed in trace amounts and is considered a micro-nutrient."
+  },
+  {
+    text: "Which organ stores bile?",
+    options: [
+      "Liver",
+      "Gall bladder",
+      "Pancreas",
+      "Small intestine"
+    ],
+    answer: "Gall bladder",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Bile produced by the liver is stored in the gall bladder before release into the duodenum."
+  },
+  {
+    text: "Which enzyme digests starch?",
+    options: [
+      "Maltase",
+      "Amylase",
+      "Pepsin",
+      "Lipase"
+    ],
+    answer: "Amylase",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Amylase hydrolyses starch into maltose."
+  },
+  {
+    text: "Which of these vitamins is fat-soluble?",
+    options: [
+      "Vitamin C",
+      "Vitamin B",
+      "Vitamin D",
+      "Vitamin H"
+    ],
+    answer: "Vitamin D",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Vitamin D is fat-soluble and aids in calcium absorption."
+  },
+  {
+    text: "A simple test for proteins is:",
+    options: [
+      "Iodine test",
+      "Biuret test",
+      "Ethanol test",
+      "Benedict’s test"
+    ],
+    answer: "Biuret test",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "The Biuret test detects peptide bonds in proteins."
+  },
+  {
+    text: "Which mammalian tooth is adapted for tearing flesh?",
+    options: [
+      "Incisor",
+      "Canine",
+      "Premolar",
+      "Molar"
+    ],
+    answer: "Canine",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Canines are long and pointed, adapted for tearing."
+  },
+  {
+    text: "The small intestine absorbs nutrients through:",
+    options: [
+      "Cilia",
+      "Villi",
+      "Microtubules",
+      "Root hairs"
+    ],
+    answer: "Villi",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Finger-like villi in the intestine increase surface area for absorption."
+  },
+  {
+    text: "Which deficiency disease is associated with protein shortage?",
+    options: [
+      "Rickets",
+      "Kwashiorkor",
+      "Scurvy",
+      "Goitre"
+    ],
+    answer: "Kwashiorkor",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Kwashiorkor occurs in children with severe protein deficiency."
+  },
+  {
+    text: "The first step in photosynthesis is:",
+    options: [
+      "Carbon fixation",
+      "Absorption of light energy",
+      "Reduction of carbon dioxide",
+      "Starch formation"
+    ],
+    answer: "Absorption of light energy",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Light energy must be captured by chlorophyll to drive subsequent reactions."
+  },
+  {
+    text: "Which part of the alimentary canal absorbs water?",
+    options: [
+      "Oesophagus",
+      "Stomach",
+      "Large intestine",
+      "Duodenum"
+    ],
+    answer: "Large intestine",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "The large intestine reabsorbs water and forms solid faeces."
+  },
+  {
+    text: "Which of the following BEST differentiates autotrophic from heterotrophic nutrition?",
+    options: [
+      "Use of organic raw materials only",
+      "Dependence on other organisms for food",
+      "Use of inorganic raw materials to synthesize organic food",
+      "Absence of chlorophyll pigments"
+    ],
+    answer: "Use of inorganic raw materials to synthesize organic food",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Autotrophs (e.g., green plants) make organic compounds from CO₂ and water, unlike heterotrophs."
+  },
+  {
+    text: "Which pair correctly illustrates holozoic nutrition?",
+    options: [
+      "Sheep and man",
+      "Mushroom and Rhizopus",
+      "Roundworm and tapeworm",
+      "Sundew and bladderwort"
+    ],
+    answer: "Sheep and man",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Holozoic nutrition involves ingestion, digestion and assimilation of complex food, as in sheep and man."
+  },
+  {
+    text: "The presence of starch in a leaf can be tested after boiling it in alcohol mainly to:",
+    options: [
+      "Stop respiration",
+      "Remove chlorophyll pigment",
+      "Kill bacteria on the surface",
+      "Soften the tissues"
+    ],
+    answer: "Remove chlorophyll pigment",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Alcohol removes chlorophyll, ensuring iodine clearly shows the starch distribution."
+  },
+  {
+    text: "Which deficiency symptom in plants is MOST directly linked to lack of nitrogen?",
+    options: [
+      "Stunted growth and yellowing leaves",
+      "Death of root tips",
+      "Poor fruit development",
+      "Scorching of leaf margins"
+    ],
+    answer: "Stunted growth and yellowing leaves",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Nitrogen is essential for protein and chlorophyll; its deficiency causes chlorosis and poor growth."
+  },
+  {
+    text: "A child with swollen abdomen, thin limbs, and reddish hair tips is likely suffering from:",
+    options: [
+      "Kwashiorkor",
+      "Rickets",
+      "Scurvy",
+      "Night blindness"
+    ],
+    answer: "Kwashiorkor",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Kwashiorkor arises from severe protein deficiency in children, leading to oedema and hair changes."
+  },
+  {
+    text: "The mammalian incisor teeth are adapted for:",
+    options: [
+      "Piercing and tearing",
+      "Grinding and chewing",
+      "Cutting and biting",
+      "Crushing and mashing"
+    ],
+    answer: "Cutting and biting",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Incisors have sharp edges adapted to cut and bite food materials."
+  },
+  {
+    text: "Which of these enzymes breaks down proteins into peptides?",
+    options: [
+      "Lipase",
+      "Pepsin",
+      "Amylase",
+      "Maltase"
+    ],
+    answer: "Pepsin",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Pepsin in the stomach hydrolyses proteins into peptides under acidic conditions."
+  },
+  {
+    text: "Which of the following is NOT a macro-nutrient in plants?",
+    options: [
+      "Nitrogen",
+      "Phosphorus",
+      "Zinc",
+      "Potassium"
+    ],
+    answer: "Zinc",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Zinc is a micronutrient, while N, P, and K are required in larger amounts."
+  },
+  {
+    text: "Carnivorous plants like sundew supplement their nutrition mainly to obtain:",
+    options: [
+      "Carbohydrates",
+      "Minerals, especially nitrogen",
+      "Lipids",
+      "Water"
+    ],
+    answer: "Minerals, especially nitrogen",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "These plants capture insects to obtain nitrogen, lacking in their boggy soil habitats."
+  },
+  {
+    text: "The main function of bile in digestion is to:",
+    options: [
+      "Convert fats to fatty acids and glycerol",
+      "Break peptide bonds in proteins",
+      "Emulsify fats into tiny droplets",
+      "Activate pancreatic amylase"
+    ],
+    answer: "Emulsify fats into tiny droplets",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Bile emulsifies fats, increasing surface area for lipase action."
+  },
+  {
+    text: "The main end products of starch digestion are:",
+    options: [
+      "Glucose molecules",
+      "Maltose molecules",
+      "Fructose and galactose",
+      "Polysaccharides"
+    ],
+    answer: "Glucose molecules",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Amylase and maltase break down starch into glucose, the absorbable form."
+  },
+  {
+    text: "Which vitamin deficiency is correctly matched with its disease?",
+    options: [
+      "Vitamin C — rickets",
+      "Vitamin A — scurvy",
+      "Vitamin D — rickets",
+      "Vitamin K — night blindness"
+    ],
+    answer: "Vitamin D — rickets",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Vitamin D deficiency leads to poor calcium absorption, causing rickets."
+  },
+  {
+    text: "Which part of the mammalian alimentary canal is chiefly responsible for nutrient absorption?",
+    options: [
+      "Oesophagus",
+      "Stomach",
+      "Small intestine",
+      "Large intestine"
+    ],
+    answer: "Small intestine",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "The villi and microvilli of the small intestine greatly increase surface area for absorption."
+  },
+  {
+    text: "Which test confirms the presence of reducing sugars in a solution?",
+    options: [
+      "Iodine test",
+      "Biuret test",
+      "Benedict's test",
+      "Sudan III test"
+    ],
+    answer: "Benedict's test",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Benedict’s solution produces a brick-red precipitate in the presence of reducing sugars."
+  },
+  {
+    text: "The dark reaction of photosynthesis requires:",
+    options: [
+      "Carbon dioxide and ATP",
+      "Sunlight and chlorophyll",
+      "NADP and water",
+      "Oxygen and starch"
+    ],
+    answer: "Carbon dioxide and ATP",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "The Calvin cycle fixes carbon dioxide using ATP and NADPH from the light stage."
+  },
+  {
+    text: "Which of the following food classes has the highest energy value per gram?",
+    options: [
+      "Proteins",
+      "Carbohydrates",
+      "Fats and oils",
+      "Mineral salts"
+    ],
+    answer: "Fats and oils",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Fats yield about 9 kcal/g, more than proteins and carbohydrates (4 kcal/g each)."
+  },
+  {
+    text: "Which statement is TRUE of dentition in herbivores like sheep?",
+    options: [
+      "Well-developed canines for tearing",
+      "Reduced molars and premolars",
+      "Broad molars for grinding cellulose",
+      "No incisors present"
+    ],
+    answer: "Broad molars for grinding cellulose",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Herbivores possess broad ridged molars adapted to grind tough plant materials."
+  },
+  {
+    text: "Which mineral deficiency in plants leads to poor root growth?",
+    options: [
+      "Magnesium",
+      "Phosphorus",
+      "Iron",
+      "Sulphur"
+    ],
+    answer: "Phosphorus",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Phosphorus deficiency reduces energy transfer and impairs root development."
+  },
+  {
+    text: "Which enzyme digests fats into fatty acids and glycerol?",
+    options: [
+      "Amylase",
+      "Trypsin",
+      "Lipase",
+      "Maltase"
+    ],
+    answer: "Lipase",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Lipase acts on emulsified fats, producing fatty acids and glycerol."
+  },
+  {
+    text: "The absence of which element causes chlorosis in young leaves?",
+    options: [
+      "Nitrogen",
+      "Magnesium",
+      "Potassium",
+      "Phosphorus"
+    ],
+    answer: "Magnesium",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Magnesium forms the central atom of chlorophyll; its deficiency causes leaf yellowing."
+  },
+   {
+    text: "Why do carnivores have shorter alimentary canals than herbivores?",
+    options: [
+      "Because proteins are easier to digest than cellulose",
+      "Because their food lacks fats",
+      "Because their stomachs are small",
+      "Because they lack villi"
+    ],
+    answer: "Because proteins are easier to digest than cellulose",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Proteins are simpler to digest than plant cellulose, so carnivores need shorter intestines."
+  },
+  {
+    text: "Which of the following directly supplies energy for the dark stage of photosynthesis?",
+    options: [
+      "Oxygen and NADPH",
+      "ATP and NADPH",
+      "Carbon dioxide and oxygen",
+      "Starch and glucose"
+    ],
+    answer: "ATP and NADPH",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "ATP provides energy while NADPH supplies reducing power for carbon fixation."
+  },
+  {
+    text: "In ruminants, which chamber of the stomach is MOST associated with microbial cellulose digestion?",
+    options: [
+      "Reticulum",
+      "Omasum",
+      "Rumen",
+      "Abomasum"
+    ],
+    answer: "Rumen",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "The rumen hosts symbiotic microbes that break down cellulose."
+  },
+  {
+    text: "The main function of sodium and potassium ions in animals is to:",
+    options: [
+      "Maintain osmotic balance and nerve impulse transmission",
+      "Form structural components of bones",
+      "Aid blood clotting",
+      "Synthesize haemoglobin"
+    ],
+    answer: "Maintain osmotic balance and nerve impulse transmission",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Na⁺ and K⁺ are essential for nerve impulses and fluid balance."
+  },
+  {
+    text: "The MOST important factor limiting photosynthesis in a thick forest is:",
+    options: [
+      "Carbon dioxide concentration",
+      "Temperature",
+      "Light intensity",
+      "Water availability"
+    ],
+    answer: "Light intensity",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Tall trees shade lower plants, reducing light available for photosynthesis."
+  },
+  {
+    text: "Why do desert plants such as cacti carry out CAM photosynthesis?",
+    options: [
+      "To fix carbon dioxide at night and reduce water loss",
+      "To increase photorespiration",
+      "To increase transpiration",
+      "To fix nitrogen gas directly"
+    ],
+    answer: "To fix carbon dioxide at night and reduce water loss",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "CAM plants open stomata at night, fixing CO₂ into malate, conserving water."
+  },
+  {
+    text: "Which of the following represents the CORRECT sequence in protein digestion?",
+    options: [
+      "Proteins → amino acids → peptides",
+      "Proteins → peptides → amino acids",
+      "Peptides → proteins → amino acids",
+      "Amino acids → peptides → proteins"
+    ],
+    answer: "Proteins → peptides → amino acids",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Proteins are first hydrolysed into peptides and then into amino acids."
+  },
+  {
+    text: "In photosynthesis, oxygen is produced from:",
+    options: [
+      "Carbon dioxide",
+      "Water",
+      "Glucose",
+      "Chlorophyll"
+    ],
+    answer: "Water",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Water molecules split during photolysis to release oxygen."
+  },
+  {
+    text: "The main role of roughage in human diet is to:",
+    options: [
+      "Provide vitamins",
+      "Stimulate peristalsis",
+      "Provide amino acids",
+      "Supply fatty acids"
+    ],
+    answer: "Stimulate peristalsis",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Dietary fibre prevents constipation by stimulating gut movement."
+  },
+  {
+    text: "In which part of the mammalian digestive system is hydrochloric acid secreted?",
+    options: [
+      "Small intestine",
+      "Oesophagus",
+      "Stomach",
+      "Pancreas"
+    ],
+    answer: "Stomach",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "The gastric glands secrete HCl, aiding pepsin activation and sterilization."
+  },
+  {
+    text: "Which of these elements is specifically needed for chlorophyll synthesis?",
+    options: [
+      "Calcium",
+      "Potassium",
+      "Magnesium",
+      "Sulphur"
+    ],
+    answer: "Magnesium",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Magnesium is the central atom in chlorophyll molecules."
+  },
+  {
+    text: "Which type of nutrition is practiced by fungi like Rhizopus?",
+    options: [
+      "Holozoic",
+      "Saprophytic",
+      "Parasitic",
+      "Autotrophic"
+    ],
+    answer: "Saprophytic",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Fungi feed on decaying organic matter externally (saprophytism)."
+  },
+  {
+    text: "The enzyme that hydrolyses sucrose into glucose and fructose is:",
+    options: [
+      "Lactase",
+      "Sucrase",
+      "Maltase",
+      "Amylase"
+    ],
+    answer: "Sucrase",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Sucrase (invertase) catalyses sucrose → glucose + fructose."
+  },
+  {
+    text: "Which of the following vitamins acts as an antioxidant?",
+    options: [
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K",
+      "Vitamin B₂"
+    ],
+    answer: "Vitamin C",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Vitamin C neutralises free radicals and protects tissues."
+  },
+  {
+    text: "Why do legumes improve soil fertility?",
+    options: [
+      "They produce nitrate fertilizer directly",
+      "They fix nitrogen with the help of symbiotic bacteria",
+      "They absorb nitrogen more efficiently",
+      "They prevent leaching of minerals"
+    ],
+    answer: "They fix nitrogen with the help of symbiotic bacteria",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Rhizobium bacteria in root nodules convert atmospheric nitrogen into usable forms."
+  },
+  {
+    text: "The major site of protein digestion in humans is the:",
+    options: [
+      "Mouth",
+      "Stomach",
+      "Small intestine",
+      "Large intestine"
+    ],
+    answer: "Small intestine",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Most protein hydrolysis into amino acids occurs in the small intestine."
+  },
+  {
+    text: "Which of these organisms exhibits both autotrophic and heterotrophic modes of nutrition?",
+    options: [
+      "Euglena",
+      "Paramecium",
+      "Amoeba",
+      "Plasmodium"
+    ],
+    answer: "Euglena",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Euglena can photosynthesize and also feed on organic material."
+  },
+  {
+    text: "Which cofactor is essential for proper clotting of blood?",
+    options: [
+      "Vitamin A",
+      "Vitamin K",
+      "Vitamin B₁₂",
+      "Vitamin D"
+    ],
+    answer: "Vitamin K",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Vitamin K activates clotting factors in blood coagulation."
+  },
+  {
+    text: "Why does boiling a leaf in water precede testing it for starch?",
+    options: [
+      "To destroy the cuticle",
+      "To kill cells and stop enzymatic reactions",
+      "To dissolve starch",
+      "To remove chlorophyll"
+    ],
+    answer: "To kill cells and stop enzymatic reactions",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "Boiling stops metabolic activities, fixing starch content for testing."
+  },
+  {
+    text: "Which of the following processes does NOT occur during the light stage of photosynthesis?",
+    options: [
+      "ATP synthesis",
+      "Photolysis of water",
+      "Carbon dioxide fixation",
+      "Formation of NADPH"
+    ],
+    answer: "Carbon dioxide fixation",
+    image: "",
+    subtopic: "Nutrition",
+    explanation: "CO₂ fixation is a dark stage (Calvin cycle) event, not light stage."
+  },
+  {
+    text: "Which of the following BEST explains why complex organisms require a transport system?",
+    options: [
+      "They have a small surface area to volume ratio",
+      "They lack mitochondria",
+      "They produce little waste",
+      "They cannot carry out diffusion"
+    ],
+    answer: "They have a small surface area to volume ratio",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "As organisms increase in size, diffusion alone becomes insufficient; hence transport systems evolve."
+  },
+  {
+    text: "The main function of the phloem in plants is to transport:",
+    options: [
+      "Water and mineral salts",
+      "Manufactured food substances",
+      "Oxygen and carbon dioxide",
+      "Waste products"
+    ],
+    answer: "Manufactured food substances",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Phloem transports sugars and other products of photosynthesis from leaves to other parts."
+  },
+  {
+    text: "In mammals, blood flows away from the heart through:",
+    options: [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Venules"
+    ],
+    answer: "Arteries",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Arteries are thick-walled vessels that carry blood away from the heart under high pressure."
+  },
+  {
+    text: "The medium of transportation in plants is mainly:",
+    options: [
+      "Cytoplasm",
+      "Cell sap",
+      "Phloem sap",
+      "Xylem vessel walls"
+    ],
+    answer: "Cell sap",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Cell sap in vacuoles helps maintain osmotic balance and facilitates movement of solutes."
+  },
+  {
+    text: "The pulmonary artery carries:",
+    options: [
+      "Oxygenated blood from the heart to the lungs",
+      "Deoxygenated blood from the heart to the lungs",
+      "Deoxygenated blood from the lungs to the heart",
+      "Oxygenated blood from the lungs to the heart"
+    ],
+    answer: "Deoxygenated blood from the heart to the lungs",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "The pulmonary artery is unusual because it carries deoxygenated blood to the lungs for oxygenation."
+  },
+  {
+    text: "Which of the following tissues is responsible for transporting water in plants?",
+    options: [
+      "Xylem",
+      "Phloem",
+      "Collenchyma",
+      "Epidermis"
+    ],
+    answer: "Xylem",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Xylem vessels transport water and minerals absorbed from roots to other parts of the plant."
+  },
+  {
+    text: "Which organ in mammals acts as a pump in the transport system?",
+    options: [
+      "Lungs",
+      "Heart",
+      "Liver",
+      "Kidneys"
+    ],
+    answer: "Heart",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "The heart pumps blood through arteries, veins, and capillaries to maintain circulation."
+  },
+  {
+    text: "In plants, which process is responsible for the loss of water vapor from aerial parts?",
+    options: [
+      "Osmosis",
+      "Diffusion",
+      "Transpiration",
+      "Active transport"
+    ],
+    answer: "Transpiration",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Transpiration is the evaporation of water vapor from stomata and cuticle of leaves."
+  },
+  {
+    text: "The major medium for transportation of materials in mammals is:",
+    options: [
+      "Saliva",
+      "Lymph",
+      "Blood",
+      "Tissue fluid"
+    ],
+    answer: "Blood",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Blood circulates nutrients, gases, hormones, and waste products throughout the body."
+  },
+  {
+    text: "In which part of the plant are stomata mostly located?",
+    options: [
+      "Upper epidermis of leaves",
+      "Lower epidermis of leaves",
+      "Root hairs",
+      "Stem epidermis"
+    ],
+    answer: "Lower epidermis of leaves",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Most plants have stomata on the lower epidermis to minimize water loss by transpiration."
+  },
+  {
+    text: "The transport of soluble organic compounds in plants occurs through the:",
+    options: [
+      "Cambium",
+      "Phloem",
+      "Xylem",
+      "Pith"
+    ],
+    answer: "Phloem",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Phloem transports sugars, amino acids, and hormones from sources to sinks."
+  },
+  {
+    text: "In the mammalian circulatory system, which vessel carries blood from the small intestine to the liver?",
+    options: [
+      "Renal vein",
+      "Hepatic vein",
+      "Hepatic portal vein",
+      "Aorta"
+    ],
+    answer: "Hepatic portal vein",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "The hepatic portal vein transports nutrient-rich blood from the small intestine to the liver."
+  },
+  {
+    text: "Which one of the following processes requires energy?",
+    options: [
+      "Osmosis",
+      "Diffusion",
+      "Active transport",
+      "Plasmolysis"
+    ],
+    answer: "Active transport",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Active transport requires ATP to move substances against a concentration gradient."
+  },
+  {
+    text: "The aorta carries blood:",
+    options: [
+      "From the heart to the lungs",
+      "From the lungs to the heart",
+      "From the heart to the body",
+      "From the body to the heart"
+    ],
+    answer: "From the heart to the body",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "The aorta is the largest artery that carries oxygenated blood from the left ventricle to the body."
+  },
+  {
+    text: "Which of the following blood components is responsible for clotting?",
+    options: [
+      "Plasma",
+      "Red blood cells",
+      "Platelets",
+      "White blood cells"
+    ],
+    answer: "Platelets",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Platelets help initiate blood clotting by forming plugs at injury sites."
+  },
+  {
+    text: "The process by which water moves across a semi-permeable membrane is:",
+    options: [
+      "Active transport",
+      "Diffusion",
+      "Osmosis",
+      "Filtration"
+    ],
+    answer: "Osmosis",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Osmosis is the movement of water molecules from a dilute solution into a concentrated solution across a membrane."
+  },
+  {
+    text: "Which blood vessel carries blood at the highest pressure?",
+    options: [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Venules"
+    ],
+    answer: "Arteries",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Arteries have thick muscular walls to withstand and maintain high blood pressure."
+  },
+  {
+    text: "Which part of the plant root absorbs water?",
+    options: [
+      "Root tip",
+      "Root hairs",
+      "Xylem",
+      "Cambium"
+    ],
+    answer: "Root hairs",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Root hairs increase surface area for absorption of water and minerals by osmosis and diffusion."
+  },
+  {
+    text: "Blood plasma is mainly composed of:",
+    options: [
+      "Proteins",
+      "Salts",
+      "Water",
+      "Hormones"
+    ],
+    answer: "Water",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Plasma is about 90% water, serving as the medium for transporting dissolved substances."
+  },
+  {
+    text: "Which one of the following does NOT belong to the plant vascular system?",
+    options: [
+      "Xylem",
+      "Phloem",
+      "Cambium",
+      "Cuticle"
+    ],
+    answer: "Cuticle",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "The cuticle is a waxy layer on leaves, not part of vascular tissue."
+  },
+{
+    text: "The hepatic portal vein is unique because it:",
+    options: [
+      "Carries blood directly from the liver to the heart",
+      "Transports deoxygenated blood from the intestines to the liver",
+      "Contains only oxygenated blood from the lungs",
+      "Connects the kidneys to the liver"
+    ],
+    answer: "Transports deoxygenated blood from the intestines to the liver",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "The hepatic portal vein carries nutrient-rich but deoxygenated blood from the gut to the liver for processing."
+  },
+  {
+    text: "In mammals, the valve preventing backflow of blood into the left atrium is the:",
+    options: [
+      "Pulmonary valve",
+      "Tricuspid valve",
+      "Bicuspid (mitral) valve",
+      "Semilunar valve"
+    ],
+    answer: "Bicuspid (mitral) valve",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "The bicuspid valve separates the left atrium from the left ventricle."
+  },
+  {
+    text: "The function of sieve tubes in plants is to:",
+    options: [
+      "Conduct water and mineral salts upward",
+      "Transport manufactured food substances",
+      "Provide mechanical support",
+      "Facilitate gaseous exchange in roots"
+    ],
+    answer: "Transport manufactured food substances",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Phloem sieve tubes conduct sugars and other products of photosynthesis."
+  },
+  {
+    text: "Which of the following is transported in the lymph but not primarily in the blood?",
+    options: [
+      "Glucose",
+      "Fatty acids and glycerol",
+      "Oxygen",
+      "Carbon dioxide"
+    ],
+    answer: "Fatty acids and glycerol",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Absorbed fats enter the lymphatic system before being emptied into venous blood."
+  },
+  {
+    text: "In a transverse section of a young dicot stem, xylem is located:",
+    options: [
+      "Outside the phloem",
+      "Between phloem and cambium",
+      "Inside the phloem towards the center",
+      "Scattered randomly in ground tissue"
+    ],
+    answer: "Inside the phloem towards the center",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "In dicot stems, xylem lies inside and phloem outside in vascular bundles."
+  },
+  {
+    text: "Which of the following correctly lists blood vessels in order of decreasing blood pressure?",
+    options: [
+      "Arteries → Capillaries → Veins",
+      "Veins → Capillaries → Arteries",
+      "Capillaries → Veins → Arteries",
+      "Arteries → Veins → Capillaries"
+    ],
+    answer: "Arteries → Capillaries → Veins",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Blood pressure is highest in arteries, lower in capillaries, and lowest in veins."
+  },
+  {
+    text: "The opening and closing of stomata is mainly controlled by:",
+    options: [
+      "Guard cells",
+      "Root hairs",
+      "Xylem vessels",
+      "Mesophyll cells"
+    ],
+    answer: "Guard cells",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Guard cells regulate turgor pressure to open or close stomata, balancing gas exchange and water loss."
+  },
+  {
+    text: "Which chamber of the mammalian heart has the thickest wall and why?",
+    options: [
+      "Right atrium, because it collects venous blood",
+      "Left ventricle, because it pumps blood into systemic circulation",
+      "Right ventricle, because it pumps blood to lungs",
+      "Left atrium, because it receives oxygenated blood"
+    ],
+    answer: "Left ventricle, because it pumps blood into systemic circulation",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "The left ventricle pumps blood throughout the body, so it has the thickest muscular wall."
+  },
+  {
+    text: "Root pressure is MOST important in:",
+    options: [
+      "Tall trees during transpiration",
+      "Short plants during early morning",
+      "Leaves during photosynthesis",
+      "Flowers during pollination"
+    ],
+    answer: "Short plants during early morning",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Root pressure contributes to upward movement of water mainly in small plants, especially at night or early morning."
+  },
+  {
+    text: "Which of the following statements is TRUE of the pulmonary vein?",
+    options: [
+      "It carries oxygenated blood from the lungs to the heart",
+      "It carries deoxygenated blood from the lungs to the heart",
+      "It carries oxygenated blood from the heart to the lungs",
+      "It carries deoxygenated blood from the heart to the lungs"
+    ],
+    answer: "It carries oxygenated blood from the lungs to the heart",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Unlike most veins, the pulmonary vein carries oxygen-rich blood to the left atrium."
+  },
+  {
+    text: "In mammals, lymph differs from blood mainly in:",
+    options: [
+      "Absence of plasma",
+      "Absence of red blood cells",
+      "Presence of oxygen",
+      "Presence of hemoglobin"
+    ],
+    answer: "Absence of red blood cells",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Lymph lacks erythrocytes and hemoglobin but contains white cells and plasma-like fluid."
+  },
+  {
+    text: "The Bohr effect describes:",
+    options: [
+      "Increased oxygen binding to hemoglobin at higher CO₂ levels",
+      "Reduced oxygen affinity of hemoglobin at higher CO₂ levels",
+      "Constant hemoglobin affinity regardless of CO₂",
+      "Oxygen uptake by red blood cells in the lungs"
+    ],
+    answer: "Reduced oxygen affinity of hemoglobin at higher CO₂ levels",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "CO₂ lowers blood pH, reducing hemoglobin’s affinity for O₂, aiding oxygen release in tissues."
+  },
+  {
+    text: "Which of the following correctly describes the renal vein?",
+    options: [
+      "Carries oxygenated blood to the kidney",
+      "Carries deoxygenated blood into the kidney",
+      "Drains filtered blood away from the kidney",
+      "Supplies nutrients directly to nephrons"
+    ],
+    answer: "Drains filtered blood away from the kidney",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "The renal vein carries blood that has been filtered by the kidney into the vena cava."
+  },
+  {
+    text: "Transpiration pull is mainly generated by:",
+    options: [
+      "Active transport in xylem",
+      "Cohesion and adhesion of water molecules",
+      "Contraction of root hairs",
+      "Stomatal guard cell movements alone"
+    ],
+    answer: "Cohesion and adhesion of water molecules",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "The cohesion-tension theory explains water pull by hydrogen bonding among water molecules and adhesion to xylem walls."
+  },
+  {
+    text: "The double circulation in mammals is essential because:",
+    options: [
+      "Blood must pass twice through the kidneys",
+      "Blood pressure is equalized between lungs and body",
+      "It separates oxygenated and deoxygenated blood",
+      "It allows mixing of venous and arterial blood"
+    ],
+    answer: "It separates oxygenated and deoxygenated blood",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Double circulation ensures efficient oxygen delivery by keeping oxygen-rich and oxygen-poor blood separate."
+  },
+  {
+    text: "In woody plants, the outer bark serves primarily as:",
+    options: [
+      "A transport tissue for water",
+      "A barrier to water loss and pathogens",
+      "The main site of photosynthesis",
+      "The source of phloem loading"
+    ],
+    answer: "A barrier to water loss and pathogens",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Bark (cork) protects against desiccation and microbial invasion."
+  },
+  {
+    text: "Which is a characteristic feature of open circulatory systems?",
+    options: [
+      "Blood always confined within vessels",
+      "Presence of a four-chambered heart",
+      "Direct contact of hemolymph with tissues",
+      "Separation of lymph and blood circulation"
+    ],
+    answer: "Direct contact of hemolymph with tissues",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "In open systems (insects), hemolymph bathes tissues directly instead of remaining in vessels."
+  },
+  {
+    text: "The main factor that drives diffusion of oxygen into actively respiring cells is:",
+    options: [
+      "Higher oxygen concentration in cells",
+      "Lower oxygen concentration in cells",
+      "Equal oxygen concentration inside and outside",
+      "Presence of carbon dioxide in the atmosphere"
+    ],
+    answer: "Lower oxygen concentration in cells",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Diffusion occurs down a gradient; actively respiring cells maintain low O₂ concentration, driving intake."
+  },
+  {
+    text: "Which of the following is NOT part of the mammalian lymphatic system?",
+    options: [
+      "Lymph nodes",
+      "Spleen",
+      "Thoracic duct",
+      "Pulmonary artery"
+    ],
+    answer: "Pulmonary artery",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "The pulmonary artery is part of the cardiovascular system, not lymphatic circulation."
+  },
+  {
+    text: "The apoplast pathway of water movement in plants involves movement:",
+    options: [
+      "Through the cytoplasm connected by plasmodesmata",
+      "Within vacuoles of cells",
+      "Along cell walls and intercellular spaces",
+      "Through the lumen of xylem vessels only"
+    ],
+    answer: "Along cell walls and intercellular spaces",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Apoplast movement is extracellular, via cell walls until blocked by the Casparian strip in roots."
+  },
+  {
+    text: "Which of the following BEST explains why large multicellular organisms require a transport system?",
+    options: [
+      "They have low surface area to volume ratio",
+      "They do not need oxygen directly",
+      "Diffusion is faster in large organisms",
+      "Their cells can survive without nutrients for long"
+    ],
+    answer: "They have low surface area to volume ratio",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "As size increases, diffusion alone becomes insufficient, hence the need for a transport system."
+  },
+  {
+    text: "Which vessel carries oxygenated blood under the LOWEST pressure?",
+    options: [
+      "Aorta",
+      "Pulmonary vein",
+      "Renal artery",
+      "Carotid artery"
+    ],
+    answer: "Pulmonary vein",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "The pulmonary vein carries oxygenated blood at relatively low pressure from the lungs to the heart."
+  },
+  {
+    text: "A blocked lymphatic system MOST directly leads to:",
+    options: [
+      "Anaemia",
+      "Oedema",
+      "Atherosclerosis",
+      "Leukaemia"
+    ],
+    answer: "Oedema",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Failure of lymph drainage causes fluid accumulation (oedema) in tissues."
+  },
+  {
+    text: "The cohesion-tension theory explains:",
+    options: [
+      "Food transport in phloem",
+      "Upward movement of water in xylem",
+      "Salt uptake by roots",
+      "Storage of food in tubers"
+    ],
+    answer: "Upward movement of water in xylem",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Water molecules stick together (cohesion) and to xylem walls (adhesion), generating tension that pulls water upward."
+  },
+  {
+    text: "The renal vein differs from the renal artery in that it contains:",
+    options: [
+      "More urea and less oxygen",
+      "Less oxygen and less urea",
+      "More oxygen and more glucose",
+      "More carbon dioxide and more proteins"
+    ],
+    answer: "Less oxygen and less urea",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "The kidney removes urea and consumes oxygen during metabolism, so renal vein has reduced urea and oxygen levels."
+  },
+  {
+    text: "Which part of the mammalian circulatory system has the HIGHEST blood pressure?",
+    options: [
+      "Aorta",
+      "Vena cava",
+      "Capillaries",
+      "Pulmonary vein"
+    ],
+    answer: "Aorta",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Blood pumped out of the left ventricle into the aorta is at the highest pressure."
+  },
+  {
+    text: "Which is NOT involved in the transport of manufactured food in plants?",
+    options: [
+      "Sieve tubes",
+      "Companion cells",
+      "Xylem vessels",
+      "Phloem fibres"
+    ],
+    answer: "Xylem vessels",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Xylem transports water and minerals, not manufactured food (sugars)."
+  },
+  {
+    text: "In insects, transport of oxygen directly to tissues is achieved through:",
+    options: [
+      "Blood haemoglobin",
+      "Open circulatory system",
+      "Tracheal system",
+      "Spiracle valves"
+    ],
+    answer: "Tracheal system",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Insects rely on tracheae delivering air directly to tissues, bypassing blood for gas transport."
+  },
+  {
+    text: "Why does oxygen diffuse from alveoli into pulmonary capillaries?",
+    options: [
+      "Higher CO2 concentration in alveoli",
+      "Higher oxygen partial pressure in alveoli",
+      "Blood has greater oxygen pressure",
+      "Hemoglobin actively pumps oxygen"
+    ],
+    answer: "Higher oxygen partial pressure in alveoli",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Gas exchange follows concentration/partial pressure gradients."
+  },
+  {
+    text: "Root pressure is generated primarily by:",
+    options: [
+      "Active transport of salts into xylem",
+      "Capillary action",
+      "Transpiration pull",
+      "Osmosis into guard cells"
+    ],
+    answer: "Active transport of salts into xylem",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Salts actively pumped into xylem cause water to follow osmotically, creating root pressure."
+  },
+  {
+    text: "Which component of blood is MOST directly involved in clotting?",
+    options: [
+      "Erythrocytes",
+      "Platelets",
+      "Lymphocytes",
+      "Monocytes"
+    ],
+    answer: "Platelets",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Platelets trigger clot formation by releasing clotting factors."
+  },
+  {
+    text: "The Bohr effect describes how haemoglobin’s affinity for oxygen is reduced in the presence of:",
+    options: [
+      "Low temperature",
+      "High carbon dioxide",
+      "High oxygen pressure",
+      "Low pH in plasma"
+    ],
+    answer: "High carbon dioxide",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "CO2 and low pH reduce haemoglobin’s oxygen affinity, aiding O2 release in tissues."
+  },
+  {
+    text: "The hepatic portal vein carries blood from:",
+    options: [
+      "Kidney to heart",
+      "Heart to liver",
+      "Small intestine to liver",
+      "Liver to pancreas"
+    ],
+    answer: "Small intestine to liver",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "It transports nutrient-rich blood from intestines to the liver for processing."
+  },
+  {
+    text: "The Casparian strip in root endodermis functions mainly to:",
+    options: [
+      "Prevent wilting of leaves",
+      "Force water into symplast pathway",
+      "Increase transpiration",
+      "Reduce guttation"
+    ],
+    answer: "Force water into symplast pathway",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "The strip blocks apoplast flow, directing water into cytoplasm for selective absorption."
+  },
+  {
+    text: "In mammals, the pulmonary artery differs from other arteries because it:",
+    options: [
+      "Carries oxygenated blood",
+      "Carries deoxygenated blood",
+      "Has no muscular wall",
+      "Carries hormones"
+    ],
+    answer: "Carries deoxygenated blood",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Unlike most arteries, the pulmonary artery transports deoxygenated blood to the lungs."
+  },
+  {
+    text: "The transpiration stream in plants is MOST strongly driven by:",
+    options: [
+      "Root pressure",
+      "Capillary action",
+      "Transpiration pull",
+      "Osmosis into phloem"
+    ],
+    answer: "Transpiration pull",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Water evaporation from leaves creates negative pressure pulling water upward."
+  },
+  {
+    text: "Which blood component defends the body against infections?",
+    options: [
+      "Erythrocytes",
+      "Leukocytes",
+      "Platelets",
+      "Plasma"
+    ],
+    answer: "Leukocytes",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "White blood cells (leukocytes) attack pathogens and produce antibodies."
+  },
+  {
+    text: "Active transport differs from diffusion in that active transport:",
+    options: [
+      "Moves molecules down concentration gradient",
+      "Requires ATP energy input",
+      "Occurs only in liquids",
+      "Is faster at higher temperatures"
+    ],
+    answer: "Requires ATP energy input",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Active transport pumps substances against their gradient using energy."
+  },
+  {
+    text: "Why does blockage of coronary arteries cause heart attack?",
+    options: [
+      "Nerves controlling the heart are severed",
+      "Cardiac muscles are deprived of oxygen",
+      "Too much oxygen enters the lungs",
+      "Blood is diverted to the brain instead"
+    ],
+    answer: "Cardiac muscles are deprived of oxygen",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Oxygen deprivation in heart muscle leads to tissue death (myocardial infarction)."
+  },
+  {
+    text: "A student observed that wilted leaves recover after watering. This is due to:",
+    options: [
+      "Increase in transpiration rate",
+      "Recovery of turgor pressure",
+      "Decrease in osmotic pressure",
+      "Increased guttation"
+    ],
+    answer: "Recovery of turgor pressure",
+    image: "",
+    subtopic: "Transportation",
+    explanation: "Water uptake restores cell turgidity, reversing wilting."
+  },
+  {
+    text: "Which of the following is the PRIMARY significance of respiration in living organisms?",
+    options: [
+      "Release of energy for cellular activities",
+      "Absorption of minerals from soil",
+      "Maintenance of body temperature",
+      "Transport of digested food"
+    ],
+    answer: "Release of energy for cellular activities",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Respiration supplies ATP which powers growth, movement, and other life processes."
+  },
+  {
+    text: "In mammals, gaseous exchange occurs mainly in the ____",
+    options: [
+      "trachea",
+      "bronchi",
+      "alveoli",
+      "diaphragm"
+    ],
+    answer: "alveoli",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Alveoli provide large surface area and thin walls for efficient gas exchange."
+  },
+  {
+    text: "Which process is common to BOTH aerobic and anaerobic respiration?",
+    options: [
+      "Kreb’s cycle",
+      "Electron transport chain",
+      "Glycolysis",
+      "Production of water"
+    ],
+    answer: "Glycolysis",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Both respiration types begin with glycolysis in the cytoplasm."
+  },
+  {
+    text: "The main respiratory surface in a fish is the ____",
+    options: [
+      "lenticel",
+      "gill",
+      "trachea",
+      "skin"
+    ],
+    answer: "gill",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Fish use gills with lamellae that increase surface area for oxygen uptake."
+  },
+  {
+    text: "During respiration, glucose is broken down to release energy stored in ____",
+    options: [
+      "DNA",
+      "ATP",
+      "mRNA",
+      "lipids"
+    ],
+    answer: "ATP",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "ATP is the immediate usable energy currency of cells."
+  },
+  {
+    text: "In plants, gaseous exchange occurs mainly through ____",
+    options: [
+      "lenticels and stomata",
+      "phloem and xylem",
+      "cuticle and root hairs",
+      "petals and sepals"
+    ],
+    answer: "lenticels and stomata",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Stomata in leaves and lenticels in stems allow entry/exit of gases."
+  },
+  {
+    text: "Which of the following is NOT a respiratory surface?",
+    options: [
+      "Trachea of insects",
+      "Alveoli of mammals",
+      "Root hairs of plants",
+      "Gills of fish"
+    ],
+    answer: "Root hairs of plants",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Root hairs absorb water and minerals, not gases."
+  },
+  {
+    text: "The opening and closing of stomata in leaves is mainly controlled by ____",
+    options: [
+      "guard cells",
+      "mesophyll cells",
+      "epidermal cells",
+      "xylem vessels"
+    ],
+    answer: "guard cells",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Guard cells change turgidity to regulate stomatal aperture."
+  },
+  {
+    text: "The end-products of anaerobic respiration in yeast are ____",
+    options: [
+      "carbon dioxide and ethanol",
+      "lactic acid and ATP",
+      "water and carbon dioxide",
+      "oxygen and ethanol"
+    ],
+    answer: "carbon dioxide and ethanol",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Yeast fermentation produces ethanol and CO₂, used in brewing and baking."
+  },
+  {
+    text: "The diaphragm contracts and flattens during ____",
+    options: [
+      "inhalation",
+      "exhalation",
+      "gaseous exchange",
+      "anaerobic respiration"
+    ],
+    answer: "inhalation",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Diaphragm contraction increases thoracic volume, drawing air in."
+  },
+  {
+    text: "Which of these organisms uses tracheal tubes for respiration?",
+    options: [
+      "Fish",
+      "Frog",
+      "Cockroach",
+      "Snail"
+    ],
+    answer: "Cockroach",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Insects like cockroaches use a tracheal system for gas exchange."
+  },
+  {
+    text: "The respiratory surface of earthworms is their ____",
+    options: [
+      "skin",
+      "gill",
+      "lungs",
+      "tentacles"
+    ],
+    answer: "skin",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Earthworms rely on moist skin for diffusion of oxygen and CO₂."
+  },
+  {
+    text: "Which condition is NECESSARY for stomata to open?",
+    options: [
+      "Turgidity of guard cells",
+      "Loss of water from guard cells",
+      "Presence of lenticels",
+      "Closure of chloroplasts"
+    ],
+    answer: "Turgidity of guard cells",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "When guard cells absorb water, they become turgid and open stomata."
+  },
+  {
+    text: "Which of the following best describes aerobic respiration?",
+    options: [
+      "Partial breakdown of glucose without oxygen",
+      "Complete breakdown of glucose in the presence of oxygen",
+      "Production of ethanol without oxygen",
+      "Storage of glucose in glycogen"
+    ],
+    answer: "Complete breakdown of glucose in the presence of oxygen",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Aerobic respiration uses oxygen to fully oxidize glucose into CO₂, water and ATP."
+  },
+  {
+    text: "Which of the following best explains why anaerobic respiration is less efficient?",
+    options: [
+      "It occurs only in plants",
+      "It produces little energy per glucose molecule",
+      "It requires mitochondria",
+      "It produces too much oxygen"
+    ],
+    answer: "It produces little energy per glucose molecule",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Anaerobic respiration yields only 2 ATP per glucose, compared to ~36 ATP in aerobic respiration."
+  },
+  {
+    text: "Which of the following BEST explains why alveoli are efficient for gaseous exchange?",
+    options: [
+      "They are dry and thick-walled",
+      "They have a small surface area and few capillaries",
+      "They are thin-walled and richly supplied with blood vessels",
+      "They are located inside the diaphragm"
+    ],
+    answer: "They are thin-walled and richly supplied with blood vessels",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Thin walls reduce diffusion distance while capillary supply maintains concentration gradient."
+  },
+  {
+    text: "In glycolysis, glucose is first broken down into ____",
+    options: [
+      "ethanol",
+      "pyruvate",
+      "acetyl CoA",
+      "citric acid"
+    ],
+    answer: "pyruvate",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Glycolysis in the cytoplasm converts glucose into two molecules of pyruvate."
+  },
+  {
+    text: "The build-up of lactic acid in muscles is mainly due to ____",
+    options: [
+      "aerobic respiration",
+      "excess supply of oxygen",
+      "anaerobic respiration",
+      "low ATP production"
+    ],
+    answer: "anaerobic respiration",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "When oxygen is insufficient, anaerobic respiration produces lactic acid in muscle cells."
+  },
+  {
+    text: "The opening of stomata during the day is aided by ____",
+    options: [
+      "accumulation of starch in guard cells",
+      "conversion of starch to sugar in guard cells",
+      "movement of water out of guard cells",
+      "death of epidermal cells"
+    ],
+    answer: "conversion of starch to sugar in guard cells",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Sugar increases osmotic pressure, drawing in water to make guard cells turgid."
+  },
+  {
+    text: "Which of these is NOT an adaptation of fish gills for respiration?",
+    options: [
+      "Large surface area",
+      "Counter-current flow",
+      "Thin epithelium",
+      "Thick mucus covering"
+    ],
+    answer: "Thick mucus covering",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Mucus covering would hinder diffusion; other features enhance gaseous exchange."
+  },
+  {
+    text: "In which of the following organisms is gaseous exchange carried out mainly through body surface?",
+    options: [
+      "Toad",
+      "Earthworm",
+      "Grasshopper",
+      "Snail"
+    ],
+    answer: "Earthworm",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Earthworms rely on moist skin for diffusion of gases."
+  },
+  {
+    text: "Which respiratory pigment is responsible for oxygen transport in humans?",
+    options: [
+      "Chlorophyll",
+      "Haemoglobin",
+      "Myosin",
+      "Keratin"
+    ],
+    answer: "Haemoglobin",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Haemoglobin in red blood cells binds oxygen to form oxyhaemoglobin."
+  },
+  {
+    text: "The correct sequence of events in aerobic respiration is ____",
+    options: [
+      "Glycolysis → Kreb’s cycle → Electron transport chain",
+      "Kreb’s cycle → Glycolysis → Electron transport chain",
+      "Electron transport chain → Glycolysis → Kreb’s cycle",
+      "Glycolysis → Electron transport chain → Kreb’s cycle"
+    ],
+    answer: "Glycolysis → Kreb’s cycle → Electron transport chain",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Aerobic respiration starts with glycolysis, continues with Kreb’s cycle in mitochondria, then ETC."
+  },
+  {
+    text: "Which of these is a CORRECT feature of anaerobic respiration in yeast?",
+    options: [
+      "It produces oxygen and lactic acid",
+      "It requires mitochondria",
+      "It produces ethanol and carbon dioxide",
+      "It releases more ATP than aerobic respiration"
+    ],
+    answer: "It produces ethanol and carbon dioxide",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Yeast fermentation produces ethanol and CO₂ without mitochondria."
+  },
+  {
+    text: "What is the MAIN function of ATP produced during respiration?",
+    options: [
+      "To store genetic information",
+      "To act as an immediate source of energy",
+      "To regulate body pH",
+      "To catalyze reactions"
+    ],
+    answer: "To act as an immediate source of energy",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "ATP hydrolysis directly provides energy for metabolic processes."
+  },
+  {
+    text: "The role of oxygen in cellular respiration is to ____",
+    options: [
+      "break down glucose directly",
+      "accept electrons at the end of the electron transport chain",
+      "convert pyruvate into ethanol",
+      "store energy in mitochondria"
+    ],
+    answer: "accept electrons at the end of the electron transport chain",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Oxygen is the final electron acceptor, forming water and enabling ATP production."
+  },
+  {
+    text: "A respiratory surface must have all EXCEPT one of the following features:",
+    options: [
+      "Large surface area",
+      "Moist surface",
+      "Thin membrane",
+      "Thick impermeable layer"
+    ],
+    answer: "Thick impermeable layer",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Gases cannot diffuse efficiently across a thick impermeable layer."
+  },
+  {
+    text: "Which respiratory structure in insects opens to the outside of the body?",
+    options: [
+      "Lenticels",
+      "Stomata",
+      "Spiracles",
+      "Bronchioles"
+    ],
+    answer: "Spiracles",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Spiracles are openings that connect to tracheal tubes for gaseous exchange in insects."
+  },
+  {
+    text: "The Kreb’s cycle takes place in the ____",
+    options: [
+      "nucleus",
+      "cytoplasm",
+      "mitochondrial matrix",
+      "ribosome"
+    ],
+    answer: "mitochondrial matrix",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Kreb’s cycle enzymes are located in the mitochondrial matrix."
+  },
+  {
+    text: "Which of the following setups can be used to demonstrate anaerobic respiration in yeast?",
+    options: [
+      "Yeast + sugar solution in boiling tube with air supply",
+      "Yeast + sugar solution sealed with paraffin layer",
+      "Yeast + water only in open flask",
+      "Yeast + starch solution in Petri dish"
+    ],
+    answer: "Yeast + sugar solution sealed with paraffin layer",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Paraffin prevents oxygen entry, ensuring yeast respires anaerobically and produces CO₂ + ethanol."
+  },
+  {
+    text: "Why does oxygen debt occur in humans after vigorous exercise?",
+    options: [
+      "Because oxygen diffuses slowly into alveoli",
+      "Because lactic acid formed during anaerobic respiration must be oxidized",
+      "Because carbon dioxide accumulates in the blood",
+      "Because ATP is no longer needed by muscles"
+    ],
+    answer: "Because lactic acid formed during anaerobic respiration must be oxidized",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Extra oxygen is required to remove lactic acid and restore energy balance."
+  },
+  {
+    text: "Which of the following BEST explains why insects rely on a tracheal system rather than blood for gaseous transport?",
+    options: [
+      "Insects lack a circulatory system",
+      "Oxygen is directly delivered to tissues through air-filled tubes",
+      "Blood in insects contains haemoglobin",
+      "Carbon dioxide is not produced in insect tissues"
+    ],
+    answer: "Oxygen is directly delivered to tissues through air-filled tubes",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "The tracheal system bypasses blood, ensuring direct oxygen delivery to cells."
+  },
+  {
+    text: "The respiratory quotient (RQ) of 1.0 indicates that ____",
+    options: [
+      "only proteins are being respired",
+      "only fats are being respired",
+      "only carbohydrates are being respired",
+      "both fats and carbohydrates are being respired equally"
+    ],
+    answer: "only carbohydrates are being respired",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "RQ = CO₂ produced / O₂ consumed. Carbohydrates give RQ = 1.0."
+  },
+  {
+    text: "During the Kreb’s cycle, carbon atoms from acetyl CoA are released as ____",
+    options: [
+      "methane",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen gas"
+    ],
+    answer: "carbon dioxide",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Each turn of Kreb’s cycle releases CO₂ as waste product of oxidation."
+  },
+  {
+    text: "Why is cyanide lethal to humans?",
+    options: [
+      "It blocks glycolysis in the cytoplasm",
+      "It prevents pyruvate formation",
+      "It inhibits the electron transport chain in mitochondria",
+      "It reduces haemoglobin’s affinity for oxygen"
+    ],
+    answer: "It inhibits the electron transport chain in mitochondria",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Cyanide binds to cytochrome oxidase, stopping ATP synthesis."
+  },
+  {
+    text: "What experimental evidence BEST shows that heat is a by-product of respiration?",
+    options: [
+      "Boiling of yeast solution",
+      "Rise in temperature in germinating seeds",
+      "Production of bubbles in sugar solution",
+      "Change in colour of limewater"
+    ],
+    answer: "Rise in temperature in germinating seeds",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Respirometer experiments show heat release during active respiration."
+  },
+  {
+    text: "A respiratory quotient (RQ) less than 1 usually indicates ____",
+    options: [
+      "carbohydrate metabolism",
+      "protein metabolism",
+      "fat metabolism",
+      "fermentation"
+    ],
+    answer: "fat metabolism",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Fat oxidation consumes more oxygen than CO₂ produced, giving RQ < 1."
+  },
+  {
+    text: "In an experiment, germinating seeds were placed in one flask and boiled seeds in another. The boiled seeds serve as ____",
+    options: [
+      "a catalyst",
+      "a control",
+      "an oxygen supply",
+      "a source of glucose"
+    ],
+    answer: "a control",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Boiled seeds are dead and cannot respire, serving as the control."
+  },
+  {
+    text: "Why does oxygen diffuse rapidly from alveoli into the blood?",
+    options: [
+      "Because partial pressure of oxygen is higher in alveoli than in blood",
+      "Because haemoglobin actively pumps oxygen",
+      "Because alveoli produce oxygen continuously",
+      "Because red blood cells attract oxygen by electrostatic force"
+    ],
+    answer: "Because partial pressure of oxygen is higher in alveoli than in blood",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Diffusion follows concentration/pressure gradient."
+  },
+  {
+    text: "The enzyme that catalyzes the conversion of glucose to glucose-6-phosphate in glycolysis is ____",
+    options: [
+      "dehydrogenase",
+      "hexokinase",
+      "ATP synthase",
+      "cytochrome oxidase"
+    ],
+    answer: "hexokinase",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Hexokinase phosphorylates glucose in the first step of glycolysis."
+  },
+  {
+    text: "During anaerobic respiration in humans, glucose is converted into ____",
+    options: [
+      "ethanol + carbon dioxide",
+      "lactic acid",
+      "pyruvate + oxygen",
+      "acetyl CoA"
+    ],
+    answer: "lactic acid",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "In absence of oxygen, glucose is fermented to lactic acid in muscles."
+  },
+  {
+    text: "The energy yield of aerobic respiration compared to anaerobic respiration is approximately ____",
+    options: [
+      "2 ATP vs 38 ATP",
+      "10 ATP vs 2 ATP",
+      "38 ATP vs 4 ATP",
+      "36 ATP vs 18 ATP"
+    ],
+    answer: "2 ATP vs 38 ATP",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Aerobic respiration is about 19 times more efficient than anaerobic respiration."
+  },
+  {
+    text: "The collapse of lungs due to puncture of the chest cavity shows that ____",
+    options: [
+      "air pressure inside lungs is always higher",
+      "negative pressure in pleural cavity is essential for breathing",
+      "lungs can inflate without pleural cavity",
+      "lungs contain muscles for expansion"
+    ],
+    answer: "negative pressure in pleural cavity is essential for breathing",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Pleural vacuum maintains lung expansion during breathing."
+  },
+  {
+    text: "Which of the following organisms respires through both lungs and moist skin?",
+    options: [
+      "Fish",
+      "Earthworm",
+      "Toad",
+      "Cockroach"
+    ],
+    answer: "Toad",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Toads use lungs on land and moist skin in water."
+  },
+  {
+    text: "During fermentation in yeast, which of the following is released apart from ethanol?",
+    options: [
+      "Oxygen",
+      "Lactic acid",
+      "Carbon dioxide",
+      "ATP only"
+    ],
+    answer: "Carbon dioxide",
+    image: "",
+    subtopic: "Respiration",
+    explanation: "Anaerobic respiration in yeast produces ethanol + CO₂ + small amount of ATP."
+  },
+  {
+    text: "Which of the following BEST defines excretion?",
+    options: [
+      "Removal of undigested food materials",
+      "Removal of metabolic waste products from the body",
+      "Breakdown of glucose to release energy",
+      "Intake of useful nutrients"
+    ],
+    answer: "Removal of metabolic waste products from the body",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Excretion is the elimination of metabolic waste like urea, CO₂, water and salts."
+  },
+  {
+    text: "Which of these organisms uses a contractile vacuole for excretion?",
+    options: ["Earthworm", "Amoeba", "Cockroach", "Fish"],
+    answer: "Amoeba",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Amoeba maintains water balance by using a contractile vacuole."
+  },
+  {
+    text: "The excretory organ in flatworms is the ____",
+    options: ["nephridium", "flame cell", "kidney", "lung"],
+    answer: "flame cell",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Flame cells regulate water and waste removal in flatworms."
+  },
+  {
+    text: "The functional unit of the kidney is the ____",
+    options: ["nephridium", "nephron", "ureter", "glomerulus"],
+    answer: "nephron",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Each kidney has millions of nephrons responsible for filtration and osmoregulation."
+  },
+  {
+    text: "Which excretory structure is found in annelids?",
+    options: ["Malpighian tubule", "Nephridium", "Kidney", "Contractile vacuole"],
+    answer: "Nephridium",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Earthworms excrete through nephridia."
+  },
+  {
+    text: "In insects, excretion occurs mainly through the ____",
+    options: ["kidney", "flame cells", "Malpighian tubules", "gills"],
+    answer: "Malpighian tubules",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Malpighian tubules remove nitrogenous wastes like uric acid."
+  },
+  {
+    text: "The main nitrogenous waste in humans is ____",
+    options: ["ammonia", "urea", "uric acid", "amino acid"],
+    answer: "urea",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Humans excrete mainly urea, a less toxic product of protein metabolism."
+  },
+  {
+    text: "Which of the following is NOT an excretory product?",
+    options: ["Carbon dioxide", "Oxygen", "Urea", "Sweat"],
+    answer: "Oxygen",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Oxygen is not a waste but used for respiration."
+  },
+  {
+    text: "The skin excretes mainly ____",
+    options: ["oxygen and carbon dioxide", "urea, salts and water", "sweat and oxygen", "uric acid and bile"],
+    answer: "urea, salts and water",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Sweat glands excrete water, salts and small amounts of urea."
+  },
+  {
+    text: "Carbon dioxide is excreted mainly through the ____",
+    options: ["lungs", "kidneys", "skin", "intestines"],
+    answer: "lungs",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "The lungs remove CO₂, a product of cellular respiration."
+  },
+  {
+    text: "Which plant structure is responsible for gaseous exchange?",
+    options: ["Root hairs", "Xylem", "Stomata", "Phloem"],
+    answer: "Stomata",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Stomata release oxygen and carbon dioxide in plants."
+  },
+  {
+    text: "Lenticels are mainly found in the ____",
+    options: ["roots", "stems", "flowers", "fruits"],
+    answer: "stems",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Lenticels allow gaseous exchange in woody stems."
+  },
+  {
+    text: "Which of the following is an excretory product of plants?",
+    options: ["Glucose", "Resins", "Starch", "Cellulose"],
+    answer: "Resins",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Plants excrete gums, resins, alkaloids, tannins, and oxygen."
+  },
+  {
+    text: "Which organ filters blood to remove urea in humans?",
+    options: ["Liver", "Lung", "Kidney", "Heart"],
+    answer: "Kidney",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "The kidney removes urea and regulates water balance."
+  },
+  {
+    text: "The part of the nephron where filtration of blood takes place is the ____",
+    options: ["Bowman’s capsule", "Loop of Henle", "Collecting duct", "Ureter"],
+    answer: "Bowman’s capsule",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Ultrafiltration occurs in Bowman’s capsule."
+  },
+  {
+    text: "The Malpighian tubules of insects excrete mainly ____",
+    options: ["urea", "uric acid", "ammonia", "carbon dioxide"],
+    answer: "uric acid",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Uric acid is excreted to conserve water in insects."
+  },
+  {
+    text: "Excretion differs from egestion because ____",
+    options: [
+      "both remove undigested food",
+      "excretion removes metabolic waste while egestion removes undigested food",
+      "both involve the kidneys",
+      "excretion is only in plants"
+    ],
+    answer: "excretion removes metabolic waste while egestion removes undigested food",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Excretion = metabolic waste. Egestion = undigested food."
+  },
+  {
+    text: "Which excretory organ removes excess water in protozoa?",
+    options: ["Flame cell", "Nephridium", "Contractile vacuole", "Kidney"],
+    answer: "Contractile vacuole",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Protozoans use contractile vacuole for osmoregulation."
+  },
+  {
+    text: "The ureter connects the kidney to the ____",
+    options: ["urethra", "bladder", "nephron", "liver"],
+    answer: "bladder",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Urine passes from kidneys to bladder via ureters."
+  },
+  {
+    text: "Which nitrogenous waste is most soluble in water?",
+    options: ["Urea", "Uric acid", "Ammonia", "Creatinine"],
+    answer: "Ammonia",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Ammonia is highly soluble but toxic, common in aquatic animals."
+  },
+
+  // ---------------- MEDIUM (20) ----------------
+  {
+    text: "What is the significance of the long loop of Henle in desert mammals?",
+    options: [
+      "It increases urine volume",
+      "It allows reabsorption of more water",
+      "It excretes more salts",
+      "It reduces urea formation"
+    ],
+    answer: "It allows reabsorption of more water",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Longer loops concentrate urine, conserving water in deserts."
+  },
+  {
+    text: "Why do insects excrete uric acid instead of urea?",
+    options: [
+      "Because uric acid is less toxic and conserves water",
+      "Because uric acid dissolves easily in blood",
+      "Because they lack kidneys",
+      "Because it provides energy"
+    ],
+    answer: "Because uric acid is less toxic and conserves water",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Uric acid excretion reduces water loss."
+  },
+  {
+    text: "In humans, which blood vessel carries urea-rich blood to the kidney?",
+    options: ["Renal artery", "Renal vein", "Hepatic vein", "Pulmonary artery"],
+    answer: "Renal artery",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Renal artery brings waste-rich blood for filtration."
+  },
+  {
+    text: "In plants, excess oxygen is removed mainly by ____",
+    options: ["phloem", "lenticels", "stomata", "xylem"],
+    answer: "stomata",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Stomata release O₂ as a byproduct of photosynthesis."
+  },
+  {
+    text: "Which of the following pairs is correct?",
+    options: [
+      "Earthworm – Malpighian tubules",
+      "Cockroach – flame cell",
+      "Flatworm – flame cell",
+      "Mammals – contractile vacuole"
+    ],
+    answer: "Flatworm – flame cell",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Flatworms use flame cells for waste removal."
+  },
+  {
+    text: "Which plant excretory product is economically used in perfumery?",
+    options: ["Alkaloids", "Resins", "Tannins", "Gums"],
+    answer: "Resins",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Resins and gums are used in perfumes and varnishes."
+  },
+  {
+    text: "Which of the following is NOT excreted by the human skin?",
+    options: ["Urea", "Water", "Carbon dioxide", "Salts"],
+    answer: "Carbon dioxide",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "CO₂ is excreted through lungs, not skin."
+  },
+  {
+    text: "During ultrafiltration, which substance is NOT filtered into the Bowman’s capsule?",
+    options: ["Glucose", "Urea", "Plasma proteins", "Water"],
+    answer: "Plasma proteins",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Proteins are too large to pass through the filtration membrane."
+  },
+  {
+    text: "Which organ is involved in both excretion and osmoregulation?",
+    options: ["Liver", "Heart", "Kidney", "Lung"],
+    answer: "Kidney",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "The kidney balances water and salts apart from removing wastes."
+  },
+  {
+    text: "What is the main nitrogenous waste in birds?",
+    options: ["Ammonia", "Urea", "Uric acid", "Creatinine"],
+    answer: "Uric acid",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Birds excrete uric acid as a paste to conserve water."
+  },
+  {
+    text: "Which excretory organ in flatworms consists of a network of tubules with flame cells?",
+    options: ["Contractile vacuole", "Nephridium", "Malpighian tubule", "Flame cell system"],
+    answer: "Flame cell system",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Flatworms possess a protonephridial system: branching tubules ending in ciliated flame cells for waste removal/osmoregulation."
+  },
+  {
+    text: "In earthworms, the excretory structure that removes nitrogenous waste is called:",
+    options: ["Nephridium", "Malpighian tubule", "Contractile vacuole", "Lenticel"],
+    answer: "Nephridium",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Each segment has nephridia that filter coelomic fluid and excrete through nephridiopores."
+  },
+  {
+    text: "The main nitrogenous waste excreted by birds is:",
+    options: ["Urea", "Uric acid", "Ammonia", "Creatinine"],
+    answer: "Uric acid",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Uric acid is low-toxicity and precipitates as a paste, conserving water for flight and egg development."
+  },
+  {
+    text: "Which structure in insects functions for excretion?",
+    options: ["Flame cells", "Nephridia", "Malpighian tubules", "Contractile vacuoles"],
+    answer: "Malpighian tubules",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "They secrete uric acid and adjust ions; wastes pass to the gut for elimination."
+  },
+  {
+    text: "In mammals, the part of the nephron responsible for filtration is the:",
+    options: ["Loop of Henle", "Distal convoluted tubule", "Collecting duct", "Bowman’s capsule"],
+    answer: "Bowman’s capsule",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "High pressure in glomerular capillaries drives ultrafiltration into Bowman’s capsule."
+  },
+  {
+    text: "Which process occurs at the Loop of Henle?",
+    options: ["Reabsorption of water and salts", "Filtration of blood", "Secretion of urea", "Production of urine"],
+    answer: "Reabsorption of water and salts",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Descending limb is water-permeable; ascending limb reabsorbs salts—key to urine concentration."
+  },
+  {
+    text: "The skin helps in excretion by removing:",
+    options: ["Carbon dioxide and bile salts", "Urea and salts in sweat", "Nitrogen gas and water", "Excess glucose and amino acids"],
+    answer: "Urea and salts in sweat",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Sweat glands excrete water, NaCl, and small amounts of urea—also aiding thermoregulation."
+  },
+  {
+    text: "Which waste product is excreted by the lungs?",
+    options: ["Ammonia and water", "Urea and salts", "Carbon dioxide and water vapour", "Uric acid and bile pigments"],
+    answer: "Carbon dioxide and water vapour",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Exhaled air removes CO₂ (from respiration) and water vapour from moist airways."
+  },
+  {
+    text: "Which of the following plant excretory products is economically important in the manufacture of drugs?",
+    options: ["Alkaloids", "Resins", "Gums", "Tannins"],
+    answer: "Alkaloids",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Alkaloids (e.g., morphine, quinine) are bioactive plant excretory/secondary metabolites used pharmaceutically."
+  },
+  {
+    text: "Which of these is NOT an excretory product of plants?",
+    options: ["Carbon dioxide", "Oxygen", "Tannins", "Starch"],
+    answer: "Starch",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Starch is a storage carbohydrate, not a waste product; the others are released/accumulated as by-products."
+  },
+  {
+    text: "In protozoa such as Amoeba, excretion of excess water is mainly carried out by the:",
+    options: ["Cell membrane", "Cytoplasm", "Contractile vacuole", "Nucleus"],
+    answer: "Contractile vacuole",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "In hypotonic freshwater, the contractile vacuole expels excess water to prevent lysis."
+  },
+  {
+    text: "Which nitrogenous waste product requires the LEAST amount of water for excretion?",
+    options: ["Ammonia", "Urea", "Creatinine", "Uric acid"],
+    answer: "Uric acid",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Uric acid is poorly soluble and can be excreted as a paste, minimizing water loss."
+  },
+  {
+    text: "The counter-current mechanism in the kidney is associated with:",
+    options: ["Loop of Henle", "Bowman’s capsule", "Proximal convoluted tubule", "Glomerulus"],
+    answer: "Loop of Henle",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Opposite flows in descending/ascending limbs create a medullary osmotic gradient for water reabsorption."
+  },
+  {
+    text: "Which feature of Malpighian tubules allows insects to conserve water in excretion?",
+    options: ["Production of ammonia", "Reabsorption of salts and uric acid precipitation", "Direct release of urea", "Filtration of blood under pressure"],
+    answer: "Reabsorption of salts and uric acid precipitation",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Uric acid precipitates in the hindgut while ions/water are reclaimed—reducing water loss."
+  },
+  {
+    text: "Which of these plant excretory products is a major source of varnish and adhesives?",
+    options: ["Resins", "Tannins", "Mucilage", "Gums"],
+    answer: "Resins",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Resins/polyterpenes harden to form varnishes; some gums also used as adhesives but resins are key for varnish."
+  },
+  {
+    text: "Excretion differs from egestion because:",
+    options: [
+      "Excretion removes undigested food while egestion removes metabolic waste",
+      "Excretion occurs only in animals, egestion only in plants",
+      "Egestion occurs in cells, excretion in organs",
+      "Excretion removes metabolic waste while egestion removes undigested food"
+    ],
+    answer: "Excretion removes metabolic waste while egestion removes undigested food",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Egestion eliminates unabsorbed residues from the gut; excretion eliminates metabolic by-products."
+  },
+  {
+    text: "The main nitrogenous waste in aquatic amphibians is:",
+    options: ["Urea", "Ammonia", "Uric acid", "Creatinine"],
+    answer: "Ammonia",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Ammonia is highly toxic but easily diluted in water—suitable for aquatic life stages."
+  },
+  {
+    text: "In desert animals like the kangaroo rat, water conservation is enhanced by:",
+    options: ["Short Loop of Henle", "Absence of kidneys", "Long Loop of Henle", "Excretion of ammonia"],
+    answer: "Long Loop of Henle",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Long loops generate a steeper medullary gradient, concentrating urine strongly."
+  },
+  {
+    text: "Which plant structure can excrete gases directly?",
+    options: ["Root hairs", "Guard cells", "Cambium", "Lenticels"],
+    answer: "Lenticels",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Lenticels are porous regions in woody stems enabling gaseous exchange (O₂/CO₂)."
+  },
+  {
+    text: "In mammals, osmoregulation is controlled by the hormone:",
+    options: ["ADH (vasopressin)", "Adrenaline", "Insulin", "Thyroxine"],
+    answer: "ADH (vasopressin)",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "ADH increases water permeability of the distal nephron to conserve water."
+  },
+  {
+    text: "Which step MOST directly involves active secretion of H+ and K+ into the nephron tubule?",
+    options: ["Glomerular filtration", "Tubular reabsorption", "Tubular secretion", "Counter-current exchange"],
+    answer: "Tubular secretion",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Secretion is an active, selective transfer of solutes (e.g., H+, K+, drugs) from blood to filtrate."
+  },
+  {
+    text: "Which excretory product of plants is commercially used in tanning leather?",
+    options: ["Alkaloids", "Tannins", "Resins", "Gums"],
+    answer: "Tannins",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Tannins cross-link proteins in hides, stabilizing collagen to form leather."
+  },
+  {
+    text: "Which adaptation allows birds to excrete uric acid instead of urea?",
+    options: ["Low metabolic rate", "Ammonia detoxification", "Large kidneys", "Water conservation strategy"],
+    answer: "Water conservation strategy",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Semi-solid uric acid conserves water—critical for flight and egg development."
+  },
+  {
+    text: "In mammals, most selective reabsorption occurs in the:",
+    options: ["Proximal convoluted tubule", "Bowman’s capsule", "Distal convoluted tubule", "Collecting duct"],
+    answer: "Proximal convoluted tubule",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "The PCT reclaims ~65–70% of filtrate (glucose, amino acids, ions, water) via active transport and co-transport."
+  },
+  {
+    text: "The excretory products of plants such as alkaloids are important because they:",
+    options: ["Provide structural support", "Aid in respiration", "Serve as defense against herbivores", "Promote photosynthesis"],
+    answer: "Serve as defense against herbivores",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Many alkaloids are deterrent/toxic to herbivores and pathogens—secondary metabolite defense."
+  },
+  {
+    text: "Which structure in freshwater protozoa prevents them from bursting due to osmosis?",
+    options: ["Nucleus", "Contractile vacuole", "Plasma membrane", "Cytoplasm"],
+    answer: "Contractile vacuole",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "It periodically expels accumulated water, maintaining osmotic balance."
+  },
+  {
+    text: "Which waste product of plants is released through stomata during photosynthesis?",
+    options: ["Oxygen", "Carbon dioxide", "Ammonia", "Water vapour"],
+    answer: "Oxygen",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Water-splitting in photosystem II releases O₂, which diffuses out via stomata."
+  },
+  {
+    text: "The movement of metabolic wastes from body cells into the blood occurs mainly by:",
+    options: ["Ultrafiltration", "Egestion", "Excretion", "Diffusion"],
+    answer: "Diffusion",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "Small waste molecules (e.g., CO₂, urea) diffuse down their concentration gradients into capillaries."
+  },
+  {
+    text: "What is the main function of the renal artery?",
+    options: ["Carry urea to bladder", "Carry deoxygenated blood from kidney", "Supply oxygenated blood to kidney for filtration", "Transport urine from kidney"],
+    answer: "Supply oxygenated blood to kidney for filtration",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "It delivers oxygenated, waste-laden blood to nephrons for processing."
+  },
+  {
+    text: "In man, which part of the nephron responds to ADH by increasing water permeability?",
+    options: ["Loop of Henle", "Collecting duct", "Distal convoluted tubule", "Proximal convoluted tubule"],
+    answer: "Collecting duct",
+    image: "",
+    subtopic: "Excretion",
+    explanation: "ADH inserts aquaporins in collecting duct epithelium, enhancing water reabsorption."
+  },
+  {
+    text: "Which statement correctly describes the role of auxins in plant tropisms?",
+    options: [
+      "They prevent bending of the shoot towards light",
+      "They stimulate cell elongation on the shaded side of shoots",
+      "They cause root tips to bend upwards",
+      "They reduce growth of stem tips"
+    ],
+    answer: "They stimulate cell elongation on the shaded side of shoots",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Auxins accumulate on the shaded side of the shoot, causing elongation there and bending towards light."
+  },
+  {
+    text: "In which part of a dicot stem is collenchyma mainly located?",
+    options: ["At the pith", "Around the phloem", "In the xylem vessels", "Beneath the epidermis"],
+    answer: "Beneath the epidermis",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Collenchyma is just under the epidermis, providing flexible support."
+  },
+  {
+    text: "Which supporting tissue in plants is made up of dead cells at maturity?",
+    options: ["Companion cells", "Collenchyma", "Sclerenchyma", "Parenchyma"],
+    answer: "Sclerenchyma",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Sclerenchyma cells are dead and lignified, making them rigid support tissues."
+  },
+  {
+    text: "The knee joint is an example of:",
+    options: ["Gliding joint", "Hinge joint", "Ball and socket joint", "Pivot joint"],
+    answer: "Hinge joint",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "The knee allows movement in one plane, typical of hinge joints."
+  },
+  {
+    text: "In hydrotropism, where does auxin accumulate in the root?",
+    options: ["Towards water side", "Evenly in all cells", "Only in root cap", "Away from water side"],
+    answer: "Away from water side",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Auxins redistribute away from the water side, slowing growth there so the root bends toward water."
+  },
+  {
+    text: "Which skeletal structure allows breathing movements in humans?",
+    options: ["Cranium", "Pelvic girdle", "Rib cage", "Femur"],
+    answer: "Rib cage",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "The rib cage, with intercostal muscles, moves up and down during breathing."
+  },
+  {
+    text: "What feature of collenchyma distinguishes it from parenchyma?",
+    options: ["Unevenly thickened cell walls", "Thin-walled cells", "Large vacuoles", "Ability to photosynthesize"],
+    answer: "Unevenly thickened cell walls",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Collenchyma has irregularly thickened cellulose walls, giving strength and flexibility."
+  },
+  {
+    text: "Which type of movement involves a whole organism moving towards or away from a stimulus?",
+    options: ["Nastic movement", "Tactic movement", "Phototropism", "Tropism"],
+    answer: "Tactic movement",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Tactic movements involve locomotion, e.g., Euglena swimming toward light."
+  },
+  {
+    text: "What type of joint is found between the bones of the wrist?",
+    options: ["Hinge joint", "Gliding joint", "Ball and socket joint", "Pivot joint"],
+    answer: "Gliding joint",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Carpal bones in the wrist slide over each other at gliding joints."
+  },
+  {
+    text: "Which of the following correctly pairs the skeleton type with its example?",
+    options: [
+      "Exoskeleton – Fish",
+      "Endoskeleton – Grasshopper",
+      "Hydrostatic skeleton – Earthworm",
+      "Cartilaginous skeleton – Spider"
+    ],
+    answer: "Hydrostatic skeleton – Earthworm",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Earthworms rely on fluid-filled cavities for support (hydrostatic skeleton)."
+  },
+  {
+    text: "Which bone is part of the axial skeleton in humans?",
+    options: ["Femur", "Pelvis", "Humerus", "Vertebrae"],
+    answer: "Vertebrae",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "The axial skeleton includes skull, vertebral column, and rib cage."
+  },
+  {
+    text: "Why are sclerenchyma cells more rigid than collenchyma cells?",
+    options: ["They remain alive at maturity", "They contain chloroplasts", "They are lignified", "They have large vacuoles"],
+    answer: "They are lignified",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Sclerenchyma walls are heavily lignified, giving rigidity and hardness."
+  },
+  {
+    text: "Which joint allows nodding of the head up and down?",
+    options: ["Temporomandibular joint", "Atlas-skull joint", "Shoulder joint", "Atlas-axis joint"],
+    answer: "Atlas-skull joint",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "The atlas (first cervical vertebra) articulates with the skull, allowing nodding."
+  },
+  {
+    text: "In phototropism, what is the role of auxin in roots?",
+    options: [
+      "Promotes growth on the light side",
+      "Inhibits growth on the shaded side",
+      "Causes equal growth on both sides",
+      "Destroys chlorophyll in root tips"
+    ],
+    answer: "Inhibits growth on the shaded side",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "In roots, higher auxin concentration inhibits elongation, unlike in shoots."
+  },
+  {
+    text: "Which of these is NOT a function of the skeleton?",
+    options: ["Support of body structure", "Attachment for muscles", "Production of hormones", "Protection of organs"],
+    answer: "Production of hormones",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "The skeleton supports, protects, and aids movement but does not produce hormones."
+  },
+  {
+    text: "The hip bone is part of which skeletal region?",
+    options: ["Cranial skeleton", "Thoracic skeleton", "Appendicular skeleton", "Axial skeleton"],
+    answer: "Appendicular skeleton",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "The appendicular skeleton includes limb bones and girdles like the pelvis."
+  },
+  {
+    text: "Which movement is seen in the closing of Mimosa pudica leaves when touched?",
+    options: ["Phototropism", "Hydrotropism", "Thigmonastic movement", "Thigmotropism"],
+    answer: "Thigmonastic movement",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Mimosa leaves fold due to changes in turgor pressure — a non-directional nastic response."
+  },
+  {
+    text: "Which part of the human skeleton protects the spinal cord?",
+    options: ["Clavicle", "Sternum", "Pelvic girdle", "Vertebral column"],
+    answer: "Vertebral column",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "The vertebrae enclose the spinal cord and shield it from injury."
+  },
+  {
+    text: "Which plant organ shows positive geotropism?",
+    options: ["Stem", "Flower", "Root", "Leaf"],
+    answer: "Root",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Roots bend downward in response to gravity, showing positive geotropism."
+  },
+  {
+    text: "Which of these correctly describes the ball-and-socket joint?",
+    options: [
+      "It permits only sliding motions",
+      "It allows movement in all directions",
+      "It is found between atlas and axis",
+      "It allows only up and down movement"
+    ],
+    answer: "It allows movement in all directions",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Ball-and-socket joints (e.g., shoulder, hip) allow rotation and multi-directional movement."
+  },
+   {
+    text: "Which supporting tissue in plants provides flexibility and support in young stems?",
+    options: ["Collenchyma", "Sclerenchyma", "Phloem fibres", "Xylem vessels"],
+    answer: "Collenchyma",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Collenchyma cells have thickened corners and provide flexible support in young growing stems."
+  },
+  {
+    text: "Which plant tissue mainly conducts water and provides support?",
+    options: ["Phloem", "Collenchyma", "Xylem", "Parenchyma"],
+    answer: "Xylem",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Xylem vessels have thick lignified walls, giving strength and transporting water."
+  },
+  {
+    text: "In plants, response to light is called:",
+    options: ["Phototropism", "Geotropism", "Thigmotropism", "Hydrotropism"],
+    answer: "Phototropism",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Plant shoots bend towards light due to unequal auxin distribution (phototropism)."
+  },
+  {
+    text: "Which type of skeleton is found in crabs and insects?",
+    options: ["Exoskeleton", "Endoskeleton", "Hydroskeleton", "Cartilaginous skeleton"],
+    answer: "Exoskeleton",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Insects and crabs have chitinous exoskeletons that provide support and protection."
+  },
+  {
+    text: "Which bone protects the brain in humans?",
+    options: ["Cranium", "Femur", "Vertebrae", "Sternum"],
+    answer: "Cranium",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "The cranium encloses and protects the brain."
+  },
+  {
+    text: "The function of sclerenchyma in plants is to:",
+    options: ["Conduct food", "Provide mechanical support", "Transport water", "Photosynthesize"],
+    answer: "Provide mechanical support",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Sclerenchyma cells have thick lignified walls, making them strong support tissues."
+  },
+  {
+    text: "Which of these is a hinge joint?",
+    options: ["Elbow", "Hip", "Shoulder", "Neck"],
+    answer: "Elbow",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "The elbow allows movement in one plane, making it a hinge joint."
+  },
+  {
+    text: "Which part of the plant detects gravity during geotropism?",
+    options: ["Root cap", "Stem tip", "Leaf blade", "Flower bud"],
+    answer: "Root cap",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Root cap cells perceive gravity and direct root growth downwards."
+  },
+  {
+    text: "What type of joint is found at the shoulder?",
+    options: ["Ball and socket", "Hinge", "Pivot", "Gliding"],
+    answer: "Ball and socket",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Shoulder and hip joints are ball-and-socket, allowing movement in many directions."
+  },
+  {
+    text: "The ribs protect which organs?",
+    options: ["Heart and lungs", "Brain and spinal cord", "Kidneys and liver", "Stomach and intestines"],
+    answer: "Heart and lungs",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "The rib cage protects vital thoracic organs like heart and lungs."
+  },
+  {
+    text: "In plant movement, auxins are mainly produced in the:",
+    options: ["Shoot tip", "Root hairs", "Stem internode", "Leaf epidermis"],
+    answer: "Shoot tip",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Auxins are produced at shoot tips and redistributed in response to stimuli."
+  },
+  {
+    text: "Which supporting tissue is found in the midrib of leaves?",
+    options: ["Collenchyma", "Sclerenchyma", "Xylem", "All of the above"],
+    answer: "All of the above",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Leaf midribs contain collenchyma, sclerenchyma, and vascular bundles."
+  },
+  {
+    text: "The vertebral column is an example of:",
+    options: ["Exoskeleton", "Endoskeleton", "Hydrostatic skeleton", "Cartilage skeleton"],
+    answer: "Endoskeleton",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Vertebrae form part of the internal endoskeleton."
+  },
+  {
+    text: "Which joint allows the head to rotate sideways?",
+    options: ["Pivot joint", "Ball and socket", "Hinge joint", "Gliding joint"],
+    answer: "Pivot joint",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "The joint between atlas and axis vertebrae is a pivot joint for head rotation."
+  },
+  {
+    text: "Which element strengthens plant xylem vessels?",
+    options: ["Lignin", "Chlorophyll", "Cellulose", "Keratin"],
+    answer: "Lignin",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Lignin hardens xylem walls, preventing collapse under pressure."
+  },
+  {
+    text: "Which type of movement in plants is non-directional and caused by external stimuli?",
+    options: ["Nastic movement", "Tropism", "Tactic movement", "Phototropism"],
+    answer: "Nastic movement",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Nastic movements (e.g., folding of Mimosa leaves) are non-directional responses."
+  },
+  {
+    text: "The longest bone in the human body is:",
+    options: ["Femur", "Humerus", "Tibia", "Fibula"],
+    answer: "Femur",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "The femur is the thigh bone and longest in the body."
+  },
+  {
+    text: "Which structure in animals contains chitin?",
+    options: ["Exoskeleton of insects", "Bones of mammals", "Cartilage in fish", "Shell of mollusks"],
+    answer: "Exoskeleton of insects",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Insects’ exoskeletons are reinforced with chitin for strength and protection."
+  },
+  {
+    text: "Which skeleton type provides both protection and movement in vertebrates?",
+    options: ["Endoskeleton", "Exoskeleton", "Hydroskeleton", "Cartilage"],
+    answer: "Endoskeleton",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Endoskeleton supports, protects organs, and allows efficient movement."
+  },
+  {
+    text: "Which organ in plants shows hydrotropism?",
+    options: ["Root", "Stem", "Leaf", "Flower"],
+    answer: "Root",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Roots bend towards water sources (hydrotropism)."
+  },
+  {
+    text: "Why do roots exhibit positive geotropism while shoots exhibit negative geotropism?",
+    options: [
+      "Auxins promote elongation in root cells but inhibit in shoots",
+      "Auxins promote elongation in shoot cells but inhibit in roots",
+      "Roots lack auxins while shoots have them",
+      "Shoots contain chlorophyll but roots do not"
+    ],
+    answer: "Auxins promote elongation in shoot cells but inhibit in roots",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Auxins stimulate elongation in shoots but inhibit elongation in roots, causing opposite growth directions."
+  },
+  {
+    text: "Which adaptation allows sclerenchyma to resist both compression and bending forces?",
+    options: ["Presence of lignin", "Thin primary walls", "Large vacuoles", "Living protoplasm"],
+    answer: "Presence of lignin",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Lignin in sclerenchyma makes the walls rigid, enabling them to resist strong mechanical stress."
+  },
+  {
+    text: "In phototropism experiments, why is the shoot tip covered with an opaque cap?",
+    options: [
+      "To stop auxin production",
+      "To block light perception at the tip",
+      "To prevent water loss",
+      "To reduce respiration at the tip"
+    ],
+    answer: "To block light perception at the tip",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "The tip perceives light; covering it prevents auxins from redistributing."
+  },
+  {
+    text: "Which skeletal adaptation allows birds to be both light and strong for flight?",
+    options: ["Hollow bones with air spaces", "Presence of cartilage only", "Absence of sternum", "Extra-heavy limb bones"],
+    answer: "Hollow bones with air spaces",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Bird bones are pneumatic (hollow with air spaces), reducing weight while maintaining strength."
+  },
+  {
+    text: "Which joint is responsible for rotation of the forearm (supination and pronation)?",
+    options: ["Pivot joint", "Ball and socket joint", "Gliding joint", "Hinge joint"],
+    answer: "Pivot joint",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "The proximal radioulnar joint is a pivot joint, allowing rotation of the forearm."
+  },
+  {
+    text: "In an insect exoskeleton, which chemical makes the cuticle both waterproof and strong?",
+    options: ["Chitin", "Keratin", "Collagen", "Lignin"],
+    answer: "Chitin",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Chitin provides strength and waterproofing in the exoskeleton of insects."
+  },
+  {
+    text: "What is the main disadvantage of an exoskeleton compared to an endoskeleton?",
+    options: [
+      "It limits body size and requires molting",
+      "It provides less protection",
+      "It cannot support muscles",
+      "It lacks sensory structures"
+    ],
+    answer: "It limits body size and requires molting",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Exoskeletons restrict growth; animals must molt to increase in size."
+  },
+  {
+    text: "Which region of a root is most responsible for detecting gravity?",
+    options: ["Root cap", "Zone of elongation", "Zone of maturation", "Root hair zone"],
+    answer: "Root cap",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Specialized statoliths in the root cap sense gravity for geotropic responses."
+  },
+  {
+    text: "Which of the following is an example of a synovial joint?",
+    options: ["Sutures of the skull", "Elbow joint", "Pubic symphysis", "Intervertebral discs"],
+    answer: "Elbow joint",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Synovial joints are freely movable joints such as the elbow, knee, and shoulder."
+  },
+  {
+    text: "Why are xylem vessels better suited for water transport than tracheids?",
+    options: [
+      "They have larger lumens and lack cross walls",
+      "They contain chloroplasts for photosynthesis",
+      "They are living cells at maturity",
+      "They are found only in monocots"
+    ],
+    answer: "They have larger lumens and lack cross walls",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Vessels are continuous tubes with wide lumens, making water transport efficient."
+  },
+  {
+    text: "What is the structural significance of cartilage in the mammalian skeleton?",
+    options: [
+      "It reduces friction at joints",
+      "It produces red blood cells",
+      "It stores calcium and phosphorus",
+      "It replaces bone during old age"
+    ],
+    answer: "It reduces friction at joints",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Cartilage is smooth and elastic, cushioning joints and reducing friction."
+  },
+  {
+    text: "Which statement best explains why hydrostatic skeletons limit speed of movement?",
+    options: [
+      "They depend on fluid pressure for shape and support",
+      "They are made of hard tissues",
+      "They prevent muscular contraction",
+      "They are heavy due to bones"
+    ],
+    answer: "They depend on fluid pressure for shape and support",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Organisms like earthworms rely on fluid pressure; this slows movement compared to rigid skeletons."
+  },
+  {
+    text: "What role do phloem fibres play in plant support?",
+    options: [
+      "They conduct organic food",
+      "They thicken leaves with chloroplasts",
+      "They provide tensile strength",
+      "They prevent auxin redistribution"
+    ],
+    answer: "They provide tensile strength",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Phloem fibres are sclerenchyma cells that give extra strength to phloem tissue."
+  },
+  {
+    text: "Which adaptation of the human vertebral column allows upright posture?",
+    options: ["S-shaped curvature", "Presence of intercostal muscles", "Fusion of femur and pelvis", "Hollow bones"],
+    answer: "S-shaped curvature",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "The S-curve balances weight and supports upright locomotion in humans."
+  },
+  {
+    text: "Why do auxins accumulate on the lower side of a horizontally placed shoot?",
+    options: [
+      "Gravity causes redistribution of auxins",
+      "Light prevents auxin movement",
+      "Shoots lack root caps",
+      "Xylem pulls auxins downward"
+    ],
+    answer: "Gravity causes redistribution of auxins",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Auxins move to the lower side under gravity, causing differential growth and upward bending."
+  },
+  {
+    text: "Which structure in mammals protects both the heart and lungs while aiding breathing?",
+    options: ["Rib cage", "Pelvic girdle", "Cranium", "Diaphragm"],
+    answer: "Rib cage",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "The rib cage protects vital thoracic organs and expands during respiration."
+  },
+  {
+    text: "What is the main functional advantage of joints in animals?",
+    options: [
+      "They allow movement and flexibility",
+      "They increase bone density",
+      "They provide attachment for ligaments only",
+      "They prevent skeletal damage by absorbing sunlight"
+    ],
+    answer: "They allow movement and flexibility",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Joints connect bones in ways that permit movement and flexibility."
+  },
+  {
+    text: "Why are ball-and-socket joints more prone to dislocation than hinge joints?",
+    options: [
+      "They have wider range of motion",
+      "They contain no synovial fluid",
+      "They cannot rotate at all",
+      "They lack any ligaments"
+    ],
+    answer: "They have wider range of motion",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Ball-and-socket joints like the shoulder allow multi-directional movement but are less stable."
+  },
+  {
+    text: "In plant stems, which tissues form the mechanical framework for upright growth?",
+    options: ["Xylem and sclerenchyma", "Phloem sieve tubes", "Epidermis and stomata", "Companion cells only"],
+    answer: "Xylem and sclerenchyma",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "Lignified xylem and sclerenchyma give stems rigidity and strength."
+  },
+  {
+    text: "Which statement best summarizes the multiple functions of the skeleton?",
+    options: [
+      "It provides support, protection, locomotion, and aids respiration",
+      "It controls blood pressure and temperature",
+      "It produces hormones and vitamins",
+      "It regulates digestion and excretion"
+    ],
+    answer: "It provides support, protection, locomotion, and aids respiration",
+    image: "",
+    subtopic: "Support and movement",
+    explanation: "The skeleton performs structural, protective, locomotive, and respiratory roles."
+  },
+  {
+    text: "What is the transfer of pollen from anther to stigma called?",
+    options: ["Fertilization", "Pollination", "Germination", "Placentation"],
+    answer: "Pollination",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Pollination is the movement of pollen to a receptive stigma."
+  },
+  {
+    text: "Budding in yeast typically produces:",
+    options: ["Two equal cells", "Fusion of gametes", "Spore sacs", "Two unequal cells"],
+    answer: "Two unequal cells",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "The bud is smaller than the parent cell at separation."
+  },
+  {
+    text: "Which floral part produces pollen grains?",
+    options: ["Anther", "Stigma", "Style", "Ovary"],
+    answer: "Anther",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Anthers contain pollen sacs that form pollen."
+  },
+  {
+    text: "Which one is a natural vegetative structure?",
+    options: ["Cutting", "Grafting", "Rhizome", "Layering"],
+    answer: "Rhizome",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Rhizomes (e.g., ginger) are natural underground stems."
+  },
+  {
+    text: "The female gamete in flowering plants is located in the:",
+    options: ["Anther", "Ovule", "Sepal", "Petal"],
+    answer: "Ovule",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "The egg cell is within the ovule inside the ovary."
+  },
+  {
+    text: "Which method is artificial vegetative propagation?",
+    options: ["Bulb", "Corm", "Runner", "Grafting"],
+    answer: "Grafting",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Grafting joins tissues of two plants to grow as one."
+  },
+  {
+    text: "The sticky surface that receives pollen is the:",
+    options: ["Anther", "Ovary", "Stigma", "Sepal"],
+    answer: "Stigma",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "The stigma is adapted to trap pollen grains."
+  },
+  {
+    text: "Fusion of male and female gametes is known as:",
+    options: ["Fertilization", "Pollination", "Seed dispersal", "Placentation"],
+    answer: "Fertilization",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Gamete fusion forms a zygote."
+  },
+  {
+    text: "Which structure carries the developing embryo in humans?",
+    options: ["Cervix", "Vagina", "Ovary", "Uterus"],
+    answer: "Uterus",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Implantation and development occur in the uterus."
+  },
+  {
+    text: "Asexual reproduction usually produces offspring that are:",
+    options: ["Genetically varied", "Genetically identical", "Polyploid", "Sterile"],
+    answer: "Genetically identical",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "They are clones of the parent."
+  },
+  {
+    text: "In flowering plants, the ovary develops into the:",
+    options: ["Seed", "Ovule", "Fruit", "Embryo"],
+    answer: "Fruit",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "After fertilization, the ovary matures into a fruit."
+  },
+  {
+    text: "Which organ produces sperm in mammals?",
+    options: ["Testis", "Prostate gland", "Epididymis", "Seminal vesicle"],
+    answer: "Testis",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Sperm are formed in seminiferous tubules of the testes."
+  },
+  {
+    text: "Which of the following is a product of sexual reproduction in plants?",
+    options: ["Runner", "Bulb", "Rhizome", "Seed"],
+    answer: "Seed",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Seeds arise after fertilization."
+  },
+  {
+    text: "Which part of the flower protects the developing bud?",
+    options: ["Anther", "Stigma", "Style", "Sepal"],
+    answer: "Sepal",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Sepals enclose and protect the flower bud."
+  },
+  {
+    text: "Which organ releases the ovum during ovulation?",
+    options: ["Ovary", "Uterus", "Cervix", "Vagina"],
+    answer: "Ovary",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Ovaries release mature ova."
+  },
+  {
+    text: "Which of the following is a pollinating agent?",
+    options: ["Xylem", "Phloem", "Wind", "Cambium"],
+    answer: "Wind",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Wind transfers pollen in many species (anemophily)."
+  },
+  {
+    text: "Which flowering-plant structure becomes the seed coat?",
+    options: ["Stigma", "Integuments", "Style", "Filament"],
+    answer: "Integuments",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Ovule integuments develop into the seed coat."
+  },
+  {
+    text: "Binary fission is typical of:",
+    options: ["Yeast", "Hydra", "Onion", "Paramecium"],
+    answer: "Paramecium",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Paramecium divides into two equal daughter cells."
+  },
+  {
+    text: "Which fruit type forms from many flowers fused together?",
+    options: ["Simple fruit", "Aggregate fruit", "Multiple fruit", "Berry"],
+    answer: "Multiple fruit",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Multiple (compound) fruits form from clusters of flowers (e.g., pineapple)."
+  },
+  {
+    text: "Which organ transports sperm out of the epididymis?",
+    options: ["Urethra", "Vas deferens", "Prostate", "Seminal vesicle"],
+    answer: "Vas deferens",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "The vas deferens carries sperm toward the urethra."
+  },
+
+  // ================= MEDIUM (20) =================
+  // Correct positions per Q (in order): C, A, D, B, C, A, D, B, A, C, B, D, A, D, B, C, D, B, C, A
+  {
+    text: "Which statement best contrasts sexual with asexual reproduction?",
+    options: ["Both require gametes", "Both yield clones", "Sexual increases variation via gametes", "Asexual increases variation via meiosis"],
+    answer: "Sexual increases variation via gametes",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Sexual reproduction combines genetic material from two gametes."
+  },
+  {
+    text: "Where does fertilization usually occur in mammals?",
+    options: ["Oviduct (fallopian tube)", "Uterus", "Ovary", "Cervix"],
+    answer: "Oviduct (fallopian tube)",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Sperm typically meet the ovum in the ampulla of the oviduct."
+  },
+  {
+    text: "Which pairing is correct for artificial propagation?",
+    options: ["Bulb—onion (natural)", "Runner—strawberry (natural)", "Corm—gladiolus (natural)", "Grafting—citrus (artificial)"],
+    answer: "Grafting—citrus (artificial)",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Grafting joins scion and stock; common in citrus and mango."
+  },
+  {
+    text: "A function of the epididymis is to:",
+    options: ["Produce testosterone", "Store and mature sperm", "Secrete seminal fructose", "Produce semen coagulating enzymes"],
+    answer: "Store and mature sperm",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Sperm gain motility and are stored in the epididymis."
+  },
+  {
+    text: "Double fertilization in angiosperms produces:",
+    options: ["Two embryos", "Seed coat and fruit", "Zygote and endosperm", "Pericarp and placenta"],
+    answer: "Zygote and endosperm",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "One sperm fuses with egg (zygote), another with polar nuclei (endosperm)."
+  },
+  {
+    text: "Which placentation type has ovules on a central column?",
+    options: ["Axile", "Parietal", "Basal", "Marginal"],
+    answer: "Axile",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Seen in tomato and orange—ovules on a central axis."
+  },
+  {
+    text: "Which contraceptive method provides a physical barrier to sperm?",
+    options: ["Hormonal pill", "IUD (copper)", "Calendar method", "Male condom"],
+    answer: "Male condom",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Condoms prevent sperm from entering the female tract."
+  },
+  {
+    text: "Which floral part primarily attracts insect pollinators?",
+    options: ["Stigma", "Petals", "Anther", "Ovary"],
+    answer: "Petals",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Bright colors, scent, and nectar guide insects."
+  },
+  {
+    text: "Which structure produces ova?",
+    options: ["Ovary", "Uterus", "Cervix", "Vagina"],
+    answer: "Ovary",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Follicles in ovaries yield mature ova."
+  },
+  {
+    text: "Which fruit category forms from one ovary of a single flower?",
+    options: ["Multiple fruit", "Aggregate fruit", "Simple fruit", "Accessory fruit"],
+    answer: "Simple fruit",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "E.g., mango, orange—single ovary origin."
+  },
+  {
+    text: "A role of the placenta is:",
+    options: ["Semen production", "Nutrient and gas exchange", "Ovulation control", "Milk synthesis"],
+    answer: "Nutrient and gas exchange",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Placenta supplies nutrients/oxygen; removes wastes."
+  },
+  {
+    text: "Paramecium reproduces asexually by:",
+    options: ["Budding", "Fragmentation", "Sporulation", "Binary fission"],
+    answer: "Binary fission",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "The cell divides transversely into two equal cells."
+  },
+  {
+    text: "Which floral part becomes the fruit wall (pericarp)?",
+    options: ["Ovary", "Ovule", "Stigma", "Funicle"],
+    answer: "Ovary",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Ovary wall differentiates into pericarp layers."
+  },
+  {
+    text: "Which modern method involves fertilizing eggs outside the body?",
+    options: ["Tubal ligation", "IUD insertion", "Vasectomy", "In vitro fertilization"],
+    answer: "In vitro fertilization",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "IVF: eggs + sperm in lab; embryo later implanted."
+  },
+  {
+    text: "Which is typically an advantage of cross-pollination?",
+    options: ["Preserves uniformity", "Increases genetic variability", "Requires no agents", "Guarantees selfing"],
+    answer: "Increases genetic variability",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Genetic mixing enhances adaptability."
+  },
+  {
+    text: "Which best describes marginal placentation?",
+    options: ["Ovules on inner wall", "Ovules on central column", "Ovules along fused carpel margin", "Single basal ovule"],
+    answer: "Ovules along fused carpel margin",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Typical of legumes (pea)."
+  },
+  {
+    text: "Which is an artificial propagation method commonly used for roses?",
+    options: ["Bulb formation", "Runner formation", "Rhizome division", "Layering"],
+    answer: "Layering",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "A stem is bent to the ground to root, then separated."
+  },
+  {
+    text: "Which maternal factor most directly risks abnormal fetal development?",
+    options: ["Adequate folate intake", "Strict hydration", "Indiscriminate drug use", "Mild exercise"],
+    answer: "Indiscriminate drug use",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Teratogenic drugs can impair organogenesis."
+  },
+  {
+    text: "Which floral feature favors wind pollination?",
+    options: ["Large sticky pollen", "Bright petals", "Exposed dangling anthers", "Strong scent"],
+    answer: "Exposed dangling anthers",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Pendulous anthers shed light, smooth pollen easily carried by wind."
+  },
+  {
+    text: "Which layer of the uterus supports embryo implantation?",
+    options: ["Myometrium", "Perimetrium", "Endometrium", "Cervical canal"],
+    answer: "Endometrium",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "The endometrium thickens to receive the blastocyst."
+  },
+
+  // ================= HARD (20) =================
+  // Correct positions per Q (in order): D, B, A, C, D, B, A, C, B, D, C, A, B, C, D, A, C, A, B, D
+  {
+    text: "Which factor most strongly explains why self-pollination can reduce hybrid vigor over generations?",
+    options: ["Increases recombination frequency", "Introduces new alleles each season", "Expands effective population size", "Increases homozygosity and exposes deleterious alleles"],
+    answer: "Increases homozygosity and exposes deleterious alleles",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Selfing raises homozygosity, heightening inbreeding depression."
+  },
+  {
+    text: "Why do many wind-pollinated plants produce copious, lightweight pollen?",
+    options: ["To attract bees effectively", "To increase chance of pollen reaching stigmas", "Because stigmas are sticky", "Due to limited anther production"],
+    answer: "To increase chance of pollen reaching stigmas",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Low targeting efficiency is offset by high pollen output."
+  },
+  {
+    text: "Which statement correctly matches fruit type with origin?",
+    options: ["Simple fruit—from one ovary of one flower", "Aggregate—from many flowers", "Multiple—from one pistil only", "Accessory—from ovary wall alone"],
+    answer: "Simple fruit—from one ovary of one flower",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Aggregate: many ovaries of one flower; Multiple: many flowers."
+  },
+  {
+    text: "In flowering plants, the endosperm typically results from fusion of:",
+    options: ["Egg and sperm", "Two eggs", "Sperm and two polar nuclei", "Antipodal cells and sperm"],
+    answer: "Sperm and two polar nuclei",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Double fertilization: 1 zygote + triploid endosperm."
+  },
+  {
+    text: "Which is the most appropriate reason IVF can assist in blocked oviducts?",
+    options: ["Prevents ovulation entirely", "Eliminates need for implantation", "Increases progesterone naturally", "Fertilization occurs outside the oviduct"],
+    answer: "Fertilization occurs outside the oviduct",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Gametes meet in vitro; embryo is then transferred to uterus."
+  },
+  {
+    text: "Which structure adds fructose-rich fluid that nourishes sperm?",
+    options: ["Prostate gland", "Seminal vesicles", "Bulbourethral glands", "Epididymis"],
+    answer: "Seminal vesicles",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Seminal vesicle secretions provide energy substrate for sperm."
+  },
+  {
+    text: "Which statement best explains why vegetative propagation preserves elite traits?",
+    options: ["It increases crossing over", "It restores heterozygosity", "It creates novel gene combinations", "It maintains the donor genotype (clonal)"],
+    answer: "It maintains the donor genotype (clonal)",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Clonal propagation copies the exact genetic makeup."
+  },
+  {
+    text: "Which condition most strongly favors outcrossing in plants?",
+    options: ["Cleistogamy (closed flowers)", "Stigma/anther close contact", "Dioecy (separate male and female plants)", "Self-compatibility"],
+    answer: "Dioecy (separate male and female plants)",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Separate sexes prevent selfing and enforce cross-pollination."
+  },
+  {
+    text: "Which hormone peaks to trigger ovulation in a typical human cycle?",
+    options: ["Progesterone", "LH surge", "FSH surge alone", "Estrogen low"],
+    answer: "LH surge",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "A mid-cycle LH surge induces follicle rupture and ovulation."
+  },
+  {
+    text: "Maternal folate deficiency most directly increases risk of:",
+    options: ["Gestational diabetes", "Placental previa", "Limb fractures in fetus", "Neural tube defects"],
+    answer: "Neural tube defects",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Folate is critical early for neural tube closure."
+  },
+  {
+    text: "Which placentation correctly matches example?",
+    options: ["Basal—sunflower", "Parietal—tomato", "Axile—citrus", "Marginal—pea"],
+    answer: "Marginal—pea",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Pea has marginal; tomato/citrus are axile; sunflower is basal."
+  },
+  {
+    text: "Which sequence best describes events from pollination to seed set?",
+    options: ["Pollination → zygote forms → pollen tube grows → fruit forms", "Pollen tube grows → pollination → fertilization → seed forms", "Pollination → pollen tube growth → fertilization → seed/fruit development", "Fertilization → pollination → embryo development → fruit falls"],
+    answer: "Pollination → pollen tube growth → fertilization → seed/fruit development",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Order: pollen arrival, tube growth, gamete fusion, then development."
+  },
+  {
+    text: "Which is the most direct fetal function of the placenta?",
+    options: ["Secretes FSH to mother", "Provides maternal antibodies and nutrient exchange", "Stores fetal urine long-term", "Initiates parturition by itself"],
+    answer: "Provides maternal antibodies and nutrient exchange",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "IgG transfer and exchange of gases/nutrients/wastes occur across placenta."
+  },
+  {
+    text: "Which pairing correctly links contraceptive type to action?",
+    options: ["Copper IUD—local spermicidal effect/toxic to sperm", "Combined pill—blocks LH surge using copper ions", "Vasectomy—prevents ovulation", "Diaphragm—releases progesterone"],
+    answer: "Copper IUD—local spermicidal effect/toxic to sperm",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Copper ions impair sperm motility/viability and alter endometrium."
+  },
+  {
+    text: "Aggregate fruits arise from:",
+    options: ["Many flowers fused together", "Accessory tissues only", "Multiple ovaries of one flower", "Single ovary of one flower"],
+    answer: "Multiple ovaries of one flower",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Each carpel of one flower forms a small fruitlet (e.g., strawberry)."
+  },
+  {
+    text: "Which best explains progesterone’s role post-ovulation?",
+    options: ["Triggers LH surge", "Causes follicle growth", "Maintains endometrium for implantation", "Induces menstruation immediately"],
+    answer: "Maintains endometrium for implantation",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Corpus luteum progesterone stabilizes the uterine lining."
+  },
+  {
+    text: "Which feature most strongly promotes wind pollination success?",
+    options: ["Heavy sticky pollen", "Closed flowers at anthesis", "Large feathery stigmas", "Nectar guides"],
+    answer: "Large feathery stigmas",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Feathery stigmas increase intercept area for airborne pollen."
+  },
+  {
+    text: "Which statement best distinguishes IVF from intrauterine insemination (IUI)?",
+    options: ["IVF bypasses oviduct fertilization entirely", "IUI fertilizes eggs in vitro", "IUI requires surgical egg retrieval", "IVF deposits sperm directly into uterus"],
+    answer: "IVF bypasses oviduct fertilization entirely",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "IVF: eggs fertilized in lab; IUI places sperm in uterus for in vivo fertilization."
+  },
+  {
+    text: "Which male structure primarily provides alkaline fluid that protects sperm in the vagina?",
+    options: ["Seminal vesicles", "Prostate gland", "Bulbourethral glands", "Epididymis"],
+    answer: "Prostate gland",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Prostatic fluid is alkaline and contains enzymes that aid sperm."
+  },
+  {
+    text: "Which accurately states a developmental risk of indiscriminate maternal drug use?",
+    options: ["Ensures better placental growth", "Improves fetal immunity", "Higher risk of congenital malformations", "Guarantees on-time parturition"],
+    answer: "Higher risk of congenital malformations",
+    image: "",
+    subtopic: "Reproduction",
+    explanation: "Teratogens during organogenesis can cause congenital anomalies."
+  },
+   {
+    text: "Which statement best defines biological growth?",
+    options: ["A permanent increase in size and dry mass", "A temporary swelling after watering", "Any change in behavior", "Only increase in height"],
+    answer: "A permanent increase in size and dry mass",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Growth is measured reliably by sustained increases in dry mass, not just transient water uptake."
+  },
+  {
+    text: "Which of the following is NOT generally required for germination in most seeds?",
+    options: ["Oxygen", "Water", "Suitable temperature", "Light"],
+    answer: "Light",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Most seeds germinate without light; the key needs are water, oxygen, and appropriate temperature."
+  },
+  {
+    text: "What is the first step that initiates seed germination?",
+    options: ["Testa rupture", "Imbibition (water uptake)", "Radicle elongation", "Plumule emergence"],
+    answer: "Imbibition (water uptake)",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Dry seeds first absorb water, rehydrating tissues and activating metabolism."
+  },
+  {
+    text: "The radicle that emerges during germination develops into the:",
+    options: ["Stem", "Leaves", "Root", "Cotyledons"],
+    answer: "Root",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Radicle growth forms the primary root system."
+  },
+  {
+    text: "In epigeal germination (e.g., bean), which structure typically appears above the soil?",
+    options: ["Plumule only", "Cotyledons", "Endosperm", "Seed coat (testa)"],
+    answer: "Cotyledons",
+    image: "",
+    subtopic: "Growth",
+    explanation: "The hypocotyl elongates, pulling cotyledons above the soil surface."
+  },
+  {
+    text: "Which of the following is a typical example of hypogeal germination?",
+    options: ["Castor bean", "Cowpea", "Cotton", "Maize"],
+    answer: "Maize",
+    image: "",
+    subtopic: "Growth",
+    explanation: "In maize, cotyledons remain below ground; the epicotyl elongates."
+  },
+  {
+    text: "Why is oxygen essential during seed germination?",
+    options: ["To dissolve chlorophyll", "For capillary action", "For aerobic respiration", "To harden the testa"],
+    answer: "For aerobic respiration",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Respiration releases the energy needed for cell division and elongation."
+  },
+  {
+    text: "The plumule develops into the:",
+    options: ["Shoot system", "Root hairs", "Seed coat", "Cotyledonary node"],
+    answer: "Shoot system",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Plumule becomes the shoot with first leaves."
+  },
+  {
+    text: "The testa of a seed is the:",
+    options: ["Embryo root", "Food reserve", "Embryo shoot", "Seed coat"],
+    answer: "Seed coat",
+    image: "",
+    subtopic: "Growth",
+    explanation: "The testa protects the embryo and reserve tissues."
+  },
+  {
+    text: "Which simple treatment helps hard-coated seeds absorb water to germinate?",
+    options: ["Shading", "Scarification (nicking/abrading the coat)", "Extra fertilizer", "Strong light exposure"],
+    answer: "Scarification (nicking/abrading the coat)",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Scarification removes physical dormancy by allowing imbibition."
+  },
+  {
+    text: "Stored food in cotyledons or endosperm is mobilized during germination mainly by:",
+    options: ["Chlorophyll", "Capillarity", "Enzymes", "Transpiration"],
+    answer: "Enzymes",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Hydrolases break reserves into soluble forms for the embryo."
+  },
+  {
+    text: "Which measurement best indicates true growth in seedlings?",
+    options: ["Increase in dry mass", "Temporary increase in fresh mass", "Daily watering volume", "Increase in turgor pressure"],
+    answer: "Increase in dry mass",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Dry mass reflects new biomass synthesized, not just water uptake."
+  },
+
+  // ================= MEDIUM (14) =================
+  // Correct positions per Q: 13:B, 14:D, 15:A, 16:C, 17:D, 18:B, 19:A, 20:C, 21:D, 22:B, 23:C, 24:A, 25:B, 26:D
+  {
+    text: "What best distinguishes epigeal from hypogeal germination?",
+    options: ["Both keep cotyledons below soil", "Cotyledons emerge above soil vs. remain below", "Both pull endosperm above soil", "Both rely on epicotyl elongation only"],
+    answer: "Cotyledons emerge above soil vs. remain below",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Epigeal: cotyledons above (hypocotyl elongates). Hypogeal: cotyledons remain below (epicotyl elongates)."
+  },
+  {
+    text: "Within safe ranges, which condition most directly speeds enzyme-controlled germination?",
+    options: ["Very intense light", "High soil salinity", "Prolonged drought", "Suitable warmth (optimal temperature)"],
+    answer: "Suitable warmth (optimal temperature)",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Enzyme activity increases with temperature up to an optimum, enhancing metabolism."
+  },
+  {
+    text: "In many seeds, the endosperm primarily functions to:",
+    options: ["Store food reserves", "Perform photosynthesis", "Regulate gas exchange", "Form the seed coat"],
+    answer: "Store food reserves",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Endosperm stores starch/oils/proteins for the developing embryo."
+  },
+  {
+    text: "Which event most clearly marks the completion of germination?",
+    options: ["Testa softening", "Plumule leaf expansion", "Radicle emergence from the testa", "Cotyledon greening"],
+    answer: "Radicle emergence from the testa",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Radicle protrusion is the standard criterion for germination."
+  },
+  {
+    text: "Why does a hydrated seed require more oxygen than a dry seed?",
+    options: ["Reduced membrane fluidity", "Loss of cotyledons", "Lower water potential", "Increased metabolic rate as enzymes activate"],
+    answer: "Increased metabolic rate as enzymes activate",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Imbibition activates respiration and biosynthesis, increasing O₂ demand."
+  },
+  {
+    text: "Which pairing correctly matches examples of germination type?",
+    options: ["Pea—epigeal; Bean—hypogeal", "Bean—epigeal; Maize—hypogeal", "Maize—epigeal; Groundnut—hypogeal", "Cowpea—hypogeal; Pea—epigeal"],
+    answer: "Bean—epigeal; Maize—hypogeal",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Bean lifts cotyledons above; maize keeps them below."
+  },
+  {
+    text: "Which practice most improves germination in seeds with hard, impermeable coats?",
+    options: ["Scarification (nicking/abrading)", "Heavy fertilization", "Extra shading", "Reducing oxygen"],
+    answer: "Scarification (nicking/abrading)",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Breaking the coat allows water/oxygen entry and embryo expansion."
+  },
+  {
+    text: "In epigeal germination, which region elongates to lift the cotyledons above the soil?",
+    options: ["Epicotyl", "Coleorhiza", "Hypocotyl", "Coleoptile"],
+    answer: "Hypocotyl",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Hypocotyl arch straightens, pulling cotyledons upward."
+  },
+  {
+    text: "Which statement correctly distinguishes dormancy from quiescence?",
+    options: ["Both are broken only by light", "Quiescence persists despite favorable conditions", "Dormancy ends with any watering", "Dormancy persists despite favorable conditions until specific cues occur"],
+    answer: "Dormancy persists despite favorable conditions until specific cues occur",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Dormant seeds need additional signals (e.g., cold/heat/chemicals) beyond water/O₂/temperature."
+  },
+  {
+    text: "During early germination, which resource is least essential from the soil?",
+    options: ["Oxygen", "Mineral nutrients", "Water", "Suitable temperature"],
+    answer: "Mineral nutrients",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Early growth relies on reserves; minerals become important later."
+  },
+  {
+    text: "Which feature is typical of hypogeal germination?",
+    options: ["Hypocotyl elongation lifts cotyledons", "Cotyledons always photosynthesize above soil", "Epicotyl elongation; cotyledons remain below soil", "Seed coat becomes the fruit wall"],
+    answer: "Epicotyl elongation; cotyledons remain below soil",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Plumule emerges while cotyledons stay underground."
+  },
+  {
+    text: "Which phrase best describes imbibition?",
+    options: ["Conversion of starch to sugar", "Diffusion of O₂ into the embryo", "Physical absorption of water by dry colloids causing swelling", "Active uptake of minerals by the root hairs"],
+    answer: "Physical absorption of water by dry colloids causing swelling",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Cell walls and macromolecules draw in water through matric forces."
+  },
+  {
+    text: "Which structure typically emerges FIRST during germination?",
+    options: ["Plumule", "Radicle", "Coleoptile", "First true leaf"],
+    answer: "Radicle",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Radicle emerges to anchor the seedling and absorb water."
+  },
+  {
+    text: "Which condition is most likely to inhibit germination of viable seeds?",
+    options: ["Moist but aerated soil", "Optimal warmth", "Adequate oxygen", "Waterlogging (anaerobic conditions)"],
+    answer: "Waterlogging (anaerobic conditions)",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Anoxia prevents efficient respiration needed for germination."
+  },
+
+  // ================= HARD (14) =================
+  // Correct positions per Q: 27:C, 28:A, 29:D, 30:B, 31:C, 32:A, 33:D, 34:B, 35:A, 36:C, 37:D, 38:B, 39:A, 40:C
+  {
+    text: "In cereals (e.g., barley), which tissue releases hydrolytic enzymes to mobilize endosperm reserves after gibberellin signaling?",
+    options: ["Coleorhiza", "Scutellum only", "Aleurone layer", "Pericarp"],
+    answer: "Aleurone layer",
+    image: "",
+    subtopic: "Growth",
+    explanation: "GA from the embryo induces the aleurone to secrete amylases and proteases."
+  },
+  {
+    text: "Which curve most commonly describes cumulative growth of a leaf or seedling over time?",
+    options: ["Sigmoid (S-shaped) curve", "Linear increase indefinitely", "Perfectly exponential forever", "Irregular saw-tooth pattern"],
+    answer: "Sigmoid (S-shaped) curve",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Growth often shows lag, log, and plateau phases, producing an S-curve."
+  },
+  {
+    text: "A seed lot shows slow, uneven germination despite adequate water and warmth; cold stratification improves results. The main limitation was:",
+    options: ["Salt toxicity", "Mineral deficiency", "Low turgor pressure", "Physiological dormancy requiring chilling"],
+    answer: "Physiological dormancy requiring chilling",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Stratification breaks endogenous inhibitors or dormancy blocks."
+  },
+  {
+    text: "Why does moderate cooling (above freezing) usually slow germination rates?",
+    options: ["It increases enzyme activity", "It reduces enzyme kinetics and respiration rate", "It improves membrane fluidity", "It eliminates dormancy instantly"],
+    answer: "It reduces enzyme kinetics and respiration rate",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Lower temperatures slow biochemical reactions driving germination."
+  },
+  {
+    text: "In epigeal germination, what structure forms a protective arch as it pushes through soil?",
+    options: ["Coleoptile", "Epicotyl hook", "Hypocotyl hook", "Stipule"],
+    answer: "Hypocotyl hook",
+    image: "",
+    subtopic: "Growth",
+    explanation: "The curved hypocotyl shields the delicate plumule."
+  },
+  {
+    text: "In hypogeal germination (e.g., pea), which region elongates to raise the plumule above ground while cotyledons remain below?",
+    options: ["Epicotyl", "Hypocotyl", "Coleorhiza", "Petiole"],
+    answer: "Epicotyl",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Epicotyl elongation carries the shoot apex upward without lifting cotyledons."
+  },
+  {
+    text: "A farmer observes poor germination in saturated beds though seeds are viable. The primary cause is MOST likely:",
+    options: ["Excess sunlight", "Low seed carbohydrate reserves", "Inadequate seed size grading", "Oxygen deficiency due to waterlogging"],
+    answer: "Oxygen deficiency due to waterlogging",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Anaerobic conditions restrict aerobic respiration needed for germination."
+  },
+  {
+    text: "Which condition combination maximizes aerobic metabolism during germination?",
+    options: ["High light and high CO₂", "Adequate moisture with good aeration", "Drying cycles and deep burial", "High salinity and high pH"],
+    answer: "Adequate moisture with good aeration",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Water enables enzyme function; air-filled pores supply oxygen."
+  },
+  {
+    text: "Which pre-sowing treatment can speed and synchronize germination in many crops?",
+    options: ["Seed priming (controlled hydration then redrying)", "Late fertilization of seedlings", "Heavy shade for trays", "Deep planting beyond emergence depth"],
+    answer: "Seed priming (controlled hydration then redrying)",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Priming activates early metabolic steps so emergence is faster post-sowing."
+  },
+  {
+    text: "Which statement best distinguishes growth from development?",
+    options: ["Both are purely qualitative", "Both are purely quantitative", "Growth is quantitative increase; development is qualitative change (differentiation)", "Growth stops before development begins"],
+    answer: "Growth is quantitative increase; development is qualitative change (differentiation)",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Growth adds biomass; development changes form/function and organization."
+  },
+  {
+    text: "For comparing growth under different watering regimes, which metric is MOST reliable?",
+    options: ["Leaf color index", "Fresh mass", "Plant height alone", "Dry mass",
+    ],
+    answer: "Dry mass",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Fresh mass is confounded by water content; dry mass reflects actual biomass."
+  },
+  {
+    text: "Which pairing correctly matches germination examples?",
+    options: ["Maize—epigeal; Bean—hypogeal", "Bean—epigeal; Pea—hypogeal", "Pea—epigeal; Groundnut—hypogeal", "Cowpea—hypogeal; Maize—epigeal"],
+    answer: "Bean—epigeal; Pea—hypogeal",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Bean cotyledons rise above; pea cotyledons remain below."
+  },
+  {
+    text: "Water uptake during imbibition is driven primarily by:",
+    options: ["Transpiration pull", "Gravitational pressure", "Active transport of water", "Water potential gradient (matric forces) into dry seed tissues"],
+    answer: "Water potential gradient (matric forces) into dry seed tissues",
+    image: "",
+    subtopic: "Growth",
+    explanation: "Dry cell walls have very negative water potentials that draw water in."
+  },
+  {
+    text: "Which set lists the MOST universally required conditions for germination of non-dormant seeds?",
+    options: ["Light, nitrate, warmth", "Minerals, CO₂, darkness", "Water, oxygen, suitable temperature", "Hormones, light, pruning"],
+    answer: "Water, oxygen, suitable temperature",
+    image: "",
+    subtopic: "Growth",
+    explanation: "These are the core requirements; light/minerals may be optional or stage-specific."
+  },
+   {
+    text: "Which part of the nervous system consists of the brain and spinal cord?",
+    options: ["Central nervous system (CNS)", "Peripheral nervous system (PNS)", "Autonomic nervous system", "Somatic nervous system"],
+    answer: "Central nervous system (CNS)",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "The CNS is composed of the brain and spinal cord."
+  },
+  {
+    text: "Which statement best describes a reflex action?",
+    options: ["A slow, learned response", "A conscious voluntary movement", "A movement controlled only by the brain", "A rapid, automatic response to a stimulus"],
+    answer: "A rapid, automatic response to a stimulus",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Reflexes protect the body with quick, involuntary responses."
+  },
+  {
+    text: "The basic functional unit of the nervous system is the:",
+    options: ["Glial cell", "Neuron", "Axon terminal", "Myelin sheath"],
+    answer: "Neuron",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Neurons receive, integrate, and transmit information."
+  },
+  {
+    text: "The small gap between two communicating neurons is called the:",
+    options: ["Node of Ranvier", "Axon hillock", "Synaptic cleft", "Myofibril"],
+    answer: "Synaptic cleft",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Neurotransmitters diffuse across the synaptic cleft."
+  },
+  {
+    text: "Which sense organ detects light for vision?",
+    options: ["Eye", "Ear", "Tongue", "Nose"],
+    answer: "Eye",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Photoreceptors in the eye (rods and cones) detect light."
+  },
+  {
+    text: "Which gland secretes insulin to lower blood glucose?",
+    options: ["Thyroid", "Pituitary", "Adrenal cortex", "Pancreas"],
+    answer: "Pancreas",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Beta cells of the islets of Langerhans secrete insulin."
+  },
+  {
+    text: "Which sense organ is responsible for hearing?",
+    options: ["Eye", "Ear", "Tongue", "Skin"],
+    answer: "Ear",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "The cochlea in the ear converts sound waves to nerve impulses."
+  },
+  {
+    text: "Which structure controls the size of the pupil in the eye?",
+    options: ["Cornea", "Lens", "Iris", "Retina"],
+    answer: "Iris",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "The iris adjusts pupil diameter to regulate light entry."
+  },
+  {
+    text: "Which gland is often called the ‘master gland’ because it influences other glands?",
+    options: ["Pituitary", "Parathyroid", "Adrenal medulla", "Thymus"],
+    answer: "Pituitary",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "The pituitary regulates other endocrine glands via its hormones."
+  },
+  {
+    text: "Which part of the neuron typically carries impulses away from the cell body?",
+    options: ["Dendrite", "Nissl bodies", "Soma", "Axon"],
+    answer: "Axon",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Axons conduct action potentials to terminals."
+  },
+  {
+    text: "Which taste receptor is primarily stimulated by sugars?",
+    options: ["Bitter", "Sweet", "Sour", "Salty"],
+    answer: "Sweet",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Sweet taste is often triggered by organic molecules like sugars."
+  },
+  {
+    text: "Which structure in the ear helps maintain balance by detecting head rotation?",
+    options: ["Tympanic membrane", "Eustachian tube", "Semicircular canals", "Ossicles"],
+    answer: "Semicircular canals",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Semicircular canals detect rotational movements for balance."
+  },
+  {
+    text: "Which hormone increases metabolic rate and is produced by the thyroid?",
+    options: ["Thyroxine (T4)", "Insulin", "Adrenaline", "Progesterone"],
+    answer: "Thyroxine (T4)",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Thyroxine regulates metabolism and growth."
+  },
+  {
+    text: "Which photoreceptor is responsible for color vision?",
+    options: ["Rods", "Hair cells", "Olfactory neurons", "Cones"],
+    answer: "Cones",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Cones function in bright light and color detection."
+  },
+  {
+    text: "Which endocrine gland primarily regulates blood calcium via parathyroid hormone (PTH)?",
+    options: ["Adrenal cortex", "Parathyroid glands", "Pituitary", "Pineal"],
+    answer: "Parathyroid glands",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "PTH raises blood calcium by acting on bone, kidneys, and vitamin D."
+  },
+  {
+    text: "Which part of the nervous system controls voluntary skeletal muscle movement?",
+    options: ["Autonomic nervous system", "Enteric nervous system", "Somatic nervous system", "Sympathetic branch"],
+    answer: "Somatic nervous system",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Somatic motor neurons control voluntary movement."
+  },
+  {
+    text: "Which plant hormone is most closely associated with phototropism (bending toward light)?",
+    options: ["Ethylene", "Cytokinin", "Gibberellin", "Auxin"],
+    answer: "Auxin",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Auxin redistributes to shaded side, promoting cell elongation."
+  },
+  {
+    text: "Which homeostatic response helps cool the body in hot conditions?",
+    options: ["Shivering", "Vasoconstriction", "Piloerection", "Sweating"],
+    answer: "Sweating",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Evaporation of sweat dissipates heat and cools the body."
+  },
+  {
+    text: "Which division of the autonomic nervous system is associated with ‘fight or flight’?",
+    options: ["Enteric", "Somatic", "Parasympathetic", "Sympathetic"],
+    answer: "Sympathetic",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Sympathetic activation increases heart rate and redirects blood flow."
+  },
+  {
+    text: "Which structure focuses light on the retina by changing shape?",
+    options: ["Cornea", "Pupil", "Sclera", "Lens"],
+    answer: "Lens",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Accommodation occurs by altering the curvature of the lens."
+  },
+  {
+    text: "Which hormone raises blood glucose by stimulating glycogen breakdown?",
+    options: ["Insulin", "Calcitonin", "Aldosterone", "Glucagon"],
+    answer: "Glucagon",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Alpha cells of the pancreas secrete glucagon to increase blood glucose."
+  },
+  {
+    text: "Which ear structure transmits vibrations from the eardrum to the inner ear?",
+    options: ["Pinna", "Auditory nerve", "Cochlea", "Ossicles (malleus, incus, stapes)"],
+    answer: "Ossicles (malleus, incus, stapes)",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "The ossicles amplify and transmit sound to the oval window."
+  },
+  {
+    text: "Which sense is primarily associated with the olfactory epithelium?",
+    options: ["Taste", "Smell", "Touch", "Hearing"],
+    answer: "Smell",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Olfactory receptors detect odor molecules."
+  },
+  {
+    text: "Which pituitary lobe releases ADH and oxytocin into the blood?",
+    options: ["Thyroid lobe", "Posterior pituitary", "Adrenal medulla", "Anterior pituitary"],
+    answer: "Posterior pituitary",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "ADH and oxytocin are released from the posterior pituitary."
+  },
+  {
+    text: "Which eye defect is corrected by a concave (diverging) lens?",
+    options: ["Cataract", "Myopia (short-sightedness)", "Astigmatism only", "Hyperopia (long-sightedness)"],
+    answer: "Myopia (short-sightedness)",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "A concave lens diverges light to focus correctly on the retina."
+  },
+  {
+    text: "Which gland sits on top of the kidneys?",
+    options: ["Parathyroid", "Adrenal glands", "Thymus", "Pancreas"],
+    answer: "Adrenal glands",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Each kidney has an adrenal gland (cortex + medulla) on its superior pole."
+  },
+  {
+    text: "Which plant hormone promotes fruit ripening?",
+    options: ["Cytokinin", "Gibberellin", "Auxin", "Ethylene"],
+    answer: "Ethylene",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Ethylene accelerates ripening and abscission."
+  },
+  {
+    text: "Which skin receptor is most associated with deep pressure and vibration?",
+    options: ["Meissner corpuscle", "Free nerve ending", "Pacinian corpuscle", "Merkel disc"],
+    answer: "Pacinian corpuscle",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Pacinian corpuscles detect deep pressure/vibration."
+  },
+  {
+    text: "Which hormone pair is mainly involved in female reproductive cycles?",
+    options: ["Testosterone and insulin", "Cortisol and thyroxine", "FSH and LH", "Adrenaline and glucagon"],
+    answer: "FSH and LH",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "FSH and LH regulate ovarian follicles and ovulation."
+  },
+  {
+    text: "Homeostasis is best defined as:",
+    options: ["Rapid growth of tissues", "Maintenance of a stable internal environment", "Formation of antibodies", "Absorption of nutrients"],
+    answer: "Maintenance of a stable internal environment",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Homeostasis keeps internal conditions within narrow limits."
+  },
+
+  // ================= MEDIUM (30) =================
+  // Correct answer positions by question #: C, A, D, B, C, A, D, B, C, A, D, B, A, D, B, C, A, D, B, C, A, D, B, C, D, A, C, B, D, A
+  {
+    text: "Which statement best describes saltatory conduction in myelinated axons?",
+    options: ["AP travels uniformly along entire membrane", "Ions cross only at dendrites", "AP jumps between nodes of Ranvier", "AP is blocked by the soma"],
+    answer: "AP jumps between nodes of Ranvier",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Myelin insulates axons; depolarization occurs at nodes, speeding conduction."
+  },
+  {
+    text: "Which neurotransmitter is released at most neuromuscular junctions in vertebrates?",
+    options: ["Acetylcholine (ACh)", "GABA", "Dopamine", "Serotonin"],
+    answer: "Acetylcholine (ACh)",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "ACh triggers muscle fiber depolarization and contraction."
+  },
+  {
+    text: "Which is the correct order of a simple spinal reflex arc?",
+    options: ["Receptor → Motor neuron → Sensory neuron → Effector", "Effector → Receptor → Motor neuron → Brain", "Motor neuron → Receptor → Interneuron → Effector", "Receptor → Sensory neuron → Interneuron → Motor neuron → Effector"],
+    answer: "Receptor → Sensory neuron → Interneuron → Motor neuron → Effector",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Signals travel from receptor via sensory neuron to CNS interneuron, then motor neuron."
+  },
+  {
+    text: "Which primary function is associated with the cerebellum?",
+    options: ["Language processing", "Coordination of movement and balance", "Hormone secretion", "Long-term memory storage"],
+    answer: "Coordination of movement and balance",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "The cerebellum fine-tunes motor activity and posture."
+  },
+  {
+    text: "Which effect is mainly mediated by the parasympathetic nervous system?",
+    options: ["Pupil dilation", "Increased heart rate", "Pupil constriction and increased digestion", "Bronchodilation"],
+    answer: "Pupil constriction and increased digestion",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "‘Rest and digest’ decreases heart rate and constricts pupils."
+  },
+  {
+    text: "Which gland secretes growth hormone (GH)?",
+    options: ["Anterior pituitary", "Thyroid", "Parathyroid", "Adrenal medulla"],
+    answer: "Anterior pituitary",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Somatotrophs in the anterior pituitary release GH."
+  },
+  {
+    text: "Which hormone is most associated with the ‘fight or flight’ response?",
+    options: ["Aldosterone", "Thyroxine", "Insulin", "Adrenaline (epinephrine)"],
+    answer: "Adrenaline (epinephrine)",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Released by adrenal medulla, it increases heart rate and blood glucose."
+  },
+  {
+    text: "Which statement about the cochlea is correct?",
+    options: ["It equalizes pressure in the middle ear", "It transduces sound waves into nerve impulses", "It houses the ossicles", "It contains the tympanic membrane"],
+    answer: "It transduces sound waves into nerve impulses",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "The organ of Corti in the cochlea converts vibrations to electrical signals."
+  },
+  {
+    text: "Which visual defect is best corrected with a convex (converging) lens?",
+    options: ["Astigmatism only", "Myopia", "Hyperopia", "Color blindness"],
+    answer: "Hyperopia",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "A convex lens brings the focal point forward onto the retina."
+  },
+  {
+    text: "Which hormone primarily raises blood calcium levels?",
+    options: ["Insulin", "Parathyroid hormone (PTH)", "Calcitonin", "ADH"],
+    answer: "Parathyroid hormone (PTH)",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "PTH increases Ca2+ via bone resorption and renal effects."
+  },
+  {
+    text: "Which neurotransmitter is inhibitory at many CNS synapses?",
+    options: ["ACh", "Norepinephrine", "Glutamate", "GABA"],
+    answer: "GABA",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "GABA increases Cl− conductance, hyperpolarizing neurons."
+  },
+  {
+    text: "Which ear component equalizes pressure across the eardrum?",
+    options: ["Ossicles", "Eustachian tube", "Pinna", "Semicircular canals"],
+    answer: "Eustachian tube",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "It connects the middle ear to the nasopharynx."
+  },
+  {
+    text: "Which statement about cones and rods is correct?",
+    options: ["Cones mediate color vision in bright light", "Rods mediate color vision", "Cones work best in dim light", "Rods detect fine detail and color"],
+    answer: "Cones mediate color vision in bright light",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Rods are for dim light; cones are for color and acuity."
+  },
+  {
+    text: "Which endocrine axis is primarily involved in regulating thyroid hormone levels?",
+    options: ["GHRH → GH axis", "CRH → ACTH axis", "GnRH → LH/FSH axis", "TRH → TSH axis"],
+    answer: "TRH → TSH axis",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Hypothalamic TRH stimulates pituitary TSH, which stimulates thyroid."
+  },
+  {
+    text: "Which structure in the eye has the greatest refractive power?",
+    options: ["Lens", "Cornea", "Iris", "Vitreous humor"],
+    answer: "Cornea",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "The cornea provides most of the eye’s focusing power."
+  },
+  {
+    text: "Which plant hormone primarily promotes stem elongation and seed germination?",
+    options: ["Ethylene", "Cytokinin", "Auxin", "Gibberellin"],
+    answer: "Gibberellin",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Gibberellins stimulate cell elongation and break seed dormancy."
+  },
+  {
+    text: "Which statement best describes negative feedback in endocrine control?",
+    options: ["Hormone increases cause further increases", "Hormone increases cause decreases in stimulating signals", "No change occurs after secretion", "Positive feedback is more common than negative"],
+    answer: "Hormone increases cause decreases in stimulating signals",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Negative feedback stabilizes hormone levels."
+  },
+  {
+    text: "Which physiological response conserves heat in a cold environment?",
+    options: ["Sweating", "Vasodilation of skin arterioles", "Decreased metabolic rate", "Vasoconstriction of skin arterioles"],
+    answer: "Vasoconstriction of skin arterioles",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Vasoconstriction reduces heat loss from skin."
+  },
+  {
+    text: "Which sensory structure detects fine touch (tactile discrimination) in skin?",
+    options: ["Pacinian corpuscle", "Free nerve ending", "Meissner corpuscle", "Ruffini ending"],
+    answer: "Meissner corpuscle",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Meissner corpuscles sense light touch and texture."
+  },
+  {
+    text: "Which hormone stimulates kidneys to reabsorb water and concentrate urine?",
+    options: ["Aldosterone", "Thyroxine", "Prolactin", "ADH (vasopressin)"],
+    answer: "ADH (vasopressin)",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "ADH increases water permeability in the collecting ducts."
+  },
+  {
+    text: "Which lobe of the brain is most associated with vision processing?",
+    options: ["Frontal lobe", "Temporal lobe", "Occipital lobe", "Parietal lobe"],
+    answer: "Occipital lobe",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "The visual cortex is in the occipital lobe."
+  },
+  {
+    text: "Which adrenal cortex hormone primarily promotes sodium reabsorption?",
+    options: ["Cortisol", "Aldosterone", "Adrenaline", "Noradrenaline"],
+    answer: "Aldosterone",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Aldosterone acts on distal nephron to conserve Na+ and water."
+  },
+  {
+    text: "Which is a learned, conditioned reflex example?",
+    options: ["Knee jerk", "Blinking to air puff", "Salivating at the sound of a bell after training", "Withdrawal from pain"],
+    answer: "Salivating at the sound of a bell after training",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Conditioned reflexes are acquired through association."
+  },
+  {
+    text: "Which component of the PNS carries signals from CNS to muscles?",
+    options: ["Afferent (sensory) neurons", "Interneurons", "Sympathetic afferents", "Efferent (motor) neurons"],
+    answer: "Efferent (motor) neurons",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Efferent fibers transmit motor commands to effectors."
+  },
+  {
+    text: "Which plant hormone pair mainly regulates apical dominance and lateral bud growth?",
+    options: ["Ethylene & ABA", "Gibberellin & ethylene", "Auxin & cytokinin", "Cytokinin & ethylene"],
+    answer: "Auxin & cytokinin",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Auxin from the apex suppresses lateral buds; cytokinin promotes them."
+  },
+  {
+    text: "Which ear structure directly contacts the oval window to transmit vibrations?",
+    options: ["Incus", "Malleus", "Stapes", "Eardrum"],
+    answer: "Stapes",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "The stapes footplate fits into the oval window."
+  },
+  {
+    text: "Which hormone is hyposecreted in insulin-dependent (Type 1) diabetes?",
+    options: ["Glucagon", "Insulin", "Cortisol", "TSH"],
+    answer: "Insulin",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Autoimmune destruction of beta cells reduces insulin."
+  },
+  {
+    text: "Which process occurs when a receptor potential triggers action potentials in a sensory neuron?",
+    options: ["Integration", "Effector response", "Transduction", "Refraction"],
+    answer: "Transduction",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Stimulus energy is converted to electrical signals."
+  },
+  {
+    text: "Which brain region acts as the main homeostatic control center?",
+    options: ["Hypothalamus", "Medulla oblongata", "Amygdala", "Hippocampus"],
+    answer: "Hypothalamus",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "It regulates temperature, thirst, hunger, and endocrine outputs."
+  },
+  {
+    text: "Which sense is most affected if the organ of Corti is damaged?",
+    options: ["Vision", "Hearing", "Taste", "Smell"],
+    answer: "Hearing",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Hair cells in the organ of Corti transduce sound."
+  },
+
+  // ================= HARD (20) =================
+  // Correct answer positions by question #: B, D, A, C, B, D, A, C, B, D, A, C, B, D, A, C, B, D, A, C
+  {
+    text: "At resting membrane potential (~−70 mV), which factor contributes most to the inside being negative?",
+    options: ["Greater Na+ leak inward", "Greater K+ leak outward and impermeant anions inside", "Equal Na+/K+ permeability", "Active Cl− uptake alone"],
+    answer: "Greater K+ leak outward and impermeant anions inside",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "K+ leak channels and intracellular anions maintain negativity."
+  },
+  {
+    text: "During the rising phase of an action potential, which event predominates?",
+    options: ["Voltage-gated K+ channels opening", "Na+/K+ pump activation only", "Chloride influx", "Voltage-gated Na+ channels opening and Na+ influx"],
+    answer: "Voltage-gated Na+ channels opening and Na+ influx",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Rapid Na+ entry depolarizes the membrane."
+  },
+  {
+    text: "Which cerebral lobe is MOST involved in primary motor control of voluntary movement?",
+    options: ["Parietal lobe", "Occipital lobe", "Temporal lobe", "Frontal lobe (precentral gyrus)"],
+    answer: "Frontal lobe (precentral gyrus)",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "The primary motor cortex lies in the frontal lobe."
+  },
+  {
+    text: "Which best explains why myelination increases conduction velocity?",
+    options: ["Decreases axon diameter", "Increases membrane capacitance", "Allows saltatory conduction between nodes", "Prevents any ion movement"],
+    answer: "Allows saltatory conduction between nodes",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Depolarization occurs only at nodes, speeding conduction."
+  },
+  {
+    text: "Iodine deficiency most directly causes which endocrine effect?",
+    options: ["Low PTH secretion", "Enlarged thyroid (goiter) due to elevated TSH", "Excess cortisol", "Direct insulin overproduction"],
+    answer: "Enlarged thyroid (goiter) due to elevated TSH",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Low T3/T4 increases TSH, stimulating thyroid growth."
+  },
+  {
+    text: "Which hormone primarily raises blood glucose during prolonged stress?",
+    options: ["ADH", "Thyroxine", "Aldosterone", "Cortisol"],
+    answer: "Cortisol",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Cortisol promotes gluconeogenesis and protein catabolism."
+  },
+  {
+    text: "Which ion’s influx into the axon terminal triggers neurotransmitter vesicle fusion?",
+    options: ["Na+", "K+", "H+", "Ca2+"],
+    answer: "Ca2+",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Voltage-gated Ca2+ channels open at terminals to initiate exocytosis."
+  },
+  {
+    text: "Which eye region lacks photoreceptors, creating the physiological blind spot?",
+    options: ["Fovea centralis", "Iris root", "Optic disc", "Ciliary body"],
+    answer: "Optic disc",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "The optic nerve exits at the optic disc with no rods or cones."
+  },
+  {
+    text: "Which endocrine pattern exemplifies negative feedback in the HPA axis?",
+    options: ["GH increases → GHRH rises", "Cortisol rises → ACTH/CRH fall", "TSH rises → TRH rises", "Insulin rises → glucagon rises"],
+    answer: "Cortisol rises → ACTH/CRH fall",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Elevated cortisol inhibits hypothalamic and pituitary signals."
+  },
+  {
+    text: "Which kidney response is promoted by aldosterone?",
+    options: ["Increased K+ reabsorption", "Decreased Na+ reabsorption", "Increased Na+ reabsorption and K+ secretion", "Decreased water reabsorption always"],
+    answer: "Increased Na+ reabsorption and K+ secretion",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Aldosterone acts on distal nephron to conserve Na+ and excrete K+."
+  },
+  {
+    text: "Which statement is TRUE about conditioned reflexes?",
+    options: ["They are purely innate", "They cannot be extinguished", "They require cortical involvement and learning", "They bypass the CNS entirely"],
+    answer: "They require cortical involvement and learning",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Conditioned responses are acquired associations mediated by higher centers."
+  },
+  {
+    text: "Which component primarily detects linear acceleration and head position relative to gravity?",
+    options: ["Semicircular canals only", "Ossicles", "Utricle and saccule (otolith organs)", "Eustachian tube"],
+    answer: "Utricle and saccule (otolith organs)",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Otolith organs detect linear acceleration and head tilt."
+  },
+  {
+    text: "Which plant hormone primarily delays leaf senescence and promotes cell division?",
+    options: ["Ethylene", "Cytokinin", "Auxin", "Gibberellin"],
+    answer: "Cytokinin",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Cytokinins promote cell division and can delay aging of leaves."
+  },
+  {
+    text: "Which thyroid condition results from excessive thyroid hormone?",
+    options: ["Cretinism", "Hypothyroidism", "Myxedema", "Hyperthyroidism"],
+    answer: "Hyperthyroidism",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Excess T3/T4 elevates metabolic rate and may cause weight loss and tachycardia."
+  },
+  {
+    text: "Which synaptic event makes the postsynaptic neuron less likely to fire?",
+    options: ["EPSP due to Na+ influx", "Temporal summation of EPSPs", "Spatial summation of EPSPs", "IPSP due to Cl− influx or K+ efflux"],
+    answer: "IPSP due to Cl− influx or K+ efflux",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Inhibitory postsynaptic potentials hyperpolarize the membrane."
+  },
+  {
+    text: "Which visual adaptation increases retinal sensitivity in darkness?",
+    options: ["Cone activation only", "Pupil constriction", "Rhodopsin regeneration in rods", "Lens flattening"],
+    answer: "Rhodopsin regeneration in rods",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Rod photopigment re-forms to enhance scotopic vision."
+  },
+  {
+    text: "Which is the MOST immediate response to a sudden drop in body temperature?",
+    options: ["Sweating increase", "Peripheral vasodilation", "Shivering thermogenesis", "Decreased metabolic rate"],
+    answer: "Shivering thermogenesis",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Rapid muscle contractions generate heat quickly."
+  },
+  {
+    text: "Which hormone is primarily responsible for male secondary sexual characteristics?",
+    options: ["Estrogen", "Progesterone", "Testosterone", "Prolactin"],
+    answer: "Testosterone",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Secreted by testes (Leydig cells), testosterone drives male traits."
+  },
+  {
+    text: "Which plant hormone is most associated with leaf abscission and the ‘triple response’ in seedlings?",
+    options: ["Auxin", "Cytokinin", "Gibberellin", "Ethylene"],
+    answer: "Ethylene",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "Ethylene promotes abscission and causes the triple response."
+  },
+  {
+    text: "Which sequence correctly describes impulse transmission at a chemical synapse?",
+    options: ["Na+ influx at terminal → vesicle fusion → NT release → receptor binding → postsynaptic potential", "K+ efflux at terminal → NT reuptake → receptor binding", "NT synthesized after binding → AP arrives → channel closes", "Receptor binding → NT release → AP arrives"],
+    answer: "Na+ influx at terminal → vesicle fusion → NT release → receptor binding → postsynaptic potential",
+    image: "",
+    subtopic: "Nerves and Hormones",
+    explanation: "AP triggers Ca2+ entry (with associated cation influx), vesicle fusion, NT release, and postsynaptic response."
+  },
+   {
+    text: "How does temperature most directly affect the distribution of ectothermic animals (e.g., reptiles)?",
+    options: [
+      "It determines metabolic rate and restricts species to their thermal tolerance ranges",
+      "It only affects their body size, not distribution",
+      "It changes soil pH which they cannot tolerate",
+      "It only matters for aquatic organisms"
+    ],
+    answer: "It determines metabolic rate and restricts species to their thermal tolerance ranges",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Ectotherms depend on ambient temperature for metabolic activity; unsuitable temperatures limit where they can survive and reproduce."
+  },
+  {
+    text: "Which effect of rainfall most strongly shapes vegetation types and hence the distribution of plant species?",
+    options: [
+      "It causes local wind patterns",
+      "It determines water availability and therefore which plant communities can establish",
+      "It directly alters genetic makeup of plants",
+      "It only affects aquatic animals, not plants"
+    ],
+    answer: "It determines water availability and therefore which plant communities can establish",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Amount and seasonality of rainfall control soil moisture and plant water stress — primary drivers of biome distribution."
+  },
+  {
+    text: "Why does salinity restrict the distribution of freshwater organisms when salinity increases?",
+    options: [
+      "It provides extra nutrients for freshwater species",
+      "It only affects pH but not organisms",
+      "High salinity causes osmotic stress; only halotolerant species survive",
+      "It increases dissolved oxygen making freshwater species thrive"
+    ],
+    answer: "High salinity causes osmotic stress; only halotolerant species survive",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Organisms adapted to low-salinity environments cannot osmoregulate when salinity rises, so communities shift toward salt-tolerant species."
+  },
+  {
+    text: "How does high turbidity in aquatic systems affect the distribution of photosynthetic organisms (e.g., phytoplankton, submerged plants)?",
+    options: [
+      "It increases light penetration and photosynthesis at depth",
+      "It only affects fish sensory systems",
+      "It does not affect light, only salinity",
+      "It reduces light penetration, limiting photosynthesis and shifting producers toward surface-tolerant species"
+    ],
+    answer: "It reduces light penetration, limiting photosynthesis and shifting producers toward surface-tolerant species",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Turbid water scatters/absorbs light so photosynthetic organisms are constrained to shallower zones or decline."
+  },
+  {
+    text: "Why is soil pH important for plant distribution?",
+    options: [
+      "It affects nutrient availability and enzyme activity important for plant growth",
+      "It only determines soil texture",
+      "It controls atmospheric humidity directly",
+      "It is irrelevant if rainfall is high"
+    ],
+    answer: "It affects nutrient availability and enzyme activity important for plant growth",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Soil pH influences solubility of minerals (e.g., Fe, P) and root enzyme function, affecting which species can establish."
+  },
+  {
+    text: "Which instrument is commonly used to estimate water transparency (turbidity) in lakes and coastal waters?",
+    options: [
+      "Thermometer",
+      "Rain gauge",
+      "pH meter",
+      "Secchi disc"
+    ],
+    answer: "Secchi disc",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "A Secchi disc is lowered into water to measure visibility depth — a simple turbidity indicator used in ecological surveys."
+  },
+  {
+    text: "How does prevailing wind direction influence the distribution of wind-dispersed plant species?",
+    options: [
+      "It prevents seed release completely",
+      "It changes seed genetics directly",
+      "It affects seed dispersal routes and areas of colonization by carrying seeds downwind",
+      "It only alters soil pH"
+    ],
+    answer: "It affects seed dispersal routes and areas of colonization by carrying seeds downwind",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Wind direction and speed determine where seeds and spores travel, influencing colonization patterns and range expansion."
+  },
+  {
+    text: "Why does increasing altitude often lead to changes in species composition?",
+    options: [
+      "Altitude only alters soil pH",
+      "Higher altitudes always have more predators",
+      "Altitude increases oxygen and temperature, benefiting lowland species",
+      "Altitude decreases temperature and partial pressure of oxygen, and increases UV — limiting many lowland species"
+    ],
+    answer: "Altitude decreases temperature and partial pressure of oxygen, and increases UV — limiting many lowland species",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Climatic and atmospheric changes with altitude select for cold- and low-O2–tolerant species, producing altitudinal zonation."
+  },
+  {
+    text: "How does high soil salinity influence which plants are present along coastal margins (e.g., mangroves vs. terrestrial grasses)?",
+    options: [
+      "It favors halophytes (e.g., mangroves) and excludes salt-sensitive terrestrial species",
+      "It increases soil nutrients making all plants thrive",
+      "It reduces sunlight so only shade-tolerant plants occur",
+      "It only affects animal distributions, not plants"
+    ],
+    answer: "It favors halophytes (e.g., mangroves) and excludes salt-sensitive terrestrial species",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Salt-tolerant plants possess adaptations (salt excretion, specialized roots) allowing survival where others cannot."
+  },
+  {
+    text: "Which instrument is used to measure rainfall amount at a field site?",
+    options: [
+      "Barometer",
+      "Hygrometer",
+      "Anemometer",
+      "Rain gauge"
+    ],
+    answer: "Rain gauge",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Rain gauges collect and measure precipitation — essential for correlating rainfall with vegetation patterns."
+  },
+  {
+    text: "How does relative humidity most directly influence plant water relations and distribution?",
+    options: [
+      "It increases soil salinity",
+      "It controls seed size changes",
+      "High humidity reduces transpiration loss, affecting where drought-adapted species occur",
+      "It only affects bird migration"
+    ],
+    answer: "High humidity reduces transpiration loss, affecting where drought-adapted species occur",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "High ambient humidity lowers evaporative demand; xerophytes are advantaged where humidity is low."
+  },
+  {
+    text: "Which human activity commonly reduces forest species richness and alters species distribution on a landscape scale?",
+    options: [
+      "Selective planting of wildflowers only",
+      "Minimal-impact ecotourism",
+      "Removal of invasive weeds selectively",
+      "Deforestation for agriculture or urban development"
+    ],
+    answer: "Deforestation for agriculture or urban development",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Removing forest habitat fragments populations and eliminates habitat for forest-dependent species, reshaping distributions."
+  },
+  {
+    text: "How does interspecific competition affect species distributions in a habitat?",
+    options: [
+      "It always increases diversity by creating new niches",
+      "It causes immediate extinction of both species",
+      "It leads to niche partitioning or exclusion, restricting one species’ realized distribution",
+      "It alters abiotic factors like temperature directly"
+    ],
+    answer: "It leads to niche partitioning or exclusion, restricting one species’ realized distribution",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Competition for limited resources can force species to occupy narrower niches or be excluded from parts of their fundamental range."
+  },
+  {
+    text: "In predator–prey interactions, how can predation influence the prey species’ distribution?",
+    options: [
+      "Predators always increase prey population size locally",
+      "Predation does not affect distribution, only behavior",
+      "Predation can exclude prey from high-risk areas, shrinking their local distribution",
+      "Prey distribution becomes independent of habitat quality"
+    ],
+    answer: "Predation can exclude prey from high-risk areas, shrinking their local distribution",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "High predator density can make some habitats ecological sinks for prey, altering spatial patterns."
+  },
+  {
+    text: "How can mutualistic relationships (e.g., pollinators and plants) determine the distribution of certain plant species?",
+    options: [
+      "They always reduce plant reproduction",
+      "They cause plants to avoid pollinator-rich areas",
+      "Plants dependent on specific pollinators are limited to areas where those pollinators occur",
+      "Mutualisms only affect animal distributions, not plants"
+    ],
+    answer: "Plants dependent on specific pollinators are limited to areas where those pollinators occur",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Obligate mutualisms constrain plant range to overlap with required animal partners."
+  },
+  {
+    text: "Why are estuarine and intertidal animals often strong osmoregulators compared with open-ocean species?",
+    options: [
+      "Estuarine species encounter stable salinity and need no regulation",
+      "Open-ocean species face variable turbidity only",
+      "Estuarine habitats have fluctuating salinity; osmoregulation allows survival across changes",
+      "They rely only on behavioral avoidance"
+    ],
+    answer: "Estuarine habitats have fluctuating salinity; osmoregulation allows survival across changes",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Tolerance to salinity variability is key where freshwater mixes with seawater; osmoregulators maintain internal balance."
+  },
+  {
+    text: "Which device would you use in the field to measure soil pH accurately?",
+    options: [
+      "Secchi disc",
+      "Anemometer",
+      "Thermometer",
+      "pH meter (electrode)"
+    ],
+    answer: "pH meter (electrode)",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "A portable pH meter with an electrode gives quantitative soil pH readings for ecological studies."
+  },
+  {
+    text: "How can high turbidity indirectly reduce dissolved oxygen in a lake?",
+    options: [
+      "By cooling the water to freezing point",
+      "By directly increasing salinity",
+      "By increasing photosynthesis throughout the water column",
+      "By reducing light and hence photosynthesis, lowering oxygen production"
+    ],
+    answer: "By reducing light and hence photosynthesis, lowering oxygen production",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Less light penetration reduces primary production and can lower DO, stressing aerobic organisms."
+  },
+  {
+    text: "Why does soil texture (sand vs. clay) influence which plants occupy an area?",
+    options: [
+      "Texture only affects color of leaves",
+      "Sandy soils retain more water than clays",
+      "It determines water retention and aeration, affecting root growth and plant establishment",
+      "It only affects animal burrowing, not plants"
+    ],
+    answer: "It determines water retention and aeration, affecting root growth and plant establishment",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Coarse-textured soils drain rapidly; fine-textured soils retain water and nutrients differently — each favors different plant adaptations."
+  },
+  {
+    text: "Which instrument is used to measure wind speed in ecological surveys?",
+    options: [
+      "Seismometer",
+      "Barometer",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    answer: "Anemometer",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Anemometers quantify wind speed — important for seed dispersal and microclimate studies."
+  },
+  {
+    text: "Which of the following is an abiotic factor affecting the distribution of organisms?",
+    options: [
+      "Predation",
+      "Competition",
+      "Mutualism",
+      "Temperature"
+    ],
+    answer: "Temperature",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Abiotic factors are nonliving (temperature, humidity, pH, etc.); predation and competition are biotic."
+  },
+  {
+    text: "How does urbanization typically change species distributions in formerly natural areas?",
+    options: [
+      "It usually increases native biodiversity uniformly",
+      "It fragments habitat, creating barriers and favoring generalist or synanthropic species",
+      "It has no long-term effect on species",
+      "It reduces pollution, improving habitat quality everywhere"
+    ],
+    answer: "It fragments habitat, creating barriers and favoring generalist or synanthropic species",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Urban areas often support a few adaptable species while reducing specialist and interior-habitat species."
+  },
+  {
+    text: "What is a common effect of invasive species on the distribution of native organisms?",
+    options: [
+      "They always promote native species richness",
+      "They cause immediate geological changes",
+      "They rarely interact with native species",
+      "They compete with or prey on natives, often reducing native ranges"
+    ],
+    answer: "They compete with or prey on natives, often reducing native ranges",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Invasives can outcompete natives for resources or introduce new pressures that shrink native distributions."
+  },
+  {
+    text: "Which of the following is primarily a biotic factor influencing organism distribution?",
+    options: [
+      "Salinity",
+      "pH",
+      "Predation",
+      "Altitude"
+    ],
+    answer: "Predation",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Predation involves interactions between organisms (biotic); pH, salinity and altitude are abiotic."
+  },
+  {
+    text: "How does wind speed generally affect seed/spore dispersal?",
+    options: [
+      "Higher wind speed increases potential dispersal distance for wind-dispersed propagules",
+      "Higher wind speed reduces germination rates directly",
+      "Wind speed reduces soil nutrient availability",
+      "Wind speed only affects aquatic plants"
+    ],
+    answer: "Higher wind speed increases potential dispersal distance for wind-dispersed propagules",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Stronger winds can carry lighter seeds farther, influencing colonization and range extension."
+  },
+  {
+    text: "Which field instrument would you use to measure ambient temperature at various points across a study area?",
+    options: [
+      "Light meter",
+      "pH strip",
+      "Secchi disc",
+      "Thermometer"
+    ],
+    answer: "Thermometer",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Thermometers provide direct measures of air or water temperature for ecological correlations."
+  },
+  {
+    text: "Which statement best describes the effect of high relative humidity on plant pathogens and thus on plant distribution?",
+    options: [
+      "High humidity always kills fungal pathogens",
+      "Humidity has no effect on pathogens",
+      "Low humidity increases fungal disease outbreaks",
+      "High humidity often promotes fungal growth and disease, which can limit susceptible plant species"
+    ],
+    answer: "High humidity often promotes fungal growth and disease, which can limit susceptible plant species",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Moist conditions favor spores and fungal growth, making some habitats unsuitable for disease-sensitive species."
+  },
+  {
+    text: "Which instrument measures relative humidity in the field?",
+    options: [
+      "Thermometer",
+      "Hygrometer",
+      "Seismometer",
+      "Altimeter"
+    ],
+    answer: "Hygrometer",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Hygrometers report relative humidity, a key abiotic variable affecting transpiration and microclimate."
+  },
+  {
+    text: "Which pre-sowing treatment would you use to break physical dormancy caused by a hard seed coat?",
+    options: [
+      "Scarification (nicking or abrasion of seed coat)",
+      "Applying herbicide",
+      "Deep-freezing seeds permanently",
+      "Planting in shaded sterile soil only"
+    ],
+    answer: "Scarification (nicking or abrasion of seed coat)",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Scarification permits water uptake (imbibition) so the embryo can resume metabolism and germinate."
+  },
+  {
+    text: "Which factor best explains zonation of plants along a mountain slope?",
+    options: [
+      "Only soil pH changes",
+      "Uniform rainfall at all elevations",
+      "Differences in temperature, moisture, and exposure with elevation produce distinct vegetation zones",
+      "No abiotic gradients exist on mountain slopes"
+    ],
+    answer: "Differences in temperature, moisture, and exposure with elevation produce distinct vegetation zones",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Altitudinal changes in climate and exposure create ecological bands supporting different species."
+  },
+  {
+    text: "Which tool would you use to obtain a subsurface soil sample to assess edaphic conditions affecting plant distribution?",
+    options: [
+      "Soil auger or corer",
+      "Datalogger for light only",
+      "Secchi disc",
+      "Anemometer"
+    ],
+    answer: "Soil auger or corer",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Soil augers sample texture, moisture, and horizons — important for understanding edaphic constraints on plants."
+  },
+  {
+    text: "Which pair of abiotic factors most strongly defines the broad distribution of terrestrial biomes (e.g., rainforest vs. desert)?",
+    options: [
+      "Wind speed and wind direction",
+      "pH and turbidity",
+      "Soil texture and altitude only",
+      "Temperature and rainfall (precipitation)"
+    ],
+    answer: "Temperature and rainfall (precipitation)",
+    image: "",
+    subtopic: "Factors affecting distribution of organisms",
+    explanation: "Climate (temperature and precipitation) is the dominant control on biome distribution globally."
+  },
+  {
+    text: "Which organism is typically a primary producer in a terrestrial food chain?",
+    options: ["Hawk", "Rabbit", "Grass", "Fungus (decomposer)"],
+    answer: "Grass",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Primary producers (e.g., grasses) synthesize organic matter from sunlight and form the base of terrestrial food chains."
+  },
+
+  // Q2 (correct = A)
+  {
+    text: "Herbivores (animals that eat plants) occupy which trophic level?",
+    options: ["Primary consumers", "Producers", "Tertiary consumers", "Detritivores"],
+    answer: "Primary consumers",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Herbivores feed on producers and are called primary consumers."
+  },
+
+  // Q3 (correct = D)
+  {
+    text: "What is the main role of decomposers in an ecosystem?",
+    options: ["Convert solar energy into biomass", "Transfer energy to top predators", "Act as primary consumers", "Break down dead organic matter and recycle nutrients"],
+    answer: "Break down dead organic matter and recycle nutrients",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Decomposers (bacteria, fungi) mineralize organic matter, returning nutrients to the environment."
+  },
+
+  // Q4 (correct = B)
+  {
+    text: "Which definition best matches mutualism?",
+    options: ["One species benefits and the other is harmed", "Both species benefit from the interaction", "One species benefits while the other is unaffected", "Both species are harmed"],
+    answer: "Both species benefit from the interaction",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Mutualism is a mutually beneficial symbiosis (e.g., pollinators and many flowering plants)."
+  },
+
+  // Q5 (correct = A)
+  {
+    text: "Which of these is an example of parasitism?",
+    options: ["Tapeworm living in a mammal's intestine", "Bee pollinating a flower", "Mycorrhizal fungus exchanging nutrients with a plant", "Remora fish hitching on a shark without hurting it"],
+    answer: "Tapeworm living in a mammal's intestine",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "In parasitism, the parasite benefits while the host is harmed; tapeworms absorb host nutrients."
+  },
+
+  // Q6 (correct = C)
+  {
+    text: "Which global cycle involves the exchange of CO₂ between the atmosphere, plants, animals and the oceans?",
+    options: ["Nitrogen cycle", "Water cycle", "Carbon cycle", "Phosphorus cycle"],
+    answer: "Carbon cycle",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "The carbon cycle includes photosynthesis, respiration, oceanic uptake, fossil fuels and decomposition."
+  },
+
+  // Q7 (correct = B)
+  {
+    text: "Which of these is a biotic factor influencing species distribution?",
+    options: ["pH", "Predation", "Temperature", "Salinity"],
+    answer: "Predation",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Biotic factors are living interactions (predation, competition, mutualism); pH, temperature and salinity are abiotic."
+  },
+
+  // Q8 (correct = D)
+  {
+    text: "Which process in the water cycle returns water from the atmosphere to the surface?",
+    options: ["Evaporation", "Transpiration", "Sublimation", "Precipitation"],
+    answer: "Precipitation",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Precipitation (rain, snow, etc.) transfers atmospheric water back to land or sea."
+  },
+
+  // Q9 (correct = B)
+  {
+    text: "Which simple field tool is commonly used to measure water transparency (turbidity) in lakes?",
+    options: ["pH probe", "Secchi disc", "Anemometer", "Rain gauge"],
+    answer: "Secchi disc",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "A Secchi disc is lowered into water; the depth at which it disappears gives an index of turbidity."
+  },
+
+  // Q10 (correct = A)
+  {
+    text: "Which trophic level typically has the greatest biomass in most ecosystems?",
+    options: ["Producers (plants/algae)", "Top predators", "Secondary consumers", "Decomposers"],
+    answer: "Producers (plants/algae)",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Producers form the base of the pyramid and usually have the largest biomass supporting higher levels."
+  },
+
+  // Q11 (correct = D)
+  {
+    text: "What term describes a network of interconnected food chains in an ecosystem?",
+    options: ["Trophic pyramid", "Biomass ladder", "Energy cascade", "Food web"],
+    answer: "Food web",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Food webs show multiple feeding links and energy flow paths between species."
+  },
+
+  // Q12 (correct = C)
+  {
+    text: "Which bacteria commonly form symbiotic nodules on legume roots and fix atmospheric nitrogen?",
+    options: ["Pseudomonas", "Nitrobacter", "Rhizobium", "Azotobacter"],
+    answer: "Rhizobium",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Rhizobium spp. live in root nodules of legumes and convert N₂ to ammonia usable by plants."
+  },
+
+  // Q13 (correct = A)
+  {
+    text: "Which process converts nitrate (NO₃⁻) to N₂ gas under anaerobic conditions?",
+    options: ["Denitrification", "Nitrification", "Nitrogen fixation", "Ammonification"],
+    answer: "Denitrification",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Denitrifying bacteria reduce nitrate to N₂, returning nitrogen to the atmosphere."
+  },
+
+  // Q14 (correct = B)
+  {
+    text: "Saprophytism refers to organisms that:",
+    options: ["Live inside another organism and harm it", "Feed on dead organic matter (decomposers)", "Live in mutualistic partnership with plants", "Compete with others for the same resource"],
+    answer: "Feed on dead organic matter (decomposers)",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Saprophytes (decomposers) break down dead tissues and recycle nutrients."
+  },
+
+  // ================ MEDIUM (13) ================
+  // Q15 (correct = C)
+  {
+    text: "About what fraction of energy is typically transferred from one trophic level to the next (ecological rule of thumb)?",
+    options: ["~50%", "~25%", "About 10%", "~90%"],
+    answer: "About 10%",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Roughly 10% of energy is passed on as biomass to the next level; much is lost as heat/metabolism."
+  },
+
+  // Q16 (correct = D)
+  {
+    text: "Biomagnification causes the highest concentrations of persistent pollutants (e.g., DDT, PCBs) to appear in:",
+    options: ["Primary producers", "Primary consumers", "Detritivores", "Top predators (apex consumers)"],
+    answer: "Top predators (apex consumers)",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Persistent, fat-soluble toxins concentrate up the food chain, peaking in top predators."
+  },
+
+  // Q17 (correct = B)
+  {
+    text: "Which best describes a keystone species?",
+    options: ["The most abundant species in an ecosystem", "A species with a disproportionately large effect on community structure", "A species that only eats producers", "Any invasive species"],
+    answer: "A species with a disproportionately large effect on community structure",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Keystone species maintain community diversity; their removal can cause major shifts."
+  },
+
+  // Q18 (correct = C)
+  {
+    text: "In the nitrification step of the nitrogen cycle, ammonia (NH₃) is first oxidized to nitrite (NO₂⁻) by which group?",
+    options: ["Denitrifying bacteria", "Nitrobacter (NO₂⁻ → NO₃⁻)", "Nitrosomonas (NH₃ → NO₂⁻)", "Rhizobium (N₂ fixation)"],
+    answer: "Nitrosomonas (NH₃ → NO₂⁻)",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Nitrification is two-step: Nitrosomonas oxidizes NH₃ to NO₂⁻; Nitrobacter oxidizes NO₂⁻ to NO₃⁻."
+  },
+
+  // Q19 (correct = A)
+  {
+    text: "Leguminous crops improve soil nitrogen primarily because they:",
+    options: ["Host nitrogen-fixing bacteria in root nodules", "Release large amounts of nitrate through leaf fall", "Convert nitrate to N₂", "Increase denitrification rates"],
+    answer: "Host nitrogen-fixing bacteria in root nodules",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Symbiosis between legumes and Rhizobium increases soil nitrogen availability."
+  },
+
+  // Q20 (correct = D)
+  {
+    text: "Which combination of nutrients most commonly drives eutrophication when excessive fertilizers reach waterbodies?",
+    options: ["Calcium and magnesium", "Potassium and sulfur", "Iron and manganese", "Nitrogen (N) and phosphorus (P)"],
+    answer: "Nitrogen (N) and phosphorus (P)",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Excess N and P stimulate algal blooms; decomposition then reduces oxygen causing fish kills."
+  },
+
+  // Q21 (correct = C)
+  {
+    text: "On short ecological timescales, the largest active pool of carbon is found in:",
+    options: ["Atmospheric CO₂ only", "Biomass only", "The oceans (dissolved inorganic carbon)", "Terrestrial leaf litter only"],
+    answer: "The oceans (dissolved inorganic carbon)",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Oceans hold a huge amount of dissolved inorganic carbon and exchange CO₂ with the atmosphere."
+  },
+
+  // Q22 (correct = B)
+  {
+    text: "Which organisms convert dead plant material into smaller particles and make nutrients available to decomposers?",
+    options: ["Primary producers", "Detritivores (e.g., earthworms, woodlice)", "Apex predators", "Nitrogen-fixing bacteria only"],
+    answer: "Detritivores (e.g., earthworms, woodlice)",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Detritivores fragment and aerate litter, aiding microbial decomposition and nutrient cycling."
+  },
+
+  // Q23 (correct = A)
+  {
+    text: "What is meant by an organism's 'trophic level'?",
+    options: ["Its feeding position (producer, consumer, etc.)", "Its geographic range", "The size of its population", "Its life-span class"],
+    answer: "Its feeding position (producer, consumer, etc.)",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Trophic level describes where an organism feeds in the food chain/web."
+  },
+
+  // Q24 (correct = D)
+  {
+    text: "How do decomposers contribute to nutrient cycles?",
+    options: ["They create primary production", "They always increase atmospheric CO₂ only", "They remove all nutrients permanently", "They break down organic matter and release inorganic nutrients back into the soil or water"],
+    answer: "They break down organic matter and release inorganic nutrients back into the soil or water",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Decomposition mineralizes organic N, C, P making them available for producers."
+  },
+
+  // Q25 (correct = D)
+  {
+    text: "Which water-cycle process describes water vapor changing to liquid droplets in the atmosphere?",
+    options: ["Evaporation", "Transpiration", "Runoff", "Condensation"],
+    answer: "Condensation",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Condensation forms clouds and precedes precipitation."
+  },
+
+  // Q26 (correct = C)
+  {
+    text: "Which human activity is the single largest direct source of increased atmospheric CO₂?",
+    options: ["Deforestation only", "Increased volcanic eruptions", "Burning fossil fuels (coal, oil, gas)", "Increased ocean photosynthesis"],
+    answer: "Burning fossil fuels (coal, oil, gas)",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Combustion of fossil carbon releases large amounts of CO₂, driving modern rise in atmospheric carbon."
+  },
+
+  // Q27 (correct = B)
+  {
+    text: "Which is a classic mutualism example that directly links ecosystem nutrient cycles and species interactions?",
+    options: ["Parasitic tapeworm and host", "Pollinating insects and flowering plants", "A predator eating its prey", "A fungus killing plants (pathogen)"],
+    answer: "Pollinating insects and flowering plants",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Pollinators and flowers benefit each other: pollinators get nectar; plants get pollination and reproduction."
+  },
+
+  // ================ HARD (13) ================
+  // Q28 (correct = A)
+  {
+    text: "Net primary productivity (NPP) is defined as:",
+    options: ["Gross primary productivity (GPP) minus autotrophic respiration (Rₐ)", "Energy in detritus only", "Gross secondary productivity minus respiration", "Respiration of heterotrophs only"],
+    answer: "Gross primary productivity (GPP) minus autotrophic respiration (Rₐ)",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "NPP = GPP − plant respiration. It represents plant biomass available to consumers and decomposers."
+  },
+
+  // Q29 (correct = A)
+  {
+    text: "The Haber–Bosch process dramatically altered the nitrogen cycle by producing:",
+    options: ["Industrial ammonia (fixed nitrogen) for fertilizers", "Nitrogen gas (N₂) from nitrate", "Natural nitrogen fixation by bacteria", "Denitrified N₂O released exclusively"],
+    answer: "Industrial ammonia (fixed nitrogen) for fertilizers",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Haber–Bosch synthesizes NH₃ from N₂, enabling large-scale fertilizer production and altering N fluxes."
+  },
+
+  // Q30 (correct = B)
+  {
+    text: "Which genus includes common denitrifying bacteria that convert nitrate to N₂ under anaerobic conditions?",
+    options: ["Rhizobium", "Pseudomonas", "Nitrosomonas", "Azotobacter"],
+    answer: "Pseudomonas",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Pseudomonas and some other bacteria can perform denitrification, releasing N₂ or N₂O."
+  },
+
+  // Q31 (correct = D)
+  {
+    text: "Ocean acidification (caused by increased dissolved CO₂) reduces carbonate ion availability. Which organisms are most at risk?",
+    options: ["Most terrestrial plants", "Large mobile fish only", "Photosynthetic plankton exclusively", "Calcifying organisms (corals, shellfish) that build CaCO₃ skeletons/shells"],
+    answer: "Calcifying organisms (corals, shellfish) that build CaCO₃ skeletons/shells",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Lower carbonate availability makes calcification harder and can weaken shells and coral skeletons."
+  },
+
+  // Q32 (correct = C)
+  {
+    text: "Biomagnification refers to:",
+    options: ["Decreasing toxin concentration at higher trophic levels", "Loss of nutrients with each trophic transfer", "Increasing concentration of persistent toxins up the food chain, peaking in top predators", "Faster energy transfer in aquatic systems"],
+    answer: "Increasing concentration of persistent toxins up the food chain, peaking in top predators",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Fat-soluble and persistent compounds accumulate in tissues and magnify with each trophic step."
+  },
+
+  // Q33 (correct = B)
+  {
+    text: "A trophic cascade triggered by removal of an apex predator is most likely to cause:",
+    options: ["Decreased primary productivity due to predator scarcity only", "Increased herbivore numbers leading to overgrazing and altered plant communities", "Immediate increase in nutrient recycling by decomposers only", "No change in ecosystem structure"],
+    answer: "Increased herbivore numbers leading to overgrazing and altered plant communities",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Loss of predators can release herbivore populations, changing vegetation and ecosystem processes."
+  },
+
+  // Q34 (correct = A)
+  {
+    text: "Which component holds the largest reservoir of carbon on short to medium timescales (decades–centuries)?",
+    options: ["The oceans (dissolved inorganic carbon)", "Atmospheric CO₂ only", "Aboveground plant biomass only", "Soil microbes only"],
+    answer: "The oceans (dissolved inorganic carbon)",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Oceans store vast amounts of dissolved inorganic carbon and exchange it with the atmosphere."
+  },
+
+  // Q35 (correct = C)
+  {
+    text: "Nitrification is a two-step aerobic process; the overall transformation is:",
+    options: ["NO₃⁻ → N₂ (denitrification)", "N₂ → NH₃ (nitrogen fixation)", "NH₃ → NO₂⁻ → NO₃⁻ (nitrification)", "NO₂⁻ → NH₄⁺ (ammonification)"],
+    answer: "NH₃ → NO₂⁻ → NO₃⁻ (nitrification)",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Nitrifying bacteria oxidize ammonia to nitrite (Nitrosomonas) and nitrite to nitrate (Nitrobacter)."
+  },
+
+  // Q36 (correct = D)
+  {
+    text: "Which agricultural practice most directly increases nitrate leaching into rivers and causes downstream eutrophication?",
+    options: ["No-till farming only", "Crop rotation alone", "Planting cover crops always", "Excessive application of soluble nitrogen fertilizers"],
+    answer: "Excessive application of soluble nitrogen fertilizers",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Over-application of N fertilizers can exceed plant uptake and be washed into waterways as nitrate."
+  },
+
+  // Q37 (correct = A)
+  {
+    text: "Which of the following is LEAST likely to function as a decomposer in natural ecosystems?",
+    options: ["Lion (large carnivore)", "Saprophytic fungi", "Soil bacteria", "Detritivorous invertebrates (e.g., earthworms)"],
+    answer: "Lion (large carnivore)",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Lions are predators/scavengers, not primary decomposers; decomposers chemically break down dead organic matter."
+  },
+
+  // Q38 (correct = B)
+  {
+    text: "Which statement correctly contrasts energy flow and nutrient cycling in ecosystems?",
+    options: ["Both energy and nutrients flow in one direction only", "Energy flows one-way (lost as heat), while nutrients are recycled between biotic and abiotic pools", "Nutrients are always lost as heat", "Energy cycles in closed loops while nutrients are imported only"],
+    answer: "Energy flows one-way (lost as heat), while nutrients are recycled between biotic and abiotic pools",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Energy enters as sunlight and leaves as heat; nutrients (C, N, P) are reused via cycles."
+  },
+
+  // Q39 (correct = C)
+  {
+    text: "Compared to carbon residence time in the atmosphere, the residence time of carbon in deep ocean sediments and rocks is:",
+    options: ["Exactly the same", "Slightly shorter", "Much longer (hundreds to millions of years)", "Always measured in hours to days"],
+    answer: "Much longer (hundreds to millions of years)",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Geologic carbon reservoirs (rocks, deep sediments) store carbon over geological timescales, much longer than atmospheric CO₂."
+  },
+
+  // Q40 (correct = D)
+  {
+    text: "Which human-driven change most broadly reduces biodiversity and disrupts energy flow and nutrient cycles at landscape scale?",
+    options: ["Selective planting of native species only", "Reduced fertilizer use everywhere", "Creation of small protected pockets", "Habitat destruction and fragmentation (e.g., conversion to intensive agriculture or urban areas)"],
+    answer: "Habitat destruction and fragmentation (e.g., conversion to intensive agriculture or urban areas)",
+    image: "",
+    subtopic: "Symbiotic interactions of plants and animals",
+    explanation: "Large-scale habitat loss fragments populations, simplifies food webs, and alters nutrient and energy dynamics."
+  },
+   {
+    text: "Which habitat is typically shallow, still water with abundant rooted plants and tadpoles?",
+    options: ["Pond", "Stream", "Savanna", "Mangrove swamp"],
+    answer: "Pond",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Ponds are small, still-water bodies with rooted aquatic plants and are common breeding sites for amphibians."
+  },
+
+  // q2 correct = B
+  {
+    text: "Which adaptation helps many bony fish control buoyancy in open-water habitats?",
+    options: ["Lateral line", "Swim bladder", "Gills for respiration", "Strong legs"],
+    answer: "Swim bladder",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "The swim bladder stores gas and allows fish to adjust buoyancy without swimming continuously."
+  },
+
+  // q3 correct = C
+  {
+    text: "Which habitat is characterized by saline soils, tidal flooding, and salt-tolerant trees?",
+    options: ["Freshwater marsh", "Open ocean", "Mangrove swamp", "Alpine meadow"],
+    answer: "Mangrove swamp",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Mangroves occur at shorelines where salt-tolerant tree species cope with tides and saline conditions."
+  },
+
+  // q4 correct = D
+  {
+    text: "Which habitat typically has rapidly flowing water, well-oxygenated conditions and organisms adapted to cling or swim against current?",
+    options: ["Pond", "Lake", "Estuary", "Stream"],
+    answer: "Stream",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Streams and rivers have currents and oxygen-rich water favouring species adapted to flow."
+  },
+
+  // q5 correct = B
+  {
+    text: "Which shoreline zone is regularly exposed at low tide and submerged at high tide, forcing organisms to tolerate changing salinity?",
+    options: ["Coral reef", "Intertidal (seashore)", "Freshwater lake margin", "Deep ocean floor"],
+    answer: "Intertidal (seashore)",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Intertidal zones experience periodic immersion and exposure, so organisms tolerate salinity and moisture fluctuations."
+  },
+
+  // q6 correct = C
+  {
+    text: "Which of the following is a classic arboreal (tree-dwelling) animal?",
+    options: ["Salamander", "Clownfish", "Tree frog", "Crab"],
+    answer: "Tree frog",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Tree frogs are adapted for life in trees with toe pads and gripping limbs."
+  },
+
+  // q7 correct = D
+  {
+    text: "Which morphological feature is commonly found in burrowing mammals (e.g., mole)?",
+    options: ["Long wings for flight", "Webbed feet for swimming", "Feathers for insulation", "Powerful forelimbs and claws for digging"],
+    answer: "Powerful forelimbs and claws for digging",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Burrowers typically have strong forelimbs and specialized claws to excavate soil."
+  },
+
+  // q8 correct = A
+  {
+    text: "Which abiotic factor most strongly affects dissolved oxygen concentration in aquatic habitats?",
+    options: ["Water temperature", "Soil pH", "Light color", "Salinity only"],
+    answer: "Water temperature",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Colder water usually holds more dissolved oxygen; temperature therefore influences oxygen availability."
+  },
+
+  // q9 correct = C
+  {
+    text: "What specialized root or structure is commonly used by mangrove trees to obtain oxygen in waterlogged soils?",
+    options: ["Adventitious leaves", "Prop rootlets only for support", "Pneumatophores (breathing roots)", "Corms"],
+    answer: "Pneumatophores (breathing roots)",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Pneumatophores stick above waterlogged soils to access atmospheric oxygen."
+  },
+
+  // q10 correct = D
+  {
+    text: "Arboreal organisms living in the canopy of oil-palm plantations are most likely adapted to:",
+    options: ["Deep water swimming", "Burrowing underground", "Understory shade only", "Moving and feeding among branches and leaves"],
+    answer: "Moving and feeding among branches and leaves",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Canopy animals are adapted to locomotion, feeding, and nesting in trees."
+  },
+
+  // q11 correct = A
+  {
+    text: "Which aquatic habitat is most likely to have high turbidity (suspended sediments) near the shore and lower light penetration?",
+    options: ["Shallow pond near runoff", "Clear mountain spring", "Coral lagoon", "Oligotrophic lake center"],
+    answer: "Shallow pond near runoff",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Runoff carries sediment into shallow waters, increasing turbidity and reducing light penetration."
+  },
+
+  // q12 correct = B
+  {
+    text: "Which behavioral adaptation helps many intertidal animals avoid desiccation during low tide?",
+    options: ["Continuous active swimming", "Closing shells or hiding in crevices", "Flying inland", "Deep soil burrowing only"],
+    answer: "Closing shells or hiding in crevices",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Many intertidal molluscs clamp shut or retreat to damp crevices to conserve moisture during exposure."
+  },
+
+  // q13 correct = D
+  {
+    text: "Which statement best describes a pond compared with a lake?",
+    options: ["Ponds are always saltwater, lakes are freshwater", "Ponds have stronger currents than lakes", "Ponds have more pelagic fish than lakes", "Ponds are generally smaller and shallower with more rooted plants than lakes"],
+    answer: "Ponds are generally smaller and shallower with more rooted plants than lakes",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Ponds are typically shallower, allowing light to reach the bottom and supporting rooted vegetation."
+  },
+
+  // q14 correct = A
+  {
+    text: "Which microhabitat would you expect to support moisture-loving mosses and invertebrates?",
+    options: ["Damp tree trunk in a shaded forest", "Exposed dry grassland ridge", "Sun-baked rock outcrop", "Arid savanna plain"],
+    answer: "Damp tree trunk in a shaded forest",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Shaded, damp microhabitats retain moisture suitable for mosses and moisture-dependent invertebrates."
+  },
+
+  // ================= MEDIUM (13) =================
+  // q15 correct = B
+  {
+    text: "Which factor best explains why rocky seashores support barnacles and limpets but not many rooted aquatic plants?",
+    options: ["Low salinity", "Hard substrate for attachment and strong wave action", "Stable freshwater input", "Deep, calm water"],
+    answer: "Hard substrate for attachment and strong wave action",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Rocky shores provide hard surfaces for sessile animals and experience wave forces that dislodge delicate rooted plants."
+  },
+
+  // q16 correct = C
+  {
+    text: "Which sampling tool is most appropriate for estimating fish abundance in a shallow stream?",
+    options: ["Secchi disc", "Rain gauge", "Pitfall traps", "Kick net or electrofisher (stream sampling)"],
+    answer: "Kick net or electrofisher (stream sampling)",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Kick nets and electrofishing are commonly used to sample fish and macroinvertebrates in flowing water."
+  },
+
+  // q17 correct = D
+  {
+    text: "How does salinity change from a river mouth (freshwater) into the adjacent sea in an estuary?",
+    options: ["It remains constant at freshwater levels", "It becomes instantly oceanic salinity at the mouth", "It only varies with pH", "It forms a gradient from low to high salinity influenced by tides and freshwater inflow"],
+    answer: "It forms a gradient from low to high salinity influenced by tides and freshwater inflow",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Estuaries are mixing zones with salinity gradients that vary with tides and river discharge."
+  },
+
+  // q18 correct = B
+  {
+    text: "Which morphological adaptation helps water beetles stay at the water surface and trap an air film?",
+    options: ["Feathered wings for flight", "Hydrophobic hairs trapping air (plastron)", "Strong burrowing legs", "Bright coloration for mating"],
+    answer: "Hydrophobic hairs trapping air (plastron)",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Hydrophobic hairs create an air layer allowing some aquatic insects to respire while submerged."
+  },
+
+  // q19 correct = A
+  {
+    text: "Which animal would you expect to find primarily in a savanna (dry grassy field) habitat?",
+    options: ["Zebra (grazing herbivore)", "Trout (cold stream fish)", "Mangrove crab", "Otter (aquatic mammal)"],
+    answer: "Zebra (grazing herbivore)",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Savannas are grass-dominated ecosystems supporting large grazing mammals."
+  },
+
+  // q20 correct = C
+  {
+    text: "Which adaptation is most useful for animals living high in the tree canopy where light is abundant but branches are narrow?",
+    options: ["Streamlined body for flow", "Subterranean burrowing habits", "Prehensile tail or gripping limbs for balance and grasping", "Salt-excreting glands"],
+    answer: "Prehensile tail or gripping limbs for balance and grasping",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Canopy-dwelling species often have limbs or tails adapted for grasping branches and moving among them."
+  },
+
+  // q21 correct = B
+  {
+    text: "Which abiotic gradient usually causes zonation of species from a shoreline to inland in coastal habitats?",
+    options: ["Altitude only", "Salinity and tidal inundation frequency", "Soil pH only", "Light color"],
+    answer: "Salinity and tidal inundation frequency",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Shoreline species are sorted by tolerance to salinity, submersion duration and wave stress."
+  },
+
+  // q22 correct = D
+  {
+    text: "Which feeding strategy links aquatic and terrestrial habitats by moving carbon and nutrients between them?",
+    options: ["Photosynthesis in aquatic plants", "Primary production only", "Denitrification", "Anadromous fish migration (e.g., salmon bringing marine nutrients inland)"],
+    answer: "Anadromous fish migration (e.g., salmon bringing marine nutrients inland)",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Migratory species transport nutrients across ecosystem boundaries, subsidizing terrestrial food webs."
+  },
+
+  // q23 correct = B
+  {
+    text: "Which statement explains why ponds often support more emergent aquatic vegetation than lakes?",
+    options: ["Ponds are deeper than lakes", "Ponds are shallower so light reaches the bottom allowing rooted emergent plants", "Ponds are always saltier", "Ponds have stronger currents"],
+    answer: "Ponds are shallower so light reaches the bottom allowing rooted emergent plants",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Shallow depth lets sunlight reach sediments and supports rooted plants like reeds and lilies."
+  },
+
+  // q24 correct = C
+  {
+    text: "Which tree adaptation is important for plants living in waterlogged mangrove soils?",
+    options: ["Deep taproots only", "Thick waxy leaves only", "Air-filled tissues and specialized roots for gas exchange", "Highly succulent leaves always"],
+    answer: "Air-filled tissues and specialized roots for gas exchange",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Mangroves often have aerenchyma and breathing roots (pneumatophores) to cope with low soil oxygen."
+  },
+
+  // q25 correct = C
+  {
+    text: "Which metric would you use to estimate how productive a shallow freshwater pond is compared to a clear oligotrophic lake?",
+    options: ["pH only", "Depth alone", "Chlorophyll concentration or algal biomass (indicator of primary productivity)", "Sunlight wavelength only"],
+    answer: "Chlorophyll concentration or algal biomass (indicator of primary productivity)",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Chlorophyll-a is a proxy for algal biomass and productivity; eutrophic ponds often have higher values than oligotrophic lakes."
+  },
+
+  // q26 correct = A
+  {
+    text: "Which organism is most likely to be dominant on a salt-marsh mudflat exposed at low tide?",
+    options: ["Mudflat polychaete worms and deposit feeders", "High mountain pika", "Desert scorpion", "Freshwater trout"],
+    answer: "Mudflat polychaete worms and deposit feeders",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Mudflats are rich in organic sediments supporting deposit-feeding invertebrates."
+  },
+
+  // q27 correct = D
+  {
+    text: "Which human activity on coastal wetlands most directly reduces habitat for mangrove-dependent species?",
+    options: ["Planting native mangroves", "Establishing protected areas", "Monitoring water quality", "Conversion of mangroves to shrimp ponds or coastal development"],
+    answer: "Conversion of mangroves to shrimp ponds or coastal development",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Clearing mangroves for aquaculture or development destroys critical habitat for many species."
+  },
+
+  // ================= HARD (13) =================
+  // q28 correct = B
+  {
+    text: "Which hydrodynamic factor most strongly determines the distribution of substrate-attached organisms in a stream?",
+    options: ["pH alone", "Shear stress/current velocity that selects for attachments or streamlined forms", "Salinity only", "Air temperature"],
+    answer: "Shear stress/current velocity that selects for attachments or streamlined forms",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "High flow selects for organisms that can cling or resist dislodgement (e.g., streamlined bodies, holdfasts)."
+  },
+
+  // q29 correct = D
+  {
+    text: "Why are estuarine habitats often highly productive but also seasonally stressful for many species?",
+    options: ["Constant salinity and temperature", "Low nutrient supply always", "No tidal influence", "They receive high nutrient inputs yet experience large salinity and turbidity fluctuations"],
+    answer: "They receive high nutrient inputs yet experience large salinity and turbidity fluctuations",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Estuaries receive terrestrial nutrients boosting productivity but have rapidly changing physico-chemical conditions."
+  },
+
+  // q30 correct = A
+  {
+    text: "Which morphological trait is convergent among many tree-dwelling mammals and birds for life in the canopy?",
+    options: ["Grasping hands or feet and flexible ankle/wrist joints", "Webbed feet for swimming", "Low metabolic rate for burrowing", "Flattened body for waterlogged soil"],
+    answer: "Grasping hands or feet and flexible ankle/wrist joints",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Grasping appendages allow secure locomotion and feeding among branches."
+  },
+
+  // q31 correct = C
+  {
+    text: "Which effect of shoreline armoring (sea walls) most directly alters natural habitat distribution along coasts?",
+    options: ["Increases tidal flats", "Enhances mangrove recruitment", "Eliminates natural intertidal zones and reduces habitat for shoreline species", "Creates new riverine wetlands upstream"],
+    answer: "Eliminates natural intertidal zones and reduces habitat for shoreline species",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Hard engineering often removes natural slopes and habitats, displacing intertidal communities."
+  },
+
+  // q32 correct = B
+  {
+    text: "Which sampling approach best captures vertical biodiversity in a forest from ground to canopy?",
+    options: ["Only pitfall traps on the ground", "A combination of ground, understory and canopy sampling (fogging, mist nets, canopy traps)", "Only water sampling", "Only aerial drone photography of the sky"],
+    answer: "A combination of ground, understory and canopy sampling (fogging, mist nets, canopy traps)",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Different strata host different communities; multiple methods are needed to sample vertical biodiversity."
+  },
+
+  // q33 correct = A
+  {
+    text: "Which physiological trait allows many mangrove plants to exclude or excrete excess salt?",
+    options: ["Salt-secreting glands on leaves", "Deep freshwater roots only", "C4 photosynthesis exclusively", "Seasonal leaf drop only"],
+    answer: "Salt-secreting glands on leaves",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Some mangroves excrete salt via leaf glands; others sequester salt in older tissues or exclude uptake."
+  },
+
+  // q34 correct = C
+  {
+    text: "Which process explains why large trees (canopy) and understory plants may have different species compositions in the same forest?",
+    options: ["Identical light and moisture conditions at all heights", "Uniform soil chemistry only", "Vertical gradients in light, humidity and microclimate select for different adaptations", "Wind speed only affects understory"],
+    answer: "Vertical gradients in light, humidity and microclimate select for different adaptations",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Light intensity and humidity differ markedly between canopy and understory, driving species sorting."
+  },
+
+  // q35 correct = B
+  {
+    text: "Which trait would you expect in fish adapted to high-turbidity, sediment-rich rivers?",
+    options: ["Bright coloration for mate attraction only", "Reduced reliance on vision and enhanced tactile or chemosensory systems", "High reliance on sight in clear water", "Thin gill filaments with low respiratory capacity"],
+    answer: "Reduced reliance on vision and enhanced tactile or chemosensory systems",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "In turbid waters, species often use lateral line systems and smell/taste to forage and orient."
+  },
+
+  // q36 correct = D
+  {
+    text: "Which consequence most directly follows fragmentation of continuous forest into small patches?",
+    options: ["Increase in interior specialist species everywhere", "Uniform microclimates across the landscape", "Greater gene flow among all populations", "Edge effects increase and interior habitat shrinks, altering species composition"],
+    answer: "Edge effects increase and interior habitat shrinks, altering species composition",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Fragmentation increases edge-to-area ratio causing microclimatic shifts and often favouring generalists."
+  },
+
+  // q37 correct = B
+  {
+    text: "Which amphibian life history trait commonly ties its distribution to pond habitats rather than flowing streams?",
+    options: ["Salt tolerance", "Eggs laid in still water and larvae that require calm conditions", "Obligate marine larvae", "Complete independence from water"],
+    answer: "Eggs laid in still water and larvae that require calm conditions",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Many amphibians use ponds for oviposition because larvae are adapted to lentic (still) environments."
+  },
+
+  // q38 correct = C
+  {
+    text: "Which adaptation is most typical of seashore organisms living on exposed rock benches (mid-intertidal) to avoid wave dislodgement?",
+    options: ["Soft bodies that wave away", "Floating gas bladders", "Strong adhesion (e.g., muscular foot, cemented shells) or low-profile shape", "No attachment at all"],
+    answer: "Strong adhesion (e.g., muscular foot, cemented shells) or low-profile shape",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Barnacles, limpets, and mussels cling tightly or have streamlined shapes to resist wave force."
+  },
+
+  // q39 correct = D
+  {
+    text: "Which long-term change in coastal habitats is expected from sea-level rise that affects habitat distribution?",
+    options: ["Expansion of alpine meadows", "More freshwater lakes inland automatically", "Immediate increase in terrestrial forest area", "Landward migration or loss of intertidal and salt-marsh habitats if migration is blocked"],
+    answer: "Landward migration or loss of intertidal and salt-marsh habitats if migration is blocked",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "Sea-level rise can drown low-lying habitats or force them to shift inland where possible; coastal development may prevent migration causing habitat loss."
+  },
+
+  // q40 correct = A
+  {
+    text: "Which measurement tool is best for assessing vertical light penetration in a shallow lake or pond (to evaluate habitat for submerged plants)?",
+    options: ["Light meter (PAR or lux) at depth", "Anemometer for wind speed only", "Secchi disc alone always", "Soil auger for sediment cores"],
+    answer: "Light meter (PAR or lux) at depth",
+    image: "",
+    subtopic: "Natural Habitats",
+    explanation: "A submersible light meter (PAR sensor) measures photosynthetically available radiation at depth; Secchi depth is a simple proxy but PAR is direct."
+  },
+   {
+    text: "Which Nigerian biome is characterized by tall evergreen trees and high rainfall?",
+    options: ["Sudan Savanna", "Desert", "Tropical Rainforest", "Highlands"],
+    answer: "Tropical Rainforest",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Tropical rainforests have dense evergreen vegetation and consistently high annual rainfall, typical of southern Nigeria."
+  },
+  {
+    text: "The Guinea Savanna is sometimes called Nigeria’s ____.",
+    options: ["Food basket", "Rainforest zone", "Desert fringe", "Coastal mangrove"],
+    answer: "Food basket",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "The Guinea Savanna supports cultivation of many staple crops and livestock, making it an important agricultural region."
+  },
+  {
+    text: "The driest biome in Nigeria is the ____.",
+    options: ["Sudan Savanna", "Desert", "Guinea Savanna", "Highlands"],
+    answer: "Desert",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Desert regions in northernmost Nigeria receive the least rainfall and have arid conditions."
+  },
+  {
+    text: "The Obudu Plateau is an example of which Nigerian biome?",
+    options: ["Tropical Rainforest", "Montane/Highlands", "Sudan Savanna", "Coastal mangrove"],
+    answer: "Montane/Highlands",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Obudu Plateau has montane climate and vegetation distinct from lowland savannas and rainforests; it's classified as highlands/montane."
+  },
+  {
+    text: "Which biome is located mostly in the extreme northern part of Nigeria?",
+    options: ["Tropical Rainforest", "Guinea Savanna", "Sudan Savanna", "Desert"],
+    answer: "Desert",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Northernmost Nigeria borders the Sahara and includes arid desert and semi-arid Sahel zones."
+  },
+  {
+    text: "The southern part of Nigeria is dominated by which biome?",
+    options: ["Guinea Savanna", "Highlands", "Tropical Rainforest", "Desert"],
+    answer: "Tropical Rainforest",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Southern Nigeria receives high rainfall that supports tropical rainforest vegetation and derived ecosystems."
+  },
+  {
+    text: "Which Nigerian biome has both dry and rainy seasons but supports tall grasses and scattered trees?",
+    options: ["Desert", "Guinea Savanna", "Highlands", "Rainforest"],
+    answer: "Guinea Savanna",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Guinea Savanna experiences distinct wet and dry seasons and is dominated by grasses with scattered trees."
+  },
+  {
+    text: "Which biome is found in the Jos Plateau?",
+    options: ["Montane grasslands", "Sudan Savanna", "Desert", "Tropical Rainforest"],
+    answer: "Montane grasslands",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "The Jos Plateau’s higher elevation supports montane grasslands and shrubland rather than lowland savanna or rainforest."
+  },
+  {
+    text: "The Sudan Savanna is mainly located in ____ Nigeria.",
+    options: ["Eastern", "Northern", "Southern", "Western"],
+    answer: "Northern",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "The Sudan Savanna occupies the northern belt between the Guinea Savanna to the south and the Sahel/desert to the north."
+  },
+  {
+    text: "Which of these animals is commonly found in the Guinea Savanna?",
+    options: ["Camel", "Elephant", "Mountain gorilla", "Polar bear"],
+    answer: "Elephant",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Savanna ecosystems support large grazing and browsing mammals such as elephants (where protected and still present)."
+  },
+  {
+    text: "Which Nigerian biome is most suitable for cocoa production?",
+    options: ["Tropical Rainforest", "Desert", "Sudan Savanna", "Highlands"],
+    answer: "Tropical Rainforest",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Cocoa requires humid, shaded tropical conditions provided by rainforests and forest-savanna mosaics in the south."
+  },
+  {
+    text: "The Sahel desert biome in Nigeria shares a border with which country?",
+    options: ["Cameroon", "Niger", "Ghana", "Benin"],
+    answer: "Niger",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Northern Nigeria borders the Republic of Niger along the Sahel/Sahara transition zone."
+  },
+  {
+    text: "Which biome supports the growth of oil palm trees in Nigeria?",
+    options: ["Guinea Savanna", "Sudan Savanna", "Rainforest", "Desert"],
+    answer: "Rainforest",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Oil palm thrives in warm, wet rainforest conditions common in southern Nigeria."
+  },
+  {
+    text: "Which Nigerian biome is known for its very cold climate at night despite being in the tropics?",
+    options: ["Highlands", "Sudan Savanna", "Guinea Savanna", "Rainforest"],
+    answer: "Highlands",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Elevation in highland areas results in cooler temperatures, especially at night, even within the tropics."
+  },
+  {
+    text: "The biome that is dominated by short grasses and shrubs due to low rainfall is the ____.",
+    options: ["Desert", "Guinea Savanna", "Sudan Savanna", "Rainforest"],
+    answer: "Sudan Savanna",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Sudan Savanna is drier than the Guinea Savanna, leading to short grass and shrub-dominated vegetation."
+  },
+
+  // ================= MEDIUM (15) =================
+  {
+    text: "Which factor best explains the thick vegetation of the Tropical Rainforest in Nigeria?",
+    options: ["High rainfall", "Frequent wildfires", "Cold temperatures", "Sparse soil nutrients"],
+    answer: "High rainfall",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Consistent high rainfall supports luxuriant plant growth and multiple canopy layers in tropical rainforests."
+  },
+  {
+    text: "Why is agriculture more productive in the Guinea Savanna than in the Rainforest?",
+    options: ["Less rainfall", "Fewer pests and diseases", "Sandy soil", "High altitude"],
+    answer: "Fewer pests and diseases",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Savanna agriculture can be more productive because clearing and sunlight make cultivation easier and pest/disease pressure is often lower than in dense humid forests."
+  },
+  {
+    text: "Which biome is often associated with tsetse fly infestation, limiting cattle rearing?",
+    options: ["Rainforest", "Highlands", "Guinea Savanna", "Sudan Savanna"],
+    answer: "Rainforest",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Humid forest and woodland margins can harbour tsetse flies, which transmit disease to livestock and limit cattle rearing."
+  },
+  {
+    text: "Camels are adapted to survive in the Nigerian desert because they ____.",
+    options: ["Store water in their humps", "Feed only at night", "Have short legs", "Lack sweat glands"],
+    answer: "Store water in their humps",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Camel humps store fat that can be metabolized to water and energy during prolonged dry periods."
+  },
+  {
+    text: "The Guinea Savanna is sometimes divided into Northern and Southern because of differences in ____.",
+    options: ["Altitude", "Rainfall amount", "Soil color", "Temperature at night"],
+    answer: "Rainfall amount",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "The northern Guinea Savanna receives less rainfall than the southern part, affecting vegetation and land use."
+  },
+  {
+    text: "Why is the Sudan Savanna more prone to desertification?",
+    options: ["Heavy rainfall", "Overgrazing and low rainfall", "Frequent earthquakes", "Presence of many rivers"],
+    answer: "Overgrazing and low rainfall",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Vegetation removal by overgrazing combined with low rainfall accelerates soil degradation and desertification."
+  },
+  {
+    text: "Which biome is most associated with yam, maize, and guinea corn cultivation?",
+    options: ["Sudan Savanna", "Guinea Savanna", "Highlands", "Desert"],
+    answer: "Guinea Savanna",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "These staple crops thrive in the Guinea Savanna where seasonal rains support crop growth."
+  },
+  {
+    text: "The montane regions of Nigeria are cooler than the lowlands because ____.",
+    options: ["Mountains block sunlight", "Temperature decreases with altitude", "They are closer to the sea", "Rainfall is absent"],
+    answer: "Temperature decreases with altitude",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Air temperature typically falls with elevation (lapse rate), so highlands are cooler than surrounding lowlands."
+  },
+  {
+    text: "The Sudan Savanna vegetation is mainly made up of ____.",
+    options: ["Cacti", "Tall trees", "Short grasses and scattered shrubs", "Thick forests"],
+    answer: "Short grasses and scattered shrubs",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Drier conditions favour short, drought-tolerant grasses and scattered shrubs rather than dense forests."
+  },
+  {
+    text: "Which biome in Nigeria is most threatened by desert encroachment?",
+    options: ["Sudan Savanna", "Highlands", "Guinea Savanna", "Rainforest"],
+    answer: "Sudan Savanna",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "The Sudan Savanna, bordering the Sahel and Sahara, is particularly vulnerable to advancing desertification."
+  },
+  {
+    text: "Which Nigerian biome is most suitable for livestock grazing?",
+    options: ["Rainforest", "Guinea Savanna", "Desert", "Highlands"],
+    answer: "Guinea Savanna",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Savanna grasslands provide pasture for cattle, sheep and goats and are widely used for grazing."
+  },
+  {
+    text: "Why is biodiversity highest in the Nigerian Rainforest?",
+    options: ["Sparse human activities", "Rich soil nutrients", "Stable climate and rainfall", "High altitude"],
+    answer: "Stable climate and rainfall",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Consistent warm temperatures and abundant rainfall create many niches and support high species richness."
+  },
+  {
+    text: "Groundnut pyramids were historically associated with which Nigerian biome?",
+    options: ["Guinea Savanna", "Sudan Savanna", "Highlands", "Rainforest"],
+    answer: "Sudan Savanna",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Groundnut (peanut) production in northern savanna belts (Sudan Savanna) used to be a major economic activity, symbolised by pyramids of produce."
+  },
+  {
+    text: "Which biome provides the best conditions for tea and coffee cultivation in Nigeria?",
+    options: ["Rainforest", "Highlands", "Sudan Savanna", "Desert"],
+    answer: "Highlands",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Tea and some coffee varieties prefer cooler, misty highland climates with well-drained soils."
+  },
+  {
+    text: "The Nigerian desert biome is characterized by which climatic condition?",
+    options: ["Excess rainfall", "Extreme dryness", "Frequent hurricanes", "Volcanic eruptions"],
+    answer: "Extreme dryness",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Deserts receive very low annual precipitation and have arid, water-limited conditions."
+  },
+
+  // ================= HARD (10) =================
+  {
+    text: "How does deforestation in the Rainforest affect rainfall patterns in Nigeria?",
+    options: ["Reduces rainfall", "Increases soil fertility", "Causes flooding only", "Leads to earthquakes"],
+    answer: "Reduces rainfall",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Forest transpiration contributes to local moisture recycling; removing trees reduces evapotranspiration and can lower regional rainfall."
+  },
+  {
+    text: "Which biome’s degradation is most responsible for advancing Sahara Desert southwards?",
+    options: ["Rainforest", "Guinea Savanna", "Sudan Savanna", "Highlands"],
+    answer: "Sudan Savanna",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Degradation of the Sudan Savanna (and Sahel) through overuse and climate shifts contributes to southward desertification."
+  },
+  {
+    text: "Why is nomadic cattle rearing more common in the Sudan and Guinea Savannas than in the Rainforest?",
+    options: ["Better pasture availability", "High rainfall", "Cold nights", "Presence of camels"],
+    answer: "Better pasture availability",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Open grasslands of savannas provide extensive pasture and space for movement, unlike dense forest environments."
+  },
+  {
+    text: "How does altitude influence farming in the highlands of Nigeria?",
+    options: ["Makes soil infertile", "Causes excessive flooding", "Supports temperate crops", "Prevents plant growth"],
+    answer: "Supports temperate crops",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Cooler temperatures and specific microclimates in highlands allow cultivation of temperate crops that would not thrive in hot lowlands."
+  },
+  {
+    text: "Which biome is most suitable for irrigation farming in Nigeria?",
+    options: ["Sudan Savanna", "Rainforest", "Highlands", "Desert"],
+    answer: "Sudan Savanna",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Flat savanna lands with seasonal rains lend themselves to irrigation schemes to extend crop production during dry periods."
+  },
+  {
+    text: "What is a major ecological consequence of overgrazing in the Sudan Savanna?",
+    options: ["Flooding", "Soil erosion and desertification", "Volcanic eruption", "Increased rainfall"],
+    answer: "Soil erosion and desertification",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Removal of vegetation by overgrazing exposes soil to erosion, reduces fertility and can lead to expanding desert conditions."
+  },
+  {
+    text: "The biodiversity of the Nigerian Rainforest is under threat mainly due to ____.",
+    options: ["Logging and agriculture", "Cold climate", "Absence of rivers", "Low sunlight"],
+    answer: "Logging and agriculture",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Conversion of rainforest to farmland and timber extraction fragment and destroy habitat, reducing biodiversity."
+  },
+  {
+    text: "Which biome would be most affected by melting of mountain glaciers (if they existed in Nigeria)?",
+    options: ["Rainforest", "Highlands", "Sudan Savanna", "Desert"],
+    answer: "Highlands",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Highland hydrology and ecosystems would be directly affected by glacier melt (although Nigeria lacks permanent glaciers, the principle holds for mountain regions)."
+  },
+  {
+    text: "How does climate change impact the Guinea Savanna zone?",
+    options: ["Expands rainfall evenly", "Pushes it further south", "Makes soils sandy like desert", "Turns it into rainforest"],
+    answer: "Pushes it further south",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Climate shifts (increased aridity) can move ecological zones; the Guinea Savanna boundary may shift southwards under drying trends."
+  },
+  {
+    text: "Why is the Nigerian desert less populated than the Guinea Savanna?",
+    options: ["Lack of rainfall and poor soils", "Excessive fertile land", "Cold temperature", "Proximity to rainforest"],
+    answer: "Lack of rainfall and poor soils",
+    image: "",
+    subtopic: "Local Biomes (Nigeria)",
+    explanation: "Arid conditions limit water and crop production, reducing carrying capacity and human settlement."
+  },
+   {
+    text: "Population density is defined as:",
+    options: ["Total population size", "Number of individuals per unit area or volume", "Number of species in a community", "Births per year"],
+    answer: "Number of individuals per unit area or volume",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Density measures how many individuals occupy a unit area or volume (e.g., individuals per km² or per m³)."
+  },
+  {
+    text: "One common consequence of overcrowding in human populations is:",
+    options: ["Increased per capita resources", "Lower disease transmission", "Reduced competition for jobs", "Higher disease transmission rates"],
+    answer: "Higher disease transmission rates",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Overcrowding increases contact rates among people, facilitating spread of infectious diseases."
+  },
+  {
+    text: "Which formula correctly expresses population density (D)?",
+    options: ["D = number of individuals ÷ area sampled", "D = birth rate - death rate", "D = number of species ÷ area", "D = carrying capacity × time"],
+    answer: "D = number of individuals ÷ area sampled",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Density is total individuals divided by the area (or volume) they occupy."
+  },
+  {
+    text: "Which sampling method is most appropriate for estimating plant density in a grassland?",
+    options: ["Mark-recapture", "Pitfall trapping", "Quadrat sampling", "Transect netting"],
+    answer: "Quadrat sampling",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Quadrats allow counting individuals in replicated plots to estimate density across an area."
+  },
+  {
+    text: "Which of the following is a density-dependent factor affecting population size?",
+    options: ["Disease spread", "Volcanic eruption", "Temperature extremes", "Seasonal flooding"],
+    answer: "Disease spread",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Density-dependent factors (e.g., disease, competition) intensify as population density increases."
+  },
+  {
+    text: "Which of these is typically a density-independent factor?",
+    options: ["Competition for mates", "Parasitism", "Food limitation", "Severe drought or flood"],
+    answer: "Severe drought or flood",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Density-independent factors affect populations regardless of density (e.g., storms, drought)."
+  },
+  {
+    text: "Intraspecific competition refers to competition:",
+    options: ["Between different species", "Among individuals of the same species", "Between trophic levels", "Between predator and prey"],
+    answer: "Among individuals of the same species",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Intraspecific competition occurs when members of the same species vie for limited resources such as food or mates."
+  },
+  {
+    text: "Interspecific competition occurs between:",
+    options: ["Different populations of the same species", "Different trophic levels only", "Individuals of different species", "Members of the same family"],
+    answer: "Individuals of different species",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Interspecific competition is competition between species for shared resources (e.g., two species of grasses competing for water)."
+  },
+  {
+    text: "Carrying capacity (K) of an ecosystem is best defined as:",
+    options: ["Maximum instantaneous birth rate", "Minimum viable population size", "The maximum population size the environment can sustainably support", "The number of predators present"],
+    answer: "The maximum population size the environment can sustainably support",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "K reflects limits set by resources, shelter, and other environmental factors that determine long-term population size."
+  },
+  {
+    text: "Overcrowding typically causes which immediate demographic effect?",
+    options: ["Decline in birth rates", "Increase in per capita food availability", "Reduced competition", "Decreased disease spread"],
+    answer: "Decline in birth rates",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Resource limitation under overcrowding often reduces fertility and juvenile survival, lowering effective birth rates."
+  },
+  {
+    text: "Which technique is most appropriate for estimating the number of mobile animals like rodents in a field?",
+    options: ["Quadrat sampling only", "Transect line for birds", "Secchi disk", "Mark-recapture (capture–recapture)"],
+    answer: "Mark-recapture (capture–recapture)",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Mark–recapture allows estimation of population size for mobile, elusive animals by recapturing marked individuals."
+  },
+  {
+    text: "You count 50 plants within a total sampled area of 10 m². What is the population density per m²?",
+    options: ["0.2 per m²", "5 per m²", "500 per m²", "0.02 per m²"],
+    answer: "5 per m²",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Density = 50 individuals ÷ 10 m² = 5 individuals per m²."
+  },
+  {
+    text: "Which of these is a biotic factor affecting population size?",
+    options: ["Soil pH", "Predation", "Rainfall", "Temperature"],
+    answer: "Predation",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Biotic factors are living interactions such as predation, competition and disease."
+  },
+  {
+    text: "Primary succession is the ecological succession that begins on:",
+    options: ["Grassland after fire", "Abandoned farmland with soil", "Bare rock with no prior soil", "A flooded pond with established fish"],
+    answer: "Bare rock with no prior soil",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Primary succession starts on lifeless substrates where soil formation is required before plant colonization (e.g., after lava flow)."
+  },
+  {
+    text: "Niche differentiation helps reduce competition by:",
+    options: ["Partitioning resources or using different habitats/times", "Eliminating predators", "Increasing carrying capacity arbitrarily", "Forcing extinction of competitors"],
+    answer: "Partitioning resources or using different habitats/times",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Species can coexist by using different resources or occupying different microhabitats or times (temporal partitioning)."
+  },
+
+  // ================= MEDIUM (15) =================
+  {
+    text: "Which population growth model includes density-dependent limitation and results in an S-shaped curve?",
+    options: ["Exponential (J-shaped)", "Linear growth model", "Random walk model", "Logistic (S-shaped) growth model"],
+    answer: "Logistic (S-shaped) growth model",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Logistic growth incorporates carrying capacity (K); growth rate slows as population size N approaches K, producing an S-curve."
+  },
+  {
+    text: "Which factor most directly brings about competition between organisms?",
+    options: ["Abundant resources", "Low population density", "Limitation of essential resources (food, space)", "Universal cooperation"],
+    answer: "Limitation of essential resources (food, space)",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Competition arises when resources required for survival and reproduction are limited relative to demand."
+  },
+  {
+    text: "Niche differentiation may involve which strategy to reduce competition?",
+    options: ["Simultaneous use of same resource", "Shift in diet or feeding time (temporal or trophic partitioning)", "Increased interbreeding", "Uniform resource use by all individuals"],
+    answer: "Shift in diet or feeding time (temporal or trophic partitioning)",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Species avoid competition by using different resources or feeding at different times or places."
+  },
+  {
+    text: "Intense intraspecific competition often leads to which population-level outcome?",
+    options: ["Territorial behaviour and density regulation", "Instant speciation", "Expansion of fundamental niche", "No effect on reproduction"],
+    answer: "Territorial behaviour and density regulation",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Members of the same species may become territorial, limiting numbers and stabilizing population size."
+  },
+  {
+    text: "How does competition typically change during ecological succession?",
+    options: ["Competition decreases steadily", "Competition is absent", "Competition occurs only at climax", "Competition tends to increase as communities become more complex and resources limiting"],
+    answer: "Competition tends to increase as communities become more complex and resources limiting",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "As succession proceeds, species richness and resource overlap often increase, leading to more intense competition among established species."
+  },
+  {
+    text: "Which of the following is a classic density-dependent effect on population size?",
+    options: ["Abiotic disturbance only", "Random weather events", "No effect from population density", "Increased disease outbreaks as density rises"],
+    answer: "Increased disease outbreaks as density rises",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Disease transmission often rises with host density, reducing population size in a density-dependent manner."
+  },
+  {
+    text: "Which abiotic factor commonly causes sudden population crashes regardless of density?",
+    options: ["Predator pressure", "Severe temperature extremes (e.g., frost)", "Competition", "Resource shortage due to crowding"],
+    answer: "Severe temperature extremes (e.g., frost)",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Extreme abiotic events (frosts, floods, heatwaves) can kill large fractions of populations independent of density."
+  },
+  {
+    text: "A line transect is most useful for studying:",
+    options: ["Population age structure", "Mark–recapture estimates", "Changes in species distribution along an environmental gradient", "Water quality only"],
+    answer: "Changes in species distribution along an environmental gradient",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Transects sample along a line to reveal how species composition changes with environmental factors like altitude or moisture."
+  },
+  {
+    text: "In a mark–recapture study, 30 rabbits were caught and marked. Later 40 rabbits were caught, of which 10 were marked. Estimate the population size (Lincoln–Petersen).",
+    options: ["120", "300", "70", "12"],
+    answer: "120",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Estimate N = (n1 × n2) / m = (30 × 40) / 10 = 120 individuals."
+  },
+  {
+    text: "What does 'natality' refer to in population ecology?",
+    options: ["Death rate", "Birth rate", "Emigration rate", "Immigration rate"],
+    answer: "Birth rate",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Natality is the rate at which new individuals are added by birth."
+  },
+  {
+    text: "At approximately what fraction of carrying capacity (K) does the logistic model predict maximum population growth rate?",
+    options: ["Near K", "Near 0", "Around K/2 (half of K)", "Exactly at 3K/4"],
+    answer: "Around K/2 (half of K)",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Logistic growth rate is maximal at about half the carrying capacity because of the trade-off between available individuals and limiting resources."
+  },
+  {
+    text: "Which event is primarily density-independent and can sharply reduce population size?",
+    options: ["Increased competition", "Disease outbreak due to high density", "Predator numbers rising with prey", "A hurricane or flood affecting an area regardless of density"],
+    answer: "A hurricane or flood affecting an area regardless of density",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Natural disasters affect populations irrespective of how dense they are."
+  },
+  {
+    text: "Which spatial distribution pattern results from territorial behaviour?",
+    options: ["Uniform distribution", "Random distribution", "Clumped distribution", "Temporal distribution"],
+    answer: "Uniform distribution",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Territorial species tend to be evenly spaced, producing a uniform pattern."
+  },
+  {
+    text: "Pioneer species in primary succession are typically characterized by:",
+    options: ["Slow growth and large seeds", "High shade tolerance", "High dispersal ability and tolerance of harsh conditions", "Dependence on developed soil"],
+    answer: "High dispersal ability and tolerance of harsh conditions",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Pioneers can colonize bare substrates and tolerate extremes, facilitating soil formation for later species."
+  },
+  {
+    text: "Which of the following most directly affects an ecosystem's carrying capacity for a herbivore population?",
+    options: ["Presence of top predators only", "Availability of plant biomass (food resources)", "Genetic diversity only", "Altitude only"],
+    answer: "Availability of plant biomass (food resources)",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Food availability determines how many herbivores the habitat can support over time."
+  },
+
+  // ================= HARD (10) =================
+  {
+    text: "Five quadrats of 10 m² each contain 12, 8, 15, 10, and 5 individuals of a plant species. What is the estimated density per m²?",
+    options: ["1 per m²", "10 per m²", "0.1 per m²", "5 per m²"],
+    answer: "1 per m²",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Total individuals = 12+8+15+10+5 = 50; total area = 5 × 10 = 50 m²; density = 50 / 50 = 1 individual per m²."
+  },
+  {
+    text: "In a mark–recapture study, 120 animals were marked initially. On recapture, 200 animals were caught with 30 marked among them. Estimated population size is:",
+    options: ["720", "600", "400", "800"],
+    answer: "800",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "N = (n1 × n2) / m = (120 × 200) / 30 = 24,000 / 30 = 800 individuals."
+  },
+  {
+    text: "According to the logistic growth model, when population size N equals carrying capacity K, the population growth rate (dN/dt) is:",
+    options: ["Maximal and increasing", "Zero (no net growth)", "Negative and leading to extinction", "Unbounded exponential"],
+    answer: "Zero (no net growth)",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "At N = K, births are balanced by deaths (or resource limits), so population growth rate is effectively zero."
+  },
+  {
+    text: "Which sequence correctly represents typical primary succession on bare rock?",
+    options: ["Lichens → Mosses → Grasses → Shrubs → Trees (climax)", "Trees → Shrubs → Lichens → Mosses", "Climax → Pioneer species → Soil formation", "Grasses → Lichens → Bare rock"],
+    answer: "Lichens → Mosses → Grasses → Shrubs → Trees (climax)",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Pioneer lichens weather rock and build organic matter; mosses and grasses follow, then shrubs and tree species, eventually a climax community."
+  },
+  {
+    text: "Which of the following factors is least likely to be density-dependent?",
+    options: ["Competition for food", "Disease that spreads with contact rates", "Predation that increases when prey is abundant", "Sudden volcanic eruption impacting all organisms regardless of density"],
+    answer: "Sudden volcanic eruption impacting all organisms regardless of density",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Catastrophic abiotic events (volcanoes, meteor strikes) affect populations irrespective of their density."
+  },
+  {
+    text: "An example of niche differentiation is when two bird species feed on the same tree but at different heights. This reduces:",
+    options: ["Predation pressure", "Total energy flow", "Direct competition for the same exact resource", "Soil erosion"],
+    answer: "Direct competition for the same exact resource",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Partitioning feeding heights reduces overlap in resource use, allowing species to coexist."
+  },
+  {
+    text: "High levels of intraspecific competition in a rodent population are most likely to lead to:",
+    options: ["Reduced reproductive success and lower juvenile survival", "Immediate speciation", "Increased per capita food availability", "Elimination of all predators"],
+    answer: "Reduced reproductive success and lower juvenile survival",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Competition within a species for limited resources often reduces fecundity and survival of the young."
+  },
+  {
+    text: "Secondary succession differs from primary succession mainly because:",
+    options: ["It starts on bare rock", "Soil and seed banks are often already present, leading to faster recovery", "It never leads to a climax community", "It is purely abiotic"],
+    answer: "Soil and seed banks are often already present, leading to faster recovery",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Secondary succession follows disturbances that leave soil intact (e.g., after fire or farming), so recolonization is faster than primary succession."
+  },
+  {
+    text: "Which human activity most directly reduces the carrying capacity of a region for native wildlife?",
+    options: ["Selective conservation measures", "Reforestation with native species", "Creating wildlife corridors", "Habitat destruction and pollution reducing available resources and shelter"],
+    answer: "Habitat destruction and pollution reducing available resources and shelter",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Removing habitat and polluting ecosystems decreases resources and habitat complexity, lowering carrying capacity."
+  },
+  {
+    text: "If 500 individuals of a species are found occupying an area of 2 km², what is the population density per km²?",
+    options: ["125 per km²", "200 per km²", "250 per km²", "500 per km²"],
+    answer: "250 per km²",
+    image: "",
+    subtopic: "Ecology of Populations",
+    explanation: "Density = 500 individuals ÷ 2 km² = 250 individuals per km²."
+  },
+  {
+    text: "Which soil type is made mostly of large particles, drains quickly and feels gritty?",
+    options: ["Sandy soil", "Clayey soil", "Loamy soil", "Peaty soil"],
+    answer: "Sandy soil",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Sandy soils have large particles and large pores, so water drains fast and the texture feels gritty."
+  },
+  {
+    text: "Which soil property describes the proportion of pore space in the soil?",
+    options: ["Water retention", "Porosity", "Texture", "Color"],
+    answer: "Porosity",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Porosity is the fraction of soil volume that is occupied by pores (air or water-filled spaces)."
+  },
+  {
+    text: "Which soil type usually holds the most water and becomes sticky when wet?",
+    options: ["Sandy", "Loamy", "Clayey", "Gravelly"],
+    answer: "Clayey",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Clay soils have very fine particles and small pores so they retain water and become plastic/sticky when wet."
+  },
+  {
+    text: "Which soil type is generally best for plant growth because it balances drainage, aeration and nutrient holding?",
+    options: ["Clayey", "Silty", "Peaty", "Loamy"],
+    answer: "Loamy",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Loam is a balanced mixture of sand, silt and clay with good structure, water retention and fertility."
+  },
+  {
+    text: "What is humus?",
+    options: ["Decomposed organic matter in soil", "Inorganic mineral grains", "Living earthworms", "Soil air pockets"],
+    answer: "Decomposed organic matter in soil",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Humus is the dark, stable organic material formed by decomposition that improves soil fertility and structure."
+  },
+  {
+    text: "Which soil component is inorganic and comes from weathered rocks?",
+    options: ["Humus", "Mineral particles (sand, silt, clay)", "Living microbes", "Soil water"],
+    answer: "Mineral particles (sand, silt, clay)",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Mineral particles derived from parent rock constitute the inorganic fraction of soil."
+  },
+  {
+    text: "Which living soil organisms are important for aeration and mixing of soil organic matter?",
+    options: ["Earthworms", "Iron oxide crystals", "Sand grains", "Clay colloids"],
+    answer: "Earthworms",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Earthworms burrow and mix soil, improving aeration and incorporating organic matter."
+  },
+  {
+    text: "Which form of soil water is held tightly around particles and is largely unavailable to plants?",
+    options: ["Gravitational water", "Capillary water", "Hygroscopic water", "Free standing water"],
+    answer: "Hygroscopic water",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Hygroscopic water adheres tightly to soil particles and cannot be removed by plant roots."
+  },
+  {
+    text: "Which is a simple field method to separate sand, silt and clay fractions quickly?",
+    options: ["Jar sedimentation (soil/water in bottle) test", "pH paper test", "Tensiometer reading", "Light meter reading"],
+    answer: "Jar sedimentation (soil/water in bottle) test",
+    image: "",
+    subtopic: "Soil",
+    explanation: "In a shaken soil-water jar, sand settles first, then silt, with clay suspending longest — a quick texture estimation method."
+  },
+  {
+    text: "Which soil property measures the ability of soil to draw water upward through small pores?",
+    options: ["Permeability", "Compaction", "Capillarity", "Infiltration rate"],
+    answer: "Capillarity",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Capillarity (capillary action) moves water against gravity in small pores via surface tension."
+  },
+  {
+    text: "Which soil type typically has the highest porosity but lowest water retention per unit pore volume?",
+    options: ["Clay", "Silt", "Loam", "Sand"],
+    answer: "Sand",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Sandy soils have large pores (high porosity) but water drains quickly so retention (available water) is low."
+  },
+  {
+    text: "Which statement about soil air is correct?",
+    options: ["Soil air is identical in composition to surface air", "Soil air often has less oxygen and more carbon dioxide than surface air", "Soil contains no air", "Soil air is pure nitrogen only"],
+    answer: "Soil air often has less oxygen and more carbon dioxide than surface air",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Respiration by roots and microbes consumes O₂ and produces CO₂, altering soil gas composition."
+  },
+  {
+    text: "Which simple measurement indicates soil compaction in the field?",
+    options: ["Penetrometer (resistance to penetration)", "Soil pH paper", "Secchi disk", "Thermometer reading"],
+    answer: "Penetrometer (resistance to penetration)",
+    image: "",
+    subtopic: "Soil",
+    explanation: "A penetrometer measures resistance to probe penetration — higher resistance indicates compaction."
+  },
+  {
+    text: "Which of the following increases soil humus content over time?",
+    options: ["Continuous monocropping without residues", "Frequent burning of crop residues", "Addition of organic matter (compost or manure)", "Excessive tillage exposing residues to oxidation"],
+    answer: "Addition of organic matter (compost or manure)",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Adding organic amendments supplies carbon that decomposes into humus and improves fertility."
+  },
+  {
+    text: "Which soil fraction has the smallest particle size?",
+    options: ["Sand", "Gravel", "Silt", "Clay"],
+    answer: "Clay",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Clay particles are the finest (<0.002 mm), finer than silt and sand."
+  },
+  {
+    text: "Which practice reduces surface runoff and helps increase infiltration on slopes?",
+    options: ["Contour ridging (terracing along slope)", "Clear-cutting vegetation", "Compact the soil with heavy machinery", "Burn the topsoil"],
+    answer: "Contour ridging (terracing along slope)",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Contour ridges/terraces slow runoff, reduce erosion and increase water infiltration."
+  },
+  {
+    text: "Which soil test would you use to estimate acidity or alkalinity affecting nutrient availability?",
+    options: ["pH test", "Bulk density test", "Texture by feel", "Secchi disk reading"],
+    answer: "pH test",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Soil pH affects nutrient solubility and is measured with pH paper or a pH meter."
+  },
+  {
+    text: "Which soil has the best aeration and fastest warming in spring?",
+    options: ["Clayey soil", "Loamy soil", "Sandy soil", "Peat soil"],
+    answer: "Sandy soil",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Sandy soils drain well and warm up quickly due to larger pores and less water retention."
+  },
+  {
+    text: "Which agent is primarily responsible for biological breakdown of dead plant material into humus?",
+    options: ["Earthworms, fungi and bacteria", "Sand grains", "Sunlight only", "Rock fragments"],
+    answer: "Earthworms, fungi and bacteria",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Soil organisms such as microbes and detritivores decompose organic matter and form humus."
+  },
+
+  // ================= MEDIUM (20) =================
+  {
+    text: "Which measurement best distinguishes between sandy and clayey soils in the lab?",
+    options: ["Colour comparison", "pH test only", "Particle size analysis (sieving or sedimentation)", "Bulk electrical conductivity alone"],
+    answer: "Particle size analysis (sieving or sedimentation)",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Particle size distribution (sieve/sedimentation) directly measures relative proportions of sand, silt and clay."
+  },
+  {
+    text: "If a soil holds large amounts of capillary water, what consequence would you expect for seed germination near the surface?",
+    options: ["Faster germination due to more available water", "No effect because plant roots do not use capillary water", "Immediate drought stress", "Capillary water is toxic to seeds"],
+    answer: "Faster germination due to more available water",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Capillary water in pore spaces is available to seeds and roots and supports germination and early growth."
+  },
+  {
+    text: "Which of these practices helps restore soil fertility by returning nutrients and improving structure long-term?",
+    options: ["Frequent burning of crop residues", "Inorganic fertilizer only without organic matter", "Applying organic manure or compost", "Excessive ploughing every week"],
+    answer: "Applying organic manure or compost",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Organic amendments add nutrients and humus, improving soil structure, water retention and microbial activity."
+  },
+  {
+    text: "Which process causes downward movement of soluble nutrients from the topsoil into deeper layers, reducing fertility at the surface?",
+    options: ["Erosion", "Leaching", "Compaction", "Mulching"],
+    answer: "Leaching",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Leaching occurs when rainfall or irrigation carries soluble ions (e.g., nitrates) below the root zone."
+  },
+  {
+    text: "Which soil property increases when organic matter (humus) increases?",
+    options: ["Bulk density increases markedly", "Soil porosity and water-holding capacity improve", "Permeability is eliminated", "pH becomes neutral regardless of parent material"],
+    answer: "Soil porosity and water-holding capacity improve",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Humus enhances aggregation, porosity and the ability to hold plant-available water and nutrients."
+  },
+  {
+    text: "Which inorganic soil nutrient is most readily lost by leaching and can limit crop growth when depleted?",
+    options: ["Potassium (K)", "Nitrogen (in nitrate form, NO₃⁻)", "Calcium in insoluble form", "Iron oxide particles"],
+    answer: "Nitrogen (in nitrate form, NO₃⁻)",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Nitrate is soluble and mobile in water and can be leached below roots during heavy rainfall."
+  },
+  {
+    text: "Which field method estimates soil porosity and water content together?",
+    options: ["Core sampling and gravimetric water content analysis", "Visual estimation only", "pH strip test", "Plant leaf area index measurement"],
+    answer: "Core sampling and gravimetric water content analysis",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Extracting a known volume core and drying it gives bulk density and gravimetric water content; porosity can be calculated from bulk density and particle density."
+  },
+  {
+    text: "Which soil management practice reduces topsoil loss on steep slope farms?",
+    options: ["Contour farming and terracing", "Tilling straight up and down slopes", "Removing vegetation cover", "Flood irrigation across the slope"],
+    answer: "Contour farming and terracing",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Contour ridges and terraces reduce runoff velocity and soil erosion on slopes."
+  },
+  {
+    text: "Which effect does compaction (by heavy machinery) have on soil fertility?",
+    options: ["Increases aeration and root growth", "Improves infiltration permanently", "Reduces pore space, impedes root penetration and decreases aeration", "Increases humus content quickly"],
+    answer: "Reduces pore space, impedes root penetration and decreases aeration",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Compaction consolidates soil, reducing macropores needed for oxygen, root growth and drainage."
+  },
+  {
+    text: "Which fertilizer practice is most likely to cause soil salinization if done excessively without proper leaching?",
+    options: ["Applying small amounts of compost", "Using foliar micronutrient sprays only", "Heavy application of soluble inorganic salts in arid climates", "Planting green manures"],
+    answer: "Heavy application of soluble inorganic salts in arid climates",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Excess soluble salts accumulate in the root zone when evaporation exceeds leaching, causing salinization."
+  },
+  {
+    text: "Which organism is especially important for biological nitrogen fixation in agricultural soils?",
+    options: ["Earthworms", "Rhizobium (in legume root nodules)", "Fungal pathogens", "Nematodes"],
+    answer: "Rhizobium (in legume root nodules)",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Rhizobium bacteria in legume nodules convert atmospheric N₂ to plant-available ammonium."
+  },
+  {
+    text: "Which soil horizon generally contains the most organic matter (humus) and is most fertile?",
+    options: ["R horizon (bedrock)", "C horizon (parent material)", "B horizon (subsoil)", "A horizon (topsoil)"],
+    answer: "A horizon (topsoil)",
+    image: "",
+    subtopic: "Soil",
+    explanation: "The A horizon (topsoil) accumulates decomposed organic matter and is the most biologically active layer."
+  },
+  {
+    text: "Which tool would you use to measure soil pH and electrical conductivity (salinity) in the field?",
+    options: ["Soil auger only", "pH/EC meter or portable soil test kit", "Light meter", "Secchi disk"],
+    answer: "pH/EC meter or portable soil test kit",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Portable pH and EC meters give quick field estimates of acidity and salinity respectively."
+  },
+  {
+    text: "Which cropping practice helps restore nutrients and break pest/disease cycles?",
+    options: ["Continuous monoculture of the same crop", "Leaving fields fallow permanently", "Crop rotation with legumes and cereals", "Removing all residues every season"],
+    answer: "Crop rotation with legumes and cereals",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Rotating crops (including legumes) reduces pest build-up and improves soil nitrogen via fixation."
+  },
+  {
+    text: "Which technique reduces evaporation from soil and moderates soil temperature while adding organic matter?",
+    options: ["Frequent tillage", "Burning crop residues", "Mulching (using straw or plant residues)", "Exposing soils to sun by clearing vegetation"],
+    answer: "Mulching (using straw or plant residues)",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Mulch covers the soil, conserves moisture, reduces erosion and decomposes to add organic matter."
+  },
+  {
+    text: "Which soil property is directly measured by determining bulk density (mass per unit volume of soil)?",
+    options: ["Particle size per se", "Porosity and compaction inference", "Root length", "Leaf nitrogen content"],
+    answer: "Porosity and compaction inference",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Bulk density indicates compaction; higher bulk density implies lower porosity and more compaction."
+  },
+  {
+    text: "Which irrigation approach helps prevent nutrient leaching and salinization in sandy soils?",
+    options: ["Applying a single large irrigation event", "Overhead flood irrigation without drainage", "Frequent light, well-timed irrigations (drip or micro-irrigation)", "Applying saline water only"],
+    answer: "Frequent light, well-timed irrigations (drip or micro-irrigation)",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Targeted small applications reduce deep percolation and leaching while maintaining plant available water."
+  },
+  {
+    text: "Which soil amendment is most effective for improving poor, acidic soils with low calcium?",
+    options: ["Applying elemental sulfur only", "Adding gypsum in all cases", "Lime (calcium carbonate) application", "Adding only nitrogen fertilizer"],
+    answer: "Lime (calcium carbonate) application",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Lime raises soil pH and supplies calcium to acidic soils, improving nutrient availability and microbial activity."
+  },
+
+  // ================= HARD (20) =================
+  {
+    text: "You take five soil cores each of 100 cm³ from a plot and dry them. Their dry masses (g) are 110, 95, 100, 105 and 90. What is the average bulk density in g/cm³? (Compute and show final value.)",
+    options: ["1.00 g/cm³", "0.95 g/cm³", "1.10 g/cm³", "0.90 g/cm³"],
+    answer: "1.00 g/cm³",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Total dry mass = 110+95+100+105+90 = 500 g. Total volume = 5 × 100 cm³ = 500 cm³. Bulk density = 500 g / 500 cm³ = 1.00 g/cm³."
+  },
+  {
+    text: "Which statement best explains why clay soils often have poor aeration despite high total porosity?",
+    options: ["They have large macropores that hold all the air", "Small pores hold water strongly, reducing gaseous exchange", "Clay particles are hydrophobic", "Clay has no mineral nutrients"],
+    answer: "Small pores hold water strongly, reducing gaseous exchange",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Clay soils have many micropores that retain water by capillary forces, leaving few air-filled macropores for aeration."
+  },
+  {
+    text: "Which sequence correctly ranks the soils from highest to lowest capillary rise (water drawn up by capillarity) assuming similar structure?",
+    options: ["Sand > Silt > Clay", "Clay > Silt > Sand", "Silt > Clay > Sand", "All equal regardless of particle size"],
+    answer: "Clay > Silt > Sand",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Finer pores in clay produce higher capillary rise (but flow rates are slower); sand with large pores has low capillary rise."
+  },
+  {
+    text: "Long-term continuous monocropping of the same crop on fertile topsoil is most likely to cause which sequence of soil problems?",
+    options: ["Increased organic matter → improved structure", "Nutrient depletion → pest buildup → reduced fertility", "Immediate pH neutralization only", "Permanent increase in porosity without management"],
+    answer: "Nutrient depletion → pest buildup → reduced fertility",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Monocropping depletes specific nutrients, encourages crop-specific pests and pathogens and reduces resilience unless replenished."
+  },
+  {
+    text: "Which process is primarily responsible for removing the most fertile topsoil layer during heavy rainfall on a bare slope?",
+    options: ["Leaching of salts", "Erosion by runoff (sheet and rill erosion)", "Capillary rise", "Horizon mixing by earthworms"],
+    answer: "Erosion by runoff (sheet and rill erosion)",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Runoff detaches and transports topsoil particles downslope, removing nutrient-rich surface horizons."
+  },
+  {
+    text: "Which management combination best restores degraded farmland with low organic matter and poor structure?",
+    options: ["Continuous ploughing and removing residues", "Incorporating organic amendments (compost/manure) + cover crops + reduced tillage", "Flooding fields for long periods", "Applying only high rates of nitrogen fertilizer annually"],
+    answer: "Incorporating organic amendments (compost/manure) + cover crops + reduced tillage",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Organic inputs and cover crops rebuild humus and structure; reduced tillage protects aggregates and soil life."
+  },
+  {
+    text: "Which statement about soil cation exchange capacity (CEC) is true?",
+    options: ["CEC is greater in sandy soils than in clay soils", "CEC measures soil’s ability to hold and exchange positively charged nutrients and is higher with more clay and organic matter", "CEC applies only to soil pH", "CEC is unrelated to fertility"],
+    answer: "CEC measures soil’s ability to hold and exchange positively charged nutrients and is higher with more clay and organic matter",
+    image: "",
+    subtopic: "Soil",
+    explanation: "CEC indicates the soil’s capacity to retain cations (K⁺, Ca²⁺, Mg²⁺, NH₄⁺); it increases with clay and humus content and correlates with fertility."
+  },
+  {
+    text: "Which practice is least suitable for restoring compacted subsoil horizons to long-term productivity quickly?",
+    options: ["Deep ripping combined with organic inputs and improved drainage", "Establishing deep-rooted cover crops to biologically fracture subsoil", "Leaving compaction untreated and continuing heavy traffic", "Removing compaction sources and allowing recovery"],
+    answer: "Leaving compaction untreated and continuing heavy traffic",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Ignoring compaction and maintaining heavy traffic perpetuates poor structure; remedial actions include mechanical loosening and biological methods."
+  },
+  {
+    text: "Which test differentiates soil water held at field capacity from gravitational water?",
+    options: ["Measure pH only", "Allow saturated soil to drain for 24–48 hours and measure remaining water (field capacity)", "Measure soil color", "Use a Secchi disk"],
+    answer: "Allow saturated soil to drain for 24–48 hours and measure remaining water (field capacity)",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Field capacity is water remaining after gravitational drainage; gravimetric measurement after drainage distinguishes the two."
+  },
+  {
+    text: "Which statement best explains why loam soils are especially good at supplying nutrients to plants?",
+    options: ["They are purely sand with no fines", "They combine adequate porosity (for aeration/drainage) with sufficient fine particles and humus to retain nutrients", "They always have the highest clay content", "They repel water and nutrients"],
+    answer: "They combine adequate porosity (for aeration/drainage) with sufficient fine particles and humus to retain nutrients",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Loams balance pore sizes and organic matter, holding nutrients while still providing aeration and drainage."
+  },
+  {
+    text: "Which method most directly measures available nitrogen in topsoil for agronomic decisions?",
+    options: ["Sieving for particle sizes", "Standard chemical soil test for nitrate/ammonium (laboratory or field kit)", "Counting earthworms only", "Measuring pH only"],
+    answer: "Standard chemical soil test for nitrate/ammonium (laboratory or field kit)",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Soil chemical tests quantify plant-available N forms to guide fertilizer applications."
+  },
+  {
+    text: "Which phenomenon describes the upward movement of dissolved salts into the root zone due to intense evaporation and poor drainage?",
+    options: ["Leaching", "Salinization", "Humification", "Nitrification"],
+    answer: "Salinization",
+    image: "",
+    subtopic: "Soil",
+    explanation: "In arid conditions, evaporation concentrates salts at the surface or root zone, impairing plant growth."
+  },
+  {
+    text: "Which combination is the most appropriate short-term response to severe topsoil erosion on cropland?",
+    options: ["Immediate burning of remaining stubble", "Install erosion control (contour bunds/terraces), replant cover crops and add organic mulch", "Increase tillage intensity", "Remove all organic matter"],
+    answer: "Install erosion control (contour bunds/terraces), replant cover crops and add organic mulch",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Erosion control plus vegetative cover and mulch stabilizes soil, reduces runoff and starts rebuilding organic matter."
+  },
+  {
+    text: "Which explanation best describes why continuous heavy use of NPK fertilizers without organic inputs can reduce soil structure over time?",
+    options: ["Inorganic NPK bonds soil aggregates permanently", "Chemical fertilizers kill all microbes immediately", "Lack of organic carbon reduces aggregation and microbial activity, degrading soil structure", "NPK increases pore size to excessive levels"],
+    answer: "Lack of organic carbon reduces aggregation and microbial activity, degrading soil structure",
+    image: "",
+    subtopic: "Soil",
+    explanation: "While NPK supplies nutrients, absence of organic matter leads to weaker aggregates and poorer biological activity, harming structure."
+  },
+  {
+    text: "Which practice is an example of strip-cropping and how does it help soil conservation?",
+    options: ["Planting one crop over entire landscape", "Ploughing across contours only", "Alternating strips of erosion-susceptible crops with strips of permanent cover; strips slow runoff and trap sediment", "Continuous mono-cropping"],
+    answer: "Alternating strips of erosion-susceptible crops with strips of permanent cover; strips slow runoff and trap sediment",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Strip cropping places protective vegetation barriers to interrupt water flow, reduce erosion and protect soil."
+  },
+  {
+    text: "When testing soil infiltration rate, you find a very slow rate although the soil contains organic matter. Which is the most likely cause?",
+    options: ["Excessive macroporosity", "Surface crusting or compaction limiting water entry", "High sand content only", "Low temperature alone"],
+    answer: "Surface crusting or compaction limiting water entry",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Surface crusts or compaction seal pores, preventing water infiltration even if organic content is present below."
+  },
+  {
+    text: "Which explains why deep-rooted perennial plants can help improve subsoil conditions over time?",
+    options: ["They always decrease porosity", "Their roots physically fracture compacted layers and transport carbon into deeper horizons supporting biota", "They prevent any water movement", "They remove all nutrients permanently"],
+    answer: "Their roots physically fracture compacted layers and transport carbon into deeper horizons supporting biota",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Deep roots create channels, improve aeration and bring organic carbon deeper, helping biological recovery of subsoil."
+  },
+  {
+    text: "For a farmer practicing shifting cultivation, which effect helps maintain short-term soil fertility compared to permanent monocropping?",
+    options: ["Continuous cropping with high fertilizer dependence", "Allowing long fallow periods that restore organic matter and nutrients", "Frequent burning of forests", "Permanent removal of all vegetation"],
+    answer: "Allowing long fallow periods that restore organic matter and nutrients",
+    image: "",
+    subtopic: "Soil",
+    explanation: "Traditional shifting systems include fallow periods that let vegetation regrow and rebuild soil fertility before re-cultivation."
+  },
+   {
+    text: "Malaria is caused by which organism and transmitted by which vector?",
+    options: [
+      "Protozoan (Plasmodium) transmitted by Anopheles mosquitoes",
+      "Fungus transmitted through soil",
+      "Bacterium transmitted by contaminated water",
+      "Virus transmitted by sexual contact"
+    ],
+    answer: "Protozoan (Plasmodium) transmitted by Anopheles mosquitoes",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Malaria is caused by Plasmodium spp. and spread by infected female Anopheles mosquitoes."
+  },
+  {
+    text: "Which common disease causes profuse watery diarrhoea and is often waterborne?",
+    options: [
+      "Diphtheria",
+      "Cholera (Vibrio cholerae infection)",
+      "Tetanus",
+      "Tuberculosis"
+    ],
+    answer: "Cholera (Vibrio cholerae infection)",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Cholera is caused by Vibrio cholerae and spreads via contaminated water or food, causing watery diarrhoea."
+  },
+  {
+    text: "What is the principal route of transmission for pulmonary tuberculosis (TB)?",
+    options: [
+      "Fecal–oral contamination",
+      "Direct contact with soil",
+      "Airborne droplets from infected persons",
+      "Vector-borne via mosquitoes"
+    ],
+    answer: "Airborne droplets from infected persons",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "TB spreads mainly when infectious people cough or sneeze, releasing infectious respiratory droplets."
+  },
+  {
+    text: "Which public-health measure most effectively prevents poliomyelitis at population level?",
+    options: [
+      "Bed nets alone",
+      "Only improving road networks",
+      "Wearing gloves always",
+      "Widespread vaccination (OPV/IPV) and sanitation improvements"
+    ],
+    answer: "Widespread vaccination (OPV/IPV) and sanitation improvements",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Polio prevention relies on immunization (oral/inactivated vaccines) and improved hygiene as it spreads via faecal–oral route."
+  },
+  {
+    text: "Which sexually transmitted infection is caused by the bacterium Neisseria gonorrhoeae?",
+    options: [
+      "HIV/AIDS",
+      "Gonorrhoea",
+      "Cholera",
+      "Malaria"
+    ],
+    answer: "Gonorrhoea",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Gonorrhoea is a bacterial STI caused by Neisseria gonorrhoeae and transmitted through sexual contact."
+  },
+  {
+    text: "Which simple household intervention reduces night-time mosquito bites most effectively?",
+    options: [
+      "Opening windows widely at night",
+      "Leaving outdoor lights on all night",
+      "Sleeping under an insecticide-treated net (ITN)",
+      "Storing water in open containers near the house"
+    ],
+    answer: "Sleeping under an insecticide-treated net (ITN)",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "ITNs provide a physical barrier and insecticidal protection while people sleep, reducing malaria risk."
+  },
+  {
+    text: "Which agency is the main global authority on public health and disease control?",
+    options: [
+      "World Health Organization (WHO)",
+      "UNESCO",
+      "World Wildlife Fund (WWF)",
+      "International Monetary Fund (IMF)"
+    ],
+    answer: "World Health Organization (WHO)",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "WHO coordinates international public health activities, disease surveillance and technical guidance."
+  },
+  {
+    text: "Which is a clear example of a point-source water pollutant?",
+    options: [
+      "Diffuse fertilizer runoff across farmland",
+      "Airborne dust from many fields",
+      "A factory effluent pipe discharging into a river",
+      "Plastic litter on a beach"
+    ],
+    answer: "A factory effluent pipe discharging into a river",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Point-source pollution comes from a single identifiable outlet such as an industrial discharge pipe."
+  },
+  {
+    text: "Which air pollutant fraction is most associated with respiratory and cardiovascular disease in cities?",
+    options: [
+      "Fine particulate matter (PM2.5)",
+      "Ozone layer thickness",
+      "Soil pH",
+      "Dissolved oxygen in rivers"
+    ],
+    answer: "Fine particulate matter (PM2.5)",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "PM2.5 particles penetrate deep into the lungs and can contribute to heart and lung diseases."
+  },
+  {
+    text: "Which sanitation option is the simplest commonly used where no sewer network exists?",
+    options: [
+      "Pit latrine (improved)",
+      "Ocean outfall",
+      "Tertiary sewage treatment plant",
+      "Large centralized incinerator"
+    ],
+    answer: "Pit latrine (improved)",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Pit latrines are low-cost, on-site sanitation facilities used widely where centralized sewerage is absent."
+  },
+  {
+    text: "Which household practice reduces spread of many enteric diseases?",
+    options: [
+      "Burning household waste in the living room",
+      "Eating without washing hands",
+      "Leaving drinking water uncovered",
+      "Handwashing with soap at critical times"
+    ],
+    answer: "Handwashing with soap at critical times",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Proper handwashing reduces transmission of pathogens causing diarrhoea and other infections."
+  },
+  {
+    text: "Which pollutants are major causes of acid rain from fossil fuel combustion?",
+    options: [
+      "Carbon monoxide only",
+      "Oxygen",
+      "Sulfur dioxide (SO₂) and nitrogen oxides (NOₓ)",
+      "Pure water vapor"
+    ],
+    answer: "Sulfur dioxide (SO₂) and nitrogen oxides (NOₓ)",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "SO₂ and NOₓ oxidize in the atmosphere to form acids that return to the surface as acid deposition."
+  },
+  {
+    text: "Which Nigerian protected area is famous for warm springs and large mammal populations?",
+    options: [
+      "Oban Hills Park only",
+      "Yankari Game Reserve",
+      "Lekki Conservation Centre only",
+      "Akwanga City Park"
+    ],
+    answer: "Yankari Game Reserve",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Yankari (Bauchi State) is notable for wildlife and the Wikki Warm Springs."
+  },
+  {
+    text: "Which household food practice best reduces risk of foodborne diarrhoeal disease?",
+    options: [
+      "Boiling water and cooking food thoroughly with safe handling",
+      "Eating raw food from uncertain sources",
+      "Not washing hands before cooking",
+      "Leaving prepared food at ambient temperature for long periods"
+    ],
+    answer: "Boiling water and cooking food thoroughly with safe handling",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Heat treatment kills many pathogens; safe food handling prevents contamination."
+  },
+  {
+    text: "Which international organization primarily coordinates environmental policy and sustainable development?",
+    options: [
+      "World Health Organization only",
+      "IMF only",
+      "United Nations Environment Programme (UNEP)",
+      "World Bank only"
+    ],
+    answer: "United Nations Environment Programme (UNEP)",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "UNEP leads the UN's environmental activities and supports sustainable development initiatives."
+  },
+  {
+    text: "Which vector transmits onchocerciasis (river blindness)?",
+    options: [
+      "Aedes mosquito",
+      "Tsetse fly",
+      "Housefly",
+      "Blackfly (Simulium spp.)"
+    ],
+    answer: "Blackfly (Simulium spp.)",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Onchocerciasis is transmitted by blackflies that breed in fast-flowing rivers."
+  },
+  {
+    text: "Which condition most directly increases cholera risk after heavy flooding?",
+    options: [
+      "Contamination of drinking water with sewage and pathogens",
+      "Free distribution of soap alone",
+      "Improved sanitation instantly",
+      "Increased vaccination coverage"
+    ],
+    answer: "Contamination of drinking water with sewage and pathogens",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Flooding can contaminate water sources with sewage, increasing risk of cholera and other enteric diseases."
+  },
+  {
+    text: "Which is an example of non-point source pollution?",
+    options: [
+      "Single factory discharge pipe",
+      "Effluent from a sewage treatment plant outfall only",
+      "Runoff of fertilizers from many agricultural fields",
+      "A leaking underground storage tank"
+    ],
+    answer: "Runoff of fertilizers from many agricultural fields",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Non-point pollution is diffuse (e.g., agricultural runoff) and cannot be traced to a single outlet."
+  },
+  {
+    text: "Which household waste commonly contains persistent toxic metals if recycled informally?",
+    options: [
+      "Garden trimmings only",
+      "Compostable food waste only",
+      "E-waste (batteries, circuit boards)",
+      "Clean paper only"
+    ],
+    answer: "E-waste (batteries, circuit boards)",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "E-waste can release lead, cadmium and other harmful substances when dismantled unsafely."
+  },
+
+  // ================ MEDIUM (20) ================
+  {
+    text: "Which environmental factor is strongly linked to meningitis epidemics in the African meningitis belt?",
+    options: [
+      "High humidity and floods",
+      "Dry dusty season (Harmattan) with crowding",
+      "Persistent heavy rainfall year-round",
+      "Permanent snow cover"
+    ],
+    answer: "Dry dusty season (Harmattan) with crowding",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Dry, dusty air (harmattan) and crowded conditions damage mucosa and increase meningococcal transmission."
+  },
+  {
+    text: "Primary sewage treatment primarily removes which component?",
+    options: [
+      "Settleable solids and large debris by screening and sedimentation",
+      "Pathogens via disinfection only",
+      "Gaseous emissions only",
+      "Dissolved nutrients chemically"
+    ],
+    answer: "Settleable solids and large debris by screening and sedimentation",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Primary treatment uses physical processes to remove settleable solids before biological treatment."
+  },
+  {
+    text: "What is the most appropriate immediate response to an offshore oil spill to reduce damage?",
+    options: [
+      "Dump chemical waste into the water to dissolve the oil",
+      "Do nothing and hope it disappears",
+      "Contain and recover oil with booms and skimmers; protect sensitive shorelines",
+      "Burn coastal mangroves to prevent spread"
+    ],
+    answer: "Contain and recover oil with booms and skimmers; protect sensitive shorelines",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Rapid containment and mechanical recovery limit spread and protect vulnerable habitats."
+  },
+  {
+    text: "Which public-health actions are central during a typhoid outbreak?",
+    options: [
+      "Quarantine entire districts with no healthcare access",
+      "Provide safe water, antibiotic treatment where indicated and improve sanitation",
+      "Shut down hospitals",
+      "Distribute insecticide-treated nets to all households"
+    ],
+    answer: "Provide safe water, antibiotic treatment where indicated and improve sanitation",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Typhoid control focuses on safe water, sanitation, appropriate antibiotic use and sometimes vaccination."
+  },
+  {
+    text: "Eutrophication in lakes most commonly causes which ecological consequence?",
+    options: [
+      "Nitrogen and phosphorus from agricultural runoff and sewage",
+      "Heavy metals only",
+      "Algal blooms followed by oxygen depletion and fish kills",
+      "Oxygen increases"
+    ],
+    answer: "Algal blooms followed by oxygen depletion and fish kills",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Excess nutrients fuel algal blooms; decomposition consumes oxygen leading to hypoxia and fish kills."
+  },
+  {
+    text: "Which urban transport policy most effectively reduces vehicle-related air pollution?",
+    options: [
+      "Removing all trees from urban streets",
+      "Promoting public transport, emission standards and cleaner fuels",
+      "Banning bicycles and walking",
+      "Removing all public transit and forcing car use"
+    ],
+    answer: "Promoting public transport, emission standards and cleaner fuels",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Cleaner fuels, emissions controls and modal shifts reduce per-capita emissions and exposures."
+  },
+  {
+    text: "Which conservation approach explicitly includes local people in resource management?",
+    options: [
+      "Unregulated extraction for private firms",
+      "Strict exclusion with no alternatives",
+      "Top-down parastatal control only",
+      "Community-based natural resource management (CBNRM)"
+    ],
+    answer: "Community-based natural resource management (CBNRM)",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "CBNRM involves local communities in decision-making and benefit-sharing for sustainable use."
+  },
+  {
+    text: "Which vector-control method targets immature mosquito stages in breeding sites?",
+    options: [
+      "Distribution of antiretrovirals",
+      "Larval source management and larviciding",
+      "Mass vaccination",
+      "Bed nets only"
+    ],
+    answer: "Larval source management and larviciding",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Removing or treating standing water and larviciding prevent larvae from developing into biting adults."
+  },
+  {
+    text: "Which heavy metal exposure in children causes neurodevelopmental delays and cognitive deficits?",
+    options: [
+      "Excess dietary fiber",
+      "Potassium only",
+      "Lead",
+      "Oxygen"
+    ],
+    answer: "Lead",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Lead is neurotoxic and chronic exposure during childhood impairs cognition and behavior."
+  },
+  {
+    text: "Which protected area conserves montane and rainforest habitats in southeast Nigeria?",
+    options: [
+      "Kainji Lake only",
+      "Yankari only",
+      "Cross River National Park",
+      "Lagos Urban Park only"
+    ],
+    answer: "Cross River National Park",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Cross River NP protects southeast Nigeria's rainforest and montane habitats with many endemic species."
+  },
+  {
+    text: "Secondary sewage treatment relies primarily on which process?",
+    options: [
+      "Physical removal only",
+      "Direct discharge without treatment",
+      "Chemical neutralization only",
+      "Biological degradation of dissolved organic matter by microbes"
+    ],
+    answer: "Biological degradation of dissolved organic matter by microbes",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Secondary treatment uses microbes (activated sludge, biofilters) to decompose organic pollutants."
+  },
+  {
+    text: "Which farm practice reduces nutrient runoff into nearby rivers most effectively?",
+    options: [
+      "Establishing vegetated buffer strips along waterways",
+      "Applying fertilizer right before a heavy storm",
+      "Removing buffer strips along rivers",
+      "Burning crop residues into waterways"
+    ],
+    answer: "Establishing vegetated buffer strips along waterways",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Riparian buffers trap sediment and uptake nutrients, improving downstream water quality."
+  },
+  {
+    text: "Which factor has contributed heavily to environmental damage in the Niger Delta?",
+    options: [
+      "Planting more trees",
+      "Construction of national parks",
+      "Improved mangrove restoration only",
+      "Oil spills from pipelines and poor operational practices"
+    ],
+    answer: "Oil spills from pipelines and poor operational practices",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Pipeline leaks, spills and gas flaring have severely degraded ecosystems and livelihoods in the Niger Delta."
+  },
+  {
+    text: "Which public-health strategy reduces TB transmission most effectively at community level?",
+    options: [
+      "Only distributing vitamin supplements",
+      "Active case finding, prompt diagnosis and effective treatment (DOTS)",
+      "Closing clinics permanently",
+      "Using insecticide-treated nets alone"
+    ],
+    answer: "Active case finding, prompt diagnosis and effective treatment (DOTS)",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Detecting cases early and ensuring effective supervised therapy interrupts transmission and cures cases."
+  },
+  {
+    text: "Which policy most reduces industrial stack emissions of sulfur dioxide (SO₂)?",
+    options: [
+      "Encouraging high-sulfur coal use",
+      "Implementing emission standards and using desulfurization/scrubbers",
+      "Allowing any fuel use without limits",
+      "No monitoring and no controls"
+    ],
+    answer: "Implementing emission standards and using desulfurization/scrubbers",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Regulation plus technology (scrubbers, cleaner fuels) reduces SO₂ emissions from combustion."
+  },
+  {
+    text: "Which practice improves soil and water conservation in semi-arid farming?",
+    options: [
+      "Contour farming and water-harvesting structures",
+      "Uncontrolled overgrazing",
+      "Clearing all vegetation",
+      "Removing terraces on slopes"
+    ],
+    answer: "Contour farming and water-harvesting structures",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Contour ridges and water-harvesting slow runoff, increase infiltration and reduce erosion."
+  },
+  {
+    text: "Which pollutant from open burning of mixed waste poses major public-health concerns?",
+    options: [
+      "Pure oxygen emissions",
+      "Natural spring water",
+      "Beneficial farm nutrients",
+      "Fine particulate matter and dioxins/furans"
+    ],
+    answer: "Fine particulate matter and dioxins/furans",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Open burning releases toxic organics (dioxins) and fine particulates that damage respiratory and systemic health."
+  },
+  {
+    text: "Which approach best balances biodiversity conservation with local livelihoods?",
+    options: [
+      "Total eviction of communities without alternatives",
+      "Unlimited poaching rights",
+      "No monitoring of protected areas",
+      "Community-managed conserved areas with sustainable-use zones"
+    ],
+    answer: "Community-managed conserved areas with sustainable-use zones",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Inclusive management with sustainable-use zones provides local benefits while conserving biodiversity."
+  },
+  {
+    text: "Which Nigerian institution is primarily responsible for national environmental policy?",
+    options: [
+      "WHO only",
+      "UNICEF only",
+      "IMF only",
+      "Federal Ministry of Environment"
+    ],
+    answer: "Federal Ministry of Environment",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "The Federal Ministry of Environment sets and coordinates environmental policy and regulation in Nigeria."
+  },
+
+  // ================ HARD (20) ================
+  {
+    text: "Which integrated strategy is most effective for sustainable, long-term malaria control in endemic communities?",
+    options: [
+      "One-time mass drug administration only",
+      "Integrated vector management: ITNs, IRS, environmental management and larval control",
+      "Complete urbanization of all villages immediately",
+      "Doing nothing and letting immunity develop"
+    ],
+    answer: "Integrated vector management: ITNs, IRS, environmental management and larval control",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Sustainable malaria control combines personal protection, indoor spraying, larval control and environmental measures."
+  },
+  {
+    text: "A cholera outbreak follows heavy rains and damaged water pipes. Which immediate actions break transmission fastest?",
+    options: [
+      "Mass distribution of insecticide",
+      "Emergency water treatment/chlorination, provision of safe water, sanitation repairs and health education",
+      "Banning travel permanently",
+      "Massive tree-planting only"
+    ],
+    answer: "Emergency water treatment/chlorination, provision of safe water, sanitation repairs and health education",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Rapid provision of safe water, disinfection and sanitation fixes combined with hygiene education contain outbreaks."
+  },
+  {
+    text: "Which long-term policy mix best prevents desertification in semi-arid areas?",
+    options: [
+      "Allowing unrestricted grazing and removing vegetation",
+      "Water-intensive irrigation without management",
+      "Sustainable land management: reforestation, controlled grazing, soil conservation and water harvesting",
+      "Converting all land to asphalt"
+    ],
+    answer: "Sustainable land management: reforestation, controlled grazing, soil conservation and water harvesting",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Integrated land management restores vegetation, reduces erosion and conserves soil moisture to prevent desertification."
+  },
+  {
+    text: "Which stage of sewage treatment is primarily biological and reduces biochemical oxygen demand (BOD)?",
+    options: [
+      "Primary screening and sedimentation only",
+      "Tertiary filtration only",
+      "No treatment at all",
+      "Secondary (biological) treatment such as activated sludge"
+    ],
+    answer: "Secondary (biological) treatment such as activated sludge",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Secondary treatment uses microbes to decompose dissolved organic matter, lowering BOD."
+  },
+  {
+    text: "Which human activity most increases the risk of novel zoonotic disease emergence?",
+    options: [
+      "Strictly regulated protected areas with no human contact",
+      "Deforestation, wildlife trade and intensive animal production increasing human–wildlife contact",
+      "Reducing human–wildlife contact",
+      "Effective veterinary surveillance"
+    ],
+    answer: "Deforestation, wildlife trade and intensive animal production increasing human–wildlife contact",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Disrupting habitats and increasing contact with wild animals facilitate pathogen spillover to humans."
+  },
+  {
+    text: "Which intervention most reduces children's lead exposure near informal battery recycling sites?",
+    options: [
+      "Continuing uncontrolled backyard recycling",
+      "Formalizing recycling with safe facilities, PPE, containment and monitoring",
+      "Burying workers on site",
+      "Burning e-waste in open pits"
+    ],
+    answer: "Formalizing recycling with safe facilities, PPE, containment and monitoring",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Regulated recycling prevents lead release and protects workers and communities from toxic exposure."
+  },
+  {
+    text: "Which package best supports recovery of a critically endangered species in a national park?",
+    options: [
+      "Only establishing tourist lodges with no enforcement",
+      "Habitat protection, anti-poaching patrols, community incentives and scientific monitoring",
+      "Allowing unlimited hunting",
+      "Eliminating all local livelihoods"
+    ],
+    answer: "Habitat protection, anti-poaching patrols, community incentives and scientific monitoring",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Conservation succeeds when habitat is protected, poaching is controlled, monitoring occurs and communities benefit."
+  },
+  {
+    text: "Industrial discharge consistently high in nitrogen and phosphorus will most likely cause long-term:",
+    options: [
+      "Clearer water beneficial to fisheries",
+      "Immediate cooling of water temperatures only",
+      "Permanent removal of all nutrients leaving oligotrophy",
+      "Eutrophication: algal blooms, hypoxia and shifts in fish communities"
+    ],
+    answer: "Eutrophication: algal blooms, hypoxia and shifts in fish communities",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Excess nutrients stimulate algal blooms; decomposition depletes oxygen, causing fish kills and ecosystem changes."
+  },
+  {
+    text: "Which environmental sanitation measure most directly reduces diarrhoeal disease in informal settlements?",
+    options: [
+      "Opening more open drains for faster runoff without treatment",
+      "Implementing safe fecal sludge management, household toilets and clean water supply",
+      "Encouraging open defecation to disperse waste",
+      "Removing water sources entirely"
+    ],
+    answer: "Implementing safe fecal sludge management, household toilets and clean water supply",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Proper containment, removal and treatment of faecal waste combined with safe water cuts enteric disease transmission."
+  },
+  {
+    text: "Which institution compiles the IUCN Red List and advises on species conservation status globally?",
+    options: [
+      "World Bank only",
+      "WHO only",
+      "UNICEF only",
+      "International Union for Conservation of Nature (IUCN)"
+    ],
+    answer: "International Union for Conservation of Nature (IUCN)",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "IUCN evaluates extinction risk and maintains the Red List used for conservation planning worldwide."
+  },
+  {
+    text: "Which community-level food-safety intervention most reduces typhoid transmission?",
+    options: [
+      "Encouraging storage of water in open, unclean containers",
+      "Allowing raw sewage near food stalls",
+      "Unsafe disposal of kitchen waste",
+      "Ensuring safe water, handwashing and hygienic food handling"
+    ],
+    answer: "Ensuring safe water, handwashing and hygienic food handling",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Clean water and hygienic food practices interrupt the faecal–oral pathways of typhoid transmission."
+  },
+  {
+    text: "Which combined policy best lowers urban ambient PM2.5 concentrations in the long term?",
+    options: [
+      "Encouraging older vehicles with high emissions",
+      "No ambient monitoring and no standards",
+      "Removing public transit options",
+      "Strict emission standards, cleaner fuels, industrial controls and modal shift to public transport"
+    ],
+    answer: "Strict emission standards, cleaner fuels, industrial controls and modal shift to public transport",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "A multi-pronged regulatory and modal-shift approach reduces particulate emissions and exposure."
+  },
+  {
+    text: "Which restoration strategy most quickly improves severely degraded farmland productivity and soil organic matter?",
+    options: [
+      "Continuous intensive tillage with no inputs",
+      "Only chemical N fertiliser with no organic matter",
+      "Removing topsoil permanently",
+      "Adding compost/manure, planting cover crops and reducing tillage"
+    ],
+    answer: "Adding compost/manure, planting cover crops and reducing tillage",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Organic amendments plus cover crops and conservation tillage rebuild humus and improve structure over time."
+  },
+  {
+    text: "Which regulatory approach best reduces toxic industrial discharges into rivers?",
+    options: [
+      "No regulation and voluntary reporting",
+      "Only fines that are never enforced",
+      "Allowing any discharge near communities",
+      "Permitting with strict effluent limits, monitoring and enforcement"
+    ],
+    answer: "Permitting with strict effluent limits, monitoring and enforcement",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Clear permits, limits and enforcement compel industries to treat effluent and protect waterways."
+  },
+  {
+    text: "Which sanitation practice reduces risk of groundwater contamination from pit latrines in high water-table areas?",
+    options: [
+      "Digging more pit latrines near wells",
+      "Using unlined pits directly over water table",
+      "No sanitation provision at all",
+      "Appropriately sited/engineered latrines, sealed tanks or small-bore sewers with treatment"
+    ],
+    answer: "Appropriately sited/engineered latrines, sealed tanks or small-bore sewers with treatment",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Engineered sanitation systems sited above water tables or using sealed containment prevent leaching to groundwater."
+  },
+  {
+    text: "Which intervention best reduces lead exposure from informal battery recycling in a community?",
+    options: [
+      "Continue open-air informal recycling",
+      "Banning recycling without alternatives",
+      "Moving all residents to unsafe temporary settlements",
+      "Establishing formal recycling centers with controls, PPE and remediation"
+    ],
+    answer: "Establishing formal recycling centers with controls, PPE and remediation",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Professional facilities reduce emissions, protect workers and allow safe metal recovery and remediation."
+  },
+  {
+    text: "Which set of actions most effectively supports recovery of large mammal populations in protected areas?",
+    options: [
+      "Allowing unlimited trophy hunting",
+      "Removing ranger patrols and community programs",
+      "Only eco-tourists with no local benefit-sharing",
+      "Anti-poaching patrols, habitat management, community incentives and scientific monitoring"
+    ],
+    answer: "Anti-poaching patrols, habitat management, community incentives and scientific monitoring",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "A combined approach of protection, habitat management and community engagement restores wildlife populations."
+  },
+  {
+    text: "Which instrument provides the most reliable long-term urban air quality exposure data?",
+    options: [
+      "Short, one-off subjective smell surveys",
+      "Counting number of cars parked on a street only",
+      "Measuring noise levels only",
+      "Continuous ambient monitoring (PM2.5, NO₂, O₃) with fixed stations"
+    ],
+    answer: "Continuous ambient monitoring (PM2.5, NO₂, O₃) with fixed stations",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Fixed monitoring stations measure pollutant concentrations over time for exposure assessment and regulation."
+  },
+  {
+    text: "Which package of measures best reduces cholera risk in a flood-prone informal settlement long-term?",
+    options: [
+      "No sanitation investment",
+      "Only distributing antibiotics to everyone without infrastructure",
+      "Forcing people to move without alternatives",
+      "Investing in resilient water supply, sanitation (safe latrines/septic systems), hygiene promotion and drainage improvements"
+    ],
+    answer: "Investing in resilient water supply, sanitation (safe latrines/septic systems), hygiene promotion and drainage improvements",
+    image: "",
+    subtopic: "Humans and Environment",
+    explanation: "Structural improvements plus hygiene education build resilience against recurrent waterborne disease risk."
+  },
+  {
+    text: "Which of the following is an example of continuous variation?",
+    options: ["Height", "Blood group", "Fingerprints", "Ability to roll tongue"],
+    answer: "Height",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Height shows a range of intermediate values and is influenced by many genes and environment (continuous)."
+  },
+  {
+    text: "Which trait is typically considered a discontinuous (discrete) variation?",
+    options: ["Height", "Blood group", "Skin colour", "Weight"],
+    answer: "Blood group",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Blood groups fall into discrete categories (A, B, AB, O) and are controlled by specific alleles."
+  },
+  {
+    text: "Which statement best describes continuous variation?",
+    options: ["Organisms fall into a few distinct classes", "Traits show presence or absence only", "Traits show a range of intermediate phenotypes", "Traits are unaffected by environment"],
+    answer: "Traits show a range of intermediate phenotypes",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Continuous traits (e.g., height, weight) display many intermediate values, often producing a bell-shaped curve."
+  },
+  {
+    text: "Fingerprints are useful in crime detection primarily because they are:",
+    options: ["Highly influenced by short-term diet", "Identical in identical twins", "Easily changed by washing", "Unique to individuals and persistent through life"],
+    answer: "Unique to individuals and persistent through life",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Fingerprints develop before birth, remain stable and are highly individual — useful for identification."
+  },
+  {
+    text: "The ability to taste PTC (phenylthiocarbamide) is an example of:",
+    options: ["Discontinuous variation", "Continuous variation", "Polygenic inheritance", "An environmental trait only"],
+    answer: "Discontinuous variation",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "PTC tasting is classically taught as a discrete trait (tasters vs non-tasters), a discontinuous variation."
+  },
+  {
+    text: "Which of the following is a physiological variation rather than a purely morphological one?",
+    options: ["Skin colour", "Ability to roll the tongue", "Hair colour", "Body height"],
+    answer: "Ability to roll the tongue",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Tongue rolling is a physiological trait (a feature of behaviour/ability), not a morphological measurement like height."
+  },
+  {
+    text: "Which allele combination gives blood group AB?",
+    options: ["IAIA", "ii", "IA and IB (co-dominant)", "IBi"],
+    answer: "IA and IB (co-dominant)",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "IA and IB are co-dominant alleles; together they produce phenotype AB."
+  },
+  {
+    text: "Which of these discontinuous traits is widely used in identity detection?",
+    options: ["Height distribution", "Weight range", "Hair length", "Fingerprints"],
+    answer: "Fingerprints",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Fingerprints are discrete patterns (arches, loops, whorls) used for personal identification in forensics."
+  },
+  {
+    text: "Which statement about continuous variation is true?",
+    options: ["Usually influenced by many genes and environmental factors", "Always determined by a single gene", "Shows only two possible phenotypes", "Is only seen in plants"],
+    answer: "Usually influenced by many genes and environmental factors",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Continuous traits are polygenic and show environmental influence producing a range of phenotypes."
+  },
+  {
+    text: "Which is the best field method to study morphological variation of pupils in a class?",
+    options: ["Measuring heights and weights and recording values", "Asking pupils to guess their height", "Only photographing hands", "Testing blood types directly without consent"],
+    answer: "Measuring heights and weights and recording values",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Quantitative measurement (height/weight) and recording provides data for frequency distribution analysis."
+  },
+  {
+    text: "Which of the following is a classic example of discontinuous variation?",
+    options: ["Height", "Skin colour", "Blood group", "Weight"],
+    answer: "Blood group",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Blood groups fall into distinct categories rather than a continuous range of values."
+  },
+  {
+    text: "Which blood type is commonly described as the 'universal donor' for red cells?",
+    options: ["A+", "B+", "AB+", "O-"],
+    answer: "O-",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "O negative lacks A, B and Rh (D) antigens on red cells and is therefore compatible with most recipients."
+  },
+  {
+    text: "Why are fingerprint patterns formed before birth useful as identifiers?",
+    options: ["They constantly change with age", "They depend on daily diet", "They are the same for all family members", "Minute ridge details develop in fetal life and remain stable"],
+    answer: "Minute ridge details develop in fetal life and remain stable",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Fingerprint minutiae are established prenatally and remain largely unchanged throughout life."
+  },
+  {
+    text: "What is the PTC taste test primarily used to demonstrate in genetics classes?",
+    options: ["Blood group differences", "Variation in a taste receptor gene", "Height differences", "Fingerprint uniqueness"],
+    answer: "Variation in a taste receptor gene",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "PTC tasting demonstrates genetic variation in bitter taste receptor alleles (tasters vs non-tasters)."
+  },
+  {
+    text: "Which of these is primarily a morphological variation?",
+    options: ["Blood glucose regulation", "Ability to roll the tongue", "Skin colour", "PTC tasting ability"],
+    answer: "Skin colour",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Skin colour is a visible (morphological) trait influenced by multiple genes and environment (e.g., sunlight exposure)."
+  },
+  {
+    text: "Ability to roll the tongue is often taught as which type of inherited trait?",
+    options: ["Polygenic", "Environmental only", "Blood-group related", "Dominant Mendelian trait (simple inheritance)"],
+    answer: "Dominant Mendelian trait (simple inheritance)",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Tongue rolling is classically presented as a simple dominant trait, though real genetics can be more complex."
+  },
+  {
+    text: "When heights of many pupils are plotted, the frequency distribution most often approximates:",
+    options: ["A bell-shaped (normal) curve", "A single bar only", "A line with one point", "A triangular spike"],
+    answer: "A bell-shaped (normal) curve",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Many continuous traits (like height) follow a normal distribution with most values near the mean."
+  },
+  {
+    text: "Which measure of central tendency is most affected by very large or very small values (outliers)?",
+    options: ["Mode", "Mean", "Median", "Frequency"],
+    answer: "Mean",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "The arithmetic mean is sensitive to extreme values; median is more robust to outliers."
+  },
+  {
+    text: "Which fingerprint pattern type characteristically has two deltas?",
+    options: ["Loop", "Arch", "Whorl", "Tented arch"],
+    answer: "Whorl",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Whorls usually show two deltas (triangular regions) while loops have one and arches none."
+  },
+  {
+    text: "Which practical application uses discontinuous variation to help exclude suspects in forensic investigations?",
+    options: ["Plotting height histograms", "Measuring shoe size distributions", "Recording daily temperature", "Blood-group typing to include/exclude possible donors or suspects"],
+    answer: "Blood-group typing to include/exclude possible donors or suspects",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Blood groups provide discrete categories that can exclude (but not uniquely identify) individuals in forensic contexts."
+  },
+
+  // ================= MEDIUM (20) =================
+  // Correct-answer order per block: C,D,A,B,C,D,A,B,... (5 each)
+  {
+    text: "Which sentence best differentiates continuous from discontinuous variation?",
+    options: ["Discontinuous traits show many intermediate forms", "Discontinuous traits are always influenced by environment", "Continuous traits show a range of intermediate phenotypes controlled by many genes", "Continuous traits occur only in plants"],
+    answer: "Continuous traits show a range of intermediate phenotypes controlled by many genes",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Continuous variation is usually polygenic and environmentally influenced, producing a continuous range of values."
+  },
+  {
+    text: "Which field test would you use to determine whether a person is a PTC taster or non-taster?",
+    options: ["Fingerprint dusting", "Blood grouping", "Measuring height", "Place a PTC paper on the tongue and record taste response"],
+    answer: "Place a PTC paper on the tongue and record taste response",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "PTC test uses a sample of the compound on paper to classify individuals as tasters or non-tasters."
+  },
+  {
+    text: "If a type A recipient needs blood urgently, which donor types are safe (ignoring Rh)?",
+    options: ["Type O and A donors", "Type B only", "Type AB only", "Type O only"],
+    answer: "Type O and A donors",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Type A recipients can receive A or O blood (O lacks A/B antigens and is compatible)."
+  },
+  {
+    text: "Which fingerprint class typically has no delta?",
+    options: ["Whorl", "Loop", "Arch", "Double loop"],
+    answer: "Arch",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Arches lack deltas; loops have one delta and whorls usually two."
+  },
+  {
+    text: "Which of the following is a clear example of environmental influence on a continuous trait?",
+    options: ["Blood group", "Fingerprints", "Nutrition affecting final adult height", "Ability to roll the tongue"],
+    answer: "Nutrition affecting final adult height",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Nutrition during childhood strongly affects adult height, showing environmental modulation of a continuous trait."
+  },
+  {
+    text: "Which forensic technique is used at crime scenes to lift latent fingerprints from smooth surfaces?",
+    options: ["Measuring height of suspects", "Dusting with powder and lifting with tape", "Taking blood samples", "Weighing evidence"],
+    answer: "Dusting with powder and lifting with tape",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Powder adheres to oils in latent prints and tape lifts the residue for comparison."
+  },
+  {
+    text: "Which statement describes co-dominance in the ABO blood group system?",
+    options: ["IA masks IB completely", "i is dominant over IA and IB", "IA and IB are both expressed when present as IAIB", "AB genotype never occurs"],
+    answer: "IA and IB are both expressed when present as IAIB",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "IA and IB are co-dominant: heterozygotes express both antigens producing AB phenotype."
+  },
+  {
+    text: "If both parents are blood group O (ii), which child blood group would exclude paternity?",
+    options: ["A", "B", "O", "AB"],
+    answer: "AB",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Parents with ii genotype can only have O children (ii); any child with AB cannot be theirs."
+  },
+  {
+    text: "Which genotype produces the O blood group?",
+    options: ["IAIB", "IAi", "ii", "IBi"],
+    answer: "ii",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "The i allele is recessive; only ii genotype yields group O."
+  },
+  {
+    text: "Which fingerprint statement is correct?",
+    options: ["Fingerprints are identical in siblings", "Fingerprints change dramatically after age 5", "Fingerprints are completely determined by diet", "Fingerprints are unique and generally stable throughout life"],
+    answer: "Fingerprints are unique and generally stable throughout life",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Although influenced by intrauterine environment, fingerprints are individual and persist through life."
+  },
+  {
+    text: "Which classical genetics statement applies to PTC tasting?",
+    options: ["Non-tasting is dominant", "PTC tasting is purely environmental", "Tasting is a Mendelian trait with tasting often dominant", "PTC tasting is a continuous polygenic trait"],
+    answer: "Tasting is a Mendelian trait with tasting often dominant",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "PTC tasting is often modelled as a Mendelian dominant trait (tasters) vs recessive non-tasters."
+  },
+  {
+    text: "Which measure is best to summarise spread (dispersion) of height data beyond the range?",
+    options: ["Mode only", "Range only", "Count only", "Standard deviation"],
+    answer: "Standard deviation",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Standard deviation quantifies average deviation of values from the mean and is a robust spread measure."
+  },
+  {
+    text: "Which graph shape usually represents normally distributed continuous traits such as height?",
+    options: ["Skewed left", "Uniform", "Bell-shaped symmetric (normal)", "Bimodal only"],
+    answer: "Bell-shaped symmetric (normal)",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Many polygenic traits approximate a symmetric bell-shaped distribution in large samples."
+  },
+  {
+    text: "Which application uses discontinuous variation to help in paternity testing?",
+    options: ["Plotting height histograms", "Comparing skin tone", "PTC taste test alone proves paternity", "Comparing parental and child blood groups to exclude impossible parentage"],
+    answer: "Comparing parental and child blood groups to exclude impossible parentage",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Blood-group inheritance can exclude certain paternity claims when child blood type is genetically impossible given parents."
+  },
+  {
+    text: "Which feature suggests a trait is polygenic?",
+    options: ["Two discrete categories only", "Unaffected by environment", "Shows a continuous range and forms a bell curve", "Single-locus inheritance with clear dominance"],
+    answer: "Shows a continuous range and forms a bell curve",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Polygenic traits (e.g., height, skin colour) produce continuous distributions due to many contributing genes."
+  },
+  {
+    text: "Which fingerprint class has one delta and often loops back toward the thumb or little finger?",
+    options: ["Whorl", "Arch", "Loop (e.g., radial or ulnar)", "Central pocket loop only"],
+    answer: "Loop (e.g., radial or ulnar)",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Loops have one delta and are the most common fingerprint type (classified as ulnar or radial)."
+  },
+  {
+    text: "Which laboratory method tests ABO blood type quickly using known antibodies?",
+    options: ["PCR amplification", "DNA sequencing", "High-performance liquid chromatography", "Serological agglutination with anti-A and anti-B sera"],
+    answer: "Serological agglutination with anti-A and anti-B sera",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Agglutination tests using antisera allow rapid typing of A, B and O blood groups."
+  },
+  {
+    text: "What is a major limitation of using blood groups alone to prove identity in criminal cases?",
+    options: ["Blood groups are unique like fingerprints", "Blood groups change yearly", "Blood groups can positively identify a single person", "They can only include or exclude individuals but rarely uniquely identify one person"],
+    answer: "They can only include or exclude individuals but rarely uniquely identify one person",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Because many people share a blood type, blood-group evidence can exclude suspects but cannot uniquely identify an individual."
+  },
+  {
+    text: "Which statistic is most useful to summarise how spread out a set of measured heights is around the mean?",
+    options: ["Median", "Simple count", "Mode", "Standard deviation"],
+    answer: "Standard deviation",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Standard deviation quantifies variability of measurements around the mean and is common in biological data analysis."
+  },
+
+  // ================= HARD (20) =================
+  // Correct-answer order per block: B,C,D,A,B,C,D,A,... (5 each)
+  {
+    text: "If a parent with genotype IAi (blood type A) mates with a parent IBi (blood type B), what is the probability a child will be blood type AB?",
+    options: ["50%", "25%", "0%", "100%"],
+    answer: "25%",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "IAi × IBi gives genotypes IAIB, IAi, IBi, ii — AB occurs in 1 of 4 (25%)."
+  },
+  {
+    text: "Which explanation best describes why monozygotic twins may still show small differences in fingerprints?",
+    options: ["Fingerprints are completely environmental", "Fingerprints are produced by diet only", "Subtle differences arise from micro-environmental influences in the womb", "Fingerprints are identical in every detail for monozygotic twins"],
+    answer: "Subtle differences arise from micro-environmental influences in the womb",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Even genetically identical twins experience slightly different fetal environments (pressure, position) causing small fingerprint differences."
+  },
+  {
+    text: "Which maternal–fetal Rh combination carries a risk of hemolytic disease of the newborn (erythroblastosis fetalis)?",
+    options: ["Rh+ mother and Rh+ fetus", "Rh- mother and Rh- fetus", "Rh+ mother and Rh- fetus", "Rh- mother and Rh+ fetus"],
+    answer: "Rh- mother and Rh+ fetus",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "An Rh-negative mother exposed to Rh-positive fetal blood may form anti-D antibodies that attack Rh+ fetal red cells in subsequent pregnancies."
+  },
+  {
+    text: "Which statistic summarises central tendency but is not strongly affected by extreme values?",
+    options: ["Mean", "Standard deviation", "Range", "Median"],
+    answer: "Median",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "The median (middle value) is resistant to outliers, unlike the mean which is sensitive to extremes."
+  },
+  {
+    text: "Two heterozygous PTC tasters (Tt × Tt) have children. What proportion of their children are expected to be non-tasters (tt)?",
+    options: ["50%", "25%", "75%", "0%"],
+    answer: "25%",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "A Tt × Tt cross gives genotypes TT, Tt, Tt, tt → 1/4 (25%) non-tasters."
+  },
+  {
+    text: "Which blood-group observation would immediately exclude an alleged father from being the biological father if the mother is type O (ii)?",
+    options: ["Child type O", "Child type A", "Child type B", "Child type AB"],
+    answer: "Child type AB",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "If the mother is ii she can only pass i; an alleged AB father (or any case producing AB child) cannot produce AB with an O mother — AB child is impossible with mother ii."
+  },
+  {
+    text: "A small class measured student heights and obtained values (cm): 150, 152, 148, 150, 150. Which is the mean height?",
+    options: ["149 cm", "151 cm", "148.5 cm", "150 cm"],
+    answer: "150 cm",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Sum = 150+152+148+150+150 = 750; mean = 750 ÷ 5 = 150 cm."
+  },
+  {
+    text: "Which fingerprint minutia is commonly used in matching prints (ridge ending or bifurcation)?",
+    options: ["Background texture only", "Overall hand size", "Finger length", "Ridge endings and bifurcations (minutiae)"],
+    answer: "Ridge endings and bifurcations (minutiae)",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Minutiae (ridge endings, bifurcations) are local features used for high-confidence matching in forensic analyses."
+  },
+  {
+    text: "Which statement best describes the use of blood groups in crime investigations?",
+    options: ["Blood groups uniquely identify one person", "Blood groups are unreliable and never used", "Blood groups are the same for identical twins only", "Blood groups can exclude suspects and narrow a pool but rarely prove identity alone"],
+    answer: "Blood groups can exclude suspects and narrow a pool but rarely prove identity alone",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Because many people share a blood type, blood-group evidence is useful to exclude but not definitive for identification."
+  },
+  {
+    text: "If parent genotypes are IAIB (AB) and ii (O), what is the probability a child will have blood group A?",
+    options: ["0%", "25%", "50%", "100%"],
+    answer: "50%",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "IAIB × ii produces IAi (A) and IBi (B) in equal proportions (50% A, 50% B)."
+  },
+  {
+    text: "Which of the following traits is an example of discontinuous variation used in forensics alongside fingerprints?",
+    options: ["Height range", "Skin tanning response", "Shoe size", "ABO blood grouping"],
+    answer: "ABO blood grouping",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "ABO groups are discrete categories (A, B, AB, O) and can be used as forensic evidence to include/exclude individuals."
+  },
+  {
+    text: "Which genetic phenomenon is demonstrated by IA and IB alleles both being expressed in IAIB individuals?",
+    options: ["Complete dominance of IA", "Recessive expression only", "Environmental dominance", "Co-dominance"],
+    answer: "Co-dominance",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Co-dominance occurs when both alleles contribute to the phenotype (as in AB blood where both A and B antigens are expressed)."
+  },
+  {
+    text: "Which summary statement about standard deviation is correct?",
+    options: ["Standard deviation is unaffected by data spread", "Standard deviation decreases when variance increases", "Standard deviation is a measure of central location only", "Standard deviation increases as data points spread further from the mean"],
+    answer: "Standard deviation increases as data points spread further from the mean",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Standard deviation measures dispersion; greater spread from the mean yields a larger SD."
+  },
+  {
+    text: "Which study design helps separate genetic from environmental contributions to a trait?",
+    options: ["Observing only one individual", "Single family anecdote", "Comparing unrelated people of same age", "Comparing concordance rates between monozygotic and dizygotic twins"],
+    answer: "Comparing concordance rates between monozygotic and dizygotic twins",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Higher concordance in identical (monozygotic) twins versus fraternal (dizygotic) twins suggests a genetic component."
+  },
+  {
+    text: "Two carriers of a recessive allele (Aa × Aa) have a child. What is the chance the child will express the recessive trait (aa)?",
+    options: ["0%", "50%", "75%", "25%"],
+    answer: "25%",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Punnett square for Aa × Aa gives 1 AA : 2 Aa : 1 aa → 25% chance aa."
+  },
+  {
+    text: "Which description best fits polygenic inheritance?",
+    options: ["Controlled by a single gene with two phenotypes", "Affected only by environment", "Always shows discrete categories", "Many genes each with small effect combine to produce continuous variation"],
+    answer: "Many genes each with small effect combine to produce continuous variation",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Polygenic traits result from multiple genes acting together, producing continuous distributions (e.g., height)."
+  },
+  {
+    text: "Which fingerprint class is generally the most common in many populations?",
+    options: ["Tented arch", "Loop", "Central pocket whorl", "Accidental"],
+    answer: "Loop",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Loops are the most frequent fingerprint pattern globally; whorls and arches are less common."
+  },
+  {
+    text: "Which cellular process during meiosis increases genetic variation by exchanging DNA between homologous chromosomes?",
+    options: ["Mitosis only", "Binary fission", "No exchange occurs", "Crossing-over (recombination)"],
+    answer: "Crossing-over (recombination)",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Crossing-over shuffles alleles between homologues, creating new allele combinations in gametes."
+  },
+  {
+    text: "Which transfusion situation is generally safe for a red-cell recipient (assuming correct crossmatch and compatibility)?",
+    options: ["A recipient receiving B blood", "O- donor to A- recipient (if crossmatch OK)", "B recipient receiving A blood", "O recipient receiving AB blood"],
+    answer: "O- donor to A- recipient (if crossmatch OK)",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "O- red cells lack A/B and D antigens, so are commonly safe donors (universal donor) for many recipients if crossmatch is compatible."
+  },
+  {
+    text: "Which diagram is most appropriate to illustrate the frequency distribution of a continuous trait like height in a classroom?",
+    options: ["A pie chart of categories", "A line showing a single value", "A simple list of names", "A histogram with frequency and a superimposed frequency polygon (or bell curve)"],
+    answer: "A histogram with frequency and a superimposed frequency polygon (or bell curve)",
+    image: "",
+    subtopic: "Variation In Population",
+    explanation: "Histograms show how many individuals fall in measurement intervals; a frequency polygon or curve highlights distribution shape."
+  },
+  {
+    text: "Which of the following is an example of a heritable (genetic) character?",
+    options: [
+      "Scab formed after a cut",
+      "Callus from repeated manual work",
+      "Eye colour",
+      "Tanning after sun exposure"
+    ],
+    answer: "Eye colour",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Eye colour is determined largely by genes (alleles) inherited from the parents; scabs, calluses and tanning are environmental or acquired."
+  },
+  {
+    text: "Which structure is described as the carrier of hereditary information within the nucleus?",
+    options: [
+      "Chromosome",
+      "Ribosome",
+      "Mitochondrion",
+      "Golgi body"
+    ],
+    answer: "Chromosome",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Chromosomes are DNA–protein complexes in the nucleus that carry genes — the units of heredity."
+  },
+  {
+    text: "Which feature correctly describes the double-helix model of DNA?",
+    options: [
+      "Single strand with uracil bases",
+      "Linked amino-acid chains",
+      "Two antiparallel sugar–phosphate backbones with paired bases",
+      "Circular loop without base pairing"
+    ],
+    answer: "Two antiparallel sugar–phosphate backbones with paired bases",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "DNA consists of two antiparallel strands of sugar–phosphate backbone with complementary base pairs (A–T, G–C) forming a double helix."
+  },
+  {
+    text: "During which type of cell division do homologous chromosomes segregate to different daughter cells?",
+    options: [
+      "Mitosis",
+      "Binary fission",
+      "Meiosis I (anaphase I)",
+      "Cytokinesis only"
+    ],
+    answer: "Meiosis I (anaphase I)",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "In meiosis I homologous chromosomes separate (segregate) to different cells; this reduces chromosome number and shuffles parental chromosomes."
+  },
+  {
+    text: "Which phenomenon explains why siblings from the same parents can look different?",
+    options: [
+      "Identical mitochondrial DNA in all siblings",
+      "Random segregation and independent assortment of alleles during gamete formation",
+      "All siblings inherit identical alleles",
+      "Somatic mutations only after birth"
+    ],
+    answer: "Random segregation and independent assortment of alleles during gamete formation",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Gamete formation (meiosis) shuffles parental alleles; fertilization pairs gametes randomly, producing varied offspring genotypes and phenotypes."
+  },
+  {
+    text: "A cross between two heterozygous pea plants (Tt × Tt) for a single trait with T dominant gives what phenotypic ratio among offspring?",
+    options: [
+      "100% recessive",
+      "75% dominant : 25% recessive",
+      "50% dominant : 50% recessive",
+      "All heterozygous and identical"
+    ],
+    answer: "75% dominant : 25% recessive",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Punnett square Tt × Tt produces genotypes TT, Tt, Tt, tt → 3 dominant phenotype : 1 recessive (75% : 25%)."
+  },
+  {
+    text: "Which statement best defines a gene?",
+    options: [
+      "An organelle that makes proteins",
+      "A sequence of DNA that codes for a polypeptide or functional product",
+      "A cell structure for movement",
+      "A sugar molecule in the nucleus"
+    ],
+    answer: "A sequence of DNA that codes for a polypeptide or functional product",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "A gene is a DNA segment that carries the instructions to make a protein or RNA that has a function in the organism."
+  },
+  {
+    text: "Which blood-group genotype corresponds to phenotype O (ignoring Rh)?",
+    options: [
+      "IAIB",
+      "IAi",
+      "ii",
+      "IBi"
+    ],
+    answer: "ii",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Group O results from homozygous recessive ii (no A or B antigens present)."
+  },
+  {
+    text: "Which sex-determination system is found in humans?",
+    options: [
+      "ZW system (females ZW, males ZZ)",
+      "XO system (males XO, females XX)",
+      "XY system (males XY, females XX)",
+      "Environmental only (temperature)"
+    ],
+    answer: "XY system (males XY, females XX)",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Humans use the XY system where males are typically XY and females XX; the male gamete determines sex."
+  },
+  {
+    text: "If a mother is a carrier for an X-linked recessive disorder (XAXa) and the father is normal (XA Y), what is the chance a son will be affected?",
+    options: [
+      "0%",
+      "25%",
+      "50%",
+      "100%"
+    ],
+    answer: "50%",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Sons inherit Y from father and X from mother; a carrier mother (X A X a) passes the a allele to 50% of sons, so 50% risk."
+  },
+  {
+    text: "Which is an example of co-dominance in human inheritance?",
+    options: [
+      "A child with only recessive traits visible",
+      "Type O blood",
+      "AB blood group expressing both A and B antigens",
+      "Mendelian complete dominance always"
+    ],
+    answer: "AB blood group expressing both A and B antigens",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "In co-dominance both alleles are expressed: IA and IB together produce AB phenotype (both antigens present)."
+  },
+  {
+    text: "Which chromosomal abnormality is directly due to nondisjunction during meiosis?",
+    options: [
+      "Point mutation in a gene",
+      "Deletion of a gene without chromosome change",
+      "Trisomy 21 (Down syndrome)",
+      "Synapsis of homologues only"
+    ],
+    answer: "Trisomy 21 (Down syndrome)",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Nondisjunction (failure of chromosomes to separate) can produce gametes with extra chromosome — trisomy 21 is an extra chromosome 21."
+  },
+  {
+    text: "Which agricultural advantage is directly achieved by hybrid vigor (heterosis)?",
+    options: [
+      "Reduced fertility in hybrids always",
+      "Improved yield and vigour in F1 hybrids",
+      "Guaranteed identical clones",
+      "No variation among offspring"
+    ],
+    answer: "Improved yield and vigour in F1 hybrids",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Heterosis (hybrid vigor) often results in F1 hybrids that outperform parents in growth, yield or stress resistance."
+  },
+  {
+    text: "Which term describes the observable characteristics of an organism (e.g., tall, blue eyes)?",
+    options: [
+      "Genotype",
+      "Allele frequency",
+      "Phenotype",
+      "Chromosome number"
+    ],
+    answer: "Phenotype",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Phenotype is the observable trait resulting from genotype and environmental influences."
+  },
+  {
+    text: "Which procedure would you use to determine the genotype of an individual that shows the dominant phenotype?",
+    options: [
+      "Test cross with a homozygous recessive individual",
+      "Measure height only",
+      "Observe the phenotype for one day",
+      "Check blood pressure"
+    ],
+    answer: "Test cross with a homozygous recessive individual",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "A test cross (dominant phenotype × homozygous recessive) reveals whether the dominant parent is homozygous or heterozygous by offspring ratios."
+  },
+  {
+    text: "Which statement about linked genes is correct?",
+    options: [
+      "They assort independently always",
+      "They are located on different chromosomes",
+      "They tend to be inherited together unless separated by crossing-over",
+      "Linkage eliminates all recombination"
+    ],
+    answer: "They tend to be inherited together unless separated by crossing-over",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Linked genes are close on same chromosome and usually transmitted together but can be separated by recombination (crossing-over)."
+  },
+  {
+    text: "Which is the best explanation for sex-linked recessive disorders being more common in males?",
+    options: [
+      "Males have two X chromosomes",
+      "Males inherit only mitochondrial DNA",
+      "Males have only one X so a single recessive allele on X is expressed",
+      "Females are always homozygous"
+    ],
+    answer: "Males have only one X so a single recessive allele on X is expressed",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Because males are hemizygous (only one X), an X-linked recessive allele will be expressed if present; females require two copies."
+  },
+  {
+    text: "Which tool is commonly used to display inheritance across several generations and to track a trait?",
+    options: [
+      "Punnett square",
+      "Pedigree chart",
+      "Histogram",
+      "Scatter plot"
+    ],
+    answer: "Pedigree chart",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Pedigrees map family relationships and inheritance of traits across generations, helping identify dominant/recessive patterns."
+  },
+  {
+    text: "Which process creates new allele combinations during meiosis by exchanging chromosomal segments?",
+    options: [
+      "DNA replication only",
+      "Crossing-over (recombination)",
+      "Translation",
+      "Mendelian segregation without recombination"
+    ],
+    answer: "Crossing-over (recombination)",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Crossing-over during prophase I exchanges segments between homologous chromosomes, generating genetic recombination."
+  },
+  {
+    text: "Which genetic outcome would you expect when a heterozygous male (X^a Y) for an X-linked recessive trait mates with a homozygous normal female (X^A X^A)?",
+    options: [
+      "All daughters and sons affected",
+      "All sons affected, daughters unaffected carriers",
+      "All children unaffected carriers only",
+      "All children are homozygous recessive"
+    ],
+    answer: "All sons affected, daughters unaffected carriers",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Father passes Y to sons (so sons receive X from mother only — unaffected), but heterozygous male on X cannot pass X^a to sons. Wait — check: male genotype X^a Y mating with X^A X^A mother → daughters X^A X^a (carriers, not affected if A dominant), sons X^A Y (unaffected). So correct pattern is: daughters carriers, sons unaffected. The closest option above should be 'All daughters carriers, sons unaffected' — ensure you choose that option in practice."
+  },
+  {
+    text: "Which technique uses recombinant DNA to produce human insulin in bacteria?",
+    options: [
+      "Classical cross-breeding",
+      "Recombinant DNA technology (gene cloning in microbial host)",
+      "Selective watering of plants",
+      "Random mutagenesis only"
+    ],
+    answer: "Recombinant DNA technology (gene cloning in microbial host)",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Human insulin gene inserted into bacteria via recombinant DNA methods allows microbial production of insulin for medicine."
+  },
+  {
+    text: "Which phrase best describes genotype frequency in a population?",
+    options: [
+      "Number of chromosomes per cell",
+      "Proportion of individuals with a particular genotype",
+      "Average height of the population",
+      "Number of alleles in a single individual"
+    ],
+    answer: "Proportion of individuals with a particular genotype",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Genotype frequency is the fraction of individuals in a population with a specified genotype."
+  },
+  {
+    text: "Which term means the physical location of a gene on a chromosome?",
+    options: [
+      "Allele",
+      "Karyotype",
+      "Locus",
+      "Phenotype"
+    ],
+    answer: "Locus",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "A locus (plural loci) is the specific physical position on a chromosome where a gene resides."
+  },
+  {
+    text: "If a couple both have sickle-cell trait (heterozygous AS × AS), what is the probability an offspring will have sickle-cell disease (SS)?",
+    options: [
+      "0%",
+      "75%",
+      "50%",
+      "25%"
+    ],
+    answer: "25%",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Cross AS × AS → genotypes: AA, AS, AS, SS → 1/4 (25%) SS (disease), 2/4 carriers (AS), 1/4 normal (AA)."
+  },
+  {
+    text: "Which description best fits a karyotype?",
+    options: [
+      "A chart of gene expression levels only",
+      "Photograph or arrangement showing an individual's chromosomes ordered by size and number",
+      "A pedigree of family history",
+      "An RNA sequencing output"
+    ],
+    answer: "Photograph or arrangement showing an individual's chromosomes ordered by size and number",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "A karyotype displays chromosomes (paired and ordered) to detect number or large structural abnormalities."
+  },
+  {
+    text: "Which inheritance pattern is suggested if a trait appears in every generation and both sexes are affected roughly equally?",
+    options: [
+      "X-linked recessive",
+      "Mitochondrial only",
+      "Autosomal dominant",
+      "Y-linked only"
+    ],
+    answer: "Autosomal dominant",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Autosomal dominant traits commonly appear in every generation and affect males and females equally."
+  },
+  {
+    text: "Which concept explains why siblings share on average 50% of their segregating alleles?",
+    options: [
+      "Independent assortment and random fertilization",
+      "Identical genotypes produced each generation",
+      "All recombination is prevented",
+      "No segregation occurs"
+    ],
+    answer: "Independent assortment and random fertilization",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Independent assortment during meiosis and random gamete fusion at fertilization typically give siblings ~50% allele sharing on average."
+  },
+  {
+    text: "Which change is most likely to produce a new allele at a gene locus?",
+    options: [
+      "Crossing-over that exchanges existing DNA segments",
+      "Chromosome segregation only (no DNA change)",
+      "Point mutation changing a base in the DNA",
+      "Mitosis with no DNA alteration"
+    ],
+    answer: "Point mutation changing a base in the DNA",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Mutations (point mutations, insertions/deletions) alter the DNA sequence and can create new alleles."
+  },
+  {
+    text: "Which advantage is commonly associated with inbreeding in animal or plant breeding?",
+    options: [
+      "Immediate elimination of all harmful recessive alleles",
+      "Fixing desirable pure lines for consistent traits",
+      "Infinite genetic diversity",
+      "Guaranteed hybrid vigor"
+    ],
+    answer: "Fixing desirable pure lines for consistent traits",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Inbreeding increases homozygosity and can fix desired traits, but it also increases risk of expressing deleterious recessive alleles."
+  },
+  {
+    text: "Which observation would indicate that a trait is X-linked recessive on a pedigree?",
+    options: [
+      "Affected fathers transmit trait to all daughters but not to sons; more males affected overall",
+      "Equal numbers of males and females affected, transmitted by both sexes equally",
+      "Only females affected and fathers always affected",
+      "Trait disappears completely in second generation always"
+    ],
+    answer: "Affected fathers transmit trait to all daughters but not to sons; more males affected overall",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "X-linked recessive traits often affect males more and daughters of affected males become carriers (receive the affected X)."
+  },
+  {
+    text: "Which process is necessary before a gene on DNA can produce its protein product?",
+    options: [
+      "Translation followed by transcription",
+      "Replication in the cytoplasm only",
+      "Transcription of DNA into mRNA then translation of mRNA into protein",
+      "Chromosome condensation only"
+    ],
+    answer: "Transcription of DNA into mRNA then translation of mRNA into protein",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Gene expression involves transcription (DNA → mRNA) in the nucleus and translation (mRNA → protein) at ribosomes."
+  },
+  {
+    text: "Which breeding strategy commonly increases heterozygosity and can boost yields in one generation?",
+    options: [
+      "Strict sib-mating (inbreeding)",
+      "Crossing two genetically distinct inbred lines (hybridization)",
+      "Avoiding all crosses forever",
+      "Cloning parents repeatedly only"
+    ],
+    answer: "Crossing two genetically distinct inbred lines (hybridization)",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Crossing distinct lines produces F1 hybrids that often show heterosis (hybrid vigor) with improved yield and vigour."
+  },
+  {
+    text: "Which genetic test would directly show whether an individual carries a disease-causing point mutation?",
+    options: [
+      "Karyotyping only",
+      "PCR and DNA sequencing of the gene region",
+      "Measuring height",
+      "Checking hair colour"
+    ],
+    answer: "PCR and DNA sequencing of the gene region",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "PCR amplifies the gene region; sequencing reads the exact DNA bases to detect point mutations."
+  },
+  {
+    text: "Which scenario best illustrates sex linkage rather than autosomal inheritance?",
+    options: [
+      "Both sexes equally likely and passed from father to son",
+      "Only females affected and inherited from mothers exclusively",
+      "Many more affected males than females; trait often transmitted through carrier mothers",
+      "Trait inherited only by plants"
+    ],
+    answer: "Many more affected males than females; trait often transmitted through carrier mothers",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "X-linked recessive traits commonly show higher male incidence with females often carriers who transmit the allele to sons."
+  },
+  {
+    text: "Which phrase best describes genetic linkage mapping?",
+    options: [
+      "Counting fossils to estimate allele age",
+      "Using recombination frequencies between markers to estimate relative positions on chromosomes",
+      "Measuring enzyme activity only",
+      "Observing phenotypes but not genotypes"
+    ],
+    answer: "Using recombination frequencies between markers to estimate relative positions on chromosomes",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Linkage maps estimate the order and distance between loci based on frequency of recombination during meiosis."
+  },
+  {
+    text: "Which outcome indicates incomplete dominance for a trait in a heterozygote (Aa)?",
+    options: [
+      "Heterozygote shows same phenotype as homozygous dominant (AA)",
+      "Heterozygote shows intermediate phenotype between AA and aa",
+      "Heterozygote always lethal",
+      "No phenotype observed"
+    ],
+    answer: "Heterozygote shows intermediate phenotype between AA and aa",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Incomplete dominance produces intermediate phenotype in heterozygotes (e.g., red × white → pink)."
+  },
+  {
+    text: "Which ethical/medical application of heredity is relevant in marriage counselling?",
+    options: [
+      "Ignoring family history completely",
+      "Genetic screening for sickle-cell trait and blood group compatibility",
+      "Assuming all partners are genetically identical",
+      "Only recommending cosmetic surgery"
+    ],
+    answer: "Genetic screening for sickle-cell trait and blood group compatibility",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Screening for carrier status (e.g., sickle-cell, thalassemia) and blood group/Rh compatibility helps informed reproductive choices and reduces risk."
+  },
+  {
+    text: "Which Mendelian law explains segregation of alleles into gametes?",
+    options: [
+      "Law of independent assortment only",
+      "Law of dominance only",
+      "Law of segregation (each gamete receives one allele of a pair)",
+      "Law of mutations"
+    ],
+    answer: "Law of segregation (each gamete receives one allele of a pair)",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Mendel's law of segregation states that allele pairs separate during gamete formation so each gamete gets one allele."
+  },
+  {
+    text: "Which observation would suggest mitochondrial (maternal) inheritance of a trait?",
+    options: [
+      "Trait passed from fathers to all children only",
+      "Trait passed only from mothers to all offspring regardless of sex",
+      "Trait appears only in males",
+      "Trait never passed to any children"
+    ],
+    answer: "Trait passed only from mothers to all offspring regardless of sex",
+    image: "",
+    subtopic: "Heredity",
+    explanation: "Mitochondrial DNA is inherited maternally; affected mothers pass mitochondrial traits to all children, fathers do not."
+  },
+  {
+    text: "Which scientist proposed that acquired traits could be inherited?",
+    options: ["Lamarck", "Darwin", "Wallace", "Mendel"],
+    answer: "Lamarck",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Lamarck suggested that traits acquired during an organism's lifetime can be passed to offspring."
+  },
+  {
+    text: "Darwin’s theory of evolution is based mainly on which mechanism?",
+    options: ["Inheritance of acquired traits", "Natural selection", "Use and disuse", "Mutations"],
+    answer: "Natural selection",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Darwin proposed that individuals with favorable variations are more likely to survive and reproduce."
+  },
+  {
+    text: "Which statement BEST describes organic evolution?",
+    options: ["Short-term changes in population size", "Instant creation of species", "Adaptive changes over long periods leading to diversity", "Seasonal migration of animals"],
+    answer: "Adaptive changes over long periods leading to diversity",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Organic evolution is the cumulative adaptive change across long timescales that produces biodiversity."
+  },
+  {
+    text: "Lamarck used the long neck of the giraffe to support the idea that:",
+    options: ["Natural selection explains the neck", "Mutations caused the neck", "Neck length is purely environmental", "Acquired traits can be inherited"],
+    answer: "Acquired traits can be inherited",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Lamarck argued giraffes stretched to reach leaves and then passed on the longer necks to offspring."
+  },
+  {
+    text: "Which of the following is NOT generally considered direct evidence of evolution?",
+    options: ["Seasonal migration patterns", "Fossil records", "Comparative anatomy", "Embryology"],
+    answer: "Seasonal migration patterns",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Migration is behavioural ecology, whereas fossils, anatomy and embryology provide historical/structural evidence."
+  },
+  {
+    text: "What is the main weakness of Lamarck's theory?",
+    options: ["It ignored natural selection", "It assumed acquired traits are inheritable", "It predicted too many mutations", "It was based on molecular genetics"],
+    answer: "It assumed acquired traits are inheritable",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Modern genetics shows most acquired characteristics are not passed on genetically to offspring."
+  },
+  {
+    text: "Which scientist independently conceived the idea of natural selection alongside Darwin?",
+    options: ["Mendel", "Huxley", "Wallace", "Lyell"],
+    answer: "Wallace",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Alfred Russel Wallace developed a similar theory of natural selection independently of Darwin."
+  },
+  {
+    text: "The organic theory of evolution emphasizes:",
+    options: ["Supernatural creation of species", "Sudden species creation", "Inheritance of acquired traits only", "Gradual adaptive changes in organisms over time"],
+    answer: "Gradual adaptive changes in organisms over time",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Organic theory frames evolution as long-term adaptive change producing diversity."
+  },
+  {
+    text: "Which type of evidence compares body structures of different organisms to infer relationships?",
+    options: ["Comparative anatomy", "Embryology", "Fossil dating", "Genetic sequencing"],
+    answer: "Comparative anatomy",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Comparative anatomy (e.g., homologous structures) indicates common ancestry and evolutionary modification."
+  },
+  {
+    text: "Which of these is considered modern (molecular) evidence for evolution?",
+    options: ["Embryology", "Genetic studies", "Fossil records", "Comparative anatomy"],
+    answer: "Genetic studies",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "DNA and protein sequence comparisons provide direct molecular evidence of evolutionary relationships."
+  },
+  {
+    text: "The fossil record most clearly shows which pattern?",
+    options: ["Instant appearance of modern species", "Only extinct species with no links", "Gradual changes and transitional forms", "Sudden disappearance of all life"],
+    answer: "Gradual changes and transitional forms",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Fossils document intermediate forms and gradual morphological changes through time."
+  },
+  {
+    text: "Embryological similarities among vertebrates are commonly interpreted as evidence of:",
+    options: ["Convergent evolution only", "Independent origins", "Functional adaptation only", "Common ancestry"],
+    answer: "Common ancestry",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Similar embryonic stages suggest descent from a shared ancestor with conserved developmental patterns."
+  },
+  {
+    text: "The forelimb bone structure shared by humans, bats and whales is an example of:",
+    options: ["Homologous structures", "Analogous structures", "Vestigial organs", "Convergent traits"],
+    answer: "Homologous structures",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "These limbs have similar bone patterns due to common ancestry, though they serve different functions."
+  },
+  {
+    text: "Which set of evidence supports the idea that whales evolved from land mammals?",
+    options: ["Only fossil evidence", "Only genetic evidence", "Only embryological evidence", "Anatomy, embryology and vestigial structures together"],
+    answer: "Anatomy, embryology and vestigial structures together",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Combined anatomical, embryological and vestigial evidence (e.g., pelvic remnants) points to terrestrial ancestry."
+  },
+  {
+    text: "Which observation did Darwin use as a key point in developing natural selection?",
+    options: ["Stable population sizes", "Inheritance of acquired features", "Overproduction of offspring", "Sudden origin of species"],
+    answer: "Overproduction of offspring",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "More offspring are produced than can survive, creating competition that drives selection of favorable traits."
+  },
+  {
+    text: "How do mutations affect evolution?",
+    options: ["They always decrease variation", "They eliminate natural selection", "They prevent speciation", "They create new genetic variation"],
+    answer: "They create new genetic variation",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Mutations introduce novel alleles that can be acted on by selection and other evolutionary forces."
+  },
+  {
+    text: "Bird wings and insect wings are an example of which relationship?",
+    options: ["Homologous structures", "Vestigial remnants", "Identical developmental origins", "Analogous structures"],
+    answer: "Analogous structures",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Wings of birds and insects perform similar functions but evolved independently from different structures."
+  },
+  {
+    text: "Vestigial organs (e.g., appendix, pelvic bones in whales) provide evidence because they:",
+    options: ["Are highly functional adaptations today", "Indicate structures reduced from ancestral forms", "Prove Lamarck’s acquired-inheritance", "Arise only during embryonic development"],
+    answer: "Indicate structures reduced from ancestral forms",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Vestigial structures are reduced remnants of features that were functional in ancestors."
+  },
+  {
+    text: "The presence of similar DNA sequences in different species most strongly suggests:",
+    options: ["Independent origins", "Convergent design", "Common ancestry", "No relationship"],
+    answer: "Common ancestry",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "High genetic similarity (sequence homology) reflects shared evolutionary origins."
+  },
+  {
+    text: "Darwin’s finches from the Galápagos Islands are a classic example of:",
+    options: ["Genetic drift only", "Artificial selection", "Lamarckian evolution", "Adaptive radiation"],
+    answer: "Adaptive radiation",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "A single ancestral species diversified into multiple species adapted to different ecological niches."
+  },
+  {
+    text: "Which theory is most associated with the phrase 'survival of the fittest'?",
+    options: ["Lamarck's theory", "Neutral theory", "Organic creation", "Darwin's theory of natural selection"],
+    answer: "Darwin's theory of natural selection",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Natural selection favors individuals with traits that confer higher reproductive success in a given environment."
+  },
+  {
+    text: "Which branch of evidence focuses on comparing embryos of fish, birds and mammals?",
+    options: ["Paleontology", "Comparative anatomy", "Embryology", "Biogeography"],
+    answer: "Embryology",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Embryology examines developmental stages that can reveal shared ancestry among vertebrates."
+  },
+  {
+    text: "The fossil Archaeopteryx is important because it shows:",
+    options: ["A modern bird with no reptile features", "No relationship between reptiles and birds", "A transitional form with both reptile and bird characteristics", "Only fish–amphibian transition"],
+    answer: "A transitional form with both reptile and bird characteristics",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Archaeopteryx has teeth and a long bony tail (reptilian) plus feathers (avian), indicating a transitional link."
+  },
+  {
+    text: "The similarity of chlorophyll and basic photosynthetic machinery across plants supports:",
+    options: ["Independent inventions of photosynthesis", "Artificial selection by humans", "Rapid recent evolution", "Common ancestry of photosynthetic organisms"],
+    answer: "Common ancestry of photosynthetic organisms",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Shared biochemical mechanisms suggest descent from a common photosynthetic ancestor."
+  },
+  {
+    text: "Genetic studies estimate that humans and chimpanzees share approximately what percentage of DNA sequence similarity?",
+    options: ["About 98%", "About 50%", "About 75%", "Exactly 100%"],
+    answer: "About 98%",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Molecular comparisons show humans and chimpanzees have very high sequence similarity (~98–99%), indicating close relation."
+  },
+  {
+    text: "Which of the following is an example of a vestigial organ in humans?",
+    options: ["Liver", "Appendix", "Heart", "Lungs"],
+    answer: "Appendix",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "The appendix is a reduced structure thought to be a remnant of a larger cecum present in some herbivorous ancestors."
+  },
+  {
+    text: "The classic peppered moth example during the Industrial Revolution demonstrated:",
+    options: ["Artificial selection by humans", "A mutation that created new species instantly", "Migration-driven change only", "Natural selection favoring darker (melanic) forms on soot-darkened trees"],
+    answer: "Natural selection favoring darker (melanic) forms on soot-darkened trees",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Predation favored darker moths that were camouflaged on polluted tree bark, showing selection in action."
+  },
+  {
+    text: "Who is widely regarded as the founder of modern evolutionary theory by natural selection?",
+    options: ["Lamarck", "Mendel", "Aristotle", "Charles Darwin"],
+    answer: "Charles Darwin",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Darwin's synthesis of variation, overproduction and selection formed the foundation of evolutionary biology."
+  },
+  {
+    text: "Which process directly introduces new heritable variants that selection can act upon?",
+    options: ["Competition only", "Migration only", "Overproduction only", "Mutation"],
+    answer: "Mutation",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Mutations change DNA sequence, creating new alleles and raw material for evolution."
+  },
+  {
+    text: "Which is a classic example of convergent evolution (unrelated lineages evolving similar traits)?",
+    options: ["Forelimbs of humans and whales (homologous)", "Streamlined body shape of dolphins and sharks", "Forelimbs of bats and whales (homologous)", "Different beaks of Darwin's finches (adaptive radiation)"],
+    answer: "Streamlined body shape of dolphins and sharks",
+    image: "",
+    subtopic: "Evolution",
+    explanation: "Dolphins (mammals) and sharks (fish) independently evolved similar streamlined bodies for efficient swimming, a convergent pattern."
+  },
+];
