@@ -6,13 +6,56 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Howell Quiz Game</title>
     <meta name="monetag" content="5c58cab6a425f524dacbce984f4bf175">
-    <script type="module" crossorigin src="./assets/index-B5vO-2PD.js"></script>
+    <script type="module" crossorigin src="./assets/index-JVKAvtuW.js"></script>
     <link rel="stylesheet" crossorigin href="./assets/index-BuUrXSsp.css">
   </head>
   <body>
     <div id="app"></div>
     <!-- Your Vite build files -->
     
+
+    <script>
+  // 🧠 PopAds global loader — works outside Vue sandbox
+  function showPopAdOnce() {
+    if (sessionStorage.getItem("popadsShown")) return Promise.resolve();
+    sessionStorage.setItem("popadsShown", "true");
+
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        const script = document.createElement("script");
+        script.type = "text/javascript";
+        script.innerHTML = `
+          (function(){
+            var n=window,t="cc9bf893ef6d2a3692d938693f619179",
+            r=[["siteId",124-376*198+5324095],["minBid",0],["popundersPerIP","0"],["delayBetween",0],["default",false],["defaultPerDay",0],["topmostLayer","auto"]],
+            e=["d3d3LnZpc2FyaW9tZWRpYS5jb20vdkdtUy9vanNncmlkLm1pbi5qcw==","ZDEzazdwcmF4MXlpMDQuY2xvdWRmcm9udC5uZXQvYS9BVS9lanNmaWxlLm1pbi5jc3M="],
+            g=-1,l,h,i=function(){
+              clearTimeout(h);g++;
+              if(e[g]&&!(1787825485000<(new Date).getTime()&&1<g)){
+                l=n.document.createElement("script");
+                l.type="text/javascript";l.async=!0;
+                var k=n.document.getElementsByTagName("script")[0];
+                l.src="https://"+atob(e[g]);
+                l.crossOrigin="anonymous";
+                l.onerror=i;
+                l.onload=function(){
+                  clearTimeout(h);
+                  n[t.slice(0,16)+t.slice(0,16)]||i()
+                };
+                h=setTimeout(i,5E3);
+                k.parentNode.insertBefore(l,k)
+              }
+            };
+            if(!n[t]){try{Object.freeze(n[t]=r)}catch(e){}i()}
+          })();
+        `;
+        document.body.appendChild(script);
+        console.log("📢 PopAds global script executed");
+        resolve();
+      }, 5000); // delay 5s before injection
+    });
+  }
+</script>
 
   </body>
 </html>
