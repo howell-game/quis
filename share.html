@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <!-- DEFAULT OG (Facebook reads this!) -->
+  <meta property="og:title" content="Howell Game Quiz Result">
+  <meta property="og:description" content="Check out my quiz score on Howell Game!">
+  <meta property="og:image" content="https://howellgame.site/default-result.png">
+  <meta property="og:type" content="website">
+
+  <script>
+    // Replace OG tags dynamically BEFORE browser renders
+    const params = new URLSearchParams(location.search);
+    const score = params.get("score") || 0;
+    const total = params.get("total") || 0;
+
+    // CHANGE OG DESCRIPTION
+    document.querySelector('meta[property="og:description"]')
+      .setAttribute("content", `I scored ${score}/${total} on Howell Quiz Game!`);
+
+    // USE A STATIC IMAGE BASED ON SCORE
+    document.querySelector('meta[property="og:image"]')
+      .setAttribute("content", `https://howellgame.site/og/score_${score}.png`);
+  </script>
+
+</head>
+<body style="font-family: sans-serif; padding: 2rem;">
+  <h1>Howell Game Quiz</h1>
+  <p>Your score: <strong id="score"></strong></p>
+
+  <script>
+    document.getElementById("score").innerText = score + "/" + total;
+  </script>
+</body>
+</html>
