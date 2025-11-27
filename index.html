@@ -38,8 +38,8 @@
 
   <!-- 🔹 Monetag -->
   <meta name="monetag" content="5c58cab6a425f524dacbce984f4bf175" />
-  <script type="module" crossorigin src="./assets/index-BVXIrOVS.js"></script>
-  <link rel="stylesheet" crossorigin href="./assets/index-C1T9Gcd1.css">
+  <script type="module" crossorigin src="./assets/index-BlQio1TS.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-CAq3tUQ4.css">
 </head>
 
   <body>
@@ -52,5 +52,67 @@ var infolinks_pid = 3441429;
 var infolinks_wsid = 0;
 </script>
 <script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+<div id="app"></div>
+
+  <!-- Floating Adsterra Banner -->
+  <div id="adsterra-global"></div>
+
+  <!-- Vite build files -->
+
+  <!-- Infolinks -->
+  <script type="text/javascript">
+    var infolinks_pid = 3441429;
+    var infolinks_wsid = 0;
+  </script>
+  <script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+
+  <!-- Adsterra Script -->
+  <script type="text/javascript">
+    // Adsterra configuration
+    window.atOptions = {
+      key: 'd67c97eede17bd8ce9634a0cfbb2f097',
+      format: 'iframe',
+      height: 60,
+      width: 468,
+      params: {}
+    };
+
+    function loadAdsterra() {
+      const container = document.getElementById('adsterra-global');
+      container.innerHTML = ''; // Clear previous ad
+      const script = document.createElement('script');
+      script.src = '//www.highperformanceformat.com/d67c97eede17bd8ce9634a0cfbb2f097/invoke.js';
+      script.async = true;
+      container.appendChild(script);
+    }
+
+    // Initial load
+    loadAdsterra();
+
+    // Refresh every 5 minutes
+    setInterval(loadAdsterra, 300000);
+  </script>
+
+  <style>
+    /* Floating banner at bottom */
+    #adsterra-global {
+      position: fixed;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 9999;
+      width: 1000px;
+      height: 60px;
+      background: transparent;
+      box-shadow: 0 0 10px rgba(0,0,0,0.3);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    body {
+      padding-bottom: 80px; /* prevent content from being hidden behind banner */
+    }
+  </style>
   </body>
 </html>
